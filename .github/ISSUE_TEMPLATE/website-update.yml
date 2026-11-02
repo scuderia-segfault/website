@@ -1,0 +1,39 @@
+name: Website content update
+description: Collect a new update, publication, opportunity or team change.
+title: "[Website] "
+body:
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area
+      options:
+        - News
+        - Blog
+        - Publication
+        - Project
+        - Join / opportunity
+        - Team
+        - Sponsor
+    validations:
+      required: true
+  - type: textarea
+    id: content
+    attributes:
+      label: What should be added or changed?
+      description: Include the title, date, people involved and the main message.
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: Sources and media
+      description: Link papers, DOI/arXiv records or public sources. Attach images and include the photographer credit.
+    validations:
+      required: true
+  - type: checkboxes
+    id: drafting
+    attributes:
+      label: Drafting
+      options:
+        - label: AI may help prepare a draft using only the supplied sources.
+        - label: The text and media are ready for editorial review.
