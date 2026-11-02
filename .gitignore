@@ -1,0 +1,17 @@
+node_modules/
+dist/
+.idea/
+.DS_Store
+
+# Generated from content/
+/news/
+/blog/
+
+# Generated site collections
+/stories/
+/projects/
+
+/work/
+
+# Local verification logs
+*.log

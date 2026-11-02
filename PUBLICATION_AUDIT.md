@@ -1,0 +1,20 @@
+# Publikationsabgleich — 2. November 2026
+
+Direkt anhand der arXiv-API und der Abstractseiten geprüft. Google Scholar ist derzeit zugriffsbeschränkt (HTTP 429); der Scholar-Abgleich bleibt offen. Vorhandene Scholar-Links sind Suchverknüpfungen, kein Verifikationsnachweis.
+
+- 25 arXiv-Datensätze gelesen.
+- 23 Katalogeinträge mit arXiv abgeglichen.
+- 70 Katalogeinträge nach Bereinigung.
+
+## Änderungen
+
+- {"id": "depth-matters-multimodal-rgb-d-perception-for-robust-autonomous-agents", "before": {"title": "Depth Matters: Multimodal RGB-D Perception for Robust Autonomous Agents", "authors": ["Mihaela-Larisa Clement", "Mónika Farsang", "Felix Resch", "Radu Grosu"], "year": 2025}, "after": {"title": "Depth Matters: Multimodal RGB-D Perception for Robust Autonomous Agents", "authors": ["Mihaela-Larisa Clement", "Mónika Farsang", "Felix Resch", "Mihai-Teodor Stanusoiu", "Radu Grosu"], "year": 2025}}
+- {"id": "mmdvs-lf-multi-modal-dynamic-vision-sensor-and-eye-tracking-dataset-for-line-following", "before": {"title": "MMDVS-LF: Multi-Modal Dynamic Vision Sensor and Eye-Tracking Dataset for Line Following", "authors": ["Felix Resch", "Mónika Farsang", "Radu Grosu"], "year": 2025}, "after": {"title": "MMDVS-LF: Multi-Modal Dynamic Vision Sensor and Eye-Tracking Dataset for Line Following", "authors": ["Felix Resch", "Mónika Farsang", "Radu Grosu"], "year": 2024}}
+- {"added": "Importance of Environment Design in Reinforcement Learning: A Study of a Robotic Environment"}
+- {"merged": "Scaling Up Liquid-Resistance Liquid-Capacitance Networks for Efficient Sequence Modeling", "into": "Parallelization of Non-linear State-Space Models: Scaling Up Liquid-Resistance Liquid-Capacitance Networks for Efficient Sequence Modeling"}
+
+## Entfernte falsche Verknüpfungen
+
+- {"publication": "Neural Circuit Policies Enabling Auditable Autonomy", "arxivId": "2003.02501", "actualArxivTitle": "Detecting Attended Visual Targets in Video"}
+
+Die vollständigen Verifikationsdaten und Versionsangaben stehen in content/data/publication-audit.json bzw. im arxiv-Feld der einzelnen Publikationen. Journals-/Konferenzfassungen behalten ihre eigenen Metadaten; die arXiv-Fassung wird gesondert verknüpft.
