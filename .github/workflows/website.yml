@@ -1,0 +1,37 @@
+name: Website build and content checks
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: website-${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@v7
+        with:
+          node-version: '24'
+          cache: npm
+      - run: npm ci
+      - run: npm run validate:content
+      - run: npm run build
+      - run: npm run check
+      - name: Save the checked website for review or upload
+        uses: actions/upload-artifact@v7
+        with:
+          name: scuderia-website-${{ github.sha }}
+          path: dist/
+          if-no-files-found: error
+          retention-days: 14
