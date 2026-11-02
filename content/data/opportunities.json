@@ -1,0 +1,53 @@
+[
+  {
+    "id": "team-engineering",
+    "type": "Team",
+    "title": "Build, test and race with the team",
+    "summary": "Contribute to software, sensing, electronics, mechanics, vehicle dynamics or the infrastructure behind the cars. Tell us what you enjoy building and how you would like to contribute.",
+    "topics": [
+      "Software",
+      "Hardware",
+      "Racing"
+    ],
+    "status": "Get in touch",
+    "subject": "Team enquiry \u2014 Scuderia Segfault"
+  },
+  {
+    "id": "theses",
+    "type": "Thesis",
+    "title": "Turn a research question into a thesis",
+    "summary": "Explore directions in perception, model predictive control, learning and autonomous systems. Contact us to discuss a current topic, scope and suitable supervision.",
+    "topics": [
+      "Bachelor thesis",
+      "Master thesis"
+    ],
+    "status": "Discuss current topics",
+    "subject": "Thesis enquiry \u2014 Scuderia Segfault"
+  },
+  {
+    "id": "student-projects",
+    "type": "Student project",
+    "title": "Start with a concrete engineering challenge",
+    "summary": "Ask about a bounded student project: simulation, data analysis, sensor integration or tools for track experiments. We will discuss what fits your experience and your study requirements.",
+    "topics": [
+      "Simulation",
+      "Data",
+      "Tools"
+    ],
+    "status": "Discuss a project",
+    "subject": "Student project enquiry \u2014 Scuderia Segfault"
+  },
+  {
+    "id": "research-enquiries",
+    "type": "Research enquiry",
+    "title": "Connect your research with real vehicles",
+    "summary": "Interested in research around AIDA, learned dynamics or autonomous systems? Contact the team to ask about current collaborations and research opportunities.",
+    "topics": [
+      "AIDA",
+      "Control",
+      "Learning"
+    ],
+    "status": "Research enquiries",
+    "subject": "Research enquiry \u2014 Scuderia Segfault"
+  }
+]

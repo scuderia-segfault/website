@@ -1,0 +1,1077 @@
+[
+  {
+    "id": "27th-roboracer-autonomous-racing-competition",
+    "title": "27th RoboRacer Autonomous Racing Competition in Vienna, June 1st – 5th, 2026",
+    "date": "2026-06-01",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/news-detail/27th-roboracer-autonomous-racing-competition/",
+    "body": "<p><em>About 200 people and 30 teams from more than 12 countries attended this year’s competition, making it the largest ever held. The competition was embedded in the program of the 2026 IEEE International Conference on Robotics &amp; Automation, which provided a very vibrant environment for further discussions with robotics researchers and scientists beyond the race itself.</em></p>\n<h3>Novel advancements at this year’s race</h3>\n<p>This year did not only bring a new record in the number of participants, but also some novel advancements for the RoboRacer community:</p>\n<ul>\n<li>A bridge as a new track feature to push teams advancing their algorithm to also work in non-flat environments.</li>\n<li>Open track borders to challenge algorithms and incentivize more complex approaches.</li>\n<li>Split into Classic Cup and Master Cup, to push advanced teams even further to their top performance on a more complicated track that stays unknown until raceday.</li>\n<li>Dedicated workshop on Friday for better exchange within the RoboRacer community.</li>\n</ul>\n<h3>Testing and practice days</h3>\n<p>The competition week began on Monday with practice and mapping sessions, giving teams the opportunity to inspect their model race cars after international travel and transport, and to prepare them for racing. On the track, teams had time to record maps and subsequently fine-tune their racing strategies based on the specific track layout. This year’s novelty was that the organizers provided two tracks of identical track features – this enabled parallel testing sessions and therefore effectively more time for teams to tune their autonomous algorithms.</p>\n<h3>Time-trials and Classic Cup races</h3>\n<p>After the thorough hardware inspection of all the cars and more testing time on Tuesday, it got exciting on Wednesday, when teams started for their time-trial runs. Teams had to aim for two metrics: The fastest lap time and the largest number of consecutive laps without crashing. These two metrics aim for performance as well as reliability, demonstrating that the autonomous cars are not only able to race fast, but also in a safe manner. The teams showed really good performance on this day, even newcomers who attended for their first time, and did a very good job, completing several fast laps. In the afternoon, it was time for head-to-head races of the Classic Cup. Spectators could experience very thrilling racing as two cars on the track raced for the win in a double-elimination format. Team ‘VAUL 2’ from Canada could secure the 1st place, the 2nd place was taken by ‘Brake Check Buddies’ from Austria and the 3rd place went to ‘tron racing’ from Germany.</p>\n<h3>Master Cup and Award ceremony</h3>\n<p>For the newly introduced Master Cup, the track was completely changed to give the teams an even more challenging environment on Thursday, when they only had very limited time for mapping and training. Additionally, with the introduction of a bridge on the track for the first time, the optimal raceline became non-flat and included an intersection, presenting an additional challenge for the teams and their autonomous algorithms. This effort paid off, as teams were very excited and eager to master these new technical difficulties. From the first head-to-head confrontations on, spectators could watch very close overtaking maneuvers and nerve-wracking photo finishes. The cars were even fast enough to momentarily lift off the ground when driving at full speed over the bridge. The atmosphere during the final races was truly remarkable: the crowd cheered at every turn as the top teams demonstrated exceptional autonomous racing performance. Ultimately, the winners of the Master Cup were ‘UNICORN_Racing’ from the Republic of Korea in first place, followed by ‘UBM-Atlas’ from Italy in second place and ‘UBM-Tom’ from Italy in third place.</p>\n<p>In the evening, the RoboRacer teams gathered for the award ceremony at TU Wien, where trophies were presented to all teams. Two special prices were awarded as well: The ‘KNAPP performance award’ for the highest acceleration overall was presented to ‘LAMARRacing’ from Germany. The ‘Qualisys awards’ were presented to Felix Resch and Team ‘Arcus’ from Canada.<br/>\nSpecial thanks are due to all organizers, Felix Resch, Andreas Brandstätter, Jaroslav Klapalek, and Moritz Christamentl, as well as all volunteers from TU Wien and Team Scuderia Segfault, who dedicated countless hours to the planning and preparation of the race, as well as to its excellent execution.</p>\n<p>This year’s race marked a special occasion, where, thanks to the support of TU Wien Informatics, all our students of the <a href=\"https://www.tuwien.at/inf/scuderia-segfault/teaching/\">Autonomous Racing Cars</a> lecture had the unique opportunity to participate in the international race. It was not only great to see the outstanding performance of TU Wien’s students, but also their motivation and drive to interact with the international robotics research community!</p>\n<h3>Thanks to our supporting partners</h3>\n<p>Special thanks to our great partners to make this event possible: <a href=\"https://www.knapp.com/\" rel=\"noopener\" target=\"_blank\">KNAPP</a>, <a href=\"https://www.tuwien.at/\" rel=\"noopener\" target=\"_blank\">Technische Universität Wien</a>, <a href=\"https://informatics.tuwien.ac.at/\" rel=\"noopener\" target=\"_blank\">TU Wien Informatics</a>, <a href=\"https://htu.at/\" rel=\"noopener\" target=\"_blank\">HTU Wien</a>, <a href=\"https://www.qualisys.com/\" rel=\"noopener\" target=\"_blank\">Qualisys</a>, <a href=\"https://www.magna.com/\" rel=\"noopener\" target=\"_blank\">Magna International</a>, <a href=\"https://www.ffg.at/en/content/ueber-uns\" rel=\"noopener\" target=\"_blank\">FFG Österreichische Forschungsförderungsgesellschaft mbH</a>, <a href=\"https://www.bmimi.gv.at/en.html\" rel=\"noopener\" target=\"_blank\">Bundesministerium für Innovation, Mobilität und Infrastruktur</a></p>\n<h2>Resources/Links</h2>\n<ul>\n<li>All race results can be found at: <a href=\"https://icra2026-race.roboracer.ai/\" rel=\"noopener\" target=\"_blank\">https://icra2026-race.roboracer.ai/</a></li>\n<li><a href=\"https://informatics.tuwien.ac.at/news/3189\" rel=\"noopener\" target=\"_blank\">News report</a> on TU Wien Informatics webpage.</li>\n</ul>\n<p> </p>",
+    "gallery": [
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2026/03/p1033298.jpg",
+        "alt": "Group picture",
+        "credit": "© Felix Jahncke, TU Munich",
+        "image": "media/p1033298.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2026/03/logo2026-knapp-500x333.jpg",
+        "alt": "Logo of KNAPP",
+        "credit": "",
+        "image": "media/logo2026-knapp-500x333.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2026/03/logo2026-tuwien-500x333.jpg",
+        "alt": "Logo of TU Wien",
+        "credit": "",
+        "image": "media/logo2026-tuwien-500x333.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2026/03/logo2026-informatics-500x333.jpg",
+        "alt": "Logo of TU Wien Informatics",
+        "credit": "",
+        "image": "media/logo2026-informatics-500x333.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2026/03/logo2026-htu-500x333.jpg",
+        "alt": "Logo of HTU",
+        "credit": "",
+        "image": "media/logo2026-htu-500x333.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2026/03/logo2026-qualisys-500x333.jpg",
+        "alt": "Logo of Qualisys",
+        "credit": "",
+        "image": "media/logo2026-qualisys-500x333.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2026/03/logo2026-magna-500x333.jpg",
+        "alt": "Logo of Magna",
+        "credit": "",
+        "image": "media/logo2026-magna-500x333.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2026/03/logo2026-ffg-500x333.jpg",
+        "alt": "Logo of FFG",
+        "credit": "",
+        "image": "media/logo2026-ffg-500x333.webp"
+      }
+    ],
+    "summary": "About 200 people and 30 teams from more than 12 countries attended this year’s competition, making it the largest ever held. The competition was embedded in the program of the 2026 IEEE International Conference on Robotics & Autom",
+    "videos": []
+  },
+  {
+    "id": "autonomous-driving-ai-festival",
+    "title": "Autonomous driving showcase at AI Festival",
+    "date": "2025-12-03",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/news-detail/autonomous-driving-ai-festival/",
+    "body": "<p data-end=\"952\" data-start=\"512\">Artificial intelligence is rapidly transforming mobility — and not just in full-scale vehicles. At the AI Festival 2025 at TU Wien, we showcased how autonomous driving can be experienced on a smaller, hands-on scale. During the festival’s Public Day, where the general public was invited to explore interactive demonstrations, visitors could take a seat and challenge our autonomous model race car.</p>\n<p data-end=\"1578\" data-start=\"954\">Our model vehicle may be compact, but the technology behind it is equivalent to what powers real autonomous cars. Equipped with sensors, decision-making algorithms, and precise motor control, it can navigate independently while reacting to its environment. For us as students and researchers, it is the perfect platform to experiment with intelligent mobility — merging robotics, software engineering, and practical problem-solving. Demonstrating it live allowed people not just to watch it in action, but to <em>feel</em> it: seeing the car drive itself, understanding how it perceives the track, and even trying to outperform it.</p>\n<p data-end=\"1578\" data-start=\"954\">We especially enjoyed engaging with such a diverse audience — from enthusiastic school pupils to curious retirees. Many visitors asked insightful questions and shared their perspectives on the future of transportation. These conversations were a highlight for us, turning the presentation into a real exchange and reminding us why we love to share our work: because innovation thrives when people get involved.</p>\n<h3>Links/References</h3>\n<ul>\n<li><a href=\"https://informatics.tuwien.ac.at/news/2954\" rel=\"noopener\" target=\"_blank\">AI Festival at TU Wien: Overview</a></li>\n<li><a href=\"https://informatics.tuwien.ac.at/news/3023\" rel=\"noopener\" target=\"_blank\">AI Festival: Public Day </a></li>\n</ul>",
+    "gallery": [
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2025/12/ai-festival-group-picture-03122025-bearbeitet-2-cut-scaled.jpg",
+        "alt": "Group picture of team members at AI festival with two model racing cars",
+        "credit": "© TU Wien, Ida Gjergji",
+        "image": "media/ai-festival-group-picture-03122025-bearbeitet-2-cut-scaled.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2025/12/img-20251203-103525-500x333.jpg",
+        "alt": "Screen, racing cars on the track and sign of AI festival in the background.",
+        "credit": "© TU Wien, Andreas Brandstätter",
+        "image": "media/img-20251203-103525-500x333.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2025/12/img-20251203-104313-500x333.jpg",
+        "alt": "Screen, racing car and sign of AI festival in the background.",
+        "credit": "© TU Wien, Andreas Brandstätter",
+        "image": "media/img-20251203-104313-500x333.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2025/12/img-20251203-104347-500x333.jpg",
+        "alt": "Two racing cars driving on the track.",
+        "credit": "© TU Wien, Andreas Brandstätter",
+        "image": "media/img-20251203-104347-500x333.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2025/12/img-20251203-122723-500x333.jpg",
+        "alt": "Racing car on the track on the ground with people looking at it.",
+        "credit": "© TU Wien, Andreas Brandstätter",
+        "image": "media/img-20251203-122723-500x333.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2025/12/img-20251203-134746-500x333.jpg",
+        "alt": "Racing car on the track on the ground with people looking at it.",
+        "credit": "© TU Wien, Andreas Brandstätter",
+        "image": "media/img-20251203-134746-500x333.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2025/12/img-20251203-140117-500x333.jpg",
+        "alt": "Team member talks to visitors and shows a racing car",
+        "credit": "© TU Wien, Andreas Brandstätter",
+        "image": "media/img-20251203-140117-500x333.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2025/12/ai-festival-group-picture-03122025-bearbeitet-2-cut-500x333.jpg",
+        "alt": "Group picture of team members at AI festival with two model racing cars",
+        "credit": "© TU Wien, Ida Gjergji",
+        "image": "media/ai-festival-group-picture-03122025-bearbeitet-2-cut-500x333.webp"
+      }
+    ],
+    "summary": "Artificial intelligence is rapidly transforming mobility — and not just in full-scale vehicles. At the AI Festival 2025 at TU Wien, we showcased how autonomous driving can be experienced on a smaller, hands-on scale. During the fe",
+    "videos": []
+  },
+  {
+    "id": "techforum-millstatt-2025",
+    "title": "TechForum Millstatt 2025",
+    "date": "2025-06-04",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/news-detail/techforum-millstatt-2025/",
+    "body": "<p>Millstatt, Austria – June 1st to 4th, 2025 – At this year’s Tech Forum Millstatt, the Team Scuderia Segfault from TU Wien delivered a standout presentation that brought autonomous racing technology to life – literally.</p>\n<p>As part of their session, the team not only presented the RoboRacer platform and its role in STEM education, but also offered an interactive challenge: participants could take the wheel of a manually controlled car and attempt to beat the team’s autonomous racing algorithm. The engaging format drew in a wide range of attendees, from researchers to students, all eager to test their skills against the autonomous algorithms.</p>\n<p>Autonomous racing in the RoboRacer series promotes hands-on education in robotics and self-driving vehicles. It provides open-source tools and coursework, and has led Team Scuderia Segfault from TU Wien to victory and top podium placements in several international competitions. Moreover, the RoboRacer platform is used to develop and demonstrate novel autonomous driving algorithms and methods in a range of scientific projects.</p>\n<p>As our goal is to make robotics and autonomous systems tangible and accessible, this interactive presentation at the Tech Forum Millsatt was very well received. Letting people race against the algorithm made the technology actually touchable and exciting.</p>\n<h3>References/Links</h3>\n<ul>\n<li><a href=\"https://www.tuwien.at/tu-wien/aktuelles/news/news/techforum-millstatt-2025-tech-to-connect\" rel=\"noopener\" target=\"_blank\">https://www.tuwien.at/tu-wien/aktuelles/news/news/techforum-millstatt-2025-tech-to-connect</a></li>\n</ul>",
+    "gallery": [
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2025/06/aau-tech-forum-2025-riccio-537.jpg",
+        "alt": "Scuderia Segfault at TechForum Millstatt",
+        "credit": "© Elsner/riccio.at",
+        "image": "media/aau-tech-forum-2025-riccio-537.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2025/06/aau-tech-forum-2025-riccio-537-500x333.jpg",
+        "alt": "Scuderia Segfault at TechForum Millstatt",
+        "credit": "© Elsner/riccio.at",
+        "image": "media/aau-tech-forum-2025-riccio-537-500x333.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2025/06/aau-tech-forum-2025-riccio-616-500x333.jpg",
+        "alt": "Interactive presentation",
+        "credit": "© Elsner/riccio.at",
+        "image": "media/aau-tech-forum-2025-riccio-616-500x333.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2025/06/aau-tech-forum-2025-riccio-620-500x333.jpg",
+        "alt": "Model race car research platform",
+        "credit": "© Elsner/riccio.at",
+        "image": "media/aau-tech-forum-2025-riccio-620-500x333.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2025/06/aau-tech-forum-2025-riccio-622-500x333.jpg",
+        "alt": "Participants driving remotely",
+        "credit": "© Elsner/riccio.at",
+        "image": "media/aau-tech-forum-2025-riccio-622-500x333.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2025/06/aau-tech-forum-2025-riccio-625-500x333.jpg",
+        "alt": "Interactive presentation",
+        "credit": "© Elsner/riccio.at",
+        "image": "media/aau-tech-forum-2025-riccio-625-500x333.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2025/06/aau-tech-forum-2025-riccio-641-500x333.jpg",
+        "alt": "Model race cars on the track",
+        "credit": "© Elsner/riccio.at",
+        "image": "media/aau-tech-forum-2025-riccio-641-500x333.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2025/06/aau-tech-forum-2025-riccio-642-500x333.jpg",
+        "alt": "Demonstration of autonomous cars",
+        "credit": "© Elsner/riccio.at",
+        "image": "media/aau-tech-forum-2025-riccio-642-500x333.webp"
+      }
+    ],
+    "summary": "Millstatt, Austria – June 1st to 4th, 2025 – At this year’s Tech Forum Millstatt, the Team Scuderia Segfault from TU Wien delivered a standout presentation that brought autonomous racing technology to life – literally. As part of ",
+    "videos": []
+  },
+  {
+    "id": "autonomous-grand-prix-atlanta",
+    "title": "Great performance at Autonomous Grand Prix in Atlanta",
+    "date": "2025-05-23",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/news-detail/autonomous-grand-prix-atlanta/",
+    "body": "<p><em> Team Scuderia Segfault from TU Wien again shows great performance at the 24th RoboRacer Autonomous Grand Prix, held from May 19th to 23rd as part of the IEEE Conference on Robotics and Automation (ICRA 2025) in Atlanta, United States. Out of 25 teams, Scuderia Segfault was able to deliver the most reliable run at the time-trials, without a single crash.</em></p>\n<h3>Race preparations</h3>\n<p>In the weeks leading up to the event, our team engaged in thorough preparation for the race. Drawing on experience from previous international competitions, they had gained valuable insights into what it takes to perform optimally, even under pressure and in difficult conditions. They not only enhanced the racing algorithm and upgraded the vehicle hardware to keep pace with the latest technological developments, but also refined and optimized the race-line generation methodology.<br/>\nAdditionally, they created a structured plan to manage all on-site race activities – from the initial identification of friction parameters and the mapping process to the intense head-to-head races that demand quick decision-making. To ensure smooth execution, the team conducted realistic drills in the weeks prior to the event to become thoroughly familiar with the established protocols.</p>\n<h3>Arriving in Atlanta and getting ready to race</h3>\n<p>When the team arrived in Atlanta, they first made sure that all hardware was still in good condition after the international transport and conducted a thorough check on all components. At the race-track, there was already the first challenge, as the track was significantly larger and the layout considerably more difficult than ever before. However, our race line optimization experts on our team invested full effort to generate an optimal solution and get the car on the right path. Challenging turns were iteratively optimized until there was an optimized race line without any collisions and crashes. The following days were then dedicated to improving the speed and getting faster laps.</p>\n<h3>The most reliable car in time-trials</h3>\n<p>After the testing sessions, the race started with the time-trials, where the autonomous cars needed to show speed and reliability: The fastest lap, as well as the number of laps without crashes, are both recorded and determine the ranking for the following races against other cars. Especially the number of laps is relevant for the reliability of the car, showcasing thorough engineering and development. In the first out of two heats, our team scored six laps with a lap time of 20.25 seconds. This was due to some spurious crashes and not yet fully tuned controller parameters. However, this lap time would have already placed our team in the top five on this ranking. Our team did not content itself with this result and worked hard in the limited remaining testing time on improving both speed and consistency of the car. Race-lines were further optimized, controller parameters carefully adjusted, and every hardware component carefully checked. This investment totally paid off, as in the second heat, the top lap time could be pushed to incredible 19.68 seconds, resulting in the second-fastest team overall. Even more outstanding was the performance with respect to reliability: The car was driving continuously throughout the whole heat without a single collision, scoring excellent 30 rounds. This makes our team the absolute best in this metric, showcasing a very consistent performance!</p>\n<h3>Head-to-Head Tournament</h3>\n<p>On the following day, it was all about head-to-head races, where two autonomous cars race for the win in a double elimination bracket. The first race of our team was against Penn McQueen from the University of Pennsylvania, with a clear win for Scuderia Segfault, after completing 20 laps. Next up was the pairing against UCF-CAVREL from the University of Central Florida. Our car had some spurious faults, setting the win on the stake. However, our team reacted without panic and quickly fixed the issues, which also led to a victory in this race. In the next round, there was a new edition of an all-time classic in Roboracer competitions: Scuderia Segfault against ForzaETH from ETH Zürich. As both teams had shown similar performance in the races so far, it was again a thrilling competition. The decision was close to some meters and even less, when ETH once crashed into the barrier, giving an advantage to Scuderia Segfault. But then another collision happened, and ETH overtook again and won this race. This placed our team in the B-bracket, resulting in the next race against VAUL from Laval University. VAUL delivered excellent performance in one of the last races of 2024 in Japan, but this time, Scuderia Segfault was able to beat them clearly, advancing to the semi-final. The last race was against UNICORN from Ulsan National Institute of Science &amp; Technology (UNIST), which resulted in the overall fourth place for team Scuderia Segfault.</p>\n<h3>About the team</h3>\n<p>Scuderia Segfault is TU Wien Informatics’ team for research on autonomous cars and autonomous racing in the RoboRacer series, consisting of Felix Resch, Moritz Christamentl, Agnes Poks, Elisa Di Cristo, Larisa Clement, Mihai-Teodor Stanusoiu, Monika Farsang, Philipp Gratzer, Piet Kaul, Samuel Lechner, under the supervision of PostDoc Researcher Andreas Brandstätter and Professor Radu Grosu from the Research Unit for Cyber-Physical Systems. A part of the team traveled to Atlanta to participate in the race; others contributed to preparation and development beforehand and online remote support during the race.</p>\n<h3>Thanks to our supporting partners</h3>\n<p>Our team is very grateful for the generous support from <a href=\"https://www.liquid.ai/\" rel=\"noopener\" target=\"_blank\">Liquid AI</a>. Some team members are supported by project <span lang=\"EN-US\"><a href=\"https://www.nimbleai.eu/\" rel=\"noopener\" target=\"_blank\">NimbleAI</a>.</span> The team was further supported by <a href=\"https://htu.at/\" rel=\"noopener\" target=\"_blank\">HTU</a> and <a href=\"https://www.magna.com/\" rel=\"noopener\" target=\"_blank\">Magna International</a>.</p>",
+    "gallery": [
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2025/06/group-picture-icra2025.jpg",
+        "alt": "Group picture at ICRA 2025",
+        "credit": "© Nicolas Baumann, ETH Zürich",
+        "image": "media/group-picture-icra2025.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/05/logo-liquid-2024-500x333.png",
+        "alt": "Logo of Liquid AI",
+        "credit": "",
+        "image": "media/logo-liquid-2024-500x333.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/10/logo-nimble-ai-2024-500x333.png",
+        "alt": "Logo of NimbleAI",
+        "credit": "",
+        "image": "media/logo-nimble-ai-2024-500x333.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/05/logo-htu-2024-500x333.png",
+        "alt": "Logo of HTU",
+        "credit": "",
+        "image": "media/logo-htu-2024-500x333.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/05/logo-magna-2024-500x333.png",
+        "alt": "Logo of Magna",
+        "credit": "",
+        "image": "media/logo-magna-2024-500x333.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2025/06/dsc-6472-500x333.jpg",
+        "alt": "Team members are preparing the model race car and the software",
+        "credit": "© Andreas Brandstätter, TU Wien",
+        "image": "media/dsc-6472-500x333.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2025/06/dsc-6438-500x333.jpg",
+        "alt": "Team members are preparing the model race car and the software",
+        "credit": "© Andreas Brandstätter, TU Wien",
+        "image": "media/dsc-6438-500x333.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2025/06/img-20250521-152115-500x333.jpg",
+        "alt": "Team members are preparing the model race car and the software",
+        "credit": "© Andreas Brandstätter, TU Wien",
+        "image": "media/img-20250521-152115-500x333.webp"
+      }
+    ],
+    "summary": "Team Scuderia Segfault from TU Wien again shows great performance at the 24th RoboRacer Autonomous Grand Prix, held from May 19th to 23rd as part of the IEEE Conference on Robotics and Automation (ICRA 2025) in Atlanta, United Sta",
+    "videos": []
+  },
+  {
+    "id": "visit-by-lamarracing-from-bonn",
+    "title": "Visit by LAMARRacing from Bonn",
+    "date": "2025-04-04",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/news-detail/visit-by-lamarracing-from-bonn/",
+    "body": "<p>On April 4th, our friends from Team LAMARRacing visited us in Vienna. LAMARRacing is the official Roboracer team of the University of Bonn, founded in 2024. Since then, the team is very active in the Roboracer community and pushing the state of the art for model-based and reactive control methods. Recently, we met at the race at the CDC in Milano.</p>\n<p>In our lecture on <a href=\"https://www.tuwien.at/inf/scuderia-segfault/teaching/\">Autonomous Racing Cars</a>, team LAMARRacing gave an invited talk on their racing stack, bringing new and interesting ideas to our students at TU Wien. We also presented our Scuderia Segfault racing stack and sparked discussions for various future improvements.</p>\n<p>We were excited to not only exchange a lot of ideas in the field of autonomous driving, but also to host an informal, friendly race in our lab. <em>Scuderia Segfault</em> against <em>LAMARRacing</em> was quite a thrilling race, however, we are not disclosing any results here ;-)</p>\n<h2>Links/Ressources</h2>\n<ul>\n<li><a href=\"https://lamarr-institute.org/\" rel=\"noopener\" target=\"_blank\">https://lamarr-institute.org/</a></li>\n</ul>",
+    "gallery": [
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2025/06/img-6414-scaled.jpg",
+        "alt": "Group picture of Team LAMARRacing and Team Scuderia Segfault",
+        "credit": "© Kaan Ugur, TU Wien",
+        "image": "media/img-6414-scaled.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2025/06/img-20250403-102912-500x333.jpg",
+        "alt": "Presentation by Team LAMARRacing",
+        "credit": "© Andreas Brandstätter, TU Wien",
+        "image": "media/img-20250403-102912-500x333.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2025/06/img-20250403-102030-500x333.jpg",
+        "alt": "Presentation by Team Scuderia Segfault",
+        "credit": "© Andreas Brandstätter, TU Wien",
+        "image": "media/img-20250403-102030-500x333.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2025/06/img-20250404-180953-500x333.jpg",
+        "alt": "Model Race Cars of Team LAMARRacing and Team Scuderia Segfault",
+        "credit": "© Andreas Brandstätter, TU Wien",
+        "image": "media/img-20250404-180953-500x333.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2025/06/img-6414-500x333.jpg",
+        "alt": "Group picture of Team LAMARRacing and Team Scuderia Segfault",
+        "credit": "© Kaan Ugur, TU Wien",
+        "image": "media/img-6414-500x333.webp"
+      }
+    ],
+    "summary": "On April 4th, our friends from Team LAMARRacing visited us in Vienna. LAMARRacing is the official Roboracer team of the University of Bonn, founded in 2024. Since then, the team is very active in the Roboracer community and pushin",
+    "videos": []
+  },
+  {
+    "id": "best-study-fair",
+    "title": "BeSt study fair",
+    "date": "2025-03-09",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/news-detail/best-study-fair/",
+    "body": "<p>BeSt is Austria’s largest study fair for careers, studies, and continuing education. The aim of the fair is to offer students and all those interested in continuing education optimal information on a wide range of training and educational opportunities. TU Wien, Austria’s largest technical university, was, of course, also represented at BeSt to provide comprehensive information about the various degree programs on offer.</p>\n<p>Scuderia Segfault team members Monika Farsang, Felix Resch, and Andreas Brandstätter, together with Professor Ezio Bartocci, were also supporting the Faculty of Computer Science at the faire. We presented our autonomous racing car as a quintessential example of cyber-physical systems. This allowed us to provide a vivid example of the content of the Computer Engineering degree program and also answer numerous questions from prospective students.</p>\n<h2>Ressources/Links</h2>\n<ul>\n<li><a href=\"https://best-messe.at/\" rel=\"noopener\" target=\"_blank\">https://best-messe.at/</a></li>\n<li><a href=\"https://www.tuwien.at/tu-wien/aktuelles/news/best-of-best\" rel=\"noopener\" target=\"_blank\">https://www.tuwien.at/tu-wien/aktuelles/news/best-of-best</a></li>\n</ul>",
+    "gallery": [
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2025/03/signal-2025-03-10-17-15-57-998-cut.jpg",
+        "alt": "Representatives of Team Scuderia Segfault at BeSt study faire",
+        "credit": "© BeSt study fair team",
+        "image": "media/signal-2025-03-10-17-15-57-998-cut.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2025/03/whatsapp-image-2025-03-12-at-154229-15-500x333.jpeg",
+        "alt": "Representatives of Team Scuderia Segfault at BeSt study faire",
+        "credit": "© Ezio Bartocci, TU Wien",
+        "image": "media/whatsapp-image-2025-03-12-at-154229-15-500x333.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2025/03/whatsapp-image-2025-03-12-at-154229-1-500x333.jpeg",
+        "alt": "Representatives of Team Scuderia Segfault at BeSt study faire",
+        "credit": "© Ezio Bartocci, TU Wien",
+        "image": "media/whatsapp-image-2025-03-12-at-154229-1-500x333.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2025/03/whatsapp-image-2025-03-12-at-154229-19-500x333.jpeg",
+        "alt": "Representatives of Team Scuderia Segfault at BeSt study faire",
+        "credit": "© Ezio Bartocci, TU Wien",
+        "image": "media/whatsapp-image-2025-03-12-at-154229-19-500x333.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2025/03/whatsapp-image-2025-03-12-at-154229-24-500x333.jpeg",
+        "alt": "Information at BeSt study faire",
+        "credit": "© Ezio Bartocci, TU Wien",
+        "image": "media/whatsapp-image-2025-03-12-at-154229-24-500x333.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2025/03/whatsapp-image-2025-03-12-at-153930-500x333.jpeg",
+        "alt": "Representatives of Team Scuderia Segfault and TU Wien Racing Team at BeSt study faire",
+        "credit": "© Ezio Bartocci, TU Wien",
+        "image": "media/whatsapp-image-2025-03-12-at-153930-500x333.webp"
+      }
+    ],
+    "summary": "BeSt is Austria’s largest study fair for careers, studies, and continuing education. The aim of the fair is to offer students and all those interested in continuing education optimal information on a wide range of training and edu",
+    "videos": []
+  },
+  {
+    "id": "victory-at-roboracer-autonomous-grand-prix-in-milano",
+    "title": "Victory at RoboRacer Autonomous Grand Prix in Milano",
+    "date": "2024-12-19",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/news-detail/victory-at-roboracer-autonomous-grand-prix-in-milano/",
+    "body": "<p><em>Team Scuderia Segfault from TU Wien delivers incredible performance and wins the 22nd RoboRacer Autonomous Grand Prix, held from December 16th to 19th as part of the IEEE Conference on Decision and Control (CDC 2024) in Milano, Italy. This year, the competition against top research institutes and renowned universities was very close, but TU Wien’s team managed to outperform every other car and secure a win!</em></p>\n<h3>Preparation for the race</h3>\n<p>In the weeks before the event, our team thoroughly prepared for the race. Based on the expertise from past participation in international races, they had learned what it needs to perform best, even under challenging and stressful conditions. They not only improved the racing algorithm and the car hardware to stay up to date with technological advancements but also further improved and tuned the race-line generation methodology. Furthermore, they developed a structured plan for handling all tasks at the on-site race. Beginning from the first identification of friction parameters, the mapping procedure, up to the stressful head-to-head races, which require fast decisions, they developed standard procedures. These procedures were further supported by according checklists. In the weeks before the event, our team performed extensive drills to get familiar with these procedures.</p>\n<h3>Mapping and testing day</h3>\n<p>The preparation really paid off, as the team could work very efficiently on all the required tasks of the first mapping and testing day. Within the assigned time slot, the team was able to quickly record the required data and already generate a first race-line to be tested within a couple of hours. The comparison to other teams showed, that some of them struggled to get their car running properly within the limited time that was available for testing. Over the night, our team consulted online with the other team members to prepare further optimizations for the following day, improve the performance of the race-line, and adjust the algorithm perfectly for the given track conditions.</p>\n<h3>Best performance in time-trials</h3>\n<p>The first part of the race was the time-trials, where the autonomous cars needed to show speed and reliability: The fastest lap, as well as the number of laps without crashes, are both recorded and determine the ranking for the following races against other cars. Our team was testing multiple different configurations and could thereby significantly improve the performance, compared to the test runs on the previous day. In the first heat, they decided on a fast but also reliable set of parameters, which resulted in a lap time of 7.288 seconds with 41 consecutive laps. Other teams were very close, so the team decided to push the car even closer to its limits for the second heat, which improved the lap time to 7.126 seconds and 42 laps in total. This was overall the best performance in both metrics and resulted in first place for the time trials. The second-fastest team in the time-trials was HiPeRT UNIMORE Racing with 7.296 seconds, followed by Unibo Motorsport with 7.314 seconds in third place.</p>\n<h3>Head-to-Head Tournament</h3>\n<p>The final day was all about head-to-head races, where two autonomous cars ultimately race for the win. The first pairing of the double-elimination races for our team was against HUN-REN SZTAKI, which was considerably slower and resulted in a clear win for Scuderia Segfault. Next was against HiPeRT UNIMORE Racing – the second-fastest team in the time-trials. It was clear that this race needed careful adjustments of all parameters and consideration of every detail, in order to drive fast and reliable. The team managed to hold their nerves and also win this race. In the semi-final, it was a classic against ForzaETH. This confrontation is already well known in the scene of RoboRacer and always promises a thrilling competition. This time it seems, that the team from ETH had some hardware problems from a severe crash in the days before. However, they managed to get their car again ready to drive, but with degraded performance, which resulted in a clear win for our team, advancing to the finals. The finale against HiPeRT UNIMORE Racing was executed as a best-of-three race, resulting in an ultimate win for Scuderia Segfault.</p>\n<h3>About the team</h3>\n<p>Scuderia Segfault is TU Wien Informatics’ team for research on autonomous cars and autonomous racing in the RoboRacer series, consisting of Felix Resch, Luigi Berducci, Moritz Christamentl, Agnes Poks, Philipp Mandl, Elisa Di Cristo, Larisa Clement, Mihai-Teodor Stanusoiu, Monika Farsang, Nino Wegleitner, Philipp Gratzer, Piet Kaul, Samuel Lechner, under the supervision of PreDoc Researcher Andreas Brandstätter and Professor Radu Grosu from the Research Unit for Cyber-Physical Systems. A part of the team traveled to Milano to participate in the race; others contributed to preparation and development beforehand and online remote support during the race.</p>\n<h3>Thanks to our supporting partners</h3>\n<p>Our team is grateful for the generous support from <a href=\"https://www.liquid.ai/\" rel=\"noopener\" target=\"_blank\">Liquid AI</a> and <a href=\"https://www.tttech-auto.com/\" rel=\"noopener\" target=\"_blank\">TTTech Auto</a>. Some team members are supported by project <span lang=\"EN-US\"><a href=\"https://www.nimbleai.eu/\" rel=\"noopener\" target=\"_blank\">NimbleAI</a>.</span> The team was further supported by <a href=\"https://htu.at/\" rel=\"noopener\" target=\"_blank\">HTU</a> and <a href=\"https://www.magna.com/\" rel=\"noopener\" target=\"_blank\">Magna International</a>.</p>",
+    "gallery": [
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/12/img-20241219-175706-cut.jpg",
+        "alt": "Participants of our team at CDC2024",
+        "credit": "© CDC2024 event team",
+        "image": "media/img-20241219-175706-cut.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/05/logo-liquid-2024-500x333.png",
+        "alt": "Logo of Liquid AI",
+        "credit": "",
+        "image": "media/logo-liquid-2024-500x333.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/12/logo-ttech-auto-2025-500x333.png",
+        "alt": "Logo of TTTech Auto",
+        "credit": "",
+        "image": "media/logo-ttech-auto-2025-500x333.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/10/logo-nimble-ai-2024-500x333.png",
+        "alt": "Logo of NimbleAI",
+        "credit": "",
+        "image": "media/logo-nimble-ai-2024-500x333.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/05/logo-htu-2024-500x333.png",
+        "alt": "Logo of HTU",
+        "credit": "",
+        "image": "media/logo-htu-2024-500x333.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/05/logo-magna-2024-500x333.png",
+        "alt": "Logo of Magna",
+        "credit": "",
+        "image": "media/logo-magna-2024-500x333.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/12/dsc-5771-500x333.jpg",
+        "alt": "Preparations of the car for the race",
+        "credit": "© TU Wien, Andreas Brandstätter",
+        "image": "media/dsc-5771-500x333.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/12/dsc-5772-500x333.jpg",
+        "alt": "Race car while checking all components",
+        "credit": "© TU Wien, Andreas Brandstätter",
+        "image": "media/dsc-5772-500x333.webp"
+      }
+    ],
+    "summary": "Team Scuderia Segfault from TU Wien delivers incredible performance and wins the 22nd RoboRacer Autonomous Grand Prix, held from December 16th to 19th as part of the IEEE Conference on Decision and Control (CDC 2024) in Milano, It",
+    "videos": []
+  },
+  {
+    "id": "presentation-of-our-work-at-tedxtuwien",
+    "title": "Presentation of our work at TEDxTUWien",
+    "date": "2024-11-24",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/news-detail/presentation-of-our-work-at-tedxtuwien/",
+    "body": "<p>Under the overall theme “ideas worth spreading”, TEDx events are held as grassroots initiatives by local communities. In 2025 the TEDxTUWien talks and exhibition was themed “Up or Out? – Society at the Crossroads” and featured a number of exciting talks and presentations. We were invited to demonstrate our recent research in the field of autonomous racing and show our car in the exhibition area. Participants could also get to know the latest developments of our team and plans for future races and research.</p>\n<h2>Resources/Links</h2>\n<ul>\n<li><a href=\"https://www.tedxtuwien.at/2024/\">https://www.tedxtuwien.at/2024/</a></li>\n</ul>",
+    "gallery": [
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/12/54165996001-0cd34fc524-o-scaled.jpg",
+        "alt": "Team member show our work at TEDxTUWien",
+        "credit": "© TEDxTUWien, Oana Ianovici",
+        "image": "media/54165996001-0cd34fc524-o-scaled.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/12/pxl-20241124-152601277-cut-500x333.jpg",
+        "alt": "Presentation of our work at TEDxTUWien",
+        "credit": "© TEDxTUWien Volunteer Team",
+        "image": "media/pxl-20241124-152601277-cut-500x333.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/12/54165996001-0cd34fc524-o-500x333.jpg",
+        "alt": "Team member show our work at TEDxTUWien",
+        "credit": "© TEDxTUWien, Oana Ianovici",
+        "image": "media/54165996001-0cd34fc524-o-500x333.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/12/54166306224-e95f775040-o-500x333.jpg",
+        "alt": "Model race car on a table",
+        "credit": "© TEDxTUWien, Oana Ianovici",
+        "image": "media/54166306224-e95f775040-o-500x333.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/12/54165117627-eb8d2b3504-o-500x333.jpg",
+        "alt": "Team member show our work at TEDxTUWien",
+        "credit": "© TEDxTUWien, Oana Ianovici",
+        "image": "media/54165117627-eb8d2b3504-o-500x333.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/12/54165993261-e102eddf3b-o-500x333.jpg",
+        "alt": "TEDxTUWien stage in Kuppelsaal",
+        "credit": "© TEDxTUWien, Oana Ianovici",
+        "image": "media/54165993261-e102eddf3b-o-500x333.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/12/pxl-20241124-135806298-500x333.jpg",
+        "alt": "Presentation of our work at TEDxTUWien",
+        "credit": "© TEDxTUWien Volunteer Team",
+        "image": "media/pxl-20241124-135806298-500x333.webp"
+      }
+    ],
+    "summary": "Under the overall theme “ideas worth spreading”, TEDx events are held as grassroots initiatives by local communities. In 2025 the TEDxTUWien talks and exhibition was themed “Up or Out? – Society at the Crossroads” and featured a n",
+    "videos": []
+  },
+  {
+    "id": "2nd-place-at-roboracer-autonomous-grand-prix-in-abu-dhabi",
+    "title": "2nd Place at RoboRacer Autonomous Grand Prix in Abu Dhabi",
+    "date": "2024-10-17",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/news-detail/2nd-place-at-roboracer-autonomous-grand-prix-in-abu-dhabi/",
+    "body": "<p><em>Team Scuderia Segfault from TU Wien jumps on the podium again with 2nd place at the 21st RoboRacer Autonomous Grand Prix, held from October 14th to 18th, as part of IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2024) in Abu Dhabi, UAE. Under challenging conditions, students of TU Wien succeed in showing superior performance in this autonomous racing challenge against teams from renowned universities and research institutes.</em></p>\n<h3>Extensive race preparation</h3>\n<p>To prepare for the race in Abu Dhabi, our team consisting of students from the faculty of Informatics, Electrical Engineering and Information Technology, as well as Mechanical and Industrial Engineering, worked hard to improve the race car hardware and the software, based on the results and learning of previous races. The key to an effective preparation was the availability of a permanent room for testing and development. This made it possible for our team members to extensively test new algorithms and race configurations. Well prepared, our team, Scuderia Segfault, headed to the United Arab Emirates, where the 21st RoboRacer Autonomous Grand Prix was held at the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2024).</p>\n<h3>Surprise at the testing day</h3>\n<p>The first day of the race comprises open testing, such that all teams can get familiar with the venue and record necessary measurements on the track layout. Surprisingly, the floor on the race track was laid out with carpet, as opposed to the concrete floor, which teams expected. So, our students needed to dramatically adjust the parameters for the race algorithm and optimize for a high-traction race-line to get to speed and good lap times. Thanks to the good preparation, these adjustments were done without any problems, and the team could confidently start with the test runs to fine-tune the parameters and the algorithm. In this process, our team was able to push the car to the physical limits – and even beyond, witnessed by multiple vehicle rollovers in sharp turns. This needed further careful adjustments to get a fast and still reliable configuration for the upcoming time trials.</p>\n<h3>Solid qualifying at the time-trials</h3>\n<p>Starting with the next day, the team had to qualify in the time trials. In this part of the race, it is not only necessary to drive fast but also reliably, as the number of consecutive laps without crashing is also counted and weighed into the total ranking. Team Scuderia Segfault was able to demonstrate very solid performance with a top lap time of 7.35 seconds and 38 continuous laps without intervention. This was a good qualification result right behind ForzaETH from ETH Zürich and Dzik Ultimate.</p>\n<h3>Erratic fault sets the race at stake</h3>\n<p>After this, it was to test the configuration for the head-to-head races on the following day. Particularly, the team needed to make sure that the obstacle avoidance capabilities of the car were working reliably. All adjustments went smoothly until, in one of the last testing sessions, there was an erratic fault, and the car violently crashed into the track barrier and even a table behind it. Urgently, the team performed an extensive checkup of the car, which was unfortunately not able to drive properly anymore. It showed erratic behavior and the participation on the following day was at stake. Hardware components were checked and swapped in from the spare car, software parameters were inspected and tested, and extensive testing procedures were conducted. Unfortunately, this needed to halt in the evening due to the closing hours of the venue.</p>\n<h3>Final race day results in thrilling outcome</h3>\n<p>Early in the morning, the team continued debugging and fixing the problem with full effort. Every individual component of the hardware was checked and every software configuration was individually re-adjusted. The team did not give up, and this hard work paid off. Right before the start of the head-to-head races, the car was able to drive properly again. The team even managed to further optimize the race line and fine-tune the parameters to get even slightly faster lap-times. The first race was against team SAGOL. Our team showed a solid performance and could overtake the other team’s car even multiple times. Next was against ForzaETH from ETH Zürich, already a long-time classic match in the history of RoboRacer. Our team knew that this was going to be difficult, as ForzaETH already showed much faster lap times. So the tactic was to go for consistent driving while still being as fast as possible. This tactic paid off, as the other car obviously had some problems with the race algorithm or some other part of the driving stack and crashed into the race track barriers. This was the chance for our team to secure a win and advance to the finale. This was against team Dzik Ultimate, which in the end resulted in 2nd place for our team Scuderia Segfault.</p>\n<h3>About the team</h3>\n<p>Scuderia Segfault is TU Wien Informatics’ team for research on autonomous cars and autonomous racing in the RoboRacer series, consisting of Felix Resch, Luigi Berducci, Moritz Christamentl, Agnes Poks, Philipp Mandl, Elisa Di Cristo, Larisa Clement, Mihai-Teodor Stanusoiu, Monika Farsang, Nino Wegleitner, Philipp Gratzer, Piet Kaul, Samuel Lechner, under the supervision of PreDoc Researcher Andreas Brandstätter and Professor Radu Grosu from the Research Unit for Cyber-Physical Systems. A part of the team traveled to Abu Dhabi to participate at the race, others contributed in preparation and development beforehand.</p>\n<h3>Thanks to our supporting partners</h3>\n<p>Our team is grateful for the generous support from <a href=\"https://www.liquid.ai/\" rel=\"noopener\" target=\"_blank\">Liquid AI</a> and <a href=\"https://www.tttech-auto.com/\" rel=\"noopener\" target=\"_blank\">TTTech Auto</a>. Some team members are supported by project <span lang=\"EN-US\"><a href=\"https://www.nimbleai.eu/\" rel=\"noopener\" target=\"_blank\">NimbleAI</a>.</span> The team was further supported by <a href=\"https://htu.at/\" rel=\"noopener\" target=\"_blank\">HTU</a> and <a href=\"https://www.magna.com/\" rel=\"noopener\" target=\"_blank\">Magna International</a>.</p>\n<h2>Ressources/Links</h2>\n<ul>\n<li><a href=\"https://www.tuwien.at/tu-wien/aktuelles/news/news/selbstfahrende-rennautos-2-platz-fuer-tu-wien\">News report on TU Wien webpage (german)</a></li>\n</ul>",
+    "gallery": [
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/11/group-picture-iros2024.jpg",
+        "alt": "Participants of our team at IROS2024",
+        "credit": "© TU Wien, Moritz Christamentl",
+        "image": "media/group-picture-iros2024.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/05/logo-liquid-2024-500x333.png",
+        "alt": "Logo of Liquid AI",
+        "credit": "",
+        "image": "media/logo-liquid-2024-500x333.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/05/logo-ttech-auto-2024-500x333.png",
+        "alt": "Logo of TTTech Auto",
+        "credit": "",
+        "image": "media/logo-ttech-auto-2024-500x333.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/10/logo-nimble-ai-2024-500x333.png",
+        "alt": "Logo of NimbleAI",
+        "credit": "",
+        "image": "media/logo-nimble-ai-2024-500x333.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/05/logo-htu-2024-500x333.png",
+        "alt": "Logo of HTU",
+        "credit": "",
+        "image": "media/logo-htu-2024-500x333.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/05/logo-magna-2024-500x333.png",
+        "alt": "Logo of Magna",
+        "credit": "",
+        "image": "media/logo-magna-2024-500x333.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/10/dsc-5349-500x333.jpg",
+        "alt": "Team working on the race software",
+        "credit": "© TU Wien, Andreas Brandstätter",
+        "image": "media/dsc-5349-500x333.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/10/dsc-5456-500x333.jpg",
+        "alt": "Replacing hardware components of the race car",
+        "credit": "© TU Wien, Moritz Christamentl",
+        "image": "media/dsc-5456-500x333.webp"
+      }
+    ],
+    "summary": "Team Scuderia Segfault from TU Wien jumps on the podium again with 2nd place at the 21st RoboRacer Autonomous Grand Prix, held from October 14th to 18th, as part of IEEE/RSJ International Conference on Intelligent Robots and Syste",
+    "videos": []
+  },
+  {
+    "id": "visit-from-nii-to-our-research-group",
+    "title": "Visit from NII to our research group",
+    "date": "2024-07-24",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/news-detail/visit-from-nii-to-our-research-group/",
+    "body": "<p>Professor Prendinger recently visited the <a href=\"https://informatics.tuwien.ac.at/orgs/e191-01\" rel=\"noopener\" target=\"_blank\">Research Unit of Cyber-Physical Systems</a> at TU Wien. <a href=\"https://research.nii.ac.jp/~prendinger/\" rel=\"noopener\" target=\"_blank\">Helmut Prendinger</a> is a full professor at the <a href=\"http://www.nii.ac.jp/\" rel=\"noopener\" target=\"_blank\">National Institute of Informatics (NII)</a>, where he works in the Digital Content and Media Sciences Research Division.</p>\n<p>During the visit, our team presented research in the field of cyber-physical systems and multi-agent drone coordination, showcasing the innovative work being done in these areas. The professor was then guided through our autonomous driving lab, where we demonstrated our autonomous model racing cars in action. The demonstration provided a hands-on look at the practical applications of our research, sparking engaging discussions about the future of autonomous systems. Professor Prendinger’s visit was a great opportunity for knowledge exchange, offering valuable insights and feedback that will help drive our projects forward.</p>",
+    "gallery": [
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2025/01/img-20240724-162036.jpg",
+        "alt": "Group picture with professor and students",
+        "credit": "© TU Wien, Andreas Brandstätter",
+        "image": "media/img-20240724-162036.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2025/01/img-20240724-160752-500x333.jpg",
+        "alt": "Professor and students discussing. Model racing car in the front.",
+        "credit": "© TU Wien, Andreas Brandstätter",
+        "image": "media/img-20240724-160752-500x333.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2025/01/img-20240724-160916-500x333.jpg",
+        "alt": "Professor and students discussing. Model racing car in the front.",
+        "credit": "© TU Wien, Andreas Brandstätter",
+        "image": "media/img-20240724-160916-500x333.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2025/01/img-20240724-161018-500x333.jpg",
+        "alt": "Professor and students discussing. Model racing car in the front.",
+        "credit": "© TU Wien, Andreas Brandstätter",
+        "image": "media/img-20240724-161018-500x333.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2025/01/img-20240724-162036-500x333.jpg",
+        "alt": "Group picture with professor and students",
+        "credit": "© TU Wien, Andreas Brandstätter",
+        "image": "media/img-20240724-162036-500x333.webp"
+      }
+    ],
+    "summary": "Professor Prendinger recently visited the Research Unit of Cyber-Physical Systems at TU Wien. Helmut Prendinger is a full professor at the National Institute of Informatics (NII) , where he works in the Digital Content and Media S",
+    "videos": []
+  },
+  {
+    "id": "autonomous-racing-wraps-up-the-semester",
+    "title": "Autonomous Racing Wraps Up the Semester",
+    "date": "2024-06-27",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/news-detail/autonomous-racing-wraps-up-the-semester/",
+    "body": "<p>The racing competition at TU Wien wrapped up the semester of the <a href=\"https://www.tuwien.at/inf/scuderia-segfault/teaching/\">Autonomous Racing Cars</a> course with a thrilling display of student teamwork and creative ideas. Teams raced 1/10th scale self-driving cars, showcasing their skills in programming, sensor integration, and real-time decision-making. The track, featuring difficult corners and sections, tested both speed and reliability. The event provided hands-on experience in autonomous technology, pushing students to refine their systems under pressure.</p>",
+    "gallery": [
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/06/img-20240627-155458-e.jpg",
+        "alt": "Group picture of students and instructors at the final race at the end of the semester",
+        "credit": "© TU Wien, Andreas Brandstätter",
+        "image": "media/img-20240627-155458-e.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/06/img-20240627-103018-500x333.jpg",
+        "alt": "Students working on the cars at the race track",
+        "credit": "© TU Wien, Andreas Brandstätter",
+        "image": "media/img-20240627-103018-500x333.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/06/img-20240627-152025-500x333.jpg",
+        "alt": "Cars racing autonomously on the race track",
+        "credit": "© TU Wien, Andreas Brandstätter",
+        "image": "media/img-20240627-152025-500x333.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/06/img-20240627-155445-e-500x333.jpg",
+        "alt": "Group picture of students and instructors at the final race at the end of the semester",
+        "credit": "© TU Wien, Andreas Brandstätter",
+        "image": "media/img-20240627-155445-e-500x333.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/06/img-20240627-155458-e-500x333.jpg",
+        "alt": "Group picture of students and instructors at the final race at the end of the semester",
+        "credit": "© TU Wien, Andreas Brandstätter",
+        "image": "media/img-20240627-155458-e-500x333.webp"
+      }
+    ],
+    "summary": "The racing competition at TU Wien wrapped up the semester of the Autonomous Racing Cars course with a thrilling display of student teamwork and creative ideas. Teams raced 1/10th scale self-driving cars, showcasing their skills in",
+    "videos": []
+  },
+  {
+    "id": "lange-nacht-der-forschung-2024",
+    "title": "Lange Nacht der Forschung 2024",
+    "date": "2024-05-24",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/news-detail/lange-nacht-der-forschung-2024/",
+    "body": "<p>Curious about our research about algorithms and complex systems has to do with autonomous driving? For those who are, we were happy to demonstrate our autonomous model cars in action as we drive through our racing track! Participants were able to take a seat and try to beat our autonomous racing software, with an opponent car.</p>\n<h3>What’s the Lange Nacht der Forschung?</h3>\n<p>The Lange Nacht der Forschung takes place every year at universities and exhibition venues across Austria. On this particular day, you can discover what often remains hidden: exciting, surprising and wondrous things about science!<br/>\nWith guided tours, workshops, lectures, live presentations and experiments, the Lange Nacht der Forschung offers something for all ages and audiences, whether you’re a simply adventurous and curious about science or a professional scientist. It is for the curious, for those who think outside the box, for tinkerers, for young and old and for everyone who wants to know what the world of science is up to.</p>\n<h2>Ressources/Links</h2>\n<ul>\n<li><a href=\"https://langenachtderforschung.at/station/4282\" rel=\"noopener\" target=\"_blank\">https://langenachtderforschung.at/station/4282</a></li>\n<li><a href=\"https://informatics.tuwien.ac.at/news/2637\" rel=\"noopener\" target=\"_blank\">https://informatics.tuwien.ac.at/news/2637</a></li>\n</ul>",
+    "gallery": [
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/05/dsc-3908-scaled.jpg",
+        "alt": "Two model race cars on the demonstration track",
+        "credit": "© TU Wien, Elisa Di Cristo",
+        "image": "media/dsc-3908-scaled.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/05/dsc-3821-500x333.jpg",
+        "alt": "Two model race cars on the demonstration track",
+        "credit": "© TU Wien, Elisa Di Cristo",
+        "image": "media/dsc-3821-500x333.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/05/dsc-3908-500x333.jpg",
+        "alt": "Two model race cars on the demonstration track",
+        "credit": "© TU Wien, Elisa Di Cristo",
+        "image": "media/dsc-3908-500x333.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/05/dsc-3839-500x333.jpg",
+        "alt": "Child steering model race car",
+        "credit": "© TU Wien, Elisa Di Cristo",
+        "image": "media/dsc-3839-500x333.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/05/dsc-3874-500x333.jpg",
+        "alt": "Two model race cars on the demonstration track",
+        "credit": "© TU Wien, Elisa Di Cristo",
+        "image": "media/dsc-3874-500x333.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/05/dsc-3918-500x333.jpg",
+        "alt": "Children steering model race car",
+        "credit": "© TU Wien, Elisa Di Cristo",
+        "image": "media/dsc-3918-500x333.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/05/dsc-3950-500x333.jpg",
+        "alt": "Explaining car components",
+        "credit": "© TU Wien, Elisa Di Cristo",
+        "image": "media/dsc-3950-500x333.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/05/dsc-3954-500x333.jpg",
+        "alt": "Cars on the demonstration track and explaining their actions",
+        "credit": "© TU Wien, Elisa Di Cristo",
+        "image": "media/dsc-3954-500x333.webp"
+      }
+    ],
+    "summary": "Curious about our research about algorithms and complex systems has to do with autonomous driving? For those who are, we were happy to demonstrate our autonomous model cars in action as we drive through our racing track! Participa",
+    "videos": []
+  },
+  {
+    "id": "15th-grand-prix",
+    "title": "4th Place at the 15th RoboRacer Autonomous Grand Prix",
+    "date": "2024-05-17",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/news-detail/15th-grand-prix/",
+    "body": "<p><i>This year, Scuderia Segfault secured a top placement at the 15th RoboRacer Autonomous Grand Prix, held from May 13th to 17th, as part of IEEE International Conference on Robotics and Automation (ICRA 2024) in Yokohama, Japan. About 20 teams from universities and research institutes worldwide competed in this autonomous racing challenge. Team Scuderia Segfault from TU Wien achieved 4th place in the final head-to-head race competition.</i></p>\n<h3>Preparation and development</h3>\n<p>To prepare for this autonomous racing challenge, the students of Scuderia Segfault invested countless hours in preparing the model racing car and developing the necessary software to race fully autonomously. First, an optimized hardware setup was needed, with carefully adjusted suspension, the right tires for optimal grip on the racetrack, and visual chassis indicators. Thanks to the Faculty of Informatics, the computing platform for this year’s competition was upgraded with a new powerful CPU and much more memory to run complex algorithms more efficiently. Most importantly, the students needed to implement software for fast localization on the racetrack, find the optimal race line, and precisely control the car. As the permanent room for testing was not yet available, students could only briefly test on weekends and evening hours in smaller seminar rooms and lecture halls, where all the equipment needed to be temporarily set up.</p>\n<h3>Arrival and setup in Japan</h3>\n<p>After a long journey to Japan, our team arrived early in the morning at the conference center to prepare all the hardware and software setups. The car needed to be re-assembled after transport, and the floor conditions in the competition hall were carefully evaluated for proper tire selection. When the track was set up by the organizers, a map of the racetrack was created so that the car could localize itself and determine its position. This map was also used to find the optimal race line. For this, our students developed a custom-made optimization tool to find the best speed and curve parameters. The first day was then used to test the cars on the track.</p>\n<h3>Time-trials: resolving last minute problems</h3>\n<p>On the next day, it was necessary to first demonstrate obstacle avoidance capabilities. Unfortunately, our team noticed severe problems in this software component. This could have led to a complete disqualification from the race. Urgent modifications were needed to identify the cause of this problem and fix it before the time-trial races. Our students mobilized all their problem-solving capabilities and worked in separate teams to test different scenarios and modify the software. This paid off, and the check was passed successfully.</p>\n<p>In the time-trials, the objective was two-fold: the car should drive laps as fast as possible while also demonstrating its reliability. Therefore, the fastest lap and the most number of consecutive laps without crashing were counted. Our team was able to show good results in both categories. Compared to past competitions, it was noticeable that other teams had also greatly improved their cars and software. The fastest five teams were less than one second apart. Overall, Scuderia Segfault qualified in fifth place after the time-trials.</p>\n<h3>Final competition: head-to-head race</h3>\n<p>To prepare for the decisive head-to-head race, our team conducted further tests on the track. Unfortunately, our car was crashed into by another team from the back, and parts of the chassis mount broke. This required a full overnight repair to get the car running again. Several parts needed to be removed and fixed to solve the issue. For a complete checkup afterward, our team even tested the car in the underground parking lot of the hotel in the late evening. Furthermore, knowing the lap times of other teams, it was clear that the race software and parameters needed further tuning to stand a chance for a good placement. So further late hours were invested in working on this.</p>\n<p>On the final race day, the first pairing was against Team Technion (Israel Institute of Technology). This was a clear win, as their car was not able to drive fast enough. However, it was important not to crash during overtaking maneuvers, so all the parameters and the setup needed careful adjustments for this race as well. The next race was against VAUL Renegade (Université Laval in Québec) – an extremely strong and fast team in the time-trials. It was clear to our team that this needed an all-in strategy. The lap time needed to be reduced by more than one second. They decided to use further critical adjustments, which were not tested yet, but absolutely necessary. This decision paid off fully, as the result was very close, with Team Scuderia Segfault winning and advancing to the semi-final. The next opponent was Dzik Team (Polish Academy of Sciences), which won very closely. The small final was against ForzaETH (ETH Zürich), and resulted in 4th place for Team Scuderia Segfault.</p>\n<h3>Thanks to our supporting partners</h3>\n<p>This race participation would not have been possible without the great support of <a href=\"https://www.liquid.ai/\" rel=\"noopener\" target=\"_blank\">Liquid AI</a>. Our team is grateful for the generous support from <a href=\"https://www.tttech-auto.com/\" rel=\"noopener\" target=\"_blank\">TTTech Auto</a>. They were further supported by <a href=\"https://htu.at/\" rel=\"noopener\" target=\"_blank\">HTU</a> and <a href=\"https://www.magna.com/\" rel=\"noopener\" target=\"_blank\">Magna International</a>.</p>",
+    "gallery": [
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/05/dsc-3712.jpg",
+        "alt": "Group picture at ICRA2024",
+        "credit": "© Marcell Balogh, Budapest University of Technology and Economics",
+        "image": "media/dsc-3712.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/05/logo-liquid-2024-500x333.png",
+        "alt": "Logo of Liquid AI",
+        "credit": "",
+        "image": "media/logo-liquid-2024-500x333.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/05/logo-ttech-auto-2024-500x333.png",
+        "alt": "Logo of TTTech Auto",
+        "credit": "",
+        "image": "media/logo-ttech-auto-2024-500x333.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/05/logo-htu-2024-500x333.png",
+        "alt": "Logo of HTU",
+        "credit": "",
+        "image": "media/logo-htu-2024-500x333.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/05/logo-magna-2024-500x333.png",
+        "alt": "Logo of Magna",
+        "credit": "",
+        "image": "media/logo-magna-2024-500x333.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/05/dsc-3712-500x333.jpg",
+        "alt": "Group picture at ICRA2024",
+        "credit": "© Marcell Balogh, Budapest University of Technology and Economics",
+        "image": "media/dsc-3712-500x333.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/05/dsc-3539-500x333.jpg",
+        "alt": "Model race car",
+        "credit": "© TU Wien, Elisa Di Cristo",
+        "image": "media/dsc-3539-500x333.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/05/dsc-3542-500x333.jpg",
+        "alt": "Software adjustments",
+        "credit": "© TU Wien, Elisa Di Cristo",
+        "image": "media/dsc-3542-500x333.webp"
+      }
+    ],
+    "summary": "This year, Scuderia Segfault secured a top placement at the 15th RoboRacer Autonomous Grand Prix, held from May 13th to 17th, as part of IEEE International Conference on Robotics and Automation (ICRA 2024) in Yokohama, Japan. Abou",
+    "videos": []
+  },
+  {
+    "id": "presentation-of-autonomous-cars-at-gettugether",
+    "title": "Presentation of autonomous cars at getTUgether",
+    "date": "2024-03-12",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/news-detail/presentation-of-autonomous-cars-at-gettugether/",
+    "body": "<p>For new employees, starting at TU Wien, there is the welcome event „getTUgether“ to give an overview of research areas and activities by the various institutes and research units. As part of this years „getTUgether“, there was also a presentation of autonomous driving and racing by the research unit Cyber-Physical Systems.</p>\n<h3>Showcase of autonomous driving platform</h3>\n<p>Our <a href=\"https://www.tuwien.at/inf/scuderia-segfault/racing/model-race-car/\">racing cars</a> were demonstrated as a quintessential example of cyber-physical systems. There was also a live demonstration of the car, followed by an overview of the main components and current <a href=\"https://www.tuwien.at/inf/scuderia-segfault/research/\">research topics</a>. We could also show what it means to <a href=\"https://www.tuwien.at/inf/scuderia-segfault/racing/\">race</a> at international competitions, and how the cars are used in the related <a href=\"https://www.tuwien.at/inf/scuderia-segfault/teaching/\">lecture</a>. We were happy to answer questions from the audience about our work.</p>\n<h2>Ressources/Links</h2>\n<ul>\n<li><a href=\"https://www.tuwien.at/tu-wien/aktuelles/news/gettugether-tuw-12-03\">News report on TU Wien webpage (german)</a></li>\n</ul>",
+    "gallery": [
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/11/signal-2024-11-13-14-00-28-573.jpg",
+        "alt": "Presentation of team Scuderia Segfault in seminar room",
+        "credit": "© TU Wien, Elisa Di Cristo",
+        "image": "media/signal-2024-11-13-14-00-28-573.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/11/signal-2024-11-13-14-00-28-573-500x333.jpg",
+        "alt": "Presentation of team Scuderia Segfault in seminar room",
+        "credit": "© TU Wien, Elisa Di Cristo",
+        "image": "media/signal-2024-11-13-14-00-28-573-500x333.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/11/signal-2024-11-13-14-00-28-573-1-500x333.jpg",
+        "alt": "Model race car at demo race track with race algorithm slide in the background",
+        "credit": "© TU Wien, Elisa Di Cristo",
+        "image": "media/signal-2024-11-13-14-00-28-573-1-500x333.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/11/signal-2024-11-13-14-00-28-573-2-500x333.jpg",
+        "alt": "Team members explaining race algorithm details",
+        "credit": "© TU Wien, Elisa Di Cristo",
+        "image": "media/signal-2024-11-13-14-00-28-573-2-500x333.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/11/signal-2024-11-13-14-00-28-573-3-500x333.jpg",
+        "alt": "Model race car at demo race track",
+        "credit": "© TU Wien, Elisa Di Cristo",
+        "image": "media/signal-2024-11-13-14-00-28-573-3-500x333.webp"
+      }
+    ],
+    "summary": "For new employees, starting at TU Wien, there is the welcome event „getTUgether“ to give an overview of research areas and activities by the various institutes and research units. As part of this years „getTUgether“, there was als",
+    "videos": []
+  },
+  {
+    "id": "autonomuos-driving-presentation-for-beginners-trail",
+    "title": "Autonomous driving presentation for Beginners’ Trail",
+    "date": "2023-10-02",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/news-detail/autonomuos-driving-presentation-for-beginners-trail/",
+    "body": "<p>For bachelor students, starting at TU Wien in the field of Informatics, there is a <a href=\"https://informatics.tuwien.ac.at/news/2393\">welcome event by the Faculty of Informatics</a> to give an overview of research areas and activities by the various institutes and research units. As part of this Beginners’ Trail, there was also a presentation of autonomous driving and racing by the research unit Cyber-Physical Systems.</p>\n<h3>Various examples for Cyber-Physical Systems</h3>\n<p>Starting a bachelor study often means to start with basics in math, logic, programming, and much more. Regularly lecturers refer to their topics to be important later, when progressing further in the study. At this day, students were able to see various examples for Cyber-Physical Systems where such principles, that are taught in introductory courses, are actually applied. Current topics at the research unit of Cyber-Physical Systems include several ground and areal vehicles. For example, swarms of drones are used to find new methods of coordination and control for multi agent systems. Single larger drones are equipped with hard real-time embedded computing platforms to develop algorithms and computer architectures for such application areas. Rovers with multiple sensors are used to do research in the area of machine learning, perception and control.</p>\n<h3>Showcase of autonomous driving platform</h3>\n<p>Our <a href=\"https://www.tuwien.at/inf/scuderia-segfault/racing/model-race-car/\">racing cars</a> were demonstrated as a quintessential example of cyber-physical systems. In the lab there was a live demonstration of the car, followed by an overview of the main components and current <a href=\"https://www.tuwien.at/inf/scuderia-segfault/research/\">research topics</a>. We could also show what it means to <a href=\"https://www.tuwien.at/inf/scuderia-segfault/racing/\">race</a> at international competitions, and how the cars are used in the related <a href=\"https://www.tuwien.at/inf/scuderia-segfault/teaching/\">lecture</a>. We were happy to answer questions by the audience about our work and details of the cars and look forward to work with interested students in the future.</p>",
+    "gallery": [
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2023/10/img-20231002-133045-cut-scaled.jpg",
+        "alt": "Students holding two racing cars, standing behind a table with several robots",
+        "credit": "© TU Wien, Elisa Di Cristo",
+        "image": "media/img-20231002-133045-cut-scaled.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2023/10/img-20231002-133045-cut-500x333.jpg",
+        "alt": "Students holding two racing cars, standing behind a table with several robots",
+        "credit": "© TU Wien, Elisa Di Cristo",
+        "image": "media/img-20231002-133045-cut-500x333.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2023/10/img-20231002-141634-500x333.jpg",
+        "alt": "Autonomous racing car on demonstration track in lab room",
+        "credit": "© TU Wien, Andreas Brandstätter",
+        "image": "media/img-20231002-141634-500x333.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2023/10/img-20231002-142514-500x333.jpg",
+        "alt": "racing car, rover, bird-shaped robot, some quadcopters, and several computing platforms on a table",
+        "credit": "© TU Wien, Andreas Brandstätter",
+        "image": "media/img-20231002-142514-500x333.webp"
+      }
+    ],
+    "summary": "For bachelor students, starting at TU Wien in the field of Informatics, there is a welcome event by the Faculty of Informatics to give an overview of research areas and activities by the various institutes and research units. As p",
+    "videos": []
+  },
+  {
+    "id": "silver-at-11th-roboracer-autonomous-grand-prix",
+    "title": "Silver at 11th RoboRacer Autonomous Grand Prix",
+    "date": "2023-06-02",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/news-detail/silver-at-11th-roboracer-autonomous-grand-prix/",
+    "body": "<p>After three thrilling competition days, team Scuderia Segfault from TU Wien secured Silver at the 11th RoboRacer Autonomous GPRX. This competition with 41 registered teams from universities and research institutes from all over the world took place at <a href=\"https://www.icra2023.org\">IEEE International Conference on Robotics and Automation (ICRA) 2023</a> from May 29th – May 31th 2023 in London, UK. This win follows Gold of TUW Fast and Furious at the 8th RoboRacer Autonomous GPRX at IFAC <a href=\"https://informatics.tuwien.ac.at/news/1899\">Berlin 2020</a>, Gold of Scuderia Segfault at the 9th RoboRacer Autonomous GPRX in <a href=\"https://informatics.tuwien.ac.at/news/2097\">Prague 2021</a>, and Bronze of Scuderia Segfault at the 10th RoboRacer Autonomous GPRX in <a href=\"https://informatics.tuwien.ac.at/news/2224\">Philadelphia 2023</a>, making it the Fourth podium placement in a row.</p>\n<p>The competition is a race format of fully autonomous 1/10th-scale F1 Race Cars, which compete against each other to finish first on a given race track. To solve this challenge, each team needs to implement advanced autonomous software and algorithms to find the perfect race line while simultaneously avoiding colliding with other cars. Countless hours of preparation and hard work were invested by the team members Moritz Christamentl, Felix Resch, Fabian Kresse, Agnes Poks, Philipp Mandl, and Luigi Berducci. The team was supervised by <a href=\"https://informatics.tuwien.ac.at/people/andreas-brandstaetter\">Andreas Brandstätter</a> and <a href=\"https://informatics.tuwien.ac.at/people/radu-grosu\">Radu Grosu</a> from the <a href=\"https://informatics.tuwien.ac.at/orgs/e191-01\">Research Unit for Cyber-Physical Systems</a>.</p>\n<h3>LIDAR woes and track hurdles: A race against time<a aria-label=\"Anchor\" data-anchorjs-icon=\"#\" href=\"https://informatics.tuwien.ac.at/news/2442#lidar-woes-and-track-hurdles-a-race-against-time\"></a></h3>\n<p>When arriving in London, open training commenced in the afternoon of the first day. The cars needed to be prepared to record a map on the track and find an optimized race line using advanced algorithms. At this point, it did not go smoothly for Scuderia Segfault, as the LIDAR of both cars was randomly dropping measurement packets, making the cars drive blindly. The team needed to adapt the racing software overnight to get the car properly running on the very narrow and challenging track.</p>\n<p>The next day, the time trials showed that the team’s modifications were right. Using an adaptive model-predictive-control approach, the team scored the second-fastest lap time overall. This was an exceptional time of just 12.83 seconds to complete a full lap. However, the car’s stability was still an issue that needed careful further adaptions for the upcoming races. It even got more difficult, as after an oil spill by another car the traction conditions changed. So the second run of the time trials did not go very well. To top it all off, severe LIDAR problems still persisted. These caused spurious crashes and it was clear, that this urgently needed to be resolved in order to retain a chance for a top placement. So the team mobilized all problem-solving capabilities, replaced the hardware components overnight, and tried different approaches of software modifications to address this issue.</p>\n<h3>Nerve-wracking races</h3>\n<p>The hard work paid off, as the car was finally able to drive in a reliable manner on the final day of head-to-head races. The team could secure a clear win against the first opponent, team HUMDA-SZE 2. The next race was against team HiPeRT Modena from the University of Modena e Reggio Emilia. Based on the lap times of previous runs it was clear that this was an extraordinarily fast and stable car. So the team needed to speed up to retain a chance. Every single parameter was carefully adjusted, to get a faster lap time. But at the same time, the team needed to keep a balanced behavior not risking too much and potentially causing a fatal crash. The first heat was won by HiPeRT very closely. Even more, tuning was necessary for the next run. The team took full risk and got into the tie-breaking race. It was absolutely nerve-wracking when TU Wien’s car passed the finish line just centimeters before HiPeRT. The semi-final was against team Suzlab from Nagoya University, Japan and it brought a clear result, advancing TU Wien to the grand final.</p>\n<p>The Grand Final Race was against team ForzaETH from ETH Zürich, whom our team was able to defeat last year in the Small Final. This year it was their term to win: with a great hardware platform and an improved but conservative version of their previous year’s pure-pursuit / follow-the-gap control software. Our team took a daring leap in software, trying out an adaptive model-predictive control. ETH’s team was faster in the end, taking a deserved win. Alas, Scuderia Segfault has their eyes fixed on the next race!</p>\n<p>The TUW Scuderia Segfault Team thanks TTTech Auto for their generous support that made participation in this race possible. They also thank Magna International for their financial support of the team.</p>\n<h2>Ressources/Links</h2>\n<ul>\n<li><a href=\"https://informatics.tuwien.ac.at/news/2442\">News report on TU Wien Informatics webpage</a></li>\n<li><a href=\"https://www.tuwien.at/tu-wien/aktuelles/news/news/zweiter-platz-fuer-tu-wien-bei-grand-prix-autonomer-modellautos\">News report on TU Wien webpage (german)</a></li>\n</ul>",
+    "gallery": [
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2023/09/group-picture-modified1.jpg",
+        "alt": "Group picture of the team with cars and trophy",
+        "credit": "© ML Contests, mlcontests.com",
+        "image": "media/group-picture-modified1.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2023/09/logo-ttech-auto-2023-500x333.png",
+        "alt": "Logo of TTTechAuto",
+        "credit": "",
+        "image": "media/logo-ttech-auto-2023-500x333.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2023/09/logo-magna-2023-500x333.png",
+        "alt": "Logo of Magna",
+        "credit": "",
+        "image": "media/logo-magna-2023-500x333.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2023/09/group-picture-modified1-500x333.jpg",
+        "alt": "Group picture of the team with cars and trophy",
+        "credit": "© ML Contests, mlcontests.com",
+        "image": "media/group-picture-modified1-500x333.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2023/09/f1tenth2023-racing-500x333.jpg",
+        "alt": "Team member of Scuderia Segfault with car during the race.",
+        "credit": "© Tianyi Lim, ETH Zürich",
+        "image": "media/f1tenth2023-racing-500x333.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2023/09/f1tenth2023-working1-500x333.jpg",
+        "alt": "Students working on notebook, with another student and a model car in the background",
+        "credit": "© Andreas Brandstätter, CPS Group, TU Wien",
+        "image": "media/f1tenth2023-working1-500x333.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2023/09/f1tenth2023-working2-500x333.jpg",
+        "alt": "Student working on race car",
+        "credit": "© Moritz Christamentl, CPS Group, TU Wien",
+        "image": "media/f1tenth2023-working2-500x333.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2023/09/f1tenth2023-working3-500x333.jpg",
+        "alt": "Students working on hardware of race car",
+        "credit": "© Andreas Brandstätter, CPS Group, TU Wien",
+        "image": "media/f1tenth2023-working3-500x333.webp"
+      }
+    ],
+    "summary": "After three thrilling competition days, team Scuderia Segfault from TU Wien secured Silver at the 11th RoboRacer Autonomous GPRX. This competition with 41 registered teams from universities and research institutes from all over th",
+    "videos": [
+      "GiXn8uKrcSk"
+    ]
+  },
+  {
+    "id": "forschungsfest",
+    "title": "Forschungsfest",
+    "date": "2022-09-09",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/news-detail/forschungsfest/",
+    "body": "<p>The sixth edition of the Vienna Science Festival took place from 9 to 11 September. Around 10,000 enthusiastic visitors, the researchers of tomorrow, experienced science up close and discovered the professional fields of the future at 30 stations and a variety of new workshops (for more Information see: <a href=\"https://viennabusinessagency.at/science-festival/\" rel=\"noopener\" target=\"_blank\">https://viennabusinessagency.at/science-festival/</a>).</p>\n<p>Our team presented the RoboRacer car at this occasion. This was a great way of not only showing recent success of our team in the <a href=\"https://www.tuwien.at/inf/scuderia-segfault/f1tenth/racing/\">races</a>, but also present current ongoing <a href=\"https://www.tuwien.at/inf/scuderia-segfault/f1tenth/research/\">research</a> at our group.</p>",
+    "gallery": [
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2022/09/img-20220909-134811-scaled.jpg",
+        "alt": "Group picture of students at Forschungsfest with two racing cars",
+        "credit": "© TU Wien, Andreas Brandstätter",
+        "image": "media/img-20220909-134811-scaled.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2022/09/img-20220909-134811-500x333.jpg",
+        "alt": "Group picture of students at Forschungsfest with two racing cars",
+        "credit": "© TU Wien, Andreas Brandstätter",
+        "image": "media/img-20220909-134811-500x333.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2022/09/img-20220909-120124-500x333.jpg",
+        "alt": "Forschungsfest banner at entrance of Rathaus",
+        "credit": "© TU Wien, Andreas Brandstätter",
+        "image": "media/img-20220909-120124-500x333.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2022/09/img-20220909-131605-500x333.jpg",
+        "alt": "Person sitting at a steering wheel",
+        "credit": "© TU Wien, Andreas Brandstätter",
+        "image": "media/img-20220909-131605-500x333.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2022/09/img-20220909-155106-cut-500x333.jpg",
+        "alt": "Model race car on the track at Rathaus",
+        "credit": "© TU Wien, Andreas Brandstätter",
+        "image": "media/img-20220909-155106-cut-500x333.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2022/09/img-20220909-155121-cut-500x333.jpg",
+        "alt": "Model racing car on the floor",
+        "credit": "© TU Wien, Andreas Brandstätter",
+        "image": "media/img-20220909-155121-cut-500x333.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2022/09/img-20220909-180500-500x333.jpg",
+        "alt": "Visualization of environmental perception on a screen",
+        "credit": "© TU Wien, Andreas Brandstätter",
+        "image": "media/img-20220909-180500-500x333.webp"
+      }
+    ],
+    "summary": "The sixth edition of the Vienna Science Festival took place from 9 to 11 September. Around 10,000 enthusiastic visitors, the researchers of tomorrow, experienced science up close and discovered the professional fields of the futur",
+    "videos": []
+  },
+  {
+    "id": "built-for-racing",
+    "title": "Built for Racing",
+    "date": "2022-07-28",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/news-detail/built-for-racing/",
+    "body": "<p>On 7 July 2022, the hallowed halls of TU Wiens’ famous Kuppelsaal were put to an unusual use. Our computer engineering students and their instructors turned them into a steep race track for their self-built autonomous racing cars.</p>\n<p><a href=\"https://informatics.tuwien.ac.at/people/radu-grosu\">Radu Grosu</a>, Head of the <a href=\"https://informatics.tuwien.ac.at/orgs/e191-01\">Research Unit for Cyber-Physical Systems</a> initiated the course in 2020 inspired by the RoboRacer Autonomous Racing which has been developed by Rahul Mangharam at the Safe Autonomous Systems Lab, University of Pennsylvania and was published under CC-NC-SA 4.0 license.</p>\n<p>For instructors <a href=\"https://informatics.tuwien.ac.at/people/andreas-brandstaetter\">Andreas Brandstätter</a> and <a href=\"https://informatics.tuwien.ac.at/people/radu-grosu\">Radu Grosu</a> this year’s course was exceptional. Due to the pandemic, final races couldn’t be held in the previous years – it was the first race where all students were able to put their cars to the test. In the annual course, students learn to master all hardware and software skills required to build a fully autonomous racing vehicle. Current technologies in self-driving cars and mobile autonomous systems are being taught hands-on: During many weeks, students not only build their vehicles from scratch but develop and implement racing strategies, computer vision, and machine learning algorithms that give their team an edge in the race that concludes the course.</p>\n<p>The teams ‘GIMP’, ‘tyre my beauty’, and ‘Frankencar’ gave their all at the racing track. To further develop the course format and use international synergies, <a href=\"https://ee.ethz.ch/the-department/people-a-z/person-detail.MjE0NjI3.TGlzdC8zMjc5LC0xNjUwNTg5ODIw.html\">Nicolas Baumann</a> from ETH Zürich and <a href=\"https://usermap.cvut.cz/profile/ad01dfd0-f57c-4022-8109-77fa33a4dfd4?lang=en\">Jaroslav Klapálek</a> from CTU joined the final race with colleagues and students. Special thanks also goes to the highly motivated tutors of the course, who spared no time and effort to support the racing teams.</p>\n<p>The purchase of the RoboRacer cars was made possible by the <a href=\"https://www.tuwien.at/tu-wien/aktuelles/news/news/kuenstliche-intelligenz-grand-prix-sieg-fuer-tu-wien\">BMBWF CPS/IoT-Ecosystem Infrastructure Award</a>. Racing is contagious – the course’s best students usually take it to the next step at the international RoboRacer Grand Prix. TU Wien Informatics’ team made <a href=\"https://informatics.tuwien.ac.at/news/2224\">3rd place in 2022</a> and <a href=\"https://informatics.tuwien.ac.at/news/2097\">won in 2021</a>.</p>\n<h2>Ressources/Links</h2>\n<ul>\n<li><a href=\"https://informatics.tuwien.ac.at/news/2258\">News report on TU Wien Informatics webpage</a></li>\n</ul>",
+    "gallery": [
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2022/07/gopr0844-scaled.jpg",
+        "alt": "Group picture of students, guests with racing cars on the race track",
+        "credit": "© TU Wien, Andreas Brandstätter",
+        "image": "media/gopr0844-scaled.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2022/07/gopr0844-500x333.jpg",
+        "alt": "Group picture of students, guests with racing cars on the race track",
+        "credit": "© TU Wien, Andreas Brandstätter",
+        "image": "media/gopr0844-500x333.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2023/09/gopr0765-500x333.jpg",
+        "alt": "People working on race car",
+        "credit": "© TU Wien, Andreas Brandstätter",
+        "image": "media/gopr0765-500x333.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2023/09/gopr0678-500x333.jpg",
+        "alt": "Students working on notebook with race car",
+        "credit": "© TU Wien, Andreas Brandstätter",
+        "image": "media/gopr0678-500x333.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2023/09/gopr0674-500x333.jpg",
+        "alt": "Students working on notebooks",
+        "credit": "© TU Wien, Andreas Brandstätter",
+        "image": "media/gopr0674-500x333.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2023/09/g0090699-500x333.jpg",
+        "alt": "Two race cars on the race track",
+        "credit": "© TU Wien, Andreas Brandstätter",
+        "image": "media/g0090699-500x333.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2023/09/g0060655-500x333.jpg",
+        "alt": "Student working on notebook with race car",
+        "credit": "© TU Wien, Andreas Brandstätter",
+        "image": "media/g0060655-500x333.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2023/09/gopr0811-500x333.jpg",
+        "alt": "Race track in Kuppelsaal",
+        "credit": "© TU Wien, Andreas Brandstätter",
+        "image": "media/gopr0811-500x333.webp"
+      }
+    ],
+    "summary": "On 7 July 2022, the hallowed halls of TU Wiens’ famous Kuppelsaal were put to an unusual use. Our computer engineering students and their instructors turned them into a steep race track for their self-built autonomous racing cars.",
+    "videos": [
+      "CZuUUiOwYsM"
+    ]
+  },
+  {
+    "id": "3rd-place-at-the-roboracer-autonomous-grand-prix",
+    "title": "3rd Place at the RoboRacer Autonomous Grand Prix",
+    "date": "2022-05-27",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/news-detail/3rd-place-at-the-roboracer-autonomous-grand-prix/",
+    "body": "<p>Flooring your gas pedal won’t help to win the RoboRacer Grand Prix. What you’ll need is sophisticated software: The model race cars complete their laps autonomously, using artificial intelligence to recognize tracks, avoid crashes, and most importantly — go fast.</p>\n<p>The competition was tough, but TU Wien Informatics’ team “Scuderia Segfault” won 3rd place out of 38 teams from all over the world at the 10th RoboRacer Autonomous Grand Prix in Philadelphia, USA, from May 23 to May 25, 2022.</p>\n<p>TU Wien Informatics’ team, consisting of Daniel Scheuchenstuhl, Dennis Erdogan, Felix Resch, Luigi Berducci, Moritz Christamentl, and Stefan Ulmer, under the supervision of PreDoc Researcher <a href=\"https://informatics.tuwien.ac.at/people/andreas-brandstaetter\">Andreas Brandstätter</a> and Professor <a href=\"https://informatics.tuwien.ac.at/people/radu-grosu\">Radu Grosu</a> from the <a href=\"https://informatics.tuwien.ac.at/orgs/e191-01\">Resarch Unit for Cyber-Physical Systems</a>, spent weeks preparing for the competition before heading to Philadelphia.</p>\n<p>This time, the race was extraordinarily demanding with <a href=\"https://icra2022-race.f1tenth.org/registration.html\">highly competitive teams</a> from universities such as CMU, Rice University UCSD, UPenn, the University of Texas at Austin, ETH Zürich, the University of Bologna, and the Polish Academy of Science.</p>\n<h3>Excellent performance in the qualifiers<a aria-label=\"Anchor\" data-anchorjs-icon=\"#\" href=\"https://informatics.tuwien.ac.at/news/2224#excellent-performance-in-the-qualifiers\"></a></h3>\n<p>After the first day of open training, Scuderia Segfault already performed well in the first heat of the qualifying session. With excellent lap time and a perfectly reliable car, the number of continuous laps was high. The second heat showed how fast odds can turn in racing: The team tried to optimize the race-line and the controller further, but problems with the setup caused a fatal crash.</p>\n<p>After the qualifying session, Scuderia Segfault achieved the second-most points (ex-equo) for the seeding of the grand head-to-head race. The team thoroughly analyzed the performance and times of the other cars, and it was clear that they needed to improve their algorithm to be competitive in the race on the last day. So they reworked the fine-tuning of every single part of the driving stack. Opponent detection, race-line, and the racing algorithm needed to be adjusted carefully. With very little time left, this was an all-in strategy.</p>\n<h3>A race by seconds<a aria-label=\"Anchor\" data-anchorjs-icon=\"#\" href=\"https://informatics.tuwien.ac.at/news/2224#a-race-by-seconds\"></a></h3>\n<p>On the final race day, the first pairing against a considerably slower car was decided clearly. Scuderia Segfault’s car was driving reliably and advanced on the ladder. The next race was even more exciting since the cars touched at several overtaking maneuvers, and some minor crashes happened.</p>\n<p>Scuderia Segfault advanced to the semi-final with a head-to-head race against team Dzik from the Polish Academy of Sciences. Both cars were driving stable and fast, but unfortunately, it was impossible to beat team Dzik.</p>\n<p>The third-place play-off was an absolutely nerve-wracking race. Both cars from TU Wien and ETH Zürich have so far proven to be not only fast but also reliable. In the first heat, Scuderia Segfault won with just a distance of some meters, while the second heat was not in their favor. So it all came down to the tie-breaking heat to secure the 3rd place. With only seconds remaining, the team had to decide on the final tuning. Adjusting the speed factor by only 1% could make a crucial difference but could also cause a crash and obliterate all chances. So quick decisions were needed to calculate the risk. Indeed, the excitement was at the limits when Scuderia Segfault crossed the finish line and secured 3rd place!</p>\n<p>We are grateful for the generous support of <a href=\"https://www.tttech-auto.com/\">TTTech Auto</a>, who made the participation of team Scuderia Segfault at the race in Philadelphia possible. Furthermore, we thank <a href=\"https://htu.at/\">HTU</a> for providing support regarding travel expenses.</p>\n<h2>Ressources/Links</h2>\n<ul>\n<li><a href=\"https://informatics.tuwien.ac.at/news/2224\">News report on TU Wien Informatics webpage</a></li>\n<li><a href=\"https://www.tuwien.at/tu-wien/aktuelles/news/news/tu-wien-feiert-3-platz-beim-grand-prix-fuer-autonomes-fahren\">News report on TU Wien webpage (german)</a></li>\n</ul>",
+    "gallery": [
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2023/09/group-picture.jpg",
+        "alt": "Students of TU Wien with cars and trophy",
+        "credit": "© TU Wien, Andreas Brandstätter",
+        "image": "media/group-picture.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2023/09/logo-ttech-auto-2022-500x333.png",
+        "alt": "Logo of TTTechAuto",
+        "credit": "",
+        "image": "media/logo-ttech-auto-2022-500x333.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2023/09/logo-htu-2022-500x333.png",
+        "alt": "Logo of HTU",
+        "credit": "",
+        "image": "media/logo-htu-2022-500x333.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2023/09/group-picture-500x333.jpg",
+        "alt": "Students of TU Wien with cars and trophy",
+        "credit": "© TU Wien, Andreas Brandstätter",
+        "image": "media/group-picture-500x333.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2023/09/adjustments-on-car-500x333.jpg",
+        "alt": "Student checking car hardware components",
+        "credit": "© TU Wien, Andreas Brandstätter",
+        "image": "media/adjustments-on-car-500x333.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2023/09/car-500x333.jpg",
+        "alt": "Model race car of TU Wien",
+        "credit": "© TU Wien, Andreas Brandstätter",
+        "image": "media/car-500x333.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2023/09/working-software-500x333.jpg",
+        "alt": "Students of TU Wien working on notebooks",
+        "credit": "© TU Wien, Andreas Brandstätter",
+        "image": "media/working-software-500x333.webp"
+      }
+    ],
+    "summary": "Flooring your gas pedal won’t help to win the RoboRacer Grand Prix. What you’ll need is sophisticated software: The model race cars complete their laps autonomously, using artificial intelligence to recognize tracks, avoid crashes",
+    "videos": [
+      "gk_lNKmZX4I"
+    ]
+  },
+  {
+    "id": "win-roboracer-2021-prague",
+    "title": "TU Wien Team Wins International RoboRacer Grand Prix",
+    "date": "2021-09-29",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/news-detail/win-roboracer-2021-prague/",
+    "body": "<h2>9th RoboRacer Grand Prix in Prague</h2>\n<p>The RoboRacer Grand Prix is an international racing competition in which computer controlled model cars compete against each other. The 1:10 scale race cars competing in the RoboRacer Grand Prix are equipped with sensors and a computer to drive autonomously on the race track. With the sensors, the cars “see” the race track. The computer tries learn the track and then to steer the car over the race track as quickly as possible and without collision.</p>\n<h3>Teams aim for fastest lap time</h3>\n<p>The RoboRacer Grand Prix consists of two competitions. In the first competition, one car is on the track at a time. The aim is to achieve the fastest lap time and to complete as many laps as possible within a given time. The TU Vienna team “Scuderia Segfault”, consisting of Daniel Scheuchenstuhl, Dennis Erdogan, Fabian Kresse, Felix Resch, Luigi Berducci, Moritz Christamentl and Stefan Ulmer, supported by <a href=\"https://informatics.tuwien.ac.at/people/andreas-brandstaetter\">Andreas Brandstätter</a> and under the supervision of <a href=\"https://informatics.tuwien.ac.at/people/radu-grosu\">Prof. Radu Grosu</a>, could only achieve mediocre results in the first race. Before the second race of this competition, however, the team was able to improve the car and finally just managed to achieve the fastest lap time and the greatest number of completed laps.</p>\n<h3>First place in the overall Grand Prix</h3>\n<p>The second competition was a series of races, in which all cars competed against each other in pairs. The goal was to achieve the fastest lap time despite having an opponent on the race track. The Viennese Scuderia Segfault team was initially very unlucky: their car was rammed and damaged by an opposing vehicle. However, after repairing the car within the shortest possible time, the Scuderia Segfault car was able to beat all the opposing cars in direct competition and thus achieved a clear first place in the overall Grand Prix.</p>\n<h2>Ressources/Links</h2>\n<ul>\n<li><a href=\"https://informatics.tuwien.ac.at/news/2097\">News report on TU Wien Informatics webpage</a></li>\n<li><a href=\"https://www.tuwien.at/tu-wien/aktuelles/news/news/kuenstliche-intelligenz-grand-prix-sieg-fuer-tu-wien\">News report on TU Wien webpage (german)</a></li>\n<li><a href=\"https://www.tuwien.at/en/tu-wien/news/news-articles/news/kuenstliche-intelligenz-grand-prix-sieg-fuer-tu-wien\">News report on TU Wien webpage (english)</a></li>\n</ul>\n<p> </p>",
+    "gallery": [
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2023/09/foto-sejkot-ciirc-ctu-dsc6154-scaled.jpg",
+        "alt": "Team of TU Wien after the competition with cars and trophy",
+        "credit": "© Roman Sejkot / CIIRC CTU, CVUT, Praha",
+        "image": "media/foto-sejkot-ciirc-ctu-dsc6154-scaled.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2023/09/foto-sejkot-ciirc-ctu-dsc6154-500x333.jpg",
+        "alt": "Team of TU Wien after the competition with cars and trophy",
+        "credit": "© Roman Sejkot / CIIRC CTU, CVUT, Praha",
+        "image": "media/foto-sejkot-ciirc-ctu-dsc6154-500x333.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2023/09/gopr0172-500x333.jpg",
+        "alt": "Students replacing tyres of the racing car",
+        "credit": "© TU Wien, Andreas Brandstätter",
+        "image": "media/gopr0172-500x333.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2023/09/gopr0164-500x333.jpg",
+        "alt": "Students working on the model racing car",
+        "credit": "© TU Wien, Andreas Brandstätter",
+        "image": "media/gopr0164-500x333.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2023/09/gopr0243-500x333.jpg",
+        "alt": "Two model race cars",
+        "credit": "© TU Wien, Andreas Brandstätter",
+        "image": "media/gopr0243-500x333.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2023/09/gopr0189-500x333.jpg",
+        "alt": "Students discussing strategy",
+        "credit": "© TU Wien, Andreas Brandstätter",
+        "image": "media/gopr0189-500x333.webp"
+      },
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2023/09/gopr0265-1-500x333.jpg",
+        "alt": "Students at table with model racing car and notebooks",
+        "credit": "© TU Wien, Andreas Brandstätter",
+        "image": "media/gopr0265-1-500x333.webp"
+      }
+    ],
+    "summary": "9th RoboRacer Grand Prix in Prague The RoboRacer Grand Prix is an international racing competition in which computer controlled model cars compete against each other. The 1:10 scale race cars competing in the RoboRacer Grand Prix ",
+    "videos": [
+      "oI6xHDvLzOg"
+    ]
+  },
+  {
+    "id": "victory-for-the-tu-wien-in-virtual-car-racing-competition",
+    "title": "Victory for the TU Wien in Virtual Car Racing Competition",
+    "date": "2020-07-21",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/news-detail/victory-for-the-tu-wien-in-virtual-car-racing-competition/",
+    "body": "<p>Totally autonomous, without any external intervention, only with carefully developed artificial intelligence – this is how the racing cars have to compete against each other in the RoboRacer competitions. Since 2016, students and research teams from universities all over the world have been competing to develop the best software to leave the competition behind on a model race track.</p>\n<p>Up to now, the teams have always been given the same physical platform – a 1:10 scale model racing car. Therefore, the focus of the competition is entirely on the algorithms developed by the teams. This year, the RoboRacer Grand Prix was held as part of the International Federation of Automatic Control (IFAC) World Congress in Berlin. Due to the corona pandemic, this conference was held online, and therefore it was decided to hold the Grand Prix virtually as well: The programming task remained the same, but instead of controlling physical model cars, the algorithms were pitted against each other in a virtual environment.</p>\n<h2>From the TU Wien course to the race track</h2>\n<p>The team “TU fast TU furious” was created by the course “Autonomous Racing Cars master course”, taught by Prof. Radu Grosu from the Institute for Computer Engineering at TU Wien. This course is unique in Austria, and one of few comparable courses in Europe: The course material (cameras, optical distance measurement technology, processors, etc.) was funded by the BMBWF infrastructure project CPS/IoT, which is intended to prepare Austria for the upcoming digital revolution.</p>\n<p>For one semester, the students developed control codes based on deep learning algorithms. “From the most motivated of them, we then formed the TU team to compete against world-renowned universities, including MIT, UC Berkley and Stanford, or UPenn, who originally initiated the competition,” says Radu Grosu.</p>\n<p>The TU team eventually consisted of Thomas Pintaric (team leader), Mathias Lechner (IST Austria), Bernhard Schlögl, Axel Brunnbauer, and Andreas Brandstätter. Team consultants were Ramin Hasani, and Radu Grosu, also from the Institute for Computer Engineering, TU Wien.</p>\n<p>“Based on the knowledge conveyed in our course, the team managed to develop a smart autonomous agent to steer the car,” says Radu Grosu. “A whole range of algorithms and control strategies were tested before we decided on the best variant, which eventually won.” For the algorithms themselves, it didn’t matter if they were controlling a physical car or if they were in a purely virtual world, as was the case in this edition of the RoboRacer Grand Prix.</p>\n<h2>The competition</h2>\n<p>The geometry of the race track was specified by the race management. The electronic agents then had to calculate an optimal path, and then apply various control strategies to keep their vehicle on that path. In a preliminary round, obstacles were placed on the course, which the autonomous vehicles had to avoid. “We didn’t want to reveal anything about our strategy at this stage. So we put our focus on safety here and drove down the track very slowly. Without a crash, we were qualified for the main event, albeit with the slowest time,” says team manager Thomas Pintaric.</p>\n<p>Finally, on the main day of competition, the eight remaining teams competed against each other in pairs. “TU fast TU furious” won seven of the eight races and finally secured first place on 15 July 2020.</p>\n<p>“Essentially, you needed three important components to win,” says team member Mathias Lechner. “A good lap time, solid collision avoidance and aggressive tactics at the start. All teams managed to implement one or two of these points well. But only our team could reliably combine all three.”</p>\n<p>“This is a great success for us – especially considering the fact that it was the first time that TU Wien participated in the RoboRacer competition”, says Radu Grosu. “It was certainly not the last time. It shows that TU Wien has incredibly talented students who can successfully compete with teams from the best universities in the world”.</p>\n<h2>Ressources/Links</h2>\n<ul>\n<li><a href=\"https://www.tuwien.at/tu-wien/aktuelles/news/news/sieg-fuer-die-tu-wien-bei-virtuellem-autorennen\">News report on TU Wien webpage (german)</a></li>\n<li><a href=\"https://www.tuwien.at/en/tu-wien/news/news-articles/news/sieg-fuer-die-tu-wien-bei-virtuellem-autorennen0\">News report on TU Wien webpage (english)</a></li>\n</ul>",
+    "gallery": [
+      {
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2020/07/csm-f1track-5799c5fddb.jpg",
+        "alt": "Virtual race track and symbolic picture of racing car",
+        "credit": "",
+        "image": "media/csm-f1track-5799c5fddb.webp"
+      }
+    ],
+    "summary": "Totally autonomous, without any external intervention, only with carefully developed artificial intelligence – this is how the racing cars have to compete against each other in the RoboRacer competitions. Since 2016, students and ",
+    "videos": [
+      "YMzm2oCc_4w"
+    ]
+  }
+]

@@ -1,0 +1,327 @@
+[
+  {
+    "id": "felix-resch",
+    "name": "Felix Resch",
+    "status": "Active Team",
+    "bio": "PhD student at the Research Unit of Cyber-Physical Systems, Institute of Computer Engineering",
+    "topics": [
+      "Neuromorphic computing",
+      "Autonomous racing",
+      "Event-based Vision"
+    ],
+    "image": "media/felix-resch-500x333.webp",
+    "credit": "© TU Wien, Andreas Brandstätter",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/racing/team-members/",
+    "linkedin": null,
+    "contributions": [
+      "Master’s thesis on autonomous racing with attention-based neural networks (2023).",
+      "Co-author of research on human-attention feature maps and real-time recurrent reinforcement learning."
+    ],
+    "contributionSources": [
+      "https://www.tuwien.at/inf/scuderia-segfault/racing/team-members/"
+    ],
+    "membershipSource": "Confirmed by Agnes Poks, 2026-11-02"
+  },
+  {
+    "id": "moritz-christamentl",
+    "name": "Moritz Christamentl",
+    "status": "Active Team",
+    "bio": "Bachelor student Computer Engineering",
+    "topics": [
+      "Real-time systems",
+      "Autonomous racing algorithms"
+    ],
+    "image": "media/moritz-christamentl-500x333.webp",
+    "credit": "© TU Wien, Andreas Brandstätter",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/racing/team-members/",
+    "linkedin": null,
+    "contributions": [
+      "Part of the race preparation and competition team at ICRA 2023 in London.",
+      "Co-organizer of the RoboRacer competition in Vienna in 2026."
+    ],
+    "contributionSources": [
+      "https://www.tuwien.at/inf/scuderia-segfault/racing/team-members/",
+      "https://www.tuwien.at/inf/scuderia-segfault/news-detail/silver-at-11th-roboracer-autonomous-grand-prix/"
+    ],
+    "membershipSource": "Confirmed by Agnes Poks, 2026-11-02"
+  },
+  {
+    "id": "andreas-brandstatter",
+    "name": "Andreas Brandstätter",
+    "status": "Active Team",
+    "bio": "PostDoc at the Research Unit of Cyber-Physical Systems, Institute of Computer Engineering",
+    "topics": [
+      "Coordination and control of multi-agent (aerial) robotic systems"
+    ],
+    "image": "media/andreas-brandstaetter-500x333.webp",
+    "credit": "© TU Wien, Elisa Di Cristo",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/racing/team-members/",
+    "linkedin": "https://at.linkedin.com/in/andreas-brandst%C3%A4tter-2a00a0252",
+    "contributions": [
+      "Team supervision and coordination of autonomous racing at TU Wien.",
+      "Co-author of Latent Imagination Facilitates Zero-Shot Transfer in Autonomous Racing (ICRA 2022)."
+    ],
+    "contributionSources": [
+      "https://www.tuwien.at/inf/scuderia-segfault/racing/team-members/"
+    ],
+    "membershipSource": "Confirmed by Agnes Poks, 2026-11-02"
+  },
+  {
+    "id": "agnes-poks",
+    "name": "Agnes Poks",
+    "status": "Active Team",
+    "bio": "Postdoctoral researcher in Technical Dynamics and Vehicle System Dynamics at TU Wien · hybrid AI, predictive control and vehicle dynamics.",
+    "topics": [
+      "Friction observer",
+      "Model Predictive Control (MPC)",
+      "Autonomous driving",
+      "Optimization"
+    ],
+    "image": "media/agnes-poks-500x333.webp",
+    "credit": "© TU Wien, Andreas Brandstätter",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/racing/team-members/",
+    "linkedin": "https://at.linkedin.com/in/agnes-poks",
+    "contributions": [
+      "Leads and supervises the MPC group and coordinates vehicle dynamics.",
+      "Principal investigator of AIDA: AI-Driven Distributed Autonomy."
+    ],
+    "contributionSources": [
+      "https://www.tuwien.at/inf/scuderia-segfault/racing/team-members/"
+    ],
+    "membershipSource": "Confirmed by Agnes Poks, 2026-11-02"
+  },
+  {
+    "id": "philipp-mandl",
+    "name": "Philipp Mandl",
+    "status": "Associated Members",
+    "bio": "PhD student at the Research Unit of Technical Dynamics and Vehicle System Dynamics, Institute of Mechanics and Mechatronics",
+    "topics": [
+      "Handling on the limits",
+      "Overactuation",
+      "Autonomous driving",
+      "Optimization and control theory"
+    ],
+    "image": "media/philipp-mandl-500x333.webp",
+    "credit": "© TU Wien, Andreas Brandstätter",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/racing/team-members/",
+    "linkedin": "https://at.linkedin.com/in/p-mandl",
+    "contributions": [
+      "Contributed to preparation and development for the ICRA 2023 race in London. Research focuses on vehicle handling, overactuation, optimization and control."
+    ],
+    "contributionSources": [
+      "https://www.tuwien.at/inf/scuderia-segfault/racing/team-members/",
+      "https://www.tuwien.at/inf/scuderia-segfault/news-detail/silver-at-11th-roboracer-autonomous-grand-prix/"
+    ],
+    "membershipSource": "Confirmed by Agnes Poks, 2026-11-02"
+  },
+  {
+    "id": "monika-farsang",
+    "name": "Monika Farsang",
+    "status": "Associated Members",
+    "bio": "PhD student at the Research Unit of Cyber-Physical Systems, Institute of Computer Engineering",
+    "topics": [
+      "Machine learning",
+      "Artificial neural networks",
+      "Bio-inspired models"
+    ],
+    "image": "media/monika-farsang-500x333.webp",
+    "credit": "© TU Wien, Andreas Brandstätter",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/racing/team-members/",
+    "linkedin": "https://linkedin.com/in/m%C3%B3nika-farsang-076953214",
+    "contributions": [
+      "Research on liquid neural networks, RGB-D perception and learning-based vehicle control.",
+      "Co-author of Depth Matters and Towards Safe Learning-Based Non-Linear Model Predictive Control."
+    ],
+    "contributionSources": [
+      "https://www.tuwien.at/inf/scuderia-segfault/racing/team-members/"
+    ],
+    "membershipSource": "Confirmed by Agnes Poks, 2026-11-02",
+    "scholar": "https://scholar.google.com/citations?user=Z8t3t7YAAAAJ&hl=en"
+  },
+  {
+    "id": "mihaela-larisa-clement",
+    "name": "Mihaela-Larisa Clement",
+    "status": "Active Team",
+    "bio": "PreDoc researcher in Cyber-Physical Systems at TU Wien · multimodal perception, machine learning and autonomous driving.",
+    "topics": [
+      "Cognitive robotics",
+      "Machine learning",
+      "Security & Explainability in ML"
+    ],
+    "image": "media/mihaela-larisa-clement-500x333.webp",
+    "credit": "© TU Wien, Andreas Brandstätter",
+    "source": "https://informatics.tuwien.ac.at/people/mihaela-larisa-clement",
+    "linkedin": null,
+    "contributions": [
+      "Master’s thesis on multimodal RGB-D autonomous agents (2025).",
+      "Co-author of work on RGB-D controllers, domain-shift generalization and RNN-based MPC."
+    ],
+    "contributionSources": [
+      "https://informatics.tuwien.ac.at/people/mihaela-larisa-clement"
+    ],
+    "membershipSource": "Confirmed by Agnes Poks, 2026-11-02"
+  },
+  {
+    "id": "mihai-teodor-stanusoiu",
+    "name": "Mihai-Teodor Stanusoiu",
+    "status": "Associated Members",
+    "bio": "Master student Computer Engineering",
+    "topics": [
+      "Neurosymbolic AI",
+      "Cognitive robotics",
+      "Hardware accelerators for machine vision tasks"
+    ],
+    "image": "media/mihai-teodor-stanusoiu-500x333.webp",
+    "credit": "© TU Wien, Andreas Brandstätter",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/racing/team-members/",
+    "linkedin": null,
+    "contributions": [
+      "Master’s thesis on biologically inspired recurrent models of partially observable system dynamics (2025).",
+      "Co-author of Evaluating Domain-Shift Generalization of Liquid Neural Networks in Autonomous Driving."
+    ],
+    "contributionSources": [
+      "https://www.tuwien.at/inf/scuderia-segfault/racing/team-members/"
+    ],
+    "membershipSource": "Confirmed by Agnes Poks, 2026-11-02"
+  },
+  {
+    "id": "philipp-gratzer",
+    "name": "Philipp Gratzer",
+    "status": "Active Team",
+    "bio": "PhD student at the Research Unit of Technical Dynamics and Vehicle System Dynamics, Institute of Mechanics and Mechatronics",
+    "topics": [
+      "Raceline Optimization",
+      "Steer-By-Wire Systems",
+      "Human Machine Interaction"
+    ],
+    "image": "media/philipp-gratzer-500x333.webp",
+    "credit": "© TU Wien, Andreas Brandstätter",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/racing/team-members/",
+    "linkedin": "https://at.linkedin.com/in/philipp-gratzer-575046222",
+    "contributions": [
+      "Member of the team competing at IROS 2024 in Abu Dhabi. Research focuses on raceline optimization, steer-by-wire systems and human–machine interaction."
+    ],
+    "contributionSources": [
+      "https://www.tuwien.at/inf/scuderia-segfault/racing/team-members/",
+      "https://www.tuwien.at/etit/etit-news/news/selbstfahrende-rennautos-2-platz-fuer-tu-wien-1"
+    ],
+    "membershipSource": "Confirmed by Agnes Poks, 2026-11-02"
+  },
+  {
+    "id": "piet-kaul",
+    "name": "Piet Kaul",
+    "status": "Active Team",
+    "bio": "Master student Automation and Robotic Systems and master student Mechanical Engineering",
+    "topics": [
+      "Surface and surroundings mapping",
+      "Reactive methods",
+      "Sensor integration and IoT implementation",
+      "Special interest: underwater robotics"
+    ],
+    "image": "media/piet-500x333.webp",
+    "credit": "© TU Wien, Piet Kaul",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/racing/team-members/",
+    "linkedin": null,
+    "contributions": [
+      "Member of the team competing at IROS 2024 in Abu Dhabi. Research interests include mapping, reactive methods and sensor integration."
+    ],
+    "contributionSources": [
+      "https://www.tuwien.at/inf/scuderia-segfault/racing/team-members/",
+      "https://www.tuwien.at/etit/etit-news/news/selbstfahrende-rennautos-2-platz-fuer-tu-wien-1"
+    ],
+    "membershipSource": "Confirmed by Agnes Poks, 2026-11-02"
+  },
+  {
+    "id": "samuel-lechner",
+    "name": "Samuel Lechner",
+    "status": "Active Team",
+    "bio": "Bachelor student Technical Mathematics",
+    "topics": [
+      "Autonomous driving"
+    ],
+    "image": "media/samuel-500x333.webp",
+    "credit": "© TU Wien, Samuel Lechner",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/racing/team-members/",
+    "linkedin": null,
+    "contributions": [],
+    "contributionSources": [
+      "https://www.tuwien.at/inf/scuderia-segfault/racing/team-members/"
+    ],
+    "membershipSource": "Confirmed by Agnes Poks, 2026-11-02"
+  },
+  {
+    "id": "nino-wegleitner",
+    "name": "Nino Wegleitner",
+    "status": "Associated Members",
+    "bio": "Master student Automation and Robotic Systems",
+    "topics": [
+      "Autonomous driving"
+    ],
+    "image": "media/nino-500x333.webp",
+    "credit": "© TU Wien, Nino Wegleitner",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/racing/team-members/",
+    "linkedin": null,
+    "contributions": [],
+    "contributionSources": [
+      "https://www.tuwien.at/inf/scuderia-segfault/racing/team-members/"
+    ],
+    "membershipSource": "Confirmed by Agnes Poks, 2026-11-02"
+  },
+  {
+    "id": "dennis-erdogan",
+    "name": "Dennis Erdogan",
+    "status": "Alumni",
+    "bio": "Scuderia Segfault alumnus · control systems engineering",
+    "topics": [],
+    "image": "media/243138-profilbild-480x333.webp",
+    "credit": "© Dennis Erdogan",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/racing/team-alumni/",
+    "linkedin": "https://uk.linkedin.com/in/denniserdogan",
+    "contributions": [
+      "Member of the Scuderia Segfault team at ICRA 2022 in Philadelphia, which achieved third place."
+    ],
+    "contributionSources": [
+      "https://www.tuwien.at/inf/scuderia-segfault/racing/team-alumni/"
+    ],
+    "membershipSource": "Confirmed by Agnes Poks, 2026-11-02"
+  },
+  {
+    "id": "mathias-lechner",
+    "name": "Mathias Lechner",
+    "status": "Alumni",
+    "bio": "Scuderia Segfault alumnus · machine learning and autonomous systems",
+    "topics": [],
+    "image": "media/1661469930476-500x333.webp",
+    "credit": "© Mathias Lechner",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/racing/team-alumni/",
+    "linkedin": "https://www.linkedin.com/in/mlech26l",
+    "contributions": [
+      "Co-author of Latent Imagination Facilitates Zero-Shot Transfer in Autonomous Racing (ICRA 2022).",
+      "Co-led the team that won the IFAC 2020 virtual autonomous racing Grand Prix."
+    ],
+    "contributionSources": [
+      "https://www.tuwien.at/inf/scuderia-segfault/racing/team-alumni/"
+    ],
+    "membershipSource": "Confirmed by Agnes Poks, 2026-11-02"
+  },
+  {
+    "id": "luigi-berducci",
+    "name": "Luigi Berducci",
+    "status": "Alumni",
+    "bio": "Scuderia Segfault alumnus · safe learning and robotics",
+    "topics": [],
+    "image": "media/alumni-luigi-500x333.webp",
+    "credit": "© Luigi Berducci",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/racing/team-alumni/",
+    "linkedin": "https://linkedin.com/in/luigi-berducci",
+    "contributions": [
+      "Research on model-based reinforcement learning, adaptive safety and multi-agent driving.",
+      "Co-author of Latent Imagination (ICRA 2022) and Scenario-Based Curriculum Generation (ICRA 2025)."
+    ],
+    "contributionSources": [
+      "https://www.tuwien.at/inf/scuderia-segfault/racing/team-alumni/"
+    ],
+    "membershipSource": "Confirmed by Agnes Poks, 2026-11-02",
+    "scholar": "https://scholar.google.com/citations?user=QP9NK-8AAAAJ"
+  }
+]

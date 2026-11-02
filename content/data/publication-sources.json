@@ -1,0 +1,1587 @@
+[
+  {
+    "id": "adaptive-control-in-autonomous-driving-via-real-time-recurrent-rl",
+    "title": "Adaptive Control in Autonomous Driving via Real-Time Recurrent RL",
+    "metadataSource": "https://monifarsang.github.io/publications/",
+    "doi": "10.48550/arXiv.2602.02236",
+    "preview": "media/publications/adaptive-control-in-autonomous-driving-via-real-time-recurrent-rl.webp",
+    "previewSource": "https://arxiv.org/pdf/2602.02236",
+    "previewPage": 2,
+    "previewKind": "Figure 1",
+    "arxiv": "https://arxiv.org/abs/2602.02236",
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "matched",
+        "checkedAt": "2026-11-02",
+        "source": "https://arxiv.org/abs/2602.02236",
+        "version": "v4"
+      }
+    }
+  },
+  {
+    "id": "cloud-based-digital-twins-for-vehicle-dynamics-control-with-application-to-lateral-stability-enhancement-2026",
+    "title": "Cloud-Based Digital Twins for Vehicle Dynamics Control With Application to Lateral Stability Enhancement",
+    "metadataSource": "https://orcid.org/0000-0001-8771-3174",
+    "doi": "10.1109/ACCESS.2025.3650253",
+    "preview": "media/publications/cloud-based-digital-twins-for-vehicle-dynamics-control-with-application-to-lateral-stability-enhancement-2026.webp",
+    "previewSource": "https://repositum.tuwien.at/bitstream/20.500.12708/227511/1/Mandl-2026-IEEE%20Access-vor.pdf",
+    "previewPage": 1,
+    "previewKind": "First-page preview",
+    "arxiv": null,
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "no_matching_arxiv_record_in_checked_sources",
+        "checkedAt": "2026-11-02"
+      }
+    }
+  },
+  {
+    "id": "enhancing-vehicle-handling-behaviour-through-overactuation-2026",
+    "title": "Enhancing vehicle handling behaviour through overactuation",
+    "metadataSource": "https://orcid.org/0000-0001-8771-3174",
+    "doi": "10.34726/hss.2026.110737",
+    "preview": "media/publications/enhancing-vehicle-handling-behaviour-through-overactuation-2026.webp",
+    "previewSource": "https://repositum.tuwien.at/bitstream/20.500.12708/227064/1/Mandl%20Philipp%20-%202026%20-%20Enhancing%20Vehicle%20Handling%20Behaviour%20through...pdf",
+    "previewPage": 13,
+    "previewKind": "Figure 1",
+    "arxiv": null,
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "no_matching_arxiv_record_in_checked_sources",
+        "checkedAt": "2026-11-02"
+      }
+    }
+  },
+  {
+    "id": "evaluating-domain-shift-generalization-of-liquid-neural-networks-in-autonomous-driving",
+    "title": "Evaluating Domain-Shift Generalization of Liquid Neural Networks in Autonomous Driving",
+    "metadataSource": "https://informatics.tuwien.ac.at/people/mihaela-larisa-clement",
+    "doi": null,
+    "preview": null,
+    "previewSource": null,
+    "previewPage": null,
+    "previewKind": null,
+    "arxiv": null,
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "no_matching_arxiv_record_in_checked_sources",
+        "checkedAt": "2026-11-02"
+      }
+    }
+  },
+  {
+    "id": "liquid-resistance-liquid-capacitance-networks-2026",
+    "title": "Liquid Resistance Liquid Capacitance Networks",
+    "metadataSource": "https://orcid.org/0009-0002-9305-6507",
+    "doi": "10.1007/978-3-032-16855-9_11",
+    "preview": "media/publications/liquid-resistance-liquid-capacitance-networks-2026.webp",
+    "previewSource": "https://arxiv.org/pdf/2403.08791",
+    "previewPage": 4,
+    "previewKind": "Figure 1",
+    "arxiv": "https://arxiv.org/abs/2403.08791",
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "matched",
+        "checkedAt": "2026-11-02",
+        "source": "https://arxiv.org/abs/2403.08791",
+        "version": "v4"
+      }
+    }
+  },
+  {
+    "id": "online-fine-tuning-of-pretrained-controllers-for-autonomous-driving-via-real-time-recurrent-rl",
+    "title": "Online Fine-Tuning of Pretrained Controllers for Autonomous Driving via Real-Time Recurrent RL",
+    "metadataSource": "https://informatics.tuwien.ac.at/people/felix-resch",
+    "doi": null,
+    "preview": null,
+    "previewSource": null,
+    "previewPage": null,
+    "previewKind": null,
+    "arxiv": null,
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "no_matching_arxiv_record_in_checked_sources",
+        "checkedAt": "2026-11-02"
+      }
+    }
+  },
+  {
+    "id": "power-optimal-torque-distribution-for-overactuated-electric-vehicles-analysis-and-experimental-validation-2026",
+    "title": "Power optimal torque distribution for overactuated electric vehicles: analysis and experimental validation",
+    "metadataSource": "https://orcid.org/0000-0001-8771-3174",
+    "doi": "10.1007/s41104-025-00164-8",
+    "preview": "media/publications/power-optimal-torque-distribution-for-overactuated-electric-vehicles-analysis-and-experimental-validation-2026.webp",
+    "previewSource": "https://repositum.tuwien.at/bitstream/20.500.12708/224160/1/Klein-2026-Automotive%20and%20Engine%20Technology-vor.pdf",
+    "previewPage": 1,
+    "previewKind": "First-page preview",
+    "arxiv": null,
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "no_matching_arxiv_record_in_checked_sources",
+        "checkedAt": "2026-11-02"
+      }
+    }
+  },
+  {
+    "id": "reshape-and-recur-improving-ssms-with-input-reshaping-and-depth-recurrence",
+    "title": "Reshape and Recur: Improving SSMs with Input Reshaping and Depth Recurrence",
+    "metadataSource": "https://monifarsang.github.io/publications/",
+    "doi": "10.48550/arXiv.2605.16048",
+    "preview": "media/publications/reshape-and-recur-improving-ssms-with-input-reshaping-and-depth-recurrence.webp",
+    "previewSource": "https://arxiv.org/pdf/2605.16048",
+    "previewPage": 3,
+    "previewKind": "Figure 1",
+    "arxiv": "https://arxiv.org/abs/2605.16048",
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "matched",
+        "checkedAt": "2026-11-02",
+        "source": "https://arxiv.org/abs/2605.16048",
+        "version": "v2"
+      }
+    }
+  },
+  {
+    "id": "riccati-state-space-models-non-iterative-parallelization-for-nonlinear-sequence-modeling",
+    "title": "Riccati State Space Models: Non-iterative Parallelization for Nonlinear Sequence Modeling",
+    "metadataSource": "https://monifarsang.github.io/publications/",
+    "doi": "10.48550/arXiv.2609.35441",
+    "preview": "media/publications/riccati-state-space-models-non-iterative-parallelization-for-nonlinear-sequence-modeling.webp",
+    "previewSource": "https://arxiv.org/pdf/2609.35441",
+    "previewPage": 4,
+    "previewKind": "Figure 1",
+    "arxiv": "https://arxiv.org/abs/2609.35441",
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "matched",
+        "checkedAt": "2026-11-02",
+        "source": "https://arxiv.org/abs/2609.35441",
+        "version": "v1"
+      }
+    }
+  },
+  {
+    "id": "roboracer-arena",
+    "title": "RoboRacer Arena: Specification-Driven Track Construction for Autonomous Racing",
+    "metadataSource": "https://arxiv.org/abs/2608.23040",
+    "doi": "10.48550/arXiv.2608.23040",
+    "preview": "media/publications/roboracer-arena.webp",
+    "previewSource": "https://arxiv.org/pdf/2608.23040",
+    "previewPage": 2,
+    "previewKind": "Figure 1",
+    "arxiv": "https://arxiv.org/abs/2608.23040",
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "matched",
+        "checkedAt": "2026-11-02",
+        "source": "https://arxiv.org/abs/2608.23040",
+        "version": "v2"
+      }
+    }
+  },
+  {
+    "id": "towards-safe-learning-based-non-linear-model-predictive-control-through-recurrent-neural-network-modeling",
+    "title": "Towards Safe Learning-Based Non-Linear Model Predictive Control through Recurrent Neural Network Modeling",
+    "metadataSource": "https://monifarsang.github.io/publications/",
+    "doi": "10.48550/arXiv.2603.24503",
+    "preview": "media/publications/towards-safe-learning-based-non-linear-model-predictive-control-through-recurrent-neural-network-modeling.webp",
+    "previewSource": "https://arxiv.org/pdf/2603.24503",
+    "previewPage": 1,
+    "previewKind": "Figure 1",
+    "arxiv": "https://arxiv.org/abs/2603.24503",
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "matched",
+        "checkedAt": "2026-11-02",
+        "source": "https://arxiv.org/abs/2603.24503",
+        "version": "v1"
+      }
+    }
+  },
+  {
+    "id": "two-degree-of-freedom-compound-split-transmission-control-for-a-helicopter-powertrain-2026",
+    "title": "Two-Degree-of-Freedom Compound Split Transmission Control for a Helicopter Powertrain",
+    "metadataSource": "https://orcid.org/0000-0002-0276-4552",
+    "doi": "10.1109/TAES.2026.3666443",
+    "preview": null,
+    "previewSource": null,
+    "previewPage": null,
+    "previewKind": null,
+    "arxiv": null,
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "no_matching_arxiv_record_in_checked_sources",
+        "checkedAt": "2026-11-02"
+      }
+    }
+  },
+  {
+    "id": "coordination-and-control-of-robotic-multi-agent-systems-in-confined-environments",
+    "title": "Coordination and control of robotic multi-agent systems in confined environments",
+    "metadataSource": "https://informatics.tuwien.ac.at/people/andreas-brandstaetter",
+    "doi": "10.34726/hss.2025.128748",
+    "preview": "media/publications/coordination-and-control-of-robotic-multi-agent-systems-in-confined-environments.webp",
+    "previewSource": "https://repositum.tuwien.at/bitstream/20.500.12708/218024/1/Brandstaetter%20Andreas%20-%202025%20-%20Coordination%20and%20Control%20of%20Robotic%20Multi-agent...pdf",
+    "previewPage": 19,
+    "previewKind": "Figure 1",
+    "arxiv": null,
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "no_matching_arxiv_record_in_checked_sources",
+        "checkedAt": "2026-11-02"
+      }
+    }
+  },
+  {
+    "id": "deploying-rgb-d-multimodal-controllers-on-resource-constrained-platforms",
+    "title": "Deploying RGB-D Multimodal Controllers on Resource-Constrained Platforms",
+    "metadataSource": "https://monifarsang.github.io/publications/",
+    "doi": null,
+    "preview": null,
+    "previewSource": null,
+    "previewPage": null,
+    "previewKind": null,
+    "arxiv": null,
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "no_matching_arxiv_record_in_checked_sources",
+        "checkedAt": "2026-11-02"
+      }
+    }
+  },
+  {
+    "id": "depth-matters-multimodal-rgb-d-perception-for-robust-autonomous-agents",
+    "title": "Depth Matters: Multimodal RGB-D Perception for Robust Autonomous Agents",
+    "metadataSource": "https://monifarsang.github.io/publications/",
+    "doi": "10.48550/arXiv.2503.16711",
+    "preview": "media/publications/depth-matters-multimodal-rgb-d-perception-for-robust-autonomous-agents.webp",
+    "previewSource": "https://arxiv.org/pdf/2503.16711",
+    "previewPage": 1,
+    "previewKind": "Figure 1",
+    "arxiv": "https://arxiv.org/abs/2503.16711",
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "matched",
+        "checkedAt": "2026-11-02",
+        "source": "https://arxiv.org/abs/2503.16711",
+        "version": "v3"
+      }
+    }
+  },
+  {
+    "id": "differential-gated-self-attention",
+    "title": "Differential Gated Self-Attention",
+    "metadataSource": "https://monifarsang.github.io/publications/",
+    "doi": "10.48550/arXiv.2505.24054",
+    "preview": "media/publications/differential-gated-self-attention.webp",
+    "previewSource": "https://arxiv.org/pdf/2505.24054",
+    "previewPage": 4,
+    "previewKind": "Figure 1",
+    "arxiv": "https://arxiv.org/abs/2505.24054",
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "matched",
+        "checkedAt": "2026-11-02",
+        "source": "https://arxiv.org/abs/2505.24054",
+        "version": "v2"
+      }
+    }
+  },
+  {
+    "id": "hprs-hierarchical-potential-based-reward-shaping-from-task-specifications",
+    "title": "HPRS: hierarchical potential-based reward shaping from task specifications",
+    "metadataSource": "https://luigiberducci.github.io/publications/",
+    "doi": "10.3389/frobt.2024.1444188",
+    "preview": "media/publications/hprs-hierarchical-potential-based-reward-shaping-from-task-specifications.webp",
+    "previewSource": "https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2024.1444188/pdf",
+    "previewPage": 3,
+    "previewKind": "Figure 1",
+    "arxiv": null,
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "no_matching_arxiv_record_in_checked_sources",
+        "checkedAt": "2026-11-02"
+      }
+    }
+  },
+  {
+    "id": "innovative-control-solutions-for-hardware-in-the-loop-engine-and-powertrain-test-beds",
+    "title": "Innovative control solutions for hardware-in-the-loop engine and powertrain test beds",
+    "metadataSource": "https://repositum.tuwien.at/handle/20.500.12708/219946",
+    "doi": "10.34726/hss.2025.133123",
+    "preview": "media/publications/innovative-control-solutions-for-hardware-in-the-loop-engine-and-powertrain-test-beds.webp",
+    "previewSource": "https://repositum.tuwien.at/bitstream/20.500.12708/219946/1/Erdogan%20Dennis%20-%202025%20-%20Innovative%20Control%20Solutions%20for%20Hardware-in-the-Loop...pdf",
+    "previewPage": 10,
+    "previewKind": "Figure 1",
+    "arxiv": null,
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "no_matching_arxiv_record_in_checked_sources",
+        "checkedAt": "2026-11-02"
+      }
+    }
+  },
+  {
+    "id": "liquid-capacitance-extended-neural-circuits-synaptic-activation-and-dual-liquid-dynamics-for-interpretable-bio-inspired-models",
+    "title": "Liquid Capacitance-Extended Neural Circuits: Synaptic Activation and Dual Liquid Dynamics for Interpretable Bio-Inspired Models",
+    "metadataSource": "https://informatics.tuwien.ac.at/people/radu-grosu",
+    "doi": null,
+    "preview": null,
+    "previewSource": null,
+    "previewPage": null,
+    "previewKind": null,
+    "arxiv": "https://arxiv.org/abs/2602.13017",
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "matched",
+        "checkedAt": "2026-11-02",
+        "source": "https://arxiv.org/abs/2602.13017",
+        "version": "v1"
+      }
+    }
+  },
+  {
+    "id": "modeling-system-dynamics-in-partially-observable-environments-using-biologically-inspired-recurrent-neural-networks",
+    "title": "Modeling system dynamics In partially-observable environments using biologically-inspired recurrent neural networks",
+    "metadataSource": "https://repositum.tuwien.at/handle/20.500.12708/216265",
+    "doi": "10.34726/hss.2025.129105",
+    "preview": "media/publications/modeling-system-dynamics-in-partially-observable-environments-using-biologically-inspired-recurrent-neural-networks.webp",
+    "previewSource": "https://repositum.tuwien.at/bitstream/20.500.12708/216265/1/Stanusoiu%20Mihai-Teodor%20-%202025%20-%20Modeling%20System%20Dynamics%20In%20Partially-Observable...pdf",
+    "previewPage": 1,
+    "previewKind": "First-page preview",
+    "arxiv": null,
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "no_matching_arxiv_record_in_checked_sources",
+        "checkedAt": "2026-11-02"
+      }
+    }
+  },
+  {
+    "id": "parallelization-of-non-linear-state-space-models-scaling-up-liquid-resistance-liquid-capacitance-networks-for-efficient-sequence-modeling",
+    "title": "Parallelization of Non-linear State-Space Models: Scaling Up Liquid-Resistance Liquid-Capacitance Networks for Efficient Sequence Modeling",
+    "metadataSource": "https://monifarsang.github.io/publications/",
+    "doi": null,
+    "preview": null,
+    "previewSource": null,
+    "previewPage": null,
+    "previewKind": null,
+    "arxiv": "https://arxiv.org/abs/2505.21717",
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "matched",
+        "checkedAt": "2026-11-02",
+        "source": "https://arxiv.org/abs/2505.21717",
+        "version": "v6"
+      }
+    }
+  },
+  {
+    "id": "predictive-control-concepts-for-electric-refrigeration-vehicles",
+    "title": "Predictive control concepts for electric refrigeration vehicles",
+    "metadataSource": "https://repositum.tuwien.at/handle/20.500.12708/214062",
+    "doi": "10.34726/hss.2025.82040",
+    "preview": "media/publications/predictive-control-concepts-for-electric-refrigeration-vehicles.webp",
+    "previewSource": "https://repositum.tuwien.at/bitstream/20.500.12708/214062/1/Poks%20Agnes%20-%202025%20-%20Energy%20management%20and%20cooling%20control%20for%20an%20electric...pdf",
+    "previewPage": 13,
+    "previewKind": "Figure 1",
+    "arxiv": null,
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "no_matching_arxiv_record_in_checked_sources",
+        "checkedAt": "2026-11-02"
+      }
+    }
+  },
+  {
+    "id": "real-time-recurrent-reinforcement-learning",
+    "title": "Real-Time Recurrent Reinforcement Learning",
+    "metadataSource": "https://informatics.tuwien.ac.at/people/radu-grosu",
+    "doi": "10.1609/aaai.v39i17.34001",
+    "preview": "media/publications/real-time-recurrent-reinforcement-learning.webp",
+    "previewSource": "https://arxiv.org/pdf/2311.04830",
+    "previewPage": 1,
+    "previewKind": "Figure 1",
+    "arxiv": "https://arxiv.org/abs/2311.04830",
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "matched",
+        "checkedAt": "2026-11-02",
+        "source": "https://arxiv.org/abs/2311.04830",
+        "version": "v3"
+      }
+    }
+  },
+  {
+    "id": "regions-of-feasible-handling-in-overactuated-vehicles-considering-actuator-sets-and-limits-2025",
+    "title": "Regions of feasible handling in overactuated vehicles considering actuator sets and limits",
+    "metadataSource": "https://orcid.org/0000-0001-8771-3174",
+    "doi": "10.1080/00423114.2025.2579863",
+    "preview": "media/publications/regions-of-feasible-handling-in-overactuated-vehicles-considering-actuator-sets-and-limits-2025.webp",
+    "previewSource": "https://repositum.tuwien.at/bitstream/20.500.12708/221446/1/Mandl-2025-Vehicle%20System%20Dynamics-vor.pdf",
+    "previewPage": 4,
+    "previewKind": "Figure 1",
+    "arxiv": null,
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "no_matching_arxiv_record_in_checked_sources",
+        "checkedAt": "2026-11-02"
+      }
+    }
+  },
+  {
+    "id": "scalable-offline-reinforcement-learning-for-mean-field-games",
+    "title": "Scalable Offline Reinforcement Learning for Mean Field Games",
+    "metadataSource": "https://informatics.tuwien.ac.at/people/radu-grosu",
+    "doi": "10.5555/3709347.3743555",
+    "preview": null,
+    "previewSource": null,
+    "previewPage": null,
+    "previewKind": null,
+    "arxiv": null,
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "no_matching_arxiv_record_in_checked_sources",
+        "checkedAt": "2026-11-02"
+      }
+    }
+  },
+  {
+    "id": "scenario-based-curriculum-generation-for-multi-agent-driving",
+    "title": "Scenario-Based Curriculum Generation for Multi-Agent Driving",
+    "metadataSource": "https://informatics.tuwien.ac.at/people/radu-grosu",
+    "doi": "10.1109/ICRA55743.2025.11128162",
+    "preview": "media/publications/scenario-based-curriculum-generation-for-multi-agent-driving.webp",
+    "previewSource": "https://arxiv.org/pdf/2403.17805",
+    "previewPage": 2,
+    "previewKind": "Figure 1",
+    "arxiv": "https://arxiv.org/abs/2403.17805",
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "matched",
+        "checkedAt": "2026-11-02",
+        "source": "https://arxiv.org/abs/2403.17805",
+        "version": "v2"
+      }
+    }
+  },
+  {
+    "id": "energy-management-in-refrigerated-electric-small-transport-a-hierarchical-approach-2024",
+    "title": "Energy Management in Refrigerated Electric Small Transport: A Hierarchical Approach",
+    "metadataSource": "https://orcid.org/0000-0002-0276-4552",
+    "doi": "10.1109/ACCESS.2024.3507673",
+    "preview": "media/publications/energy-management-in-refrigerated-electric-small-transport-a-hierarchical-approach-2024.webp",
+    "previewSource": "https://repositum.tuwien.at/bitstream/20.500.12708/210924/1/Poks-2024-IEEE%20Access-vor.pdf",
+    "previewPage": 4,
+    "previewKind": "Figure 1",
+    "arxiv": null,
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "no_matching_arxiv_record_in_checked_sources",
+        "checkedAt": "2026-11-02"
+      }
+    }
+  },
+  {
+    "id": "enhancing-controllability-and-path-tracking-with-overactuated-autonomous-vehicles-2024",
+    "title": "Enhancing Controllability and Path Tracking with Overactuated Autonomous Vehicles",
+    "metadataSource": "https://orcid.org/0000-0001-8771-3174",
+    "doi": "10.1007/978-3-031-66968-2_92",
+    "preview": null,
+    "previewSource": null,
+    "previewPage": null,
+    "previewKind": null,
+    "arxiv": null,
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "no_matching_arxiv_record_in_checked_sources",
+        "checkedAt": "2026-11-02"
+      }
+    }
+  },
+  {
+    "id": "flock-formation-control-of-multi-agent-systems-using-imperfect-relative-distance-measurements",
+    "title": "Flock-Formation Control of Multi-Agent Systems using Imperfect Relative Distance Measurements",
+    "metadataSource": "https://informatics.tuwien.ac.at/people/andreas-brandstaetter",
+    "doi": "10.1109/ICRA57147.2024.10610147",
+    "preview": null,
+    "previewSource": null,
+    "previewPage": null,
+    "previewKind": null,
+    "arxiv": null,
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "no_matching_arxiv_record_in_checked_sources",
+        "checkedAt": "2026-11-02"
+      }
+    }
+  },
+  {
+    "id": "learning-adaptive-safety-for-multi-agent-systems",
+    "title": "Learning Adaptive Safety for Multi-Agent Systems",
+    "metadataSource": "https://informatics.tuwien.ac.at/people/radu-grosu",
+    "doi": "10.1109/ICRA57147.2024.10611037",
+    "preview": "media/publications/learning-adaptive-safety-for-multi-agent-systems.webp",
+    "previewSource": "https://arxiv.org/pdf/2309.10657",
+    "previewPage": 1,
+    "previewKind": "Figure 1",
+    "arxiv": "https://arxiv.org/abs/2309.10657",
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "matched",
+        "checkedAt": "2026-11-02",
+        "source": "https://arxiv.org/abs/2309.10657",
+        "version": "v2"
+      }
+    }
+  },
+  {
+    "id": "learning-with-chemical-versus-electrical-synapses-does-it-make-a-difference",
+    "title": "Learning with Chemical versus Electrical Synapses - Does it Make a Difference?",
+    "metadataSource": "https://monifarsang.github.io/publications/",
+    "doi": "10.1109/icra57147.2024.10611016",
+    "preview": "media/publications/learning-with-chemical-versus-electrical-synapses-does-it-make-a-difference.webp",
+    "previewSource": "https://arxiv.org/pdf/2401.08602",
+    "previewPage": 4,
+    "previewKind": "Figure 1",
+    "arxiv": "https://arxiv.org/abs/2401.08602",
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "matched",
+        "checkedAt": "2026-11-02",
+        "source": "https://arxiv.org/abs/2401.08602",
+        "version": "v1"
+      }
+    }
+  },
+  {
+    "id": "liquid-resistance-liquid-capacitance-networks",
+    "title": "Liquid Resistance Liquid Capacitance Networks",
+    "metadataSource": "https://informatics.tuwien.ac.at/people/radu-grosu",
+    "doi": "10.48550/ARXIV.2403.08791",
+    "preview": "media/publications/liquid-resistance-liquid-capacitance-networks.webp",
+    "previewSource": "https://arxiv.org/pdf/2403.08791",
+    "previewPage": 4,
+    "previewKind": "Figure 1",
+    "arxiv": "https://arxiv.org/abs/2403.08791",
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "matched",
+        "checkedAt": "2026-11-02",
+        "source": "https://arxiv.org/abs/2403.08791",
+        "version": "v4"
+      }
+    }
+  },
+  {
+    "id": "mmdvs-lf-multi-modal-dynamic-vision-sensor-and-eye-tracking-dataset-for-line-following",
+    "title": "MMDVS-LF: Multi-Modal Dynamic Vision Sensor and Eye-Tracking Dataset for Line Following",
+    "metadataSource": "https://monifarsang.github.io/publications/",
+    "doi": "10.48550/arXiv.2409.18038",
+    "preview": "media/publications/mmdvs-lf-multi-modal-dynamic-vision-sensor-and-eye-tracking-dataset-for-line-following.webp",
+    "previewSource": "https://arxiv.org/pdf/2409.18038",
+    "previewPage": 1,
+    "previewKind": "Figure 1",
+    "arxiv": "https://arxiv.org/abs/2409.18038",
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "matched",
+        "checkedAt": "2026-11-02",
+        "source": "https://arxiv.org/abs/2409.18038",
+        "version": "v2"
+      }
+    }
+  },
+  {
+    "id": "speed-control-in-the-presence-of-road-obstacles-a-comparison-of-model-predictive-control-and-reinforcement-learning-2024",
+    "title": "Speed Control in the Presence of Road Obstacles: A Comparison of Model Predictive Control and Reinforcement Learning",
+    "metadataSource": "https://orcid.org/0000-0001-8771-3174",
+    "doi": "10.1007/978-3-031-70392-8_14",
+    "preview": "media/publications/speed-control-in-the-presence-of-road-obstacles-a-comparison-of-model-predictive-control-and-reinforcement-learning-2024.webp",
+    "previewSource": "https://repositum.tuwien.at/bitstream/20.500.12708/205585/1/Mandl-2024-Speed%20Control%20in%20the%20Presence%20of%20Road%20Obstacles%20A%20Comparison%20o...-vor.pdf",
+    "previewPage": 2,
+    "previewKind": "Figure 1",
+    "arxiv": null,
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "no_matching_arxiv_record_in_checked_sources",
+        "checkedAt": "2026-11-02"
+      }
+    }
+  },
+  {
+    "id": "vehicle-motion-control-for-overactuated-vehicles-to-enhance-controllability-and-path-tracking-2024",
+    "title": "Vehicle Motion Control for Overactuated Vehicles to Enhance Controllability and Path Tracking",
+    "metadataSource": "https://orcid.org/0000-0001-8771-3174",
+    "doi": "10.3390/app142210718",
+    "preview": "media/publications/vehicle-motion-control-for-overactuated-vehicles-to-enhance-controllability-and-path-tracking-2024.webp",
+    "previewSource": "https://repositum.tuwien.at/bitstream/20.500.12708/206064/1/Mandl-2024-APPLIED%20SCIENCES-BASEL-vor.pdf",
+    "previewPage": 2,
+    "previewKind": "Figure 1",
+    "arxiv": null,
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "no_matching_arxiv_record_in_checked_sources",
+        "checkedAt": "2026-11-02"
+      }
+    }
+  },
+  {
+    "id": "attention-based-neural-network-for-autonomous-driving-agents",
+    "title": "Attention based neural network for autonomous driving agents",
+    "metadataSource": "https://www.tuwien.at/inf/scuderia-segfault/research/",
+    "doi": "10.34726/hss.2023.101600",
+    "preview": "media/publications/attention-based-neural-network-for-autonomous-driving-agents.webp",
+    "previewSource": "https://repositum.tuwien.at/bitstream/20.500.12708/188073/1/Ulmer%20Stefan%20-%202023%20-%20Attention%20Based%20Neural%20Network%20for%20Autonomous%20Driving...pdf",
+    "previewPage": 22,
+    "previewKind": "Figure 1",
+    "arxiv": null,
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "no_matching_arxiv_record_in_checked_sources",
+        "checkedAt": "2026-11-02"
+      }
+    }
+  },
+  {
+    "id": "attentional-neural-network-based-dynamic-object-detection-for-autonomous-multi-agent-systems",
+    "title": "Attentional neural network based dynamic object detection for autonomous multi-agent systems",
+    "metadataSource": "https://www.tuwien.at/inf/scuderia-segfault/research/",
+    "doi": "10.34726/hss.2023.101601",
+    "preview": "media/publications/attentional-neural-network-based-dynamic-object-detection-for-autonomous-multi-agent-systems.webp",
+    "previewSource": "https://repositum.tuwien.at/bitstream/20.500.12708/188072/1/Scheuchenstuhl%20Daniel%20-%202023%20-%20Attentional%20Neural%20Network%20based%20Dynamic%20Object...pdf",
+    "previewPage": 1,
+    "previewKind": "First-page preview",
+    "arxiv": null,
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "no_matching_arxiv_record_in_checked_sources",
+        "checkedAt": "2026-11-02"
+      }
+    }
+  },
+  {
+    "id": "autonomous-racing-with-attention-based-neural-networks",
+    "title": "Autonomous racing with attention-based neural networks",
+    "metadataSource": "https://informatics.tuwien.ac.at/people/felix-resch",
+    "doi": "10.34726/hss.2023.101602",
+    "preview": "media/publications/autonomous-racing-with-attention-based-neural-networks.webp",
+    "previewSource": "https://repositum.tuwien.at/bitstream/20.500.12708/190336/1/Resch%20Felix%20-%202023%20-%20Autonomous%20racing%20with%20attention-based%20neural%20networks.pdf",
+    "previewPage": 1,
+    "previewKind": "First-page preview",
+    "arxiv": null,
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "no_matching_arxiv_record_in_checked_sources",
+        "checkedAt": "2026-11-02"
+      }
+    }
+  },
+  {
+    "id": "control-oriented-hybrid-model-of-a-small-scale-refrigerated-truck-chamber-2023",
+    "title": "Control-oriented hybrid model of a small-scale refrigerated truck chamber",
+    "metadataSource": "https://orcid.org/0000-0002-0276-4552",
+    "doi": "10.1016/j.applthermaleng.2022.119719",
+    "preview": "media/publications/control-oriented-hybrid-model-of-a-small-scale-refrigerated-truck-chamber-2023.webp",
+    "previewSource": "https://repositum.tuwien.at/bitstream/20.500.12708/139410/1/Fallmann-2023-Applied%20Thermal%20Engineering-vor.pdf",
+    "previewPage": 4,
+    "previewKind": "Figure 1",
+    "arxiv": null,
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "no_matching_arxiv_record_in_checked_sources",
+        "checkedAt": "2026-11-02"
+      }
+    }
+  },
+  {
+    "id": "energy-efficient-hybrid-model-predictive-control-of-mobile-refrigeration-systems-2023",
+    "title": "Energy-efficient hybrid model predictive control of mobile refrigeration systems",
+    "metadataSource": "https://orcid.org/0000-0002-0276-4552",
+    "doi": "10.1016/j.applthermaleng.2023.121347",
+    "preview": "media/publications/energy-efficient-hybrid-model-predictive-control-of-mobile-refrigeration-systems-2023.webp",
+    "previewSource": "https://repositum.tuwien.at/bitstream/20.500.12708/187954/4/Fallmann-2023-Applied%20Thermal%20Engineering-vor.pdf",
+    "previewPage": 4,
+    "previewKind": "Figure 1",
+    "arxiv": null,
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "no_matching_arxiv_record_in_checked_sources",
+        "checkedAt": "2026-11-02"
+      }
+    }
+  },
+  {
+    "id": "enhancing-robot-learning-through-learned-human-attention-feature-maps",
+    "title": "Enhancing Robot Learning through Learned Human-Attention Feature Maps",
+    "metadataSource": "https://www.tuwien.at/inf/scuderia-segfault/research/",
+    "doi": null,
+    "preview": "media/publications/enhancing-robot-learning-through-learned-human-attention-feature-maps.webp",
+    "previewSource": "https://arxiv.org/pdf/2308.15327",
+    "previewPage": 1,
+    "previewKind": "Figure 1",
+    "arxiv": "https://arxiv.org/abs/2308.15327",
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "matched",
+        "checkedAt": "2026-11-02",
+        "source": "https://arxiv.org/abs/2308.15327",
+        "version": "v1"
+      }
+    }
+  },
+  {
+    "id": "fault-detection-and-isolation-for-a-secondary-loop-refrigeration-system-2023",
+    "title": "Fault detection and isolation for a secondary loop refrigeration system",
+    "metadataSource": "https://orcid.org/0000-0002-0276-4552",
+    "doi": "10.1016/j.applthermaleng.2023.120277",
+    "preview": "media/publications/fault-detection-and-isolation-for-a-secondary-loop-refrigeration-system-2023.webp",
+    "previewSource": "https://repositum.tuwien.at/bitstream/20.500.12708/175786/1/Poks-2023-Applied%20Thermal%20Engineering-vor.pdf",
+    "previewPage": 3,
+    "previewKind": "Figure 1",
+    "arxiv": null,
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "no_matching_arxiv_record_in_checked_sources",
+        "checkedAt": "2026-11-02"
+      }
+    }
+  },
+  {
+    "id": "mitigating-tail-catastrophe-in-steered-database-query-optimization-with-risk-averse-contextual-bandits",
+    "title": "Mitigating Tail Catastrophe in Steered Database Query Optimization with Risk-Averse Contextual Bandits",
+    "metadataSource": "https://monifarsang.github.io/publications/",
+    "doi": null,
+    "preview": "media/publications/mitigating-tail-catastrophe-in-steered-database-query-optimization-with-risk-averse-contextual-bandits.webp",
+    "previewSource": "https://mlforsystems.org/assets/papers/neurips2023/paper8.pdf",
+    "previewPage": 4,
+    "previewKind": "Figure 1",
+    "arxiv": null,
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "no_matching_arxiv_record_in_checked_sources",
+        "checkedAt": "2026-11-02"
+      }
+    }
+  },
+  {
+    "id": "multi-agent-spatial-predictive-control-with-application-to-drone-flocking",
+    "title": "Multi-Agent Spatial Predictive Control with Application to Drone Flocking",
+    "metadataSource": "https://informatics.tuwien.ac.at/people/andreas-brandstaetter",
+    "doi": "10.1109/ICRA48891.2023.10160617",
+    "preview": null,
+    "previewSource": null,
+    "previewPage": null,
+    "previewKind": null,
+    "arxiv": null,
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "no_matching_arxiv_record_in_checked_sources",
+        "checkedAt": "2026-11-02"
+      }
+    }
+  },
+  {
+    "id": "nimbleai-towards-neuromorphic-sensing-processing-3d-integrated-chips",
+    "title": "NimbleAI: Towards Neuromorphic Sensing-Processing 3D-integrated Chips",
+    "metadataSource": "https://informatics.tuwien.ac.at/people/radu-grosu",
+    "doi": "10.23919/DATE56975.2023.10136952",
+    "preview": "media/publications/nimbleai-towards-neuromorphic-sensing-processing-3d-integrated-chips.webp",
+    "previewSource": "https://scholarlypublications.universiteitleiden.nl/download/1887/3718577/1?col=81522199340002711",
+    "previewPage": 4,
+    "previewKind": "Figure 1",
+    "arxiv": null,
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "no_matching_arxiv_record_in_checked_sources",
+        "checkedAt": "2026-11-02"
+      }
+    }
+  },
+  {
+    "id": "simulation-based-sizing-of-a-secondary-loop-cooling-system-for-a-refrigerated-vehicle-2023",
+    "title": "Simulation-Based Sizing of a Secondary Loop Cooling System for a Refrigerated Vehicle",
+    "metadataSource": "https://orcid.org/0000-0002-0276-4552",
+    "doi": "10.3390/en16186459",
+    "preview": "media/publications/simulation-based-sizing-of-a-secondary-loop-cooling-system-for-a-refrigerated-vehicle-2023.webp",
+    "previewSource": "https://repositum.tuwien.at/bitstream/20.500.12708/188604/1/Loesch-2023-Energies-vor.pdf",
+    "previewPage": 4,
+    "previewKind": "Figure 1",
+    "arxiv": null,
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "no_matching_arxiv_record_in_checked_sources",
+        "checkedAt": "2026-11-02"
+      }
+    }
+  },
+  {
+    "id": "td-magic-from-pictures-of-timing-diagrams-to-formal-specifications",
+    "title": "TD-Magic: From Pictures of Timing Diagrams To Formal Specifications",
+    "metadataSource": "https://informatics.tuwien.ac.at/people/radu-grosu",
+    "doi": "10.1109/DAC56929.2023.10247685",
+    "preview": null,
+    "previewSource": null,
+    "previewPage": null,
+    "previewKind": null,
+    "arxiv": null,
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "no_matching_arxiv_record_in_checked_sources",
+        "checkedAt": "2026-11-02"
+      }
+    }
+  },
+  {
+    "id": "a-distributed-simplex-architecture-for-multi-agent-systems",
+    "title": "A distributed simplex architecture for multi-agent systems",
+    "metadataSource": "https://informatics.tuwien.ac.at/people/radu-grosu",
+    "doi": "10.1016/j.sysarc.2022.102784",
+    "preview": null,
+    "previewSource": null,
+    "previewPage": null,
+    "previewKind": null,
+    "arxiv": null,
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "no_matching_arxiv_record_in_checked_sources",
+        "checkedAt": "2026-11-02"
+      }
+    }
+  },
+  {
+    "id": "conditionally-risk-averse-contextual-bandits",
+    "title": "Conditionally Risk-Averse Contextual Bandits",
+    "metadataSource": "https://monifarsang.github.io/publications/",
+    "doi": "10.48550/arXiv.2210.13573",
+    "preview": "media/publications/conditionally-risk-averse-contextual-bandits.webp",
+    "previewSource": "https://arxiv.org/pdf/2210.13573",
+    "previewPage": 1,
+    "previewKind": "First-page preview",
+    "arxiv": "https://arxiv.org/abs/2210.13573",
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "matched",
+        "checkedAt": "2026-11-02",
+        "source": "https://arxiv.org/abs/2210.13573",
+        "version": "v2"
+      }
+    }
+  },
+  {
+    "id": "distributed-hierarchical-control-for-multiple-refrigeration-units-2022",
+    "title": "Distributed hierarchical control for multiple refrigeration units",
+    "metadataSource": "https://orcid.org/0000-0002-0276-4552",
+    "doi": "10.1016/j.tsep.2022.101319",
+    "preview": "media/publications/distributed-hierarchical-control-for-multiple-refrigeration-units-2022.webp",
+    "previewSource": "https://repositum.tuwien.at/bitstream/20.500.12708/158287/1/Poks-2022-Thermal%20Science%20and%20Engineering%20Progress-vor.pdf",
+    "previewPage": 2,
+    "previewKind": "Figure 1",
+    "arxiv": null,
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "no_matching_arxiv_record_in_checked_sources",
+        "checkedAt": "2026-11-02"
+      }
+    }
+  },
+  {
+    "id": "dynamic-simulation-of-a-rotor-system-with-variable-speed-2022",
+    "title": "Dynamic Simulation of a Rotor System with Variable Speed",
+    "metadataSource": "https://orcid.org/0000-0002-0276-4552",
+    "doi": null,
+    "preview": null,
+    "previewSource": null,
+    "previewPage": null,
+    "previewKind": null,
+    "arxiv": null,
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "no_matching_arxiv_record_in_checked_sources",
+        "checkedAt": "2026-11-02"
+      }
+    }
+  },
+  {
+    "id": "fault-detection-and-isolation-for-a-secondary-loop-refrigeration-system-2022",
+    "title": "Fault Detection and Isolation for a Secondary Loop Refrigeration System",
+    "metadataSource": "https://orcid.org/0000-0002-0276-4552",
+    "doi": null,
+    "preview": null,
+    "previewSource": null,
+    "previewPage": null,
+    "previewKind": null,
+    "arxiv": null,
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "no_matching_arxiv_record_in_checked_sources",
+        "checkedAt": "2026-11-02"
+      }
+    }
+  },
+  {
+    "id": "hybrid-model-based-online-estimation-of-air-temperature-in-mobile-small-scale-cooling-chambers-2022",
+    "title": "Hybrid model-based online estimation of air temperature in mobile small-scale cooling chambers",
+    "metadataSource": "https://orcid.org/0000-0002-0276-4552",
+    "doi": "10.1016/j.applthermaleng.2022.118147",
+    "preview": null,
+    "previewSource": null,
+    "previewPage": null,
+    "previewKind": null,
+    "arxiv": null,
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "no_matching_arxiv_record_in_checked_sources",
+        "checkedAt": "2026-11-02"
+      }
+    }
+  },
+  {
+    "id": "kombinierte-stabilitat-von-fahrzeug-und-fahrer-versuch-und-simulation",
+    "title": "Kombinierte Stabilität von Fahrzeug und Fahrer - Versuch und Simulation",
+    "metadataSource": "https://repositum.tuwien.at/handle/20.500.12708/78129",
+    "doi": "10.34726/hss.2022.94162",
+    "preview": "media/publications/kombinierte-stabilitat-von-fahrzeug-und-fahrer-versuch-und-simulation.webp",
+    "previewSource": "https://repositum.tuwien.at/bitstream/20.500.12708/78129/1/Gratzer%20Philipp%20-%202022%20-%20Kombinierte%20Stabilitaet%20von%20Fahrzeug%20und%20Fahrer%20-...pdf",
+    "previewPage": 1,
+    "previewKind": "First-page preview",
+    "arxiv": null,
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "no_matching_arxiv_record_in_checked_sources",
+        "checkedAt": "2026-11-02"
+      }
+    }
+  },
+  {
+    "id": "latent-imagination-facilitates-zero-shot-transfer-in-autonomous-racing",
+    "title": "Latent Imagination Facilitates Zero-Shot Transfer in Autonomous Racing",
+    "metadataSource": "https://www.tuwien.at/inf/scuderia-segfault/research/",
+    "doi": "10.1109/ICRA46639.2022.9811650",
+    "preview": "media/publications/latent-imagination-facilitates-zero-shot-transfer-in-autonomous-racing.webp",
+    "previewSource": "https://arxiv.org/pdf/2103.04909",
+    "previewPage": 1,
+    "previewKind": "Figure 1",
+    "arxiv": "https://arxiv.org/abs/2103.04909",
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "matched",
+        "checkedAt": "2026-11-02",
+        "source": "https://arxiv.org/abs/2103.04909",
+        "version": "v3"
+      }
+    }
+  },
+  {
+    "id": "safe-policy-improvement-in-constrained-markov-decision-processes",
+    "title": "Safe Policy Improvement in Constrained Markov Decision Processes",
+    "metadataSource": "https://luigiberducci.github.io/publications/",
+    "doi": "10.1007/978-3-031-19849-6_21",
+    "preview": "media/publications/safe-policy-improvement-in-constrained-markov-decision-processes.webp",
+    "previewSource": "https://arxiv.org/pdf/2210.11259",
+    "previewPage": 2,
+    "previewKind": "Figure 1",
+    "arxiv": "https://arxiv.org/abs/2210.11259",
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "matched",
+        "checkedAt": "2026-11-02",
+        "source": "https://arxiv.org/abs/2210.11259",
+        "version": "v1"
+      }
+    }
+  },
+  {
+    "id": "controlling-agents-by-constrained-policy-updates",
+    "title": "Controlling Agents by Constrained Policy Updates",
+    "metadataSource": "https://monifarsang.github.io/publications/",
+    "doi": "10.52846/stccj.2021.1.2.24",
+    "preview": "media/publications/controlling-agents-by-constrained-policy-updates.webp",
+    "previewSource": "https://stccj.ucv.ro/index.php/stccj/article/download/24/16",
+    "previewPage": 2,
+    "previewKind": "Figure 1",
+    "arxiv": null,
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "no_matching_arxiv_record_in_checked_sources",
+        "checkedAt": "2026-11-02"
+      }
+    }
+  },
+  {
+    "id": "decaying-clipping-range-in-proximal-policy-optimization",
+    "title": "Decaying Clipping Range in Proximal Policy Optimization",
+    "metadataSource": "https://monifarsang.github.io/publications/",
+    "doi": "10.1109/saci51354.2021.9465602",
+    "preview": "media/publications/decaying-clipping-range-in-proximal-policy-optimization.webp",
+    "previewSource": "https://arxiv.org/pdf/2102.10456",
+    "previewPage": 2,
+    "previewKind": "Figure 1",
+    "arxiv": "https://arxiv.org/abs/2102.10456",
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "matched",
+        "checkedAt": "2026-11-02",
+        "source": "https://arxiv.org/abs/2102.10456",
+        "version": "v3"
+      }
+    }
+  },
+  {
+    "id": "flatness-based-control-of-dc-dc-converters-with-constant-power-loads-2021",
+    "title": "Flatness based control of dc-dc converters with constant power loads",
+    "metadataSource": "https://orcid.org/0000-0001-8771-3174",
+    "doi": null,
+    "preview": null,
+    "previewSource": null,
+    "previewPage": null,
+    "previewKind": null,
+    "arxiv": null,
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "no_matching_arxiv_record_in_checked_sources",
+        "checkedAt": "2026-11-02"
+      }
+    }
+  },
+  {
+    "id": "flatness-based-discrete-time-control-of-a-battery-emulator-driving-a-constant-power-load-2021",
+    "title": "Flatness-Based Discrete-Time Control of a Battery Emulator Driving a Constant Power Load",
+    "metadataSource": "https://orcid.org/0000-0001-8771-3174",
+    "doi": "10.1109/JESTPE.2021.3059917",
+    "preview": null,
+    "previewSource": null,
+    "previewPage": null,
+    "previewKind": null,
+    "arxiv": null,
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "no_matching_arxiv_record_in_checked_sources",
+        "checkedAt": "2026-11-02"
+      }
+    }
+  },
+  {
+    "id": "importance-of-environment-design-in-reinforcement-learning-a-study-of-a-robotic-environment",
+    "title": "Importance of Environment Design in Reinforcement Learning: A Study of a Robotic Environment",
+    "metadataSource": "https://arxiv.org/abs/2102.10447",
+    "doi": "10.48550/arXiv.2102.10447",
+    "preview": null,
+    "previewSource": null,
+    "previewPage": null,
+    "previewKind": null,
+    "arxiv": "https://arxiv.org/abs/2102.10447",
+    "verification": {
+      "arxiv": {
+        "status": "matched",
+        "checkedAt": "2026-11-02",
+        "source": "https://arxiv.org/abs/2102.10447",
+        "version": "v2"
+      },
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02"
+      }
+    }
+  },
+  {
+    "id": "liquid-time-constant-networks",
+    "title": "Liquid Time-Constant Networks",
+    "metadataSource": "https://informatics.tuwien.ac.at/people/radu-grosu",
+    "doi": null,
+    "preview": "media/publications/liquid-time-constant-networks.webp",
+    "previewSource": "https://arxiv.org/pdf/2006.04439",
+    "previewPage": 3,
+    "previewKind": "Figure 1",
+    "arxiv": "https://arxiv.org/abs/2006.04439",
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "matched",
+        "checkedAt": "2026-11-02",
+        "source": "https://arxiv.org/abs/2006.04439",
+        "version": "v4"
+      }
+    }
+  },
+  {
+    "id": "model-based-deep-reinforcement-learning-for-autonomous-racing",
+    "title": "Model-based deep Reinforcement learning for autonomous racing",
+    "metadataSource": "https://www.tuwien.at/inf/scuderia-segfault/research/",
+    "doi": "10.34726/hss.2021.86588",
+    "preview": "media/publications/model-based-deep-reinforcement-learning-for-autonomous-racing.webp",
+    "previewSource": "https://repositum.tuwien.at/bitstream/20.500.12708/17644/1/Brunnbauer%20Axel%20-%202021%20-%20Model-based%20deep%20Reinforcement%20learning%20for%20autonomous...pdf",
+    "previewPage": 1,
+    "previewKind": "First-page preview",
+    "arxiv": null,
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "no_matching_arxiv_record_in_checked_sources",
+        "checkedAt": "2026-11-02"
+      }
+    }
+  },
+  {
+    "id": "predictive-driver-model-for-speed-control-in-the-presence-of-road-obstacles-2021",
+    "title": "Predictive driver model for speed control in the presence of road obstacles",
+    "metadataSource": "https://orcid.org/0000-0001-8771-3174",
+    "doi": "10.34726/hss.2021.79322",
+    "preview": "media/publications/predictive-driver-model-for-speed-control-in-the-presence-of-road-obstacles-2021.webp",
+    "previewSource": "https://repositum.tuwien.at/bitstream/20.500.12708/18761/1/Mandl%20Philipp%20-%202021%20-%20Predictive%20driver%20model%20for%20speed%20control%20in%20the%20presence...pdf",
+    "previewPage": 10,
+    "previewKind": "Figure 1",
+    "arxiv": null,
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "no_matching_arxiv_record_in_checked_sources",
+        "checkedAt": "2026-11-02"
+      }
+    }
+  },
+  {
+    "id": "stability-analysis-of-a-flatness-based-controller-driving-a-battery-emulator-with-constant-power-load-2021",
+    "title": "Stability analysis of a flatness-based controller driving a battery emulator with constant power load",
+    "metadataSource": "https://orcid.org/0000-0001-8771-3174",
+    "doi": "10.1515/auto-2020-0107",
+    "preview": null,
+    "previewSource": null,
+    "previewPage": null,
+    "previewKind": null,
+    "arxiv": null,
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "no_matching_arxiv_record_in_checked_sources",
+        "checkedAt": "2026-11-02"
+      }
+    }
+  },
+  {
+    "id": "a-natural-lottery-ticket-winner-reinforcement-learning-with-ordinary-neural-circuits",
+    "title": "A Natural Lottery Ticket Winner: Reinforcement Learning with Ordinary Neural Circuits",
+    "metadataSource": "https://informatics.tuwien.ac.at/people/radu-grosu",
+    "doi": null,
+    "preview": null,
+    "previewSource": null,
+    "previewPage": null,
+    "previewKind": null,
+    "arxiv": null,
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "no_matching_arxiv_record_in_checked_sources",
+        "checkedAt": "2026-11-02"
+      }
+    }
+  },
+  {
+    "id": "model-predictive-temperature-control-for-a-food-transporter-with-door-openings-2020",
+    "title": "Model predictive temperature control for a food transporter with door-openings",
+    "metadataSource": "https://orcid.org/0000-0002-0276-4552",
+    "doi": "10.23919/SICEISCS48470.2020.9083491",
+    "preview": null,
+    "previewSource": null,
+    "previewPage": null,
+    "previewKind": null,
+    "arxiv": null,
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "no_matching_arxiv_record_in_checked_sources",
+        "checkedAt": "2026-11-02"
+      }
+    }
+  },
+  {
+    "id": "neural-circuit-policies-enabling-auditable-autonomy",
+    "title": "Neural Circuit Policies Enabling Auditable Autonomy",
+    "metadataSource": "https://informatics.tuwien.ac.at/people/radu-grosu",
+    "doi": "10.1038/s42256-020-00237-3",
+    "preview": null,
+    "previewSource": null,
+    "previewPage": null,
+    "previewKind": null,
+    "arxiv": null,
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "no_matching_arxiv_record_in_checked_sources",
+        "checkedAt": "2026-11-02"
+      }
+    }
+  },
+  {
+    "id": "wholistic-simulation-of-an-all-electric-refrigerated-delivery-vehicle-2020",
+    "title": "Wholistic simulation of an all-electric refrigerated delivery vehicle",
+    "metadataSource": "https://orcid.org/0000-0002-0276-4552",
+    "doi": "10.23919/SICEISCS48470.2020.9083498",
+    "preview": null,
+    "previewSource": null,
+    "previewPage": null,
+    "previewKind": null,
+    "arxiv": null,
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "no_matching_arxiv_record_in_checked_sources",
+        "checkedAt": "2026-11-02"
+      }
+    }
+  },
+  {
+    "id": "argesim-benchmark-c11-scara-robot-comparison-of-basic-implementations-in-excel-and-matlab-2019",
+    "title": "ARGESIM Benchmark C11 ’SCARA Robot’: Comparison of Basic Implementations in EXCEL and MATLAB",
+    "metadataSource": "https://orcid.org/0000-0001-8771-3174",
+    "doi": "10.11128/sne.29.bne11.10488",
+    "preview": "media/publications/argesim-benchmark-c11-scara-robot-comparison-of-basic-implementations-in-excel-and-matlab-2019.webp",
+    "previewSource": "https://www.sne-journal.org/fileadmin/user_upload_sne/SNE_Issues_OA/SNE_29_3/articles/sne.29.3.10488.bne11.OA.pdf",
+    "previewPage": 1,
+    "previewKind": "Figure 1",
+    "arxiv": null,
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "no_matching_arxiv_record_in_checked_sources",
+        "checkedAt": "2026-11-02"
+      }
+    }
+  }
+]

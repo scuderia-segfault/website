@@ -1,0 +1,932 @@
+[
+  {
+    "file": "media/car21-drive.webp",
+    "source": "https://drive.google.com/file/d/1-iy5lDlgvvt2ifwHZnSSeah0sFO19Jye/view",
+    "credit": "Scuderia Segfault / team archive",
+    "alt": "Scuderia Segfault car in the autonomous racing lab"
+  },
+  {
+    "file": "media/felix-resch-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2025/03/felix-resch-500x333.jpg",
+    "credit": "© TU Wien, Andreas Brandstätter",
+    "alt": "Felix Resch"
+  },
+  {
+    "file": "media/moritz-christamentl-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2025/03/moritz-christamentl-500x333.jpg",
+    "credit": "© TU Wien, Andreas Brandstätter",
+    "alt": "Moritz Christamentl"
+  },
+  {
+    "file": "media/andreas-brandstaetter-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2025/03/andreas-brandstaetter-500x333.jpg",
+    "credit": "© TU Wien, Elisa Di Cristo",
+    "alt": "Andreas Brandstätter"
+  },
+  {
+    "file": "media/agnes-poks-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2025/03/agnes-poks-500x333.jpg",
+    "credit": "© TU Wien, Andreas Brandstätter",
+    "alt": "Agnes Poks"
+  },
+  {
+    "file": "media/philipp-mandl-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2025/03/philipp-mandl-500x333.jpg",
+    "credit": "© TU Wien, Andreas Brandstätter",
+    "alt": "Philipp Mandl"
+  },
+  {
+    "file": "media/monika-farsang-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2025/03/monika-farsang-500x333.jpg",
+    "credit": "© TU Wien, Andreas Brandstätter",
+    "alt": "Monika Farsang"
+  },
+  {
+    "file": "media/mihaela-larisa-clement-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2025/03/mihaela-larisa-clement-500x333.jpg",
+    "credit": "© TU Wien, Andreas Brandstätter",
+    "alt": "Mihaela-Larisa Clement"
+  },
+  {
+    "file": "media/mihai-teodor-stanusoiu-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2025/03/mihai-teodor-stanusoiu-500x333.jpg",
+    "credit": "© TU Wien, Andreas Brandstätter",
+    "alt": "Mihai-Teodor Stanusoiu"
+  },
+  {
+    "file": "media/philipp-gratzer-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2025/03/philipp-gratzer-500x333.jpg",
+    "credit": "© TU Wien, Andreas Brandstätter",
+    "alt": "Philipp Gratzer"
+  },
+  {
+    "file": "media/piet-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2025/03/piet-500x333.jpg",
+    "credit": "© TU Wien, Piet Kaul",
+    "alt": "Piet Kaul"
+  },
+  {
+    "file": "media/samuel-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2025/03/samuel-500x333.jpg",
+    "credit": "© TU Wien, Samuel Lechner",
+    "alt": "Samuel Lechner"
+  },
+  {
+    "file": "media/nino-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2025/03/nino-500x333.jpg",
+    "credit": "© TU Wien, Nino Wegleitner",
+    "alt": "Nino Wegleitner"
+  },
+  {
+    "file": "media/243138-profilbild-480x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2023/09/243138-profilbild-480x333.jpeg",
+    "credit": "© Dennis Erdogan",
+    "alt": "Dennis Erdogan"
+  },
+  {
+    "file": "media/1661469930476-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2023/09/1661469930476-500x333.jpeg",
+    "credit": "© Mathias Lechner",
+    "alt": "Mathias Lechner"
+  },
+  {
+    "file": "media/alumni-luigi-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2025/07/alumni-luigi-500x333.jpg",
+    "credit": "© Luigi Berducci",
+    "alt": "Luigi Berducci"
+  },
+  {
+    "file": "media/aau-tech-forum-2025-riccio-537.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2025/06/aau-tech-forum-2025-riccio-537.jpg",
+    "credit": "© Elsner/riccio.at",
+    "alt": "Scuderia Segfault at TechForum Millstatt"
+  },
+  {
+    "file": "media/group-picture-icra2025.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2025/06/group-picture-icra2025.jpg",
+    "credit": "© Nicolas Baumann, ETH Zürich",
+    "alt": "Group picture at ICRA 2025"
+  },
+  {
+    "file": "media/aau-tech-forum-2025-riccio-537-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2025/06/aau-tech-forum-2025-riccio-537-500x333.jpg",
+    "credit": "",
+    "alt": "Scuderia Segfault at TechForum Millstatt"
+  },
+  {
+    "file": "media/logo-liquid-2024-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/05/logo-liquid-2024-500x333.png",
+    "credit": "",
+    "alt": "Logo of Liquid AI"
+  },
+  {
+    "file": "media/ai-festival-group-picture-03122025-bearbeitet-2-cut-scaled.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2025/12/ai-festival-group-picture-03122025-bearbeitet-2-cut-scaled.jpg",
+    "credit": "© TU Wien, Ida Gjergji",
+    "alt": "Group picture of team members at AI festival with two model racing cars"
+  },
+  {
+    "file": "media/img-6414-scaled.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2025/06/img-6414-scaled.jpg",
+    "credit": "© Kaan Ugur, TU Wien",
+    "alt": "Group picture of Team LAMARRacing and Team Scuderia Segfault"
+  },
+  {
+    "file": "media/logo-nimble-ai-2024-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/10/logo-nimble-ai-2024-500x333.png",
+    "credit": "",
+    "alt": "Logo of NimbleAI"
+  },
+  {
+    "file": "media/p1033298.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2026/03/p1033298.jpg",
+    "credit": "© Felix Jahncke, TU Munich",
+    "alt": "Group picture"
+  },
+  {
+    "file": "media/aau-tech-forum-2025-riccio-616-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2025/06/aau-tech-forum-2025-riccio-616-500x333.jpg",
+    "credit": "",
+    "alt": "Interactive presentation"
+  },
+  {
+    "file": "media/img-20251203-103525-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2025/12/img-20251203-103525-500x333.jpg",
+    "credit": "",
+    "alt": "Screen, racing cars on the track and sign of AI festival in the background."
+  },
+  {
+    "file": "media/img-20250403-102912-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2025/06/img-20250403-102912-500x333.jpg",
+    "credit": "",
+    "alt": "Presentation by Team LAMARRacing"
+  },
+  {
+    "file": "media/logo2026-knapp-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2026/03/logo2026-knapp-500x333.jpg",
+    "credit": "",
+    "alt": "Logo of KNAPP"
+  },
+  {
+    "file": "media/logo-htu-2024-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/05/logo-htu-2024-500x333.png",
+    "credit": "",
+    "alt": "Logo of HTU"
+  },
+  {
+    "file": "media/aau-tech-forum-2025-riccio-620-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2025/06/aau-tech-forum-2025-riccio-620-500x333.jpg",
+    "credit": "",
+    "alt": "Model race car research platform"
+  },
+  {
+    "file": "media/logo2026-tuwien-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2026/03/logo2026-tuwien-500x333.jpg",
+    "credit": "",
+    "alt": "Logo of TU Wien"
+  },
+  {
+    "file": "media/img-20251203-104313-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2025/12/img-20251203-104313-500x333.jpg",
+    "credit": "",
+    "alt": "Screen, racing car and sign of AI festival in the background."
+  },
+  {
+    "file": "media/img-20250403-102030-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2025/06/img-20250403-102030-500x333.jpg",
+    "credit": "",
+    "alt": "Presentation by Team Scuderia Segfault"
+  },
+  {
+    "file": "media/logo-magna-2024-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/05/logo-magna-2024-500x333.png",
+    "credit": "",
+    "alt": "Logo of Magna"
+  },
+  {
+    "file": "media/logo2026-informatics-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2026/03/logo2026-informatics-500x333.jpg",
+    "credit": "",
+    "alt": "Logo of TU Wien Informatics"
+  },
+  {
+    "file": "media/aau-tech-forum-2025-riccio-622-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2025/06/aau-tech-forum-2025-riccio-622-500x333.jpg",
+    "credit": "",
+    "alt": "Participants driving remotely"
+  },
+  {
+    "file": "media/img-20251203-104347-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2025/12/img-20251203-104347-500x333.jpg",
+    "credit": "",
+    "alt": "Two racing cars driving on the track."
+  },
+  {
+    "file": "media/img-20250404-180953-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2025/06/img-20250404-180953-500x333.jpg",
+    "credit": "",
+    "alt": "Model Race Cars of Team LAMARRacing and Team Scuderia Segfault"
+  },
+  {
+    "file": "media/logo2026-htu-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2026/03/logo2026-htu-500x333.jpg",
+    "credit": "",
+    "alt": "Logo of HTU"
+  },
+  {
+    "file": "media/dsc-6472-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2025/06/dsc-6472-500x333.jpg",
+    "credit": "",
+    "alt": "Team members are preparing the model race car and the software"
+  },
+  {
+    "file": "media/aau-tech-forum-2025-riccio-625-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2025/06/aau-tech-forum-2025-riccio-625-500x333.jpg",
+    "credit": "",
+    "alt": "Interactive presentation"
+  },
+  {
+    "file": "media/img-20251203-122723-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2025/12/img-20251203-122723-500x333.jpg",
+    "credit": "",
+    "alt": "Racing car on the track on the ground with people looking at it."
+  },
+  {
+    "file": "media/img-6414-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2025/06/img-6414-500x333.jpg",
+    "credit": "",
+    "alt": "Group picture of Team LAMARRacing and Team Scuderia Segfault"
+  },
+  {
+    "file": "media/logo2026-qualisys-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2026/03/logo2026-qualisys-500x333.jpg",
+    "credit": "",
+    "alt": "Logo of Qualisys"
+  },
+  {
+    "file": "media/dsc-6438-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2025/06/dsc-6438-500x333.jpg",
+    "credit": "",
+    "alt": "Team members are preparing the model race car and the software"
+  },
+  {
+    "file": "media/logo2026-magna-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2026/03/logo2026-magna-500x333.jpg",
+    "credit": "",
+    "alt": "Logo of Magna"
+  },
+  {
+    "file": "media/img-20251203-134746-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2025/12/img-20251203-134746-500x333.jpg",
+    "credit": "",
+    "alt": "Racing car on the track on the ground with people looking at it."
+  },
+  {
+    "file": "media/aau-tech-forum-2025-riccio-641-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2025/06/aau-tech-forum-2025-riccio-641-500x333.jpg",
+    "credit": "",
+    "alt": "Model race cars on the track"
+  },
+  {
+    "file": "media/img-20250521-152115-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2025/06/img-20250521-152115-500x333.jpg",
+    "credit": "",
+    "alt": "Team members are preparing the model race car and the software"
+  },
+  {
+    "file": "media/logo2026-ffg-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2026/03/logo2026-ffg-500x333.jpg",
+    "credit": "",
+    "alt": "Logo of FFG"
+  },
+  {
+    "file": "media/img-20251203-140117-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2025/12/img-20251203-140117-500x333.jpg",
+    "credit": "",
+    "alt": "Team member talks to visitors and shows a racing car"
+  },
+  {
+    "file": "media/aau-tech-forum-2025-riccio-642-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2025/06/aau-tech-forum-2025-riccio-642-500x333.jpg",
+    "credit": "",
+    "alt": "Demonstration of autonomous cars"
+  },
+  {
+    "file": "media/signal-2025-03-10-17-15-57-998-cut.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2025/03/signal-2025-03-10-17-15-57-998-cut.jpg",
+    "credit": "© BeSt study fair team",
+    "alt": "Representatives of Team Scuderia Segfault at BeSt study faire"
+  },
+  {
+    "file": "media/ai-festival-group-picture-03122025-bearbeitet-2-cut-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2025/12/ai-festival-group-picture-03122025-bearbeitet-2-cut-500x333.jpg",
+    "credit": "",
+    "alt": "Group picture of team members at AI festival with two model racing cars"
+  },
+  {
+    "file": "media/whatsapp-image-2025-03-12-at-154229-15-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2025/03/whatsapp-image-2025-03-12-at-154229-15-500x333.jpeg",
+    "credit": "",
+    "alt": "Representatives of Team Scuderia Segfault at BeSt study faire"
+  },
+  {
+    "file": "media/whatsapp-image-2025-03-12-at-154229-1-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2025/03/whatsapp-image-2025-03-12-at-154229-1-500x333.jpeg",
+    "credit": "",
+    "alt": "Representatives of Team Scuderia Segfault at BeSt study faire"
+  },
+  {
+    "file": "media/whatsapp-image-2025-03-12-at-154229-19-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2025/03/whatsapp-image-2025-03-12-at-154229-19-500x333.jpeg",
+    "credit": "",
+    "alt": "Representatives of Team Scuderia Segfault at BeSt study faire"
+  },
+  {
+    "file": "media/whatsapp-image-2025-03-12-at-154229-24-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2025/03/whatsapp-image-2025-03-12-at-154229-24-500x333.jpeg",
+    "credit": "",
+    "alt": "Information at BeSt study faire"
+  },
+  {
+    "file": "media/54165996001-0cd34fc524-o-scaled.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/12/54165996001-0cd34fc524-o-scaled.jpg",
+    "credit": "© TEDxTUWien, Oana Ianovici",
+    "alt": "Team member show our work at TEDxTUWien"
+  },
+  {
+    "file": "media/whatsapp-image-2025-03-12-at-153930-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2025/03/whatsapp-image-2025-03-12-at-153930-500x333.jpeg",
+    "credit": "",
+    "alt": "Representatives of Team Scuderia Segfault and TU Wien Racing Team at BeSt study faire"
+  },
+  {
+    "file": "media/pxl-20241124-152601277-cut-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/12/pxl-20241124-152601277-cut-500x333.jpg",
+    "credit": "",
+    "alt": "Presentation of our work at TEDxTUWien"
+  },
+  {
+    "file": "media/img-20241219-175706-cut.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/12/img-20241219-175706-cut.jpg",
+    "credit": "© CDC2024 event team",
+    "alt": "Participants of our team at CDC2024"
+  },
+  {
+    "file": "media/logo-liquid-2024-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/05/logo-liquid-2024-500x333.png",
+    "credit": "",
+    "alt": "Logo of Liquid AI"
+  },
+  {
+    "file": "media/54165996001-0cd34fc524-o-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/12/54165996001-0cd34fc524-o-500x333.jpg",
+    "credit": "",
+    "alt": "Team member show our work at TEDxTUWien"
+  },
+  {
+    "file": "media/logo-ttech-auto-2025-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/12/logo-ttech-auto-2025-500x333.png",
+    "credit": "",
+    "alt": "Logo of TTTech Auto"
+  },
+  {
+    "file": "media/logo-nimble-ai-2024-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/10/logo-nimble-ai-2024-500x333.png",
+    "credit": "",
+    "alt": "Logo of NimbleAI"
+  },
+  {
+    "file": "media/logo-htu-2024-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/05/logo-htu-2024-500x333.png",
+    "credit": "",
+    "alt": "Logo of HTU"
+  },
+  {
+    "file": "media/logo-magna-2024-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/05/logo-magna-2024-500x333.png",
+    "credit": "",
+    "alt": "Logo of Magna"
+  },
+  {
+    "file": "media/group-picture-iros2024.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/11/group-picture-iros2024.jpg",
+    "credit": "© TU Wien, Moritz Christamentl",
+    "alt": "Participants of our team at IROS2024"
+  },
+  {
+    "file": "media/logo-liquid-2024-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/05/logo-liquid-2024-500x333.png",
+    "credit": "",
+    "alt": "Logo of Liquid AI"
+  },
+  {
+    "file": "media/54166306224-e95f775040-o-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/12/54166306224-e95f775040-o-500x333.jpg",
+    "credit": "",
+    "alt": "Model race car on a table"
+  },
+  {
+    "file": "media/img-20240724-162036.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2025/01/img-20240724-162036.jpg",
+    "credit": "© TU Wien, Andreas Brandstätter",
+    "alt": "Group picture with professor and students"
+  },
+  {
+    "file": "media/logo-ttech-auto-2024-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/05/logo-ttech-auto-2024-500x333.png",
+    "credit": "",
+    "alt": "Logo of TTTech Auto"
+  },
+  {
+    "file": "media/logo-nimble-ai-2024-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/10/logo-nimble-ai-2024-500x333.png",
+    "credit": "",
+    "alt": "Logo of NimbleAI"
+  },
+  {
+    "file": "media/logo-htu-2024-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/05/logo-htu-2024-500x333.png",
+    "credit": "",
+    "alt": "Logo of HTU"
+  },
+  {
+    "file": "media/logo-magna-2024-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/05/logo-magna-2024-500x333.png",
+    "credit": "",
+    "alt": "Logo of Magna"
+  },
+  {
+    "file": "media/dsc-5771-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/12/dsc-5771-500x333.jpg",
+    "credit": "",
+    "alt": "Preparations of the car for the race"
+  },
+  {
+    "file": "media/54165117627-eb8d2b3504-o-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/12/54165117627-eb8d2b3504-o-500x333.jpg",
+    "credit": "",
+    "alt": "Team member show our work at TEDxTUWien"
+  },
+  {
+    "file": "media/img-20240724-160752-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2025/01/img-20240724-160752-500x333.jpg",
+    "credit": "",
+    "alt": "Professor and students discussing. Model racing car in the front."
+  },
+  {
+    "file": "media/dsc-5349-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/10/dsc-5349-500x333.jpg",
+    "credit": "",
+    "alt": "Team working on the race software"
+  },
+  {
+    "file": "media/dsc-5772-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/12/dsc-5772-500x333.jpg",
+    "credit": "",
+    "alt": "Race car while checking all components"
+  },
+  {
+    "file": "media/54165993261-e102eddf3b-o-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/12/54165993261-e102eddf3b-o-500x333.jpg",
+    "credit": "",
+    "alt": "TEDxTUWien stage in Kuppelsaal"
+  },
+  {
+    "file": "media/img-20240724-160916-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2025/01/img-20240724-160916-500x333.jpg",
+    "credit": "",
+    "alt": "Professor and students discussing. Model racing car in the front."
+  },
+  {
+    "file": "media/img-20240627-155458-e.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/06/img-20240627-155458-e.jpg",
+    "credit": "© TU Wien, Andreas Brandstätter",
+    "alt": "Group picture of students and instructors at the final race at the end of the semester"
+  },
+  {
+    "file": "media/dsc-5456-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/10/dsc-5456-500x333.jpg",
+    "credit": "",
+    "alt": "Replacing hardware components of the race car"
+  },
+  {
+    "file": "media/pxl-20241124-135806298-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/12/pxl-20241124-135806298-500x333.jpg",
+    "credit": "",
+    "alt": "Presentation of our work at TEDxTUWien"
+  },
+  {
+    "file": "media/img-20240724-161018-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2025/01/img-20240724-161018-500x333.jpg",
+    "credit": "",
+    "alt": "Professor and students discussing. Model racing car in the front."
+  },
+  {
+    "file": "media/img-20240627-103018-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/06/img-20240627-103018-500x333.jpg",
+    "credit": "",
+    "alt": "Students working on the cars at the race track"
+  },
+  {
+    "file": "media/img-20240724-162036-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2025/01/img-20240724-162036-500x333.jpg",
+    "credit": "",
+    "alt": "Group picture with professor and students"
+  },
+  {
+    "file": "media/img-20240627-152025-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/06/img-20240627-152025-500x333.jpg",
+    "credit": "",
+    "alt": "Cars racing autonomously on the race track"
+  },
+  {
+    "file": "media/img-20240627-155445-e-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/06/img-20240627-155445-e-500x333.jpg",
+    "credit": "",
+    "alt": "Group picture of students and instructors at the final race at the end of the semester"
+  },
+  {
+    "file": "media/signal-2024-11-13-14-00-28-573.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/11/signal-2024-11-13-14-00-28-573.jpg",
+    "credit": "© TU Wien, Elisa Di Cristo",
+    "alt": "Presentation of team Scuderia Segfault in seminar room"
+  },
+  {
+    "file": "media/img-20240627-155458-e-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/06/img-20240627-155458-e-500x333.jpg",
+    "credit": "",
+    "alt": "Group picture of students and instructors at the final race at the end of the semester"
+  },
+  {
+    "file": "media/dsc-3712.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/05/dsc-3712.jpg",
+    "credit": "© Marcell Balogh, Budapest University of Technology and Economics",
+    "alt": "Group picture at ICRA2024"
+  },
+  {
+    "file": "media/logo-liquid-2024-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/05/logo-liquid-2024-500x333.png",
+    "credit": "",
+    "alt": "Logo of Liquid AI"
+  },
+  {
+    "file": "media/logo-ttech-auto-2024-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/05/logo-ttech-auto-2024-500x333.png",
+    "credit": "",
+    "alt": "Logo of TTTech Auto"
+  },
+  {
+    "file": "media/logo-htu-2024-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/05/logo-htu-2024-500x333.png",
+    "credit": "",
+    "alt": "Logo of HTU"
+  },
+  {
+    "file": "media/logo-magna-2024-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/05/logo-magna-2024-500x333.png",
+    "credit": "",
+    "alt": "Logo of Magna"
+  },
+  {
+    "file": "media/signal-2024-11-13-14-00-28-573-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/11/signal-2024-11-13-14-00-28-573-500x333.jpg",
+    "credit": "",
+    "alt": "Presentation of team Scuderia Segfault in seminar room"
+  },
+  {
+    "file": "media/dsc-3908-scaled.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/05/dsc-3908-scaled.jpg",
+    "credit": "© TU Wien, Elisa Di Cristo",
+    "alt": "Two model race cars on the demonstration track"
+  },
+  {
+    "file": "media/dsc-3712-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/05/dsc-3712-500x333.jpg",
+    "credit": "",
+    "alt": "Group picture at ICRA2024"
+  },
+  {
+    "file": "media/signal-2024-11-13-14-00-28-573-1-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/11/signal-2024-11-13-14-00-28-573-1-500x333.jpg",
+    "credit": "",
+    "alt": "Model race car at demo race track with race algorithm slide in the background"
+  },
+  {
+    "file": "media/dsc-3821-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/05/dsc-3821-500x333.jpg",
+    "credit": "",
+    "alt": "Two model race cars on the demonstration track"
+  },
+  {
+    "file": "media/dsc-3539-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/05/dsc-3539-500x333.jpg",
+    "credit": "",
+    "alt": "Model race car"
+  },
+  {
+    "file": "media/signal-2024-11-13-14-00-28-573-2-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/11/signal-2024-11-13-14-00-28-573-2-500x333.jpg",
+    "credit": "",
+    "alt": "Team members explaining race algorithm details"
+  },
+  {
+    "file": "media/dsc-3908-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/05/dsc-3908-500x333.jpg",
+    "credit": "",
+    "alt": "Two model race cars on the demonstration track"
+  },
+  {
+    "file": "media/dsc-3542-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/05/dsc-3542-500x333.jpg",
+    "credit": "",
+    "alt": "Software adjustments"
+  },
+  {
+    "file": "media/signal-2024-11-13-14-00-28-573-3-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/11/signal-2024-11-13-14-00-28-573-3-500x333.jpg",
+    "credit": "",
+    "alt": "Model race car at demo race track"
+  },
+  {
+    "file": "media/dsc-3839-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/05/dsc-3839-500x333.jpg",
+    "credit": "",
+    "alt": "Child steering model race car"
+  },
+  {
+    "file": "media/img-20231002-133045-cut-scaled.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2023/10/img-20231002-133045-cut-scaled.jpg",
+    "credit": "© TU Wien, Elisa Di Cristo",
+    "alt": "Students holding two racing cars, standing behind a table with several robots"
+  },
+  {
+    "file": "media/dsc-3874-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/05/dsc-3874-500x333.jpg",
+    "credit": "",
+    "alt": "Two model race cars on the demonstration track"
+  },
+  {
+    "file": "media/img-20231002-133045-cut-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2023/10/img-20231002-133045-cut-500x333.jpg",
+    "credit": "",
+    "alt": "Students holding two racing cars, standing behind a table with several robots"
+  },
+  {
+    "file": "media/dsc-3918-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/05/dsc-3918-500x333.jpg",
+    "credit": "",
+    "alt": "Children steering model race car"
+  },
+  {
+    "file": "media/img-20231002-141634-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2023/10/img-20231002-141634-500x333.jpg",
+    "credit": "",
+    "alt": "Autonomous racing car on demonstration track in lab room"
+  },
+  {
+    "file": "media/dsc-3950-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/05/dsc-3950-500x333.jpg",
+    "credit": "",
+    "alt": "Explaining car components"
+  },
+  {
+    "file": "media/group-picture-modified1.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2023/09/group-picture-modified1.jpg",
+    "credit": "© ML Contests, mlcontests.com",
+    "alt": "Group picture of the team with cars and trophy"
+  },
+  {
+    "file": "media/img-20231002-142514-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2023/10/img-20231002-142514-500x333.jpg",
+    "credit": "",
+    "alt": "racing car, rover, bird-shaped robot, some quadcopters, and several computing platforms on a table"
+  },
+  {
+    "file": "media/dsc-3954-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2024/05/dsc-3954-500x333.jpg",
+    "credit": "",
+    "alt": "Cars on the demonstration track and explaining their actions"
+  },
+  {
+    "file": "media/logo-ttech-auto-2023-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2023/09/logo-ttech-auto-2023-500x333.png",
+    "credit": "",
+    "alt": "Logo of TTTechAuto"
+  },
+  {
+    "file": "media/logo-magna-2023-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2023/09/logo-magna-2023-500x333.png",
+    "credit": "",
+    "alt": "Logo of Magna"
+  },
+  {
+    "file": "media/group-picture-modified1-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2023/09/group-picture-modified1-500x333.jpg",
+    "credit": "",
+    "alt": "Group picture of the team with cars and trophy"
+  },
+  {
+    "file": "media/img-20220909-134811-scaled.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2022/09/img-20220909-134811-scaled.jpg",
+    "credit": "© TU Wien, Andreas Brandstätter",
+    "alt": "Group picture of students at Forschungsfest with two racing cars"
+  },
+  {
+    "file": "media/gopr0844-scaled.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2022/07/gopr0844-scaled.jpg",
+    "credit": "© TU Wien, Andreas Brandstätter",
+    "alt": "Group picture of students, guests with racing cars on the race track"
+  },
+  {
+    "file": "media/f1tenth2023-racing-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2023/09/f1tenth2023-racing-500x333.jpg",
+    "credit": "",
+    "alt": "Team member of Scuderia Segfault with car during the race."
+  },
+  {
+    "file": "media/img-20220909-134811-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2022/09/img-20220909-134811-500x333.jpg",
+    "credit": "",
+    "alt": "Group picture of students at Forschungsfest with two racing cars"
+  },
+  {
+    "file": "media/gopr0844-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2022/07/gopr0844-500x333.jpg",
+    "credit": "",
+    "alt": "Group picture of students, guests with racing cars on the race track"
+  },
+  {
+    "file": "media/f1tenth2023-working1-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2023/09/f1tenth2023-working1-500x333.jpg",
+    "credit": "",
+    "alt": "Students working on notebook, with another student and a model car in the background"
+  },
+  {
+    "file": "media/group-picture.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2023/09/group-picture.jpg",
+    "credit": "© TU Wien, Andreas Brandstätter",
+    "alt": "Students of TU Wien with cars and trophy"
+  },
+  {
+    "file": "media/img-20220909-120124-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2022/09/img-20220909-120124-500x333.jpg",
+    "credit": "",
+    "alt": "Forschungsfest banner at entrance of Rathaus"
+  },
+  {
+    "file": "media/gopr0765-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2023/09/gopr0765-500x333.jpg",
+    "credit": "",
+    "alt": "People working on race car"
+  },
+  {
+    "file": "media/logo-ttech-auto-2022-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2023/09/logo-ttech-auto-2022-500x333.png",
+    "credit": "",
+    "alt": "Logo of TTTechAuto"
+  },
+  {
+    "file": "media/f1tenth2023-working2-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2023/09/f1tenth2023-working2-500x333.jpg",
+    "credit": "",
+    "alt": "Student working on race car"
+  },
+  {
+    "file": "media/img-20220909-131605-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2022/09/img-20220909-131605-500x333.jpg",
+    "credit": "",
+    "alt": "Person sitting at a steering wheel"
+  },
+  {
+    "file": "media/gopr0678-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2023/09/gopr0678-500x333.jpg",
+    "credit": "",
+    "alt": "Students working on notebook with race car"
+  },
+  {
+    "file": "media/logo-htu-2022-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2023/09/logo-htu-2022-500x333.png",
+    "credit": "",
+    "alt": "Logo of HTU"
+  },
+  {
+    "file": "media/f1tenth2023-working3-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2023/09/f1tenth2023-working3-500x333.jpg",
+    "credit": "",
+    "alt": "Students working on hardware of race car"
+  },
+  {
+    "file": "media/img-20220909-155106-cut-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2022/09/img-20220909-155106-cut-500x333.jpg",
+    "credit": "",
+    "alt": "Model race car on the track at Rathaus"
+  },
+  {
+    "file": "media/gopr0674-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2023/09/gopr0674-500x333.jpg",
+    "credit": "",
+    "alt": "Students working on notebooks"
+  },
+  {
+    "file": "media/foto-sejkot-ciirc-ctu-dsc6154-scaled.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2023/09/foto-sejkot-ciirc-ctu-dsc6154-scaled.jpg",
+    "credit": "© Roman Sejkot / CIIRC CTU, CVUT, Praha",
+    "alt": "Team of TU Wien after the competition with cars and trophy"
+  },
+  {
+    "file": "media/group-picture-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2023/09/group-picture-500x333.jpg",
+    "credit": "",
+    "alt": "Students of TU Wien with cars and trophy"
+  },
+  {
+    "file": "media/img-20220909-155121-cut-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2022/09/img-20220909-155121-cut-500x333.jpg",
+    "credit": "",
+    "alt": "Model racing car on the floor"
+  },
+  {
+    "file": "media/g0090699-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2023/09/g0090699-500x333.jpg",
+    "credit": "",
+    "alt": "Two race cars on the race track"
+  },
+  {
+    "file": "media/foto-sejkot-ciirc-ctu-dsc6154-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2023/09/foto-sejkot-ciirc-ctu-dsc6154-500x333.jpg",
+    "credit": "",
+    "alt": "Team of TU Wien after the competition with cars and trophy"
+  },
+  {
+    "file": "media/adjustments-on-car-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2023/09/adjustments-on-car-500x333.jpg",
+    "credit": "",
+    "alt": "Student checking car hardware components"
+  },
+  {
+    "file": "media/csm-f1track-5799c5fddb.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2020/07/csm-f1track-5799c5fddb.jpg",
+    "credit": "",
+    "alt": "Virtual race track and symbolic picture of racing car"
+  },
+  {
+    "file": "media/img-20220909-180500-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2022/09/img-20220909-180500-500x333.jpg",
+    "credit": "",
+    "alt": "Visualization of environmental perception on a screen"
+  },
+  {
+    "file": "media/g0060655-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2023/09/g0060655-500x333.jpg",
+    "credit": "",
+    "alt": "Student working on notebook with race car"
+  },
+  {
+    "file": "media/car-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2023/09/car-500x333.jpg",
+    "credit": "",
+    "alt": "Model race car of TU Wien"
+  },
+  {
+    "file": "media/gopr0172-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2023/09/gopr0172-500x333.jpg",
+    "credit": "",
+    "alt": "Students replacing tyres of the racing car"
+  },
+  {
+    "file": "media/gopr0811-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2023/09/gopr0811-500x333.jpg",
+    "credit": "",
+    "alt": "Race track in Kuppelsaal"
+  },
+  {
+    "file": "media/gopr0164-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2023/09/gopr0164-500x333.jpg",
+    "credit": "",
+    "alt": "Students working on the model racing car"
+  },
+  {
+    "file": "media/working-software-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2023/09/working-software-500x333.jpg",
+    "credit": "",
+    "alt": "Students of TU Wien working on notebooks"
+  },
+  {
+    "file": "media/gopr0243-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2023/09/gopr0243-500x333.jpg",
+    "credit": "",
+    "alt": "Two model race cars"
+  },
+  {
+    "file": "media/gopr0189-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2023/09/gopr0189-500x333.jpg",
+    "credit": "",
+    "alt": "Students discussing strategy"
+  },
+  {
+    "file": "media/gopr0265-1-500x333.webp",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/wp-content/uploads/2023/09/gopr0265-1-500x333.jpg",
+    "credit": "",
+    "alt": "Students at table with model racing car and notebooks"
+  }
+]

@@ -1,0 +1,527 @@
+[
+  {
+    "id": "aida",
+    "title": "AIDA",
+    "subtitle": "AI-Driven Distributed Autonomy",
+    "period": "2026–2029 · FWF PAT3743226",
+    "category": "Distributed autonomy",
+    "status": "Funded project",
+    "image": "media/car21-drive.webp",
+    "summary": "Connecting vehicle dynamics, learning and distributed decision-making across autonomous vehicles.",
+    "body": [
+      "AIDA investigates distributed learning and coordination for connected autonomous vehicles. The project brings together recurrent neural networks and state-space models, model predictive control, reinforcement learning and language-assisted planning.",
+      "The research connects small-scale RoboRacer experiments with vehicle-dynamics modeling and validation. It is led by Agnes Poks at TU Wien, with scientific collaboration across Technical Dynamics and Vehicle System Dynamics and Cyber-Physical Systems.",
+      "The project plan covers November 2026 to April 2029. The public FWF record lists grant PAT3743226; the research is presented here as funded work, without claiming completed outcomes."
+    ],
+    "people": [
+      "Agnes Poks",
+      "Felix Resch",
+      "Monika Farsang",
+      "Radu Grosu"
+    ],
+    "keywords": [
+      "Towards Safe Learning-Based",
+      "Adaptive Control",
+      "Domain-Shift"
+    ],
+    "videos": [],
+    "sources": [
+      {
+        "label": "FWF project record",
+        "url": "https://www.fwf.ac.at/en/research-radar/10.55776/PAT3743226"
+      }
+    ],
+    "imageCredit": "Scuderia Segfault / team archive",
+    "imageCaption": "RoboRacer platform in the lab"
+  },
+  {
+    "id": "adex",
+    "title": "ADEX",
+    "subtitle": "Autonomous-Driving Examiner",
+    "period": "2020–2024 · FFG",
+    "category": "Safe learning",
+    "status": "Completed funded project",
+    "image": "media/publications/hprs-hierarchical-potential-based-reward-shaping-from-task-specifications.webp",
+    "summary": "A historical autonomous-driving research project connecting scenario generation, formal task specifications and safe learning.",
+    "body": [
+      "ADEX — Autonomous-Driving Examiner — ran from 2020 to 2024 with support from the Austrian Research Promotion Agency (FFG).",
+      "The TU Wien research record connects ADEX to work on scenario-based curriculum generation for multi-agent driving, hierarchical potential-based reward shaping and safe policy improvement. Related racing research was also acknowledged in the report on the 2021 Grand Prix victory.",
+      "The publications and demonstration below preserve these research outputs. The separate curriculum and reward-shaping pages provide a closer look at individual lines of work."
+    ],
+    "people": [
+      "Radu Grosu",
+      "Luigi Berducci",
+      "Axel Brunnbauer",
+      "Dejan Ničković"
+    ],
+    "keywords": [
+      "Scenario-Based Curriculum",
+      "HPRS:",
+      "Safe Policy Improvement",
+      "TD-Magic:"
+    ],
+    "videos": [
+      "FbDVjWtRwrE"
+    ],
+    "sources": [
+      {
+        "label": "TU Wien project record",
+        "url": "https://repositum.tuwien.at/cris/project/pj08925"
+      },
+      {
+        "label": "Research group bibliography",
+        "url": "https://ti.tuwien.ac.at/cps/people/radu-grosu/"
+      }
+    ],
+    "imageCredit": "From the linked publication · 2025",
+    "imageCaption": "Figure 1 · HPRS: hierarchical potential-based reward shaping from task specifications",
+    "imageSource": "https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2024.1444188/pdf"
+  },
+  {
+    "id": "roboracer-arena",
+    "title": "RoboRacer Arena",
+    "subtitle": "Specification-driven track construction for autonomous racing",
+    "period": "2026 · preprint submitted to ICRA 2027",
+    "category": "Simulation",
+    "status": "Research project",
+    "image": "media/publications/roboracer-arena.webp",
+    "imageCaption": "Figure 1 · RoboRacer Arena pipeline",
+    "imageCredit": "Clement, Poks & Bartocci (2026)",
+    "imageSource": "https://arxiv.org/abs/2608.23040",
+    "summary": "A pipeline connecting track requirements to validated maps, Isaac Sim environments and evaluation on the physical racing platform.",
+    "body": [
+      "RoboRacer Arena treats track geometry as an experimental variable. The pipeline turns requirements into closed-loop layouts, validates occupancy maps and generates simulation assets.",
+      "The research connects a reference collection of 130 tracks with Isaac Sim environments and a reconstructed vehicle asset. It supports policy training and evaluation across different track geometries.",
+      "The 2026 preprint by Mihaela-Larisa Clement, Agnes Poks and Ezio Bartocci reports both simulation and physical-vehicle experiments. It was submitted to ICRA 2027; this page does not present it as an accepted conference paper."
+    ],
+    "people": [
+      "Mihaela-Larisa Clement",
+      "Agnes Poks",
+      "Ezio Bartocci"
+    ],
+    "keywords": [
+      "RoboRacer Arena"
+    ],
+    "videos": [],
+    "sources": [
+      {
+        "label": "Current paper and abstract",
+        "url": "https://arxiv.org/abs/2608.23040"
+      }
+    ]
+  },
+  {
+    "id": "latent-imagination",
+    "title": "Latent Imagination",
+    "subtitle": "Learning to race before meeting the real track",
+    "period": "2021–2022 · ICRA 2022",
+    "category": "World models",
+    "status": "Research archive",
+    "image": "media/publications/latent-imagination-facilitates-zero-shot-transfer-in-autonomous-racing.webp",
+    "summary": "Model-based reinforcement learning and zero-shot transfer from simulation to a physical racing car.",
+    "body": [
+      "Latent Imagination studies how an autonomous racing policy can learn using a compact model of its environment, then transfer to a physical vehicle without additional training on the real track.",
+      "The work links a learned latent world model with actor–critic learning. The published ICRA 2022 paper and the accompanying demonstration document the approach and its transfer to autonomous racing.",
+      "The archive includes the original research video, a paper presentation and the preceding master’s thesis on model-based deep reinforcement learning."
+    ],
+    "people": [
+      "Axel Brunnbauer",
+      "Luigi Berducci",
+      "Andreas Brandstätter",
+      "Mathias Lechner",
+      "Ramin Hasani",
+      "Daniela Rus",
+      "Radu Grosu"
+    ],
+    "keywords": [
+      "Latent Imagination",
+      "Model-based deep"
+    ],
+    "videos": [
+      "IlN3vJxC30w",
+      "AKYUsuFpPto"
+    ],
+    "sources": [
+      {
+        "label": "Paper and DOI",
+        "url": "https://doi.org/10.1109/ICRA46639.2022.9811650"
+      },
+      {
+        "label": "Open-source implementation",
+        "url": "https://github.com/CPS-TUWien/latent-imagination"
+      }
+    ],
+    "imageCredit": "From the linked publication · 2022",
+    "imageCaption": "Figure 1 · Latent Imagination Facilitates Zero-Shot Transfer in Autonomous Racing",
+    "imageSource": "https://arxiv.org/pdf/2103.04909"
+  },
+  {
+    "id": "human-attention",
+    "title": "Learning from Human Attention",
+    "subtitle": "Where a driver looks, and what an agent learns",
+    "period": "2023 · ICRA RAP4Robots",
+    "category": "Perception",
+    "status": "Research archive",
+    "image": "media/publications/attention-based-neural-network-for-autonomous-driving-agents.webp",
+    "summary": "Human-attention feature maps for robot learning, object detection and autonomous racing.",
+    "body": [
+      "This research explores learned human-attention feature maps as an input to robot learning. It asks how information about visually relevant regions can help autonomous agents.",
+      "The 2023 workshop paper is accompanied by three completed master’s theses: attention-based driving agents, dynamic object detection for autonomous multi-agent systems, and attention-based autonomous racing.",
+      "Together, these outputs document a line of work connecting perception and learning to the racing platform."
+    ],
+    "people": [
+      "Daniel Scheuchenstuhl",
+      "Stefan Ulmer",
+      "Felix Resch",
+      "Luigi Berducci",
+      "Radu Grosu"
+    ],
+    "keywords": [
+      "Human-Attention",
+      "Attention Based Neural",
+      "Attentional Neural",
+      "attention-based neural"
+    ],
+    "videos": [],
+    "sources": [
+      {
+        "label": "Open paper",
+        "url": "https://arxiv.org/abs/2308.15327"
+      }
+    ],
+    "imageCredit": "From the linked publication · 2023",
+    "imageCaption": "Figure 1 · Attention based neural network for autonomous driving agents",
+    "imageSource": "https://repositum.tuwien.at/bitstream/20.500.12708/188073/1/Ulmer%20Stefan%20-%202023%20-%20Attention%20Based%20Neural%20Network%20for%20Autonomous%20Driving...pdf"
+  },
+  {
+    "id": "rgb-d",
+    "title": "Depth Matters",
+    "subtitle": "Multimodal perception for autonomous agents",
+    "period": "2025–2026",
+    "category": "Perception",
+    "status": "Research collection",
+    "image": "media/publications/depth-matters-multimodal-rgb-d-perception-for-robust-autonomous-agents.webp",
+    "summary": "Combining color and depth for robust autonomous driving, with deployment on resource-constrained platforms.",
+    "body": [
+      "Depth Matters studies multimodal RGB-D perception for autonomous agents. The work combines visual appearance and depth information and investigates robustness in learned controllers.",
+      "A companion workshop paper addresses deployment of RGB-D multimodal controllers on resource-constrained platforms. Mihaela-Larisa Clement’s 2025 master’s thesis documents the development of multimodal RGB-D driving agents.",
+      "Subsequent research investigates how liquid neural networks generalize when the driving environment changes. Papers, thesis and workshop records are linked below."
+    ],
+    "people": [
+      "Mihaela-Larisa Clement",
+      "Monika Farsang",
+      "Felix Resch",
+      "Mihai-Teodor Stanusoiu",
+      "Radu Grosu",
+      "Ezio Bartocci"
+    ],
+    "keywords": [
+      "Depth Matters",
+      "RGB-D",
+      "Domain-Shift"
+    ],
+    "videos": [],
+    "sources": [
+      {
+        "label": "Depth Matters preprint",
+        "url": "https://arxiv.org/abs/2503.16711"
+      }
+    ],
+    "imageCredit": "From the linked publication · 2025",
+    "imageCaption": "Figure 1 · Depth Matters: Multimodal RGB-D Perception for Robust Autonomous Agents",
+    "imageSource": "https://arxiv.org/pdf/2503.16711"
+  },
+  {
+    "id": "learning-based-mpc",
+    "title": "Learning-Based MPC",
+    "subtitle": "Learned dynamics. Predictive control.",
+    "period": "2025–2026",
+    "category": "Control",
+    "status": "Research collection",
+    "image": "media/publications/towards-safe-learning-based-non-linear-model-predictive-control-through-recurrent-neural-network-modeling.webp",
+    "summary": "Recurrent neural models of vehicle dynamics as a basis for nonlinear model predictive control.",
+    "body": [
+      "This research connects recurrent neural network modeling with nonlinear model predictive control. It studies how learned dynamics can support autonomous driving while accounting for the demands of predictive control.",
+      "The 2026 preprint Towards Safe Learning-Based Non-Linear Model Predictive Control through Recurrent Neural Network Modeling documents this line of work. A related completed thesis studies system dynamics in partially observable environments with biologically inspired recurrent networks.",
+      "The Scuderia MPC and vehicle-dynamics activities connect learning-based models with physical vehicles and track experiments."
+    ],
+    "people": [
+      "Mihaela-Larisa Clement",
+      "Monika Farsang",
+      "Agnes Poks",
+      "Johannes Edelmann",
+      "Manfred Plöchl",
+      "Radu Grosu",
+      "Ezio Bartocci"
+    ],
+    "keywords": [
+      "Towards Safe Learning-Based",
+      "Modeling System Dynamics"
+    ],
+    "videos": [],
+    "sources": [
+      {
+        "label": "Research preprint",
+        "url": "https://doi.org/10.48550/arXiv.2603.24503"
+      }
+    ],
+    "imageCredit": "From the linked publication · 2026",
+    "imageCaption": "Figure 1 · Towards Safe Learning-Based Non-Linear Model Predictive Control through Recurrent Neural Network Modeling",
+    "imageSource": "https://arxiv.org/pdf/2603.24503"
+  },
+  {
+    "id": "adaptive-control",
+    "title": "Adaptive Recurrent Control",
+    "subtitle": "Controllers that keep learning",
+    "period": "2025–2026",
+    "category": "Control",
+    "status": "Research collection",
+    "image": "media/publications/adaptive-control-in-autonomous-driving-via-real-time-recurrent-rl.webp",
+    "summary": "Real-time recurrent reinforcement learning and online fine-tuning of pretrained autonomous driving controllers.",
+    "body": [
+      "Real-time recurrent reinforcement learning addresses adaptation in sequential decision-making. In autonomous driving, the research investigates online fine-tuning of pretrained controllers.",
+      "The work is documented in an AAAI 2025 paper, a 2026 driving preprint and a workshop contribution at ICLR 2026. The records distinguish published proceedings, workshop papers and preprints."
+    ],
+    "people": [
+      "Julian Lemmel",
+      "Felix Resch",
+      "Monika Farsang",
+      "Ramin Hasani",
+      "Daniela Rus",
+      "Radu Grosu"
+    ],
+    "keywords": [
+      "Recurrent Reinforcement",
+      "Adaptive Control",
+      "Online Fine-Tuning"
+    ],
+    "videos": [],
+    "sources": [
+      {
+        "label": "Driving preprint",
+        "url": "https://doi.org/10.48550/arXiv.2602.02236"
+      }
+    ],
+    "imageCredit": "From the linked publication · 2026",
+    "imageCaption": "Figure 1 · Adaptive Control in Autonomous Driving via Real-Time Recurrent RL",
+    "imageSource": "https://arxiv.org/pdf/2602.02236"
+  },
+  {
+    "id": "adaptive-safety",
+    "title": "Learning Adaptive Safety",
+    "subtitle": "Safety in multi-agent environments",
+    "period": "2024 · ICRA",
+    "category": "Safe learning",
+    "status": "Research archive",
+    "image": "media/publications/learning-adaptive-safety-for-multi-agent-systems.webp",
+    "summary": "Learning safety-aware behavior in multi-agent systems, with a research demonstration and open paper.",
+    "body": [
+      "Learning Adaptive Safety for Multi-Agent Systems studies the relationship between learning, safety and interactions with other agents.",
+      "The ICRA 2024 work is documented in the linked paper and research video. A related workshop contribution considers safe learning under assumptions in human–robot systems."
+    ],
+    "people": [
+      "Luigi Berducci",
+      "Shuo Yang",
+      "Rahul Mangharam",
+      "Radu Grosu"
+    ],
+    "keywords": [
+      "Learning Adaptive Safety",
+      "Safe Learning under Assumptions"
+    ],
+    "videos": [
+      "NDOsWzt1xWo"
+    ],
+    "sources": [
+      {
+        "label": "Open paper",
+        "url": "https://arxiv.org/abs/2309.10657"
+      },
+      {
+        "label": "Project page",
+        "url": "https://luigiberducci.github.io/research/asrl.html"
+      }
+    ],
+    "imageCredit": "From the linked publication · 2024",
+    "imageCaption": "Figure 1 · Learning Adaptive Safety for Multi-Agent Systems",
+    "imageSource": "https://arxiv.org/pdf/2309.10657"
+  },
+  {
+    "id": "curriculum-driving",
+    "title": "Multi-Agent Driving Curricula",
+    "subtitle": "Learning from increasingly challenging scenarios",
+    "period": "2025 · ICRA",
+    "category": "Safe learning",
+    "status": "Research archive",
+    "image": "media/publications/scenario-based-curriculum-generation-for-multi-agent-driving.webp",
+    "summary": "Scenario-based curriculum generation for multi-agent driving.",
+    "body": [
+      "Scenario-Based Curriculum Generation for Multi-Agent Driving studies how training scenarios can be organized to support learning in interactive driving environments.",
+      "The ICRA 2025 paper links autonomous driving, curriculum learning and multi-agent systems. The source record associates this work with the ADEX project (2020–2024)."
+    ],
+    "people": [
+      "Axel Brunnbauer",
+      "Luigi Berducci",
+      "Peter Priller",
+      "Dejan Ničković",
+      "Radu Grosu"
+    ],
+    "keywords": [
+      "Scenario-Based Curriculum"
+    ],
+    "videos": [],
+    "sources": [
+      {
+        "label": "Publication DOI",
+        "url": "https://doi.org/10.1109/ICRA55743.2025.11128162"
+      }
+    ],
+    "imageCredit": "From the linked publication · 2025",
+    "imageCaption": "Figure 1 · Scenario-Based Curriculum Generation for Multi-Agent Driving",
+    "imageSource": "https://arxiv.org/pdf/2403.17805"
+  },
+  {
+    "id": "reward-shaping",
+    "title": "HPRS",
+    "subtitle": "Reward shaping from task specifications",
+    "period": "2022–2025",
+    "category": "Safe learning",
+    "status": "Research archive",
+    "image": "media/publications/hprs-hierarchical-potential-based-reward-shaping-from-task-specifications.webp",
+    "summary": "Hierarchical potential-based reward shaping for learning agents, with an original demonstration.",
+    "body": [
+      "HPRS explores how task specifications can guide reinforcement learning through hierarchical potential-based reward shaping.",
+      "The archive connects the original demonstration to the publication listed in the author-maintained bibliography. A separate 2022 paper studies safe policy improvement in constrained Markov decision processes."
+    ],
+    "people": [
+      "Edgar A. Aguilar",
+      "Luigi Berducci",
+      "Axel Brunnbauer",
+      "Radu Grosu",
+      "Dejan Ničković"
+    ],
+    "keywords": [
+      "Reward Shaping",
+      "Safe Policy Improvement"
+    ],
+    "videos": [
+      "FbDVjWtRwrE"
+    ],
+    "sources": [
+      {
+        "label": "Project page",
+        "url": "https://sites.google.com/view/hprewardshaping/"
+      }
+    ],
+    "imageCredit": "From the linked publication · 2025",
+    "imageCaption": "Figure 1 · HPRS: hierarchical potential-based reward shaping from task specifications",
+    "imageSource": "https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2024.1444188/pdf"
+  },
+  {
+    "id": "mmdvs-lf",
+    "title": "MMDVS-LF",
+    "subtitle": "Dynamic vision meets human attention",
+    "period": "2025",
+    "category": "Perception",
+    "status": "Research archive",
+    "image": "media/publications/mmdvs-lf-multi-modal-dynamic-vision-sensor-and-eye-tracking-dataset-for-line-following.webp",
+    "summary": "A multimodal dynamic vision sensor and eye-tracking dataset for line following.",
+    "body": [
+      "MMDVS-LF documents a multimodal dataset combining dynamic vision sensing and eye tracking for line following.",
+      "The work connects event-based perception and human visual attention with autonomous agent research. The linked preprint provides the dataset description and experimental context."
+    ],
+    "people": [
+      "Felix Resch",
+      "Monika Farsang",
+      "Radu Grosu"
+    ],
+    "keywords": [
+      "MMDVS-LF"
+    ],
+    "videos": [],
+    "sources": [
+      {
+        "label": "Dataset paper",
+        "url": "https://arxiv.org/abs/2409.18038"
+      }
+    ],
+    "imageCredit": "From the linked publication · 2025",
+    "imageCaption": "Figure 1 · MMDVS-LF: Multi-Modal Dynamic Vision Sensor and Eye-Tracking Dataset for Line Following",
+    "imageSource": "https://arxiv.org/pdf/2409.18038"
+  },
+  {
+    "id": "liquid-neural-networks",
+    "title": "Liquid Neural Networks",
+    "subtitle": "Bio-inspired models for sequential decision-making",
+    "period": "2020–2026",
+    "category": "Neural models",
+    "status": "Research collection",
+    "image": "media/publications/liquid-resistance-liquid-capacitance-networks-2026.webp",
+    "summary": "From neural circuit policies and liquid time-constant networks to scalable liquid-resistance and liquid-capacitance models.",
+    "body": [
+      "This collection brings together the bio-inspired neural network research that informs autonomous-agent work around Scuderia Segfault.",
+      "The archive includes Neural Circuit Policies, Liquid Time-Constant Networks, research on chemical and electrical synapses, and liquid-resistance/liquid-capacitance models. More recent preprints investigate efficient sequence modeling and state-space models.",
+      "These are related research outputs rather than a single funded project. Each publication retains its own year, source and publication type."
+    ],
+    "people": [
+      "Monika Farsang",
+      "Mathias Lechner",
+      "Ramin Hasani",
+      "Daniela Rus",
+      "Radu Grosu"
+    ],
+    "keywords": [
+      "Liquid",
+      "Neural Circuit",
+      "Chemical versus",
+      "Riccati",
+      "Reshape and Recur"
+    ],
+    "videos": [],
+    "sources": [
+      {
+        "label": "Author bibliography",
+        "url": "https://monifarsang.github.io/publications/"
+      }
+    ],
+    "imageCredit": "From the linked publication · 2026",
+    "imageCaption": "Figure 1 · Liquid Resistance Liquid Capacitance Networks",
+    "imageSource": "https://arxiv.org/pdf/2403.08791"
+  },
+  {
+    "id": "nimble-ai",
+    "title": "NimbleAI",
+    "subtitle": "Neuromorphic sensing and processing at the endpoint",
+    "period": "2022–2026 · European Commission",
+    "category": "Neural models",
+    "status": "Related funded project",
+    "image": "media/publications/nimbleai-towards-neuromorphic-sensing-processing-3d-integrated-chips.webp",
+    "summary": "A related Cyber-Physical Systems project on energy-efficient neuromorphic sensing and processing.",
+    "body": [
+      "NimbleAI is a related Cyber-Physical Systems research project on ultra-energy-efficient and secure neuromorphic sensing and processing at the endpoint. The TU Wien project record lists the period 2022–2026.",
+      "Felix Resch and Radu Grosu are among the authors of the DATE 2023 publication NimbleAI: Towards Neuromorphic Sensing-Processing 3D-integrated Chips. This page connects that documented contribution to the wider research context of event-based sensing.",
+      "The photograph shows the Scuderia racing platform as context; it is not presented as a NimbleAI project deliverable."
+    ],
+    "people": [
+      "Felix Resch",
+      "Radu Grosu"
+    ],
+    "keywords": [
+      "NimbleAI:"
+    ],
+    "videos": [],
+    "sources": [
+      {
+        "label": "TU Wien project record",
+        "url": "https://tiss.tuwien.ac.at/fpl/project/index.xhtml?id=2142106"
+      },
+      {
+        "label": "Publication DOI",
+        "url": "https://doi.org/10.23919/DATE56975.2023.10136952"
+      }
+    ],
+    "imageCredit": "From the linked publication · 2023",
+    "imageCaption": "Figure 1 · NimbleAI: Towards Neuromorphic Sensing-Processing 3D-integrated Chips",
+    "imageSource": "https://scholarlypublications.universiteitleiden.nl/download/1887/3718577/1?col=81522199340002711"
+  }
+]

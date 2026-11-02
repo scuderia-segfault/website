@@ -1,0 +1,1159 @@
+[
+  {
+    "id": "aida-phd-distributed-autonomy",
+    "type": "PhD",
+    "title": "PhD in Real-Time LLM-Based Distributed Autonomy for Safety-Critical Autonomous Driving (AIDA)",
+    "summary": "Small language models for real-time planning, shared fleet memory and safety-aware distributed vehicle coordination.",
+    "status": "Open",
+    "project": "aida",
+    "topics": [
+      "Small Language Models",
+      "Autonomous Driving",
+      "Distributed AI",
+      "Episodic Memory",
+      "Real-Time Systems",
+      "FWF"
+    ],
+    "tasks": [
+      "Investigate real-time edge reasoning with compact small language models.",
+      "Design selective fleet episodic memory and experience retrieval.",
+      "Study communication-aware distributed planning and safe fallback mechanisms.",
+      "Evaluate in simulation and on RoboRacer platforms."
+    ],
+    "background": [
+      "Master’s degree or equivalent in a relevant field.",
+      "Strong background in control, machine learning, autonomous systems or related methods."
+    ],
+    "subject": "Application — AIDA PhD",
+    "source": "https://www.trustcps.eu/join.html",
+    "sourceLabel": "TrustCPS AIDA call",
+    "contact": "joinus@trustcps.eu",
+    "sections": [
+      {
+        "heading": "The position",
+        "paragraphs": [
+          "Within the AIDA project (AI-Driven Distributed Autonomy, FWF), you will investigate how Small Language Models (SLMs) can support real-time high-level planning and coordination in safety-critical autonomous driving systems — combining distributed AI planning, communication-aware coordination, and safety-aware integration with vehicle control.A key focus is experience-based autonomy: instead of storing all data, vehicles selectively retain novel, surprising, or safety-relevant episodes in a shared fleet memory. Similar past cases are then retrieved to support decisions in unfamiliar situations.Research directions include: real-time edge reasoning with compact SLMs; selective fleet episodic memory design; distributed planning under communication constraints; and timing/safety analysis with runtime monitoring and safe fallback mechanisms. Evaluation will use simulation and TU Wien autonomous platforms (RoboRacer), with potential extension to full-scale vehicle experiments."
+        ]
+      },
+      {
+        "heading": "Appointment and supervision",
+        "paragraphs": [
+          "Duration: 30 months. Working time: 40h/week. Start: To be confirmed.",
+          "Supervisor: Ezio Bartocci. Co-supervisor: Agnes Poks — Project PI (TU Wien)."
+        ]
+      },
+      {
+        "heading": "How to apply",
+        "paragraphs": [
+          "Send a CV, a one-page motivation letter, degree transcripts and contact details of two academic referees to joinus@trustcps.eu. Refer to the original call for current application details."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "surface-aware-minimum-time-raceline-optimization-on-three-dimensional-tracks",
+    "type": "Project Work",
+    "title": "Surface-Aware Minimum-Time Raceline Optimization on Three-Dimensional Tracks",
+    "summary": "Extending the existing two-dimensional optimizer with elevation, banking, gravity, and geometry-dependent vehicle limits",
+    "status": "Open",
+    "project": "learning-based-mpc",
+    "topics": [
+      "Autonomous racing",
+      "6–12 ECTS"
+    ],
+    "tasks": [
+      "Review and document the existing raceline implementation together with its original developer.",
+      "Derive a suitable 3D track representation containing centerline position, width, elevation, local orientation, curvature, and banking.",
+      "Extend the vehicle constraints and optimization formulation to account for gravity projection and geometry-dependent acceleration limits.",
+      "Compare the resulting method with the current 2D optimizer and an available TUM three-dimensional racing-line implementation.",
+      "Validate the approach on controlled non-planar track sections in simulation and, where practical, on the 1:10 platform."
+    ],
+    "background": [
+      "Background in mechanical engineering, control, robotics, or computational engineering.",
+      "Understanding of vehicle dynamics, optimal control, and numerical optimization.",
+      "Python, MATLAB, CasADi, or C++ experience; knowledge of differential geometry is useful but not required."
+    ],
+    "subject": "Thesis enquiry — Surface-Aware Minimum-Time Raceline Optimization on Three-Dimensional Tracks",
+    "source": "https://www.trustcps.eu/join.html",
+    "sections": [
+      {
+        "heading": "Overview",
+        "paragraphs": [
+          "Extending the existing two-dimensional optimizer with elevation, banking, gravity, and geometry-dependent vehicle limits"
+        ]
+      },
+      {
+        "heading": "Background and Motivation",
+        "paragraphs": [
+          "The current raceline-generation tool represents the track in two dimensions. This is appropriate for a nearly planar surface, but it cannot represent elevation changes, banking, off-camber turns, or the resulting changes in gravity and normal load. These effects alter the feasible acceleration envelope and may change both the optimal path and speed profile.",
+          "With a 3D LiDAR and an appropriate mapping pipeline, the track can instead be represented as a three-dimensional road. This thesis investigates how such a representation can be incorporated into the existing raceline optimizer. The work should build directly on the current implementation and be compared with the three-dimensional racing-planning tools developed at the Technical University of Munich.",
+          "Objective and Scope: The goal is to extend the existing raceline optimizer to compute dynamically feasible minimum-time trajectories on a track with measurable elevation or banking."
+        ]
+      },
+      {
+        "heading": "Tasks",
+        "paragraphs": [
+          "Review and document the existing raceline implementation together with its original developer.",
+          "Derive a suitable 3D track representation containing centerline position, width, elevation, local orientation, curvature, and banking.",
+          "Extend the vehicle constraints and optimization formulation to account for gravity projection and geometry-dependent acceleration limits.",
+          "Compare the resulting method with the current 2D optimizer and an available TUM three-dimensional racing-line implementation.",
+          "Validate the approach on controlled non-planar track sections in simulation and, where practical, on the 1:10 platform."
+        ]
+      },
+      {
+        "heading": "Expected Outcome",
+        "paragraphs": [
+          "A documented extension of the existing raceline tool from planar to surface-aware optimization.",
+          "A quantitative analysis of when three-dimensional track geometry materially changes the optimal path, speed profile, or lap time.",
+          "A reusable interface between 3D track mapping and raceline optimization; a convincing experimental comparison has publication potential."
+        ]
+      },
+      {
+        "heading": "Student Profile",
+        "paragraphs": [
+          "Background in mechanical engineering, control, robotics, or computational engineering.",
+          "Understanding of vehicle dynamics, optimal control, and numerical optimization.",
+          "Python, MATLAB, CasADi, or C++ experience; knowledge of differential geometry is useful but not required."
+        ]
+      },
+      {
+        "heading": "1:10 Testbed and Scope Boundary",
+        "paragraphs": [
+          "A track with controlled elevation or banking must be available or constructed; otherwise, the difference from the 2D formulation may be too small to evaluate meaningfully. The thesis studies one road-surface representation and the existing vehicle model. A full multibody vehicle model, general off-road planning, and online multi-vehicle trajectory planning are outside the scope."
+        ]
+      },
+      {
+        "heading": "Selected Recent Literature",
+        "paragraphs": [
+          "[1] M. Rowold, L. Ögretmen, U. Kasolowsky, and B. Lohmann, “Online Time-Optimal Trajectory Planning on Three-Dimensional Race Tracks,” IEEE Intelligent Vehicles Symposium, 2023. link",
+          "[2] L. Ögretmen, M. Rowold, A. Langmann, and B. Lohmann, “Sampling-Based Motion Planning with Online Racing Line Generation for Autonomous Driving on Three-Dimensional Race Tracks,” 2024, arXiv:2403.18643. link",
+          "[3] D. J. N. Limebeer and G. Perantoni, “Optimal Control of a Formula One Car on a Three-Dimensional Track—Part 2: Optimal Control,” Journal of Dynamic Systems, Measurement, and Control, vol. 137, no. 5, 2015. link"
+        ]
+      },
+      {
+        "heading": "Supervision and Contact",
+        "paragraphs": [
+          "Dr. Agnes Poks, Larisa Clement, Philipp Gratzer, Univ. Prof. Ezio Bartocci"
+        ]
+      }
+    ],
+    "sourceLabel": "Scuderia topic catalogue",
+    "provenance": "User-supplied Computer Engineering topic catalogue, 2026-11-02"
+  },
+  {
+    "id": "high-dynamics-3d-lidar-inertial-mapping-for-scaled-autonomous-racetracks",
+    "type": "Project Work",
+    "title": "High-Dynamics 3D LiDAR–Inertial Mapping for Scaled Autonomous Racetracks",
+    "summary": "Building globally consistent point-cloud and road-surface maps under high speed, vibration, scan distortion, and repeated track geometry",
+    "status": "Open",
+    "project": "learning-based-mpc",
+    "topics": [
+      "Autonomous racing",
+      "6–12 ECTS"
+    ],
+    "tasks": [
+      "Calibrate the LiDAR–IMU extrinsics and time synchronization and establish a repeatable data-collection procedure.",
+      "Benchmark selected LiDAR–inertial mapping systems, such as LIO-SAM, FAST-LIO2, and GLIM, on representative racing datasets.",
+      "Characterize failure sources including motion distortion, vibration, low-feature sections, repeated geometry, and loop-closure errors.",
+      "Implement one targeted improvement, such as racing-aware deskewing, sensor-quality weighting, constrained motion priors, or improved loop closure.",
+      "Evaluate map consistency, surface accuracy, repeatability, computational cost, and suitability for downstream raceline optimization."
+    ],
+    "background": [
+      "Background in robotics, computer vision, geomatics, or computational engineering.",
+      "Understanding of 3D geometry, coordinate transformations, and probabilistic estimation.",
+      "C++/ROS or Python experience; prior experience with point clouds or LiDAR–inertial odometry is useful."
+    ],
+    "subject": "Thesis enquiry — High-Dynamics 3D LiDAR–Inertial Mapping for Scaled Autonomous Racetracks",
+    "source": "https://www.trustcps.eu/join.html",
+    "sections": [
+      {
+        "heading": "Overview",
+        "paragraphs": [
+          "Building globally consistent point-cloud and road-surface maps under high speed, vibration, scan distortion, and repeated track geometry"
+        ]
+      },
+      {
+        "heading": "Background and Motivation",
+        "paragraphs": [
+          "The addition of a 3D LiDAR enables the vehicle to capture track elevation, banking, barriers, and surrounding geometry that cannot be represented by the current 2D map. These maps could support 3D localization, surface-aware raceline optimization, visualization, and improved perception.",
+          "Modern LiDAR–inertial mapping systems provide a strong starting point, but racing introduces difficult conditions: rapid rotations, vibration, motion distortion, limited onboard compute, and tracks containing repeated geometric structures. Rather than developing an entirely new SLAM system, this thesis benchmarks established methods and introduces one clearly motivated racing-specific improvement.",
+          "Objective and Scope: The goal is to produce accurate and repeatable 3D track maps and a usable road-surface representation from the vehicle’s 3D LiDAR and inertial measurements."
+        ]
+      },
+      {
+        "heading": "Tasks",
+        "paragraphs": [
+          "Calibrate the LiDAR–IMU extrinsics and time synchronization and establish a repeatable data-collection procedure.",
+          "Benchmark selected LiDAR–inertial mapping systems, such as LIO-SAM, FAST-LIO2, and GLIM, on representative racing datasets.",
+          "Characterize failure sources including motion distortion, vibration, low-feature sections, repeated geometry, and loop-closure errors.",
+          "Implement one targeted improvement, such as racing-aware deskewing, sensor-quality weighting, constrained motion priors, or improved loop closure.",
+          "Evaluate map consistency, surface accuracy, repeatability, computational cost, and suitability for downstream raceline optimization."
+        ]
+      },
+      {
+        "heading": "Expected Outcome",
+        "paragraphs": [
+          "A reproducible 3D mapping pipeline for the 1:10 racing platform.",
+          "Globally consistent point-cloud maps together with a road-surface or track-ribbon representation.",
+          "A quantitative comparison of established mapping systems and one racing-specific improvement; a carefully designed dataset and evaluation may support publication."
+        ]
+      },
+      {
+        "heading": "Student Profile",
+        "paragraphs": [
+          "Background in robotics, computer vision, geomatics, or computational engineering.",
+          "Understanding of 3D geometry, coordinate transformations, and probabilistic estimation.",
+          "C++/ROS or Python experience; prior experience with point clouds or LiDAR–inertial odometry is useful."
+        ]
+      },
+      {
+        "heading": "1:10 Testbed and Scope Boundary",
+        "paragraphs": [
+          "This thesis focuses on map construction and road-surface extraction. Online localization against the completed map is reserved for a separate thesis. The study uses one sensor configuration and a small number of representative tracks; neural implicit mapping and broad SLAM-library benchmarking are outside the scope."
+        ]
+      },
+      {
+        "heading": "Selected Recent Literature",
+        "paragraphs": [
+          "[1] T. Shan, B. Englot, D. Meyers, W. Wang, C. Ratti, and D. Rus, “LIO-SAM: Tightly-coupled Lidar Inertial Odometry via Smoothing and Mapping,” IEEE/RSJ International Conference on Intelligent Robots and Systems, 2020. link",
+          "[2] W. Xu, Y. Cai, D. He, J. Lin, and F. Zhang, “FAST-LIO2: Fast Direct LiDAR-inertial Odometry,” IEEE Transactions on Robotics, vol. 38, no. 4, 2022. link",
+          "[3] K. Koide, M. Yokozuka, S. Oishi, and A. Banno, “GLIM: 3D Range-Inertial Localization and Mapping with GPU-Accelerated Scan Matching Factors,” Robotics and Autonomous Systems, 2024. link"
+        ]
+      },
+      {
+        "heading": "Supervision and Contact",
+        "paragraphs": [
+          "Dr. Agnes Poks, Larisa Clement, Univ. Prof. Ezio Bartocci"
+        ]
+      }
+    ],
+    "sourceLabel": "Scuderia topic catalogue",
+    "provenance": "User-supplied Computer Engineering topic catalogue, 2026-11-02"
+  },
+  {
+    "id": "optical-ground-flow-aided-sideslip-estimation-and-feedback-control-for-scaled-autonomous-racing",
+    "type": "Project Work",
+    "title": "Optical Ground-Flow-Aided Sideslip Estimation and Feedback Control for Scaled Autonomous Racing",
+    "summary": "Using downward-facing optical sensors to estimate lateral velocity and provide sideslip-aware MPC and raceline limits",
+    "status": "Open",
+    "project": "learning-based-mpc",
+    "topics": [
+      "Autonomous racing",
+      "6–12 ECTS"
+    ],
+    "tasks": [
+      "Mount, calibrate, and characterize the optical-flow sensors, including scale, orientation, lever-arm, height, and surface-dependent effects.",
+      "Develop a measurement model that compensates for rotational motion and changes in vehicle attitude.",
+      "Fuse optical flow with IMU, wheel-speed, steering, and vehicle-model information using an EKF, UKF, or moving-horizon estimator.",
+      "Validate lateral velocity and sideslip estimates against motion-capture or another suitable ground-truth system.",
+      "Integrate the estimate into the MPC and use experimental sideslip limits to refine the raceline optimizer’s dynamic constraints."
+    ],
+    "background": [
+      "Background in mechanical engineering, control, mechatronics, or signal processing.",
+      "Understanding of vehicle dynamics and state estimation.",
+      "Python, MATLAB, embedded programming, or ROS experience; practical interest in sensor integration is desirable."
+    ],
+    "subject": "Thesis enquiry — Optical Ground-Flow-Aided Sideslip Estimation and Feedback Control for Scaled Autonomous Racing",
+    "source": "https://www.trustcps.eu/join.html",
+    "sections": [
+      {
+        "heading": "Overview",
+        "paragraphs": [
+          "Using downward-facing optical sensors to estimate lateral velocity and provide sideslip-aware MPC and raceline limits"
+        ]
+      },
+      {
+        "heading": "Background and Motivation",
+        "paragraphs": [
+          "Vehicle sideslip angle is an important indicator of operation near the tire-friction limit, but it cannot be measured directly using the standard onboard IMU and wheel-speed sensors. Model-based estimates can become inaccurate when tire or surface properties change—the same conditions in which sideslip information is most valuable.",
+          "Downward-facing optical-flow sensors offer a direct measurement of planar motion relative to the ground. The platform already has suitable sensors intended for mounting on the bottom plate. Their measurements are nevertheless affected by mounting height, pitch and roll, yaw rotation, surface texture, illumination, vibration, and intermittent loss of optical quality. This thesis investigates their use within a robust multi-sensor sideslip estimator and evaluates whether sideslip feedback improves control near the handling limits.",
+          "Objective and Scope: The goal is to estimate body-frame lateral velocity and sideslip in real time using optical ground-flow measurements and integrate the estimate into the existing MPC and raceline workflow."
+        ]
+      },
+      {
+        "heading": "Tasks",
+        "paragraphs": [
+          "Mount, calibrate, and characterize the optical-flow sensors, including scale, orientation, lever-arm, height, and surface-dependent effects.",
+          "Develop a measurement model that compensates for rotational motion and changes in vehicle attitude.",
+          "Fuse optical flow with IMU, wheel-speed, steering, and vehicle-model information using an EKF, UKF, or moving-horizon estimator.",
+          "Validate lateral velocity and sideslip estimates against motion-capture or another suitable ground-truth system.",
+          "Integrate the estimate into the MPC and use experimental sideslip limits to refine the raceline optimizer’s dynamic constraints."
+        ]
+      },
+      {
+        "heading": "Expected Outcome",
+        "paragraphs": [
+          "A calibrated optical ground-flow sensing system and reproducible sideslip-estimation pipeline.",
+          "A quantitative analysis of estimator accuracy, delay, failure conditions, and robustness across different surfaces and maneuvers.",
+          "Closed-loop evidence showing whether sideslip feedback improves stability, constraint handling, or lap performance; the sensor-fusion study has publication potential."
+        ]
+      },
+      {
+        "heading": "Your Profile",
+        "paragraphs": [
+          "Background in mechanical engineering, control, mechatronics, or signal processing.",
+          "Understanding of vehicle dynamics and state estimation.",
+          "Python, MATLAB, embedded programming, or ROS experience; practical interest in sensor integration is desirable."
+        ]
+      },
+      {
+        "heading": "1:10 Testbed and Scope Boundary",
+        "paragraphs": [
+          "The thesis uses one defined optical-sensor installation and focuses on lateral velocity and sideslip estimation. It does not attempt to identify a complete tire-force model or spatial friction map. Controller integration is limited to selected sideslip-aware constraints or feedback terms in the existing MPC and raceline tool."
+        ]
+      },
+      {
+        "heading": "Selected Recent Literature",
+        "paragraphs": [
+          "[1] A. Cherubini, M. Cortese, M. Costantini, and B. Lenzo, “Using a Computer Mouse Sensor to Measure the Sideslip Angle of a Vehicle,” Proceedings of the Institution of Mechanical Engineers, Part D: Journal of Automobile Engineering, 2025. link",
+          "[2] L. Boyle, J. Kühne, N. Baumann, N. Bastuck, and M. Magno, “Planar Velocity Estimation for Fast-Moving Mobile Robots Using Event-Based Optical Flow,” 2025, arXiv:2505.11116. link",
+          "[3] A. Toschi, N. Musiu, F. Gatti, A. Raji, F. Amerotti, M. Verucchi, and M. Bertogna, “Guess the Drift with LOP-UKF: LiDAR Odometry and Pacejka Model for Real-Time Racecar Sideslip Estimation,” IEEE Intelligent Vehicles Symposium, 2024. link"
+        ]
+      },
+      {
+        "heading": "Supervision and Contact",
+        "paragraphs": [
+          "Dr. Agnes Poks, Larisa Clement, Univ. Prof. Ezio Bartocci"
+        ]
+      }
+    ],
+    "sourceLabel": "Scuderia topic catalogue",
+    "provenance": "User-supplied Computer Engineering topic catalogue, 2026-11-02"
+  },
+  {
+    "id": "batched-gpu-accelerated-nonlinear-model-predictive-control-for-scaled-autonomous-racing",
+    "type": "Project Work",
+    "title": "Batched GPU-Accelerated Nonlinear Model Predictive Control for Scaled Autonomous Racing",
+    "summary": "Nonlinear model predictive control can exploit tire limits and vehicle dynamics more effectively than simpler control methods, but its computational cost restricts prediction horizon, model complexity, and replanning frequency.…",
+    "status": "Open",
+    "project": "learning-based-mpc",
+    "topics": [
+      "Autonomous racing",
+      "6–12 ECTS"
+    ],
+    "tasks": [
+      "Measure the existing CPU-based MPC as a verified baseline and define accuracy, timing, and closed-loop performance metrics.",
+      "Implement the racing model, constraints, and objective using TurboMPC or a comparable GPU-native optimization framework.",
+      "Investigate one or two GPU-specific strategies, preferably batched multi-start optimization, parallel uncertainty scenarios, or contingency trajectories.",
+      "Determine the break-even point between CPU and GPU execution as a function of horizon length, model complexity, and batch size.",
+      "Validate the resulting controller in simulation and through selected closed-loop experiments on the 1:10 vehicle."
+    ],
+    "background": [
+      "Background in control, robotics, computational engineering, or a related discipline.",
+      "Understanding of optimization and vehicle dynamics; Python, JAX, CUDA, or C++ experience is useful.",
+      "Interest in numerical algorithms and embedded GPU systems; prior GPU-programming experience is helpful but not mandatory."
+    ],
+    "subject": "Thesis enquiry — Batched GPU-Accelerated Nonlinear Model Predictive Control for Scaled Autonomous Racing",
+    "source": "https://www.trustcps.eu/join.html",
+    "sections": [
+      {
+        "heading": "Background and Motivation",
+        "paragraphs": [
+          "Nonlinear model predictive control can exploit tire limits and vehicle dynamics more effectively than simpler control methods, but its computational cost restricts prediction horizon, model complexity, and replanning frequency. GPU-native solvers such as TurboMPC introduce substantial parallelism and have already demonstrated demanding control applications, including full-scale racing.",
+          "This project investigates where GPU computation produces a measurable advantage on a resource-constrained 1:10 vehicle. Candidate benefits include batched multi-start optimization, parallel contingency trajectories, uncertainty scenarios, and longer prediction horizons. Particular attention is paid to solver latency distributions, CPU–GPU transfer overhead, power consumption, and closed-loop racing performance.",
+          "Objective and Scope: The goal is to design and evaluate a GPU-accelerated nonlinear MPC architecture that uses parallel optimization to improve racing performance without violating the vehicle’s real-time compute budget."
+        ]
+      },
+      {
+        "heading": "Tasks",
+        "paragraphs": [
+          "Measure the existing CPU-based MPC as a verified baseline and define accuracy, timing, and closed-loop performance metrics.",
+          "Implement the racing model, constraints, and objective using TurboMPC or a comparable GPU-native optimization framework.",
+          "Investigate one or two GPU-specific strategies, preferably batched multi-start optimization, parallel uncertainty scenarios, or contingency trajectories.",
+          "Determine the break-even point between CPU and GPU execution as a function of horizon length, model complexity, and batch size.",
+          "Validate the resulting controller in simulation and through selected closed-loop experiments on the 1:10 vehicle."
+        ]
+      },
+      {
+        "heading": "Expected Outcome",
+        "paragraphs": [
+          "A reproducible GPU-based MPC implementation for the existing autonomous racing platform.",
+          "A quantitative analysis of when GPU acceleration is beneficial for small-scale real-time control.",
+          "A closed-loop comparison covering lap time, tracking error, constraint violations, deadline misses, compute utilization, and energy use; a strong experimental study has conference-publication potential."
+        ]
+      },
+      {
+        "heading": "Student Profile",
+        "paragraphs": [
+          "Background in control, robotics, computational engineering, or a related discipline.",
+          "Understanding of optimization and vehicle dynamics; Python, JAX, CUDA, or C++ experience is useful.",
+          "Interest in numerical algorithms and embedded GPU systems; prior GPU-programming experience is helpful but not mandatory."
+        ]
+      },
+      {
+        "heading": "1:10 Testbed and Scope Boundary",
+        "paragraphs": [
+          "The thesis uses the existing 1:10 RoboRacer/F1TENTH-scale platform and its simulation environment. It focuses on one established racing MPC formulation and a small number of GPU-specific parallelization strategies. Developing a general-purpose GPU optimizer, redesigning the complete autonomy stack, or benchmarking many unrelated solvers is outside the scope."
+        ]
+      },
+      {
+        "heading": "Selected Recent Literature",
+        "paragraphs": [
+          "[1] G. Bravo-Palacios, J. Zhang, Z. Pestrikov, B. Plancher, and T. Lew, “TurboMPC: Fast, Scalable, and Differentiable Model Predictive Control on the GPU,” 2026, arXiv:2606.24039. link",
+          "[2] A. Du, E. Adabag, G. Bravo, and B. Plancher, “GATO: GPU-Accelerated and Batched Trajectory Optimization for Scalable Edge Model Predictive Control,” 2025, arXiv:2510.07625. link",
+          "[3] G. Williams, P. Drews, B. Goldfain, J. M. Rehg, and E. A. Theodorou, “Information Theoretic Model Predictive Control: Theory and Applications to Autonomous Driving,” IEEE Transactions on Robotics, vol. 34, no. 6, 2018. link"
+        ]
+      },
+      {
+        "heading": "Supervision and Contact",
+        "paragraphs": [
+          "Dr. Agnes Poks, Larisa Clement, Univ. Prof. Ezio Bartocci"
+        ]
+      }
+    ],
+    "sourceLabel": "Scuderia topic catalogue",
+    "provenance": "User-supplied Computer Engineering topic catalogue, 2026-11-02"
+  },
+  {
+    "id": "latency-aware-rgb-d-obstacle-detection-and-tracking-for-scaled-autonomous-racing",
+    "type": "Master Thesis",
+    "title": "Latency-Aware RGB-D Obstacle Detection and Tracking for Scaled Autonomous Racing",
+    "summary": "Fusing RGB semantics, depth geometry, and temporal information under the vehicle’s real-time compute budget",
+    "status": "Open",
+    "project": "learning-based-mpc",
+    "topics": [
+      "Autonomous racing",
+      "Master thesis"
+    ],
+    "tasks": [
+      "Define the target obstacle set and operating conditions, and collect or annotate a representative RGB-D evaluation dataset.",
+      "Calibrate and synchronize the RGB and depth streams and characterize depth failures during vehicle motion.",
+      "Implement efficient geometric proposals using depth, ground removal, clustering, or U-depth representations.",
+      "Compare RGB-only, depth-only, and selected early- or late-fusion approaches, including lightweight semantic classification or segmentation where useful.",
+      "Add temporal tracking and deploy the best pipeline onboard, evaluating detection range, recall, false positives, latency, and closed-loop behavior."
+    ],
+    "background": [
+      "Background in computer vision, robotics, embedded systems, or computational engineering.",
+      "Understanding of camera geometry, image processing, and machine learning.",
+      "Python, C++/ROS, or PyTorch experience; familiarity with ONNX or TensorRT is useful."
+    ],
+    "subject": "Thesis enquiry — Latency-Aware RGB-D Obstacle Detection and Tracking for Scaled Autonomous Racing",
+    "source": "https://www.trustcps.eu/join.html",
+    "sections": [
+      {
+        "heading": "Overview",
+        "paragraphs": [
+          "Fusing RGB semantics, depth geometry, and temporal information under the vehicle’s real-time compute budget"
+        ]
+      },
+      {
+        "heading": "Background and Motivation",
+        "paragraphs": [
+          "The current team platform uses a comparatively simple obstacle-detection method. While sufficient for controlled demonstrations, it may produce unreliable detections when obstacle appearance, depth quality, or vehicle motion changes. Missed detections are safety-critical, whereas excessive false positives can unnecessarily slow or stop the vehicle.",
+          "An RGB-D fusion strategy could provide complementary information: RGB data supports semantic recognition, while depth supports geometric separation from the ground and background. Effective fusion must account for calibration, synchronization, missing or noisy depth, motion blur, and the limited computational resources available onboard. For racing, end-to-end latency and temporal stability are as important as frame-level detection accuracy.",
+          "Objective and Scope: The goal is to develop an RGB-D obstacle-detection and tracking pipeline that improves reliability over the current method while satisfying a defined real-time latency budget on the vehicle."
+        ]
+      },
+      {
+        "heading": "Tasks",
+        "paragraphs": [
+          "Define the target obstacle set and operating conditions, and collect or annotate a representative RGB-D evaluation dataset.",
+          "Calibrate and synchronize the RGB and depth streams and characterize depth failures during vehicle motion.",
+          "Implement efficient geometric proposals using depth, ground removal, clustering, or U-depth representations.",
+          "Compare RGB-only, depth-only, and selected early- or late-fusion approaches, including lightweight semantic classification or segmentation where useful.",
+          "Add temporal tracking and deploy the best pipeline onboard, evaluating detection range, recall, false positives, latency, and closed-loop behavior."
+        ]
+      },
+      {
+        "heading": "Expected Outcome",
+        "paragraphs": [
+          "A reproducible and deployable RGB-D obstacle-detection pipeline for the 1:10 racing vehicle.",
+          "A quantitative comparison of RGB-only, depth-only, and fused perception under a fixed compute budget.",
+          "An annotated test set and latency-aware evaluation protocol; a well-scoped obstacle benchmark and fusion method may support publication."
+        ]
+      },
+      {
+        "heading": "Your Profile",
+        "paragraphs": [
+          "Background in computer vision, robotics, embedded systems, or computational engineering.",
+          "Understanding of camera geometry, image processing, and machine learning.",
+          "Python, C++/ROS, or PyTorch experience; familiarity with ONNX or TensorRT is useful."
+        ]
+      },
+      {
+        "heading": "1:10 Testbed and Scope Boundary",
+        "paragraphs": [
+          "The thesis uses one RGB-D camera and one explicitly defined obstacle set, such as unexpected static track obstacles, opponent vehicles, or a carefully limited combination of both. It does not target general autonomous-driving perception, unrestricted object recognition, or full RGB-D and 3D-LiDAR fusion."
+        ]
+      },
+      {
+        "heading": "Selected Recent Literature",
+        "paragraphs": [
+          "[1] L. Sun, K. Yang, X. Hu, W. Hu, and K. Wang, “Real-Time Fusion Network for RGB-D Semantic Segmentation Incorporating Unexpected Obstacle Detection for Road-Driving Images,” IEEE Robotics and Automation Letters, vol. 5, no. 4, 2020. link",
+          "[2] Z. Xu, X. Zhan, Y. Xiu, C. Suzuki, and K. Shimada, “Onboard Dynamic-Object Detection and Tracking for Autonomous Robot Navigation with RGB-D Camera,” IEEE Robotics and Automation Letters, vol. 9, no. 1, 2024. link",
+          "[3] M. Hua, Y. Nan, and S. Lian, “Small Obstacle Avoidance Based on RGB-D Semantic Segmentation,” IEEE/CVF International Conference on Computer Vision Workshops, 2019. link"
+        ]
+      },
+      {
+        "heading": "Supervision and Contact",
+        "paragraphs": [
+          "Dr. Agnes Poks, Larisa Clement, Univ. Prof. Ezio Bartocci"
+        ]
+      }
+    ],
+    "sourceLabel": "Scuderia topic catalogue",
+    "provenance": "User-supplied Computer Engineering topic catalogue, 2026-11-02"
+  },
+  {
+    "id": "failure-aware-multi-sensor-localization-for-high-speed-scaled-autonomous-racing",
+    "type": "Master Thesis",
+    "title": "Failure-Aware Multi-Sensor Localization for High-Speed Scaled Autonomous Racing",
+    "summary": "Combining racing-aware map matching, measurement-quality assessment, and global recovery beyond the current particle-filter/EKF pipeline",
+    "status": "Open",
+    "project": "learning-based-mpc",
+    "topics": [
+      "Autonomous racing",
+      "Master thesis"
+    ],
+    "tasks": [
+      "Characterize the current particle-filter and EKF pipeline, including failure cases under wheel slip, high speed, sensor dropouts, and ambiguous track geometry.",
+      "Implement and compare selected alternatives such as an improved particle filter, fixed-lag smoother, or tightly coupled factor-graph estimator.",
+      "Develop measurement-quality or innovation-based checks that prevent unreliable observations from corrupting the state estimate.",
+      "Integrate a global relocalization mechanism using geometric place recognition and, where appropriate, concepts from BioSLAM.",
+      "Evaluate accuracy, recovery time, consistency, runtime, and closed-loop racing performance in simulation and on the 1:10 vehicle."
+    ],
+    "background": [
+      "Background in robotics, mechatronics, control, or computational engineering.",
+      "Knowledge of probabilistic estimation, coordinate transformations, and sensor fusion.",
+      "Python or C++/ROS experience; familiarity with particle filters, Kalman filters, or factor graphs is useful."
+    ],
+    "subject": "Thesis enquiry — Failure-Aware Multi-Sensor Localization for High-Speed Scaled Autonomous Racing",
+    "source": "https://www.trustcps.eu/join.html",
+    "sections": [
+      {
+        "heading": "Overview",
+        "paragraphs": [
+          "Combining racing-aware map matching, measurement-quality assessment, and global recovery beyond the current particle-filter/EKF pipeline"
+        ]
+      },
+      {
+        "heading": "Background and Motivation",
+        "paragraphs": [
+          "Reliable localization is essential for autonomous racing because small pose errors can cause large raceline-tracking errors near the handling limits. The current platform uses a particle filter together with an EKF-style state estimator. Although this solution is functional, wheel slip, high accelerations, repetitive track geometry, temporary sensor degradation, and incorrect initial poses can lead to overconfident or multimodal localization errors.",
+          "This thesis investigates whether a modernized localization architecture can improve accuracy and, more importantly, failure robustness. Candidate approaches include an improved racing-specific particle filter, fixed-lag smoothing or factor-graph fusion, adaptive measurement weighting, and explicit relocalization. BioSLAM is relevant as a lifelong place-recognition or relocalization component.",
+          "Objective and Scope: The goal is to develop a localization system that maintains accurate real-time pose estimates during normal racing and can recognize, contain, and recover from localization failures."
+        ]
+      },
+      {
+        "heading": "Tasks",
+        "paragraphs": [
+          "Characterize the current particle-filter and EKF pipeline, including failure cases under wheel slip, high speed, sensor dropouts, and ambiguous track geometry.",
+          "Implement and compare selected alternatives such as an improved particle filter, fixed-lag smoother, or tightly coupled factor-graph estimator.",
+          "Develop measurement-quality or innovation-based checks that prevent unreliable observations from corrupting the state estimate.",
+          "Integrate a global relocalization mechanism using geometric place recognition and, where appropriate, concepts from BioSLAM.",
+          "Evaluate accuracy, recovery time, consistency, runtime, and closed-loop racing performance in simulation and on the 1:10 vehicle."
+        ]
+      },
+      {
+        "heading": "Expected Outcome",
+        "paragraphs": [
+          "A modular and reproducible localization architecture tailored to scaled autonomous racing.",
+          "A quantitative comparison showing when the particle filter should be retained, improved, or complemented by smoothing and global recovery.",
+          "Demonstrated robustness to representative initialization errors, slip events, and sensor degradation; the resulting failure-oriented evaluation may support a conference publication."
+        ]
+      },
+      {
+        "heading": "Student Profile",
+        "paragraphs": [
+          "Background in robotics, mechatronics, control, or computational engineering.",
+          "Knowledge of probabilistic estimation, coordinate transformations, and sensor fusion.",
+          "Python or C++/ROS experience; familiarity with particle filters, Kalman filters, or factor graphs is useful."
+        ]
+      },
+      {
+        "heading": "1:10 Testbed and Scope Boundary",
+        "paragraphs": [
+          "The thesis focuses on two-dimensional map-based racing localization using the existing sensor configuration and track maps. It does not include the construction of a full 3D map or the development of a new perception stack. Only a small number of estimator architectures will be investigated in depth."
+        ]
+      },
+      {
+        "heading": "Selected Recent Literature",
+        "paragraphs": [
+          "[1] T. Y. Lim, E. Ghignone, N. Baumann, and M. Magno, “Robustness Evaluation of Localization Techniques for Autonomous Racing,” 2024, arXiv:2401.07658. link",
+          "[2] D. Lee, H. Nam, C. Ryu, S. Nah, S. Moon, and D. H. Shim, “Enhancing State Estimator for Autonomous Racing: Leveraging Multi-modal System and Managing Computing Resources,” 2024, arXiv:2308.07173. link",
+          "[3] P. Yin, A. Abuduweili, S. Zhao, C. Liu, and S. Scherer, “BioSLAM: A Bio-inspired Lifelong Memory System for General Place Recognition,” 2022, arXiv:2208.14543. link"
+        ]
+      },
+      {
+        "heading": "Supervision and Contact",
+        "paragraphs": [
+          "Dr. Agnes Poks, Larisa Clement, Univ. Prof. Ezio Bartocci"
+        ]
+      }
+    ],
+    "sourceLabel": "Scuderia topic catalogue",
+    "provenance": "User-supplied Computer Engineering topic catalogue, 2026-11-02"
+  },
+  {
+    "id": "uncertainty-aware-online-vehicle-system-identification-for-adaptive-autonomous-racing",
+    "type": "Master Thesis",
+    "title": "Uncertainty-Aware Online Vehicle System Identification for Adaptive Autonomous Racing",
+    "summary": "Continuously updating identifiable tire, actuator, and drivetrain parameters for raceline optimization and model predictive control",
+    "status": "Open",
+    "project": "learning-based-mpc",
+    "topics": [
+      "Autonomous racing",
+      "Master thesis"
+    ],
+    "tasks": [
+      "Analyze the existing vehicle model and select a small set of observable parameters, such as tire stiffness, friction-related limits, steering dynamics, drivetrain gain, or actuator delay.",
+      "Design informative but safe identification maneuvers and establish an offline reference-identification procedure.",
+      "Implement a recursive estimation method with uncertainty quantification, parameter bounds, excitation checks, and update gating.",
+      "Integrate fast parameter updates into the MPC and define a slower, controlled update mechanism for raceline or dynamic-envelope optimization.",
+      "Evaluate convergence, tracking of changing conditions, prediction accuracy, controller performance, and failure behavior in simulation and on the 1:10 vehicle."
+    ],
+    "background": [
+      "Background in control, mechanical engineering, mechatronics, or computational engineering.",
+      "Understanding of vehicle dynamics, parameter estimation, and system identification.",
+      "Python or MATLAB experience; knowledge of recursive estimation, optimization, or MPC is useful."
+    ],
+    "subject": "Thesis enquiry — Uncertainty-Aware Online Vehicle System Identification for Adaptive Autonomous Racing",
+    "source": "https://www.trustcps.eu/join.html",
+    "sections": [
+      {
+        "heading": "Overview",
+        "paragraphs": [
+          "Continuously updating identifiable tire, actuator, and drivetrain parameters for raceline optimization and model predictive control"
+        ]
+      },
+      {
+        "heading": "Background and Motivation",
+        "paragraphs": [
+          "Accurate vehicle models are required for minimum-time raceline optimization and model predictive control. At present, model parameters are primarily identified before racing. Their validity can degrade during operation because of tire temperature and wear, changing friction, battery voltage, payload changes, actuator behavior, or minor modifications to the vehicle.",
+          "Online system identification could allow the autonomy stack to adapt to these changes. However, attempting to estimate too many correlated parameters can produce unstable or physically implausible models. Furthermore, parameter updates must be uncertainty-aware and must not destabilize the controller. This thesis therefore focuses on a deliberately small, identifiable parameter set and on safe interfaces between estimation, MPC, and raceline generation.",
+          "Objective and Scope: The goal is to estimate selected time-varying vehicle parameters during driving and use the estimates to improve prediction and control while maintaining physical plausibility and closed-loop safety."
+        ]
+      },
+      {
+        "heading": "Tasks",
+        "paragraphs": [
+          "Analyze the existing vehicle model and select a small set of observable parameters, such as tire stiffness, friction-related limits, steering dynamics, drivetrain gain, or actuator delay.",
+          "Design informative but safe identification maneuvers and establish an offline reference-identification procedure.",
+          "Implement a recursive estimation method with uncertainty quantification, parameter bounds, excitation checks, and update gating.",
+          "Integrate fast parameter updates into the MPC and define a slower, controlled update mechanism for raceline or dynamic-envelope optimization.",
+          "Evaluate convergence, tracking of changing conditions, prediction accuracy, controller performance, and failure behavior in simulation and on the 1:10 vehicle."
+        ]
+      },
+      {
+        "heading": "Expected Outcome",
+        "paragraphs": [
+          "A reproducible online system-identification pipeline for selected racing-vehicle parameters.",
+          "A quantitative answer to which parameters can be identified reliably during normal racing and how quickly they can be updated.",
+          "Demonstrated improvements in model prediction or closed-loop performance under at least one changing condition; a systematic estimator–controller study has publication potential."
+        ]
+      },
+      {
+        "heading": "Student Profile",
+        "paragraphs": [
+          "Background in control, mechanical engineering, mechatronics, or computational engineering.",
+          "Understanding of vehicle dynamics, parameter estimation, and system identification.",
+          "Python or MATLAB experience; knowledge of recursive estimation, optimization, or MPC is useful."
+        ]
+      },
+      {
+        "heading": "1:10 Testbed and Scope Boundary",
+        "paragraphs": [
+          "The thesis uses the existing 1:10 platform and its vehicle model. It estimates only a carefully selected subset of parameters and studies one or two controlled changes. Simultaneously identifying a complete nonlinear tire model, learning an unrestricted residual model, or repeatedly solving a full raceline optimization at control frequency is outside the scope."
+        ]
+      },
+      {
+        "heading": "Selected Recent Literature",
+        "paragraphs": [
+          "[1] O. Dikici, E. Ghignone, C. Hu, N. Baumann, L. Xie, A. Carron, M. Magno, and M. Corno, “Learning-Based On-Track System Identification for Scaled Autonomous Racing in Under a Minute,” IEEE Robotics and Automation Letters, vol. 10, no. 2, 2025. link",
+          "[2] D. Kalaria, Q. Lin, and J. M. Dolan, “Adaptive Planning and Control with Time-Varying Tire Models for Autonomous Racing Using Extreme Learning Machine,” IEEE International Conference on Robotics and Automation, 2024. link",
+          "[3] M. F. AL-Sunni, H. Almubarak, K. Horng, and J. M. Dolan, “LLA-MPC: Fast Adaptive Control for Autonomous Racing,” 2025, arXiv:2505.19512. link"
+        ]
+      },
+      {
+        "heading": "Supervision and Contact",
+        "paragraphs": [
+          "Dr. Agnes Poks, Larisa Clement, Univ. Prof. Ezio Bartocci"
+        ]
+      }
+    ],
+    "sourceLabel": "Scuderia topic catalogue",
+    "provenance": "User-supplied Computer Engineering topic catalogue, 2026-11-02"
+  },
+  {
+    "id": "failure-aware-3d-lidar-map-localization-with-global-recovery-for-autonomous-racing",
+    "type": "Master Thesis",
+    "title": "Failure-Aware 3D LiDAR Map Localization with Global Recovery for Autonomous Racing",
+    "summary": "Combining high-rate scan-to-map tracking, alignment-risk prediction, and global relocalization on a pre-built track map",
+    "status": "Open",
+    "project": "learning-based-mpc",
+    "topics": [
+      "Autonomous racing",
+      "Master thesis"
+    ],
+    "tasks": [
+      "Establish a fixed 3D reference map, calibration procedure, and ground-truth evaluation setup.",
+      "Implement a high-rate LiDAR–inertial scan-to-map localization baseline using a local-map or factor-graph architecture.",
+      "Develop an alignment-quality or risk estimate based on geometric observability, scan-matching residuals, or learned reliability indicators.",
+      "Integrate a global recovery method and define transitions between normal tracking, degraded operation, and relocalization.",
+      "Evaluate pose accuracy, consistency, recovery success, recovery time, runtime, and closed-loop performance on the 1:10 platform."
+    ],
+    "background": [
+      "Background in robotics, computer vision, control, or computational engineering.",
+      "Understanding of 3D geometry, state estimation, and point-cloud registration.",
+      "C++/ROS experience is desirable; familiarity with factor graphs, LiDAR odometry, or global registration is useful."
+    ],
+    "subject": "Thesis enquiry — Failure-Aware 3D LiDAR Map Localization with Global Recovery for Autonomous Racing",
+    "source": "https://www.trustcps.eu/join.html",
+    "sections": [
+      {
+        "heading": "Overview",
+        "paragraphs": [
+          "Combining high-rate scan-to-map tracking, alignment-risk prediction, and global relocalization on a pre-built track map"
+        ]
+      },
+      {
+        "heading": "Background and Motivation",
+        "paragraphs": [
+          "Once a high-quality 3D map is available, the vehicle must localize within it accurately and with sufficiently low latency for racing control. Standard scan-to-map alignment can provide precise six-degree-of-freedom poses, but it may fail in geometrically repetitive areas, during aggressive motion, or when the initial pose is inaccurate.",
+          "A racing localization system must do more than report a pose. It should estimate whether the current alignment is trustworthy, avoid silently accepting incorrect matches, and recover globally when local tracking is lost. The known road surface and constrained vehicle motion can potentially improve both accuracy and robustness.",
+          "Objective and Scope: The goal is to develop a real-time 3D map-localization system that tracks the vehicle during racing, detects unreliable alignment, and recovers from initialization errors or localization loss."
+        ]
+      },
+      {
+        "heading": "Tasks",
+        "paragraphs": [
+          "Establish a fixed 3D reference map, calibration procedure, and ground-truth evaluation setup.",
+          "Implement a high-rate LiDAR–inertial scan-to-map localization baseline using a local-map or factor-graph architecture.",
+          "Develop an alignment-quality or risk estimate based on geometric observability, scan-matching residuals, or learned reliability indicators.",
+          "Integrate a global recovery method and define transitions between normal tracking, degraded operation, and relocalization.",
+          "Evaluate pose accuracy, consistency, recovery success, recovery time, runtime, and closed-loop performance on the 1:10 platform."
+        ]
+      },
+      {
+        "heading": "Expected Outcome",
+        "paragraphs": [
+          "A real-time 3D localization pipeline operating against a pre-built racetrack map.",
+          "Explicit confidence or failure indicators and demonstrated recovery from representative initialization and tracking failures.",
+          "A quantitative analysis of the benefit of road-surface constraints and global recovery; the failure-aware system has potential for a robotics publication."
+        ]
+      },
+      {
+        "heading": "Student Profile",
+        "paragraphs": [
+          "Background in robotics, computer vision, control, or computational engineering.",
+          "Understanding of 3D geometry, state estimation, and point-cloud registration.",
+          "C++/ROS experience is desirable; familiarity with factor graphs, LiDAR odometry, or global registration is useful."
+        ]
+      },
+      {
+        "heading": "1:10 Testbed and Scope Boundary",
+        "paragraphs": [
+          "The reference map is treated as fixed. Constructing or continuously updating the map belongs to the separate 3D-mapping thesis. This work focuses on online pose estimation and recovery using one sensor configuration; general-purpose lifelong mapping and large-scale outdoor localization are outside the scope."
+        ]
+      },
+      {
+        "heading": "Selected Recent Literature",
+        "paragraphs": [
+          "[1] L. Montano-Oliván, J. A. Placed, L. Montano, and M. T. Lázaro, “G-Loc: Tightly-coupled Graph Localization with Prior Topo-metric Information,” IEEE Robotics and Automation Letters, 2024. link",
+          "[2] S. Zhao, H. Zhu, Y. Gao, B. Kim, Y. Qiu, A. M. Johnson, and S. Scherer, “SuperLoc: The Key to Robust LiDAR-Inertial Localization Lies in Predicting Alignment Risks,” IEEE International Conference on Robotics and Automation, 2025. link",
+          "[3] K. Aoki, K. Koide, S. Oishi, M. Yokozuka, A. Banno, and J. Meguro, “3D-BBS: Global Localization for 3D Point Cloud Scan Matching Using Branch-and-Bound Algorithm,” IEEE International Conference on Robotics and Automation, 2024. link"
+        ]
+      },
+      {
+        "heading": "Supervision and Contact",
+        "paragraphs": [
+          "Dr. Agnes Poks, Larisa Clement, Univ. Prof. Ezio Bartocci"
+        ]
+      }
+    ],
+    "sourceLabel": "Scuderia topic catalogue",
+    "provenance": "User-supplied Computer Engineering topic catalogue, 2026-11-02"
+  },
+  {
+    "id": "physics-guided-transfer-learning-of-liquid-vehicle-dynamics-models",
+    "type": "Master Thesis",
+    "title": "Physics-Guided Transfer Learning of Liquid Vehicle Dynamics Models",
+    "summary": "Adapting physical parameters and LRC/LrcSSM residual dynamics to changed tires, friction, payload, or vehicle configuration",
+    "status": "Open",
+    "project": "learning-based-mpc",
+    "topics": [
+      "Autonomous racing",
+      "Master thesis"
+    ],
+    "tasks": [
+      "·        Start from an existing hybrid physical-plus-Liquid vehicle model and select one domain shift, preferably friction, tire characteristics, payload, or a second 1:10 vehicle configuration.",
+      "·        Collect a small target-condition dataset and identify which physical parameters are expected to change.",
+      "·        Compare adaptation strategies such as physical-parameter update only, Liquid-residual fine-tuning only, and a combined selective adaptation of both components.",
+      "·        Evaluate data efficiency, prediction error, physical consistency, generalization, and computation time for different amounts of target-condition data.",
+      "·        Validate the best adapted model with an existing predictive controller and selected closed-loop experiments on the 1:10 vehicle."
+    ],
+    "background": [
+      "•         Background in mechanical engineering or computational engineering.",
+      "•         Understanding of physical modeling and parameter estimation; Python or MATLAB experience.",
+      "•         Basic knowledge of neural-network fine-tuning is useful; prior experience with Liquid networks is not required.",
+      "•         Interest in model adaptation and hands-on experiments with 1:10 autonomous vehicles."
+    ],
+    "subject": "Thesis enquiry — Physics-Guided Transfer Learning of Liquid Vehicle Dynamics Models",
+    "source": "https://www.trustcps.eu/join.html",
+    "sections": [
+      {
+        "heading": "Overview",
+        "paragraphs": [
+          "Adapting physical parameters and LRC/LrcSSM residual dynamics to changed tires, friction, payload, or vehicle configuration"
+        ]
+      },
+      {
+        "heading": "Background and Motivation",
+        "paragraphs": [
+          "A vehicle model calibrated under one condition can lose accuracy when the physical system changes. Typical causes include different tire-road friction, tire properties, payload, setup changes, or transfer to another nominally similar vehicle. Retraining a complete neural model from scratch ignores that most of the underlying physics remains unchanged and can require more data than is practical.",
+          "This thesis investigates data-efficient transfer of a hybrid physical-plus-Liquid vehicle model. Starting from a nominal physical model and a pretrained LRC/LrcSSM residual, one clearly defined physical change is introduced on the 1:10 platform. The student investigates which components should be adapted: interpretable physical parameters, the Liquid residual, or both. The project’s focus is on physical meaning, transfer efficiency, and closed-loop usefulness.",
+          "Objective and Scope",
+          "The goal is to determine how a physics-guided Liquid vehicle model can be transferred to a changed physical condition with minimal new data while maintaining prediction quality and control performance."
+        ]
+      },
+      {
+        "heading": "Tasks",
+        "paragraphs": [
+          "·        Start from an existing hybrid physical-plus-Liquid vehicle model and select one domain shift, preferably friction, tire characteristics, payload, or a second 1:10 vehicle configuration.",
+          "·        Collect a small target-condition dataset and identify which physical parameters are expected to change.",
+          "·        Compare adaptation strategies such as physical-parameter update only, Liquid-residual fine-tuning only, and a combined selective adaptation of both components.",
+          "·        Evaluate data efficiency, prediction error, physical consistency, generalization, and computation time for different amounts of target-condition data.",
+          "·        Validate the best adapted model with an existing predictive controller and selected closed-loop experiments on the 1:10 vehicle."
+        ]
+      },
+      {
+        "heading": "Expected Outcome",
+        "paragraphs": [
+          "•         A reproducible physics-guided transfer-learning workflow for Liquid vehicle-dynamics models.",
+          "•         A quantitative answer to what should be transferred when one physical condition changes: physics, the Liquid residual, or both.",
+          "•         A data-efficient 1:10 validation; a systematic adaptation comparison has strong potential for a conference publication."
+        ]
+      },
+      {
+        "heading": "Your Profile",
+        "paragraphs": [
+          "•         Background in mechanical engineering or computational engineering.",
+          "•         Understanding of physical modeling and parameter estimation; Python or MATLAB experience.",
+          "•         Basic knowledge of neural-network fine-tuning is useful; prior experience with Liquid networks is not required.",
+          "•         Interest in model adaptation and hands-on experiments with 1:10 autonomous vehicles."
+        ]
+      },
+      {
+        "heading": "1:10 Testbed and Scope Boundary",
+        "paragraphs": [
+          "The thesis uses the existing 1:10 RoboRacer/F1TENTH-scale platform and its simulation environment. Only one primary physical change is studied. A full fleet-transfer study or large architecture benchmark is outside the scope; the work remains complete with one nominal condition and one well-defined target condition."
+        ]
+      },
+      {
+        "heading": "Selected Recent Literature",
+        "paragraphs": [
+          "[1] M. Farsang, R. Hasani, D. Rus, R. Grosu, \"Parallelization of Non-linear State-Space Models: Scaling Up Liquid-Resistance Liquid-Capacitance Networks for Efficient Sequence Modeling,\" NeurIPS 2025, arXiv:2505.21717. link",
+          "[2] Y. Li, C. Huang, J. Li, \"SPLIT: Sparse Incremental Learning of Error Dynamics for Control-Oriented Modeling in Autonomous Vehicles,\" 2026, arXiv:2602.13641. link",
+          "[3] T. Xu, C. Pan, X. Xiao, \"CAR: Cross-Vehicle Kinodynamics Adaptation via Mobility Representation,\" 2026, arXiv:2603.06866. link"
+        ]
+      },
+      {
+        "heading": "Supervision and Contact",
+        "paragraphs": [
+          "Supervision: Dr. Agnes Poks, Larisa Clement, Monika Farsang and Prof. Ezio Bartocci"
+        ]
+      }
+    ],
+    "sourceLabel": "Scuderia topic catalogue",
+    "provenance": "User-supplied Computer Engineering topic catalogue, 2026-11-02"
+  },
+  {
+    "id": "physics-informed-liquid-neural-networks-for-vehicle-dynamics-and-predictive-control",
+    "type": "Master Thesis",
+    "title": "Physics-Informed Liquid Neural Networks for Vehicle Dynamics and Predictive Control",
+    "summary": "Physical vehicle modeling, LRC/LrcSSM residual dynamics, and validation on a 1:10 autonomous racing car",
+    "status": "Open",
+    "project": "learning-based-mpc",
+    "topics": [
+      "Autonomous racing",
+      "Master thesis"
+    ],
+    "tasks": [
+      "Formulate and parameterize a compact physical lateral/yaw vehicle model for the 1:10 platform, including a suitable tire-force representation for the selected operating range.",
+      "Collect or use existing 1:10 driving data and identify the physical parameters required by the baseline model.",
+      "Implement a NN (MLP) and one compact Liquid residual model (LRC or LrcSSM) for the dominant model mismatch and compare it with one simple learned baseline.",
+      "Compare physical, conventional learned, and physics-informed Liquid models using one-step/multi-step prediction, physical plausibility, data efficiency, and computation time.",
+      "Use the best hybrid model in an existing MPC/MPCC and validate tracking performance in simulation and selected closed-loop runs on the 1:10 car."
+    ],
+    "background": [
+      "Background in mechanical engineering or computational engineering.",
+      "Understanding of physical modeling and parameter estimation; Python or MATLAB experience.",
+      "Basic knowledge of neural-network fine-tuning is useful; prior experience with Liquid networks is not required."
+    ],
+    "subject": "Thesis enquiry — Physics-Informed Liquid Neural Networks for Vehicle Dynamics and Predictive Control",
+    "source": "https://www.trustcps.eu/join.html",
+    "sections": [
+      {
+        "heading": "Overview",
+        "paragraphs": [
+          "Physical vehicle modeling, LRC/LrcSSM residual dynamics, and validation on a 1:10 autonomous racing car"
+        ]
+      },
+      {
+        "heading": "Background and Motivation",
+        "paragraphs": [
+          "Accurate vehicle-dynamics models are essential for predictive control, especially close to the handling limits. Classical single-track models provide physical structure and interpretable parameters, but simplified tire assumptions and unmodeled actuator effects can reduce accuracy. Purely data-driven models can capture nonlinear effects, but they may require more data and generalize poorly outside the training range.",
+          "This thesis combines physical vehicle modeling with a compact Liquid Neural Network residual model. The focus is deliberately limited to lateral/yaw dynamics of the 1:10 autonomous car. A physical single-track model with a suitable tire representation is formulated and identified first. An MLP but also LRC /LrcSSM then learns only the remaining model mismatch. A simple conventional learned model can be used as a baseline. The resulting physics-informed Liquid model is evaluated both open-loop and inside an existing MPC/MPCC implementation.",
+          "Objective and Scope: The goal is to obtain an interpretable, control-oriented hybrid vehicle model that improves prediction beyond the physical baseline while retaining physical structure and real-time suitability. The approach will be parameterized and experimentally checked using data from the 1:10 autonomous car."
+        ]
+      },
+      {
+        "heading": "Tasks",
+        "paragraphs": [
+          "Formulate and parameterize a compact physical lateral/yaw vehicle model for the 1:10 platform, including a suitable tire-force representation for the selected operating range.",
+          "Collect or use existing 1:10 driving data and identify the physical parameters required by the baseline model.",
+          "Implement a NN (MLP) and one compact Liquid residual model (LRC or LrcSSM) for the dominant model mismatch and compare it with one simple learned baseline.",
+          "Compare physical, conventional learned, and physics-informed Liquid models using one-step/multi-step prediction, physical plausibility, data efficiency, and computation time.",
+          "Use the best hybrid model in an existing MPC/MPCC and validate tracking performance in simulation and selected closed-loop runs on the 1:10 car."
+        ]
+      },
+      {
+        "heading": "Expected Outcome",
+        "paragraphs": [
+          "An identified physical vehicle-dynamics model for the 1:10 autonomous platform.",
+          "A compact physics-informed Liquid model with a clearly separated residual.",
+          "Open- and closed-loop evidence of when Liquid residual learning improves control; sufficiently novel results can support a conference publication."
+        ]
+      },
+      {
+        "heading": "Your Profile",
+        "paragraphs": [
+          "Background in mechanical engineering or computational engineering.",
+          "Understanding of physical modeling and parameter estimation; Python or MATLAB experience.",
+          "Basic knowledge of neural-network fine-tuning is useful; prior experience with Liquid networks is not required."
+        ]
+      },
+      {
+        "heading": "1:10 Testbed and Scope Boundary",
+        "paragraphs": [
+          "The primary testbed is the existing 1:10 RoboRacer/F1TENTH-scale vehicle and its simulation/control stack. The thesis focuses on one lateral/yaw model and one Liquid residual architecture; developing a complete simulator, benchmarking many networks, or creating a new controller from scratch is outside the required scope."
+        ]
+      },
+      {
+        "heading": "Selected Recent Literature",
+        "paragraphs": [
+          "[1] M. Farsang, R. Hasani, D. Rus, R. Grosu, \"Parallelization of Non-linear State-Space Models: Scaling Up Liquid-Resistance Liquid-Capacitance Networks for Efficient Sequence Modeling,\" NeurIPS 2025, arXiv:2505.21717. link",
+          "[2] S. Pan, G. Tian, P. Song, \"Physics-Informed Neural State-Space Modeling of Battery-Electric Vehicle Dynamics for Closed-Loop Automated Parking Simulation,\" 2026, arXiv:2607.03000. link",
+          "[3] Y. Fu et al., \"Residual Koopman Model Predictive Control for Enhanced Vehicle Dynamics with Small On-Track Data Input,\" 2025, arXiv:2507.18396. link"
+        ]
+      },
+      {
+        "heading": "Supervision and Contact",
+        "paragraphs": [
+          "Dr. Agnes Poks, Larisa Clement, Monika Farsang, Univ. Prof. Ezio Bartocci"
+        ]
+      }
+    ],
+    "sourceLabel": "Scuderia topic catalogue",
+    "provenance": "User-supplied Computer Engineering topic catalogue, 2026-11-02"
+  },
+  {
+    "id": "diffusion-based-behaviour-priors-for-mpcc-in-autonomous-racing",
+    "type": "Master Thesis",
+    "title": "Diffusion-Based Behaviour Priors for MPCC in Autonomous Racing",
+    "summary": "Generating multimodal follow, setup, overtake, and abort trajectories for 1:10 racing",
+    "status": "Open",
+    "project": "learning-based-mpc",
+    "topics": [
+      "Autonomous racing",
+      "Master thesis"
+    ],
+    "tasks": [
+      "The student will generate a dataset of manoeuvre-conditioned racing trajectories in simulation. Each trajectory will be labelled as follow, setup-left, setup-right, overtake-left, overtake-right, or abort. A conditional diffusion model will be trained to generate short-horizon trajectory or control candidates for each manoeuvre class. The generated candidates will be used as warm starts/references for MPCC. The thesis should also investigate how many diffusion samples are needed for real-time operation on a 1:10 platform. If hardware tests are feasible, the final system should be evaluated at conservative speeds on the physical vehicle."
+    ],
+    "background": [
+      "See the profile and scope in the topic description."
+    ],
+    "subject": "Thesis enquiry — Diffusion-Based Behaviour Priors for MPCC in Autonomous Racing",
+    "source": "https://www.trustcps.eu/join.html",
+    "sections": [
+      {
+        "heading": "Overview",
+        "paragraphs": [
+          "Generating multimodal follow, setup, overtake, and abort trajectories for 1:10 racing"
+        ]
+      },
+      {
+        "heading": "Background and Motivation",
+        "paragraphs": [
+          "Head-to-head autonomous racing requires more than accurate trajectory tracking. A racing vehicle must reason about the opponent, the local track geometry, and the tactical risk of a manoeuvre. In many situations, there is not a single correct solution: the vehicle may stay behind the opponent, prepare an overtake on the inside line, attack on the outside, delay the manoeuvre until the next straight, or abort because the available gap is too small. This makes overtaking a naturally multimodal decision-making problem.",
+          "Diffusion models are well suited for such problems because they can learn multimodal trajectory or action distributions from data. In robotics, Diffusion Policy has shown that action sequences can be generated through conditional denoising and executed in a receding-horizon manner. In autonomous driving, recent diffusion-based planners have demonstrated that diffusion models can generate diverse and high-quality driving trajectories under flexible guidance. However, for autonomous racing, especially on a 1:10 platform, safety and dynamic feasibility remain critical. Therefore, the diffusion model should not directly control steering and throttle.",
+          "This thesis investigates a diffusion-based tactical behaviour prior for Model Predictive Contouring Control (MPCC). The diffusion model generates short-horizon trajectory candidates for different manoeuvre modes, such as follow, setup-left, setup-right, overtake-left, overtake-right, and abort. These candidates are then used as warm starts or reference priors for an MPCC controller. The MPCC remains responsible for enforcing vehicle dynamics, track boundaries, actuator limits, collision avoidance, and progress maximization. The main research question is whether diffusion-generated behaviour priors can improve MPCC-based autonomous racing in interactive overtaking scenarios. The focus is not on replacing the controller with a black-box neural policy, but on using learning to provide better tactical initialization and multimodal manoeuvre suggestions for a constrained optimization-based controller."
+        ]
+      },
+      {
+        "heading": "Tasks",
+        "paragraphs": [
+          "The student will generate a dataset of manoeuvre-conditioned racing trajectories in simulation. Each trajectory will be labelled as follow, setup-left, setup-right, overtake-left, overtake-right, or abort. A conditional diffusion model will be trained to generate short-horizon trajectory or control candidates for each manoeuvre class. The generated candidates will be used as warm starts/references for MPCC. The thesis should also investigate how many diffusion samples are needed for real-time operation on a 1:10 platform. If hardware tests are feasible, the final system should be evaluated at conservative speeds on the physical vehicle."
+        ]
+      },
+      {
+        "heading": "Expected Outcome",
+        "paragraphs": [
+          "The expected outcome is a prototype of a diffusion-guided predictive controller for tactical autonomous racing. The thesis should show whether diffusion-generated candidates improve overtaking success, reduce failed attempts, or improve controller convergence. The most important result is not that diffusion directly drives the car, but that it provides better tactical priors for a safe downstream controller. Deliverables include a trajectory dataset, a trained conditional diffusion model, MPCC integration, and comparison against non-diffusion baselines."
+        ]
+      },
+      {
+        "heading": "Supervision and Contact",
+        "paragraphs": [
+          "Dr. Agnes Poks, Larisa Clement, Univ. Prof. Ezio Bartocci"
+        ]
+      },
+      {
+        "heading": "Literatur",
+        "paragraphs": [
+          "[1] C. Chi, Z. Xu, S. Feng, E. Cousineau, Y. Du, B. Burchfiel, R. Tedrake, and S. Song, “Diffusion Policy: Visuomotor Policy Learning via Action Diffusion,” Robotics: Science and Systems, 2023. This work introduces diffusion-based action sequence generation with receding-horizon execution and is a central reference for diffusion-based robot behaviour generation.",
+          "[2] Y. Zheng et al., “Diffusion-Based Planning for Autonomous Driving with Flexible Guidance,” International Conference on Learning Representations, 2025. This paper demonstrates diffusion-based trajectory planning for autonomous driving and motivates the use of diffusion models for multimodal driving behaviour generation.",
+          "[3] A. Liniger, A. Domahidi, and M. Morari, “Optimization-Based Autonomous Racing of 1:43 Scale RC Cars,” Optimal Control Applications and Methods, 2015. This paper introduces optimization-based autonomous racing with nonlinear MPC and contouring-control concepts, providing the classical control foundation for MPCC-based racing."
+        ]
+      }
+    ],
+    "sourceLabel": "Scuderia topic catalogue",
+    "provenance": "User-supplied Computer Engineering topic catalogue, 2026-11-02"
+  },
+  {
+    "id": "neuro-symbolic-behaviour-learning-for-safe-overtaking-in-1-10-autonomous-racing",
+    "type": "Master Thesis",
+    "title": "Neuro-Symbolic Behaviour Learning for Safe Overtaking in 1:10 Autonomous Racing",
+    "summary": "Learning interpretable tactical rules for opponent-aware control",
+    "status": "Open",
+    "project": "learning-based-mpc",
+    "topics": [
+      "Autonomous racing",
+      "Master thesis"
+    ],
+    "tasks": [
+      "The first task is to define a compact set of racing predicates in Frenet coordinates. These predicates should describe the local overtaking situation, including relative progress to the opponent, lateral position, available gap on the left and right side, track curvature, relative velocity, estimated time-to-collision, and whether the next track segment is suitable for overtaking. The second task is to implement a neural predicate estimator. This model should use recent ego and opponent state histories, local track information, and possibly LiDAR-based obstacle features to estimate soft truth values between 0 and 1. The third task is to implement a neuro-symbolic decision layer using a Logic Tensor Network, Logical Neural Network, or a related differentiable logic formulation.",
+      "The rules should not be treated as rigid hand-coded behaviour. Instead, they should act as differentiable priors that can be adjusted from data. The model should be trained using simulation data generated from rule-based controllers, MPCC rollouts, human demonstrations, or offline expert planners.",
+      "The fourth task is to connect the learned behaviour layer to an MPCC controller. The tactical output should modify controller parameters, for example the target lateral offset, progress weight, opponent-distance cost, risk budget, or abort behaviour. The low-level controller should remain responsible for producing dynamically feasible commands.",
+      "Finally, the method should be evaluated in simulation and, if feasible, on the 1:10 vehicle at conservative speeds. The evaluation should compare the neuro-symbolic behaviour layer against a purely rule-based strategy and a black-box neural behaviour classifier."
+    ],
+    "background": [
+      "See the profile and scope in the topic description."
+    ],
+    "subject": "Thesis enquiry — Neuro-Symbolic Behaviour Learning for Safe Overtaking in 1:10 Autonomous Racing",
+    "source": "https://www.trustcps.eu/join.html",
+    "sections": [
+      {
+        "heading": "Overview",
+        "paragraphs": [
+          "Learning interpretable tactical rules for opponent-aware control"
+        ]
+      },
+      {
+        "heading": "Background and Motivation",
+        "paragraphs": [
+          "Autonomous racing is a compact but challenging benchmark for real-time decision making, prediction, and control. In head-to-head racing, the vehicle must not only follow a fast trajectory, but also reason about the behaviour of the opponent. A competitive racing vehicle should learn when to stay behind, when to prepare an overtaking manoeuvre, when to attack on the inside or outside line, and when to abort an unsafe attempt. Pure neural policies can learn such behaviours, but they are often difficult to interpret and validate. This is problematic for autonomous racing, where tactical decisions may lead to close interactions, blocking situations, or collisions. A promising alternative is a neuro-symbolic behaviour layer. In this approach, neural networks are used to estimate continuous predicates such as `gap_left_free`, `opponent_blocks_inside`, `ego_has_speed_advantage`, or `unsafe_time_to_collision`, while a differentiable logic model combines these predicates into tactical decisions.",
+          "The goal of this thesis is to develop a neuro-symbolic tactical behaviour layer for a 1:10 autonomous racing vehicle. The learned model should not directly output steering or throttle commands. Instead, it should select high-level manoeuvres such as `follow`, `pressure`, `setup-left`, `setup-right`, `overtake-left`, `overtake-right`, or `abort`. The selected manoeuvre is then executed by an  MPCC controller, which remains responsible for vehicle dynamics, trajectory generation, actuator limits, track boundaries, and safety constraints.",
+          "This separation is particularly suitable for 1:10 autonomous racing. The tactical decision can be made at a lower frequency and represented in an interpretable form, while the low-level controller runs in real time and handles the dynamic feasibility of the manoeuvre."
+        ]
+      },
+      {
+        "heading": "Tasks",
+        "paragraphs": [
+          "The first task is to define a compact set of racing predicates in Frenet coordinates. These predicates should describe the local overtaking situation, including relative progress to the opponent, lateral position, available gap on the left and right side, track curvature, relative velocity, estimated time-to-collision, and whether the next track segment is suitable for overtaking. The second task is to implement a neural predicate estimator. This model should use recent ego and opponent state histories, local track information, and possibly LiDAR-based obstacle features to estimate soft truth values between 0 and 1. The third task is to implement a neuro-symbolic decision layer using a Logic Tensor Network, Logical Neural Network, or a related differentiable logic formulation.",
+          "The rules should not be treated as rigid hand-coded behaviour. Instead, they should act as differentiable priors that can be adjusted from data. The model should be trained using simulation data generated from rule-based controllers, MPCC rollouts, human demonstrations, or offline expert planners.",
+          "The fourth task is to connect the learned behaviour layer to an MPCC controller. The tactical output should modify controller parameters, for example the target lateral offset, progress weight, opponent-distance cost, risk budget, or abort behaviour. The low-level controller should remain responsible for producing dynamically feasible commands.",
+          "Finally, the method should be evaluated in simulation and, if feasible, on the 1:10 vehicle at conservative speeds. The evaluation should compare the neuro-symbolic behaviour layer against a purely rule-based strategy and a black-box neural behaviour classifier."
+        ]
+      },
+      {
+        "heading": "Expected Outcome",
+        "paragraphs": [
+          "The expected result is an interpretable tactical decision-making module for 1:10 autonomous racing. The thesis should demonstrate that neuro-symbolic behaviour learning can predict useful manoeuvre decisions while preserving a clear connection to human-readable racing logic.",
+          "The final system should be able to decide when to follow, when to prepare an overtake, when to attack, and when to abort. The evaluation should include overtaking success rate, failed overtaking attempts, collision rate, track violations, minimum distance to the opponent, lap time, and decision interpretability.",
+          "A strong outcome would show that the neuro-symbolic model achieves similar or better performance than a black-box behaviour classifier while providing more interpretable tactical decisions. The thesis should also analyze which learned predicates and rules are most important for safe overtaking.",
+          "Your Profile: This topic is suitable for a student with an interest in machine learning, robotics, autonomous racing, and interpretable AI. Good Python skills are required. Experience with PyTorch, sequence models, reinforcement learning, or model predictive control is beneficial. Prior knowledge of formal logic is helpful but not mandatory. The student should be interested in combining learning-based methods with structured reasoning and experimental validation on a 1:10 autonomous vehicle."
+        ]
+      },
+      {
+        "heading": "Supervision and Contact",
+        "paragraphs": [
+          "Dr. Agnes Poks, Larisa Clement, Univ. Prof. Ezio Bartocci"
+        ]
+      },
+      {
+        "heading": "Literature",
+        "paragraphs": [
+          "[1] S. Badreddine, A. d’Avila Garcez, L. Serafini, and M. Spranger, “Logic Tensor Networks,” *Artificial Intelligence*, 2022. Logic Tensor Networks introduce a neuro-symbolic framework for learning and reasoning with data and abstract knowledge using differentiable many-valued logic.",
+          "[2] R. Riegel et al., “Logical Neural Networks,” arXiv:2006.13155, 2020. Logical Neural Networks combine neural learning with logical reasoning and provide a basis for differentiable, interpretable rule-based models.",
+          "[3] B. D. Evans et al., “Unifying F1TENTH Autonomous Racing: Survey, Methods and Benchmarks,” arXiv:2402.18558, 2024. This survey describes F1TENTH as a 1:10 autonomous racing platform and summarizes classical and learning-based racing methods."
+        ]
+      }
+    ],
+    "sourceLabel": "Scuderia topic catalogue",
+    "provenance": "User-supplied Computer Engineering topic catalogue, 2026-11-02"
+  },
+  {
+    "id": "aida-masters-episodic-memory",
+    "type": "Master Thesis",
+    "title": "AIDA: selective fleet memory for rare driving situations",
+    "summary": "Proposed master’s thesis direction derived from the published AIDA research call. Concrete scope and supervision are discussed individually.",
+    "status": "Topic proposal",
+    "project": "aida",
+    "topics": [
+      "AIDA",
+      "Distributed autonomy"
+    ],
+    "tasks": [
+      "Define a compact representation for novel or safety-relevant driving episodes.",
+      "Compare retrieval strategies and memory budgets in repeatable scenarios.",
+      "Evaluate decision support against a baseline without shared memory."
+    ],
+    "background": [
+      "Programming experience and an interest in autonomous systems.",
+      "Control, robotics, machine learning or distributed systems background appropriate to the chosen question."
+    ],
+    "subject": "AIDA master thesis enquiry — AIDA: selective fleet memory for rare driving situations",
+    "source": "https://www.trustcps.eu/join.html",
+    "sourceLabel": "AIDA research context"
+  },
+  {
+    "id": "aida-masters-communication",
+    "type": "Master Thesis",
+    "title": "AIDA: coordination under delayed or missing communication",
+    "summary": "Proposed master’s thesis direction derived from the published AIDA research call. Concrete scope and supervision are discussed individually.",
+    "status": "Topic proposal",
+    "project": "aida",
+    "topics": [
+      "AIDA",
+      "Distributed autonomy"
+    ],
+    "tasks": [
+      "Build a repeatable multi-vehicle communication test scenario.",
+      "Compare coordination under latency, packet loss and restricted bandwidth.",
+      "Evaluate fallback behavior and timing."
+    ],
+    "background": [
+      "Programming experience and an interest in autonomous systems.",
+      "Control, robotics, machine learning or distributed systems background appropriate to the chosen question."
+    ],
+    "subject": "AIDA master thesis enquiry — AIDA: coordination under delayed or missing communication",
+    "source": "https://www.trustcps.eu/join.html",
+    "sourceLabel": "AIDA research context"
+  },
+  {
+    "id": "aida-masters-runtime-monitoring",
+    "type": "Master Thesis",
+    "title": "AIDA: runtime monitoring for language-assisted planning",
+    "summary": "Proposed master’s thesis direction derived from the published AIDA research call. Concrete scope and supervision are discussed individually.",
+    "status": "Topic proposal",
+    "project": "aida",
+    "topics": [
+      "AIDA",
+      "Distributed autonomy"
+    ],
+    "tasks": [
+      "Define monitorable timing and safety conditions for high-level plans.",
+      "Connect a compact planning component to a constrained controller through a safety interface.",
+      "Evaluate rejected plans, timing overruns and fallback cases."
+    ],
+    "background": [
+      "Programming experience and an interest in autonomous systems.",
+      "Control, robotics, machine learning or distributed systems background appropriate to the chosen question."
+    ],
+    "subject": "AIDA master thesis enquiry — AIDA: runtime monitoring for language-assisted planning",
+    "source": "https://www.trustcps.eu/join.html",
+    "sourceLabel": "AIDA research context"
+  }
+]

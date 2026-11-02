@@ -1,0 +1,2797 @@
+[
+  {
+    "id": "adaptive-control-in-autonomous-driving-via-real-time-recurrent-rl",
+    "title": "Adaptive Control in Autonomous Driving via Real-Time Recurrent RL",
+    "citation": "Julian Lemmel, Felix Resch, Mónika Farsang, Ramin Hasani, Daniela Rus, Radu Grosu (2026). Adaptive Control in Autonomous Driving via Real-Time Recurrent RL. arXiv:2602.02236 (v4).",
+    "url": "https://arxiv.org/abs/2602.02236",
+    "source": "https://monifarsang.github.io/publications/",
+    "year": 2026,
+    "type": "Preprint",
+    "doi": "10.48550/arXiv.2602.02236",
+    "authors": [
+      "Julian Lemmel",
+      "Felix Resch",
+      "Mónika Farsang",
+      "Ramin Hasani",
+      "Daniela Rus",
+      "Radu Grosu"
+    ],
+    "pdf": "https://arxiv.org/pdf/2602.02236",
+    "scholar": "https://scholar.google.com/scholar?q=%22Adaptive%20Control%20in%20Autonomous%20Driving%20via%20Real-Time%20Recurrent%20RL%22",
+    "venue": "arXiv",
+    "thumbnail": "media/publications/adaptive-control-in-autonomous-driving-via-real-time-recurrent-rl.webp",
+    "thumbnailAlt": "Figure 1 from Adaptive Control in Autonomous Driving via Real-Time Recurrent RL",
+    "thumbnailKind": "Figure 1",
+    "thumbnailPage": 2,
+    "thumbnailSource": "https://arxiv.org/pdf/2602.02236",
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "matched",
+        "checkedAt": "2026-11-02",
+        "source": "https://arxiv.org/abs/2602.02236",
+        "version": "v4"
+      }
+    },
+    "arxiv": {
+      "id": "2602.02236",
+      "version": "v4",
+      "title": "Adaptive Control in Autonomous Driving via Real-Time Recurrent RL",
+      "authors": [
+        "Julian Lemmel",
+        "Felix Resch",
+        "Mónika Farsang",
+        "Ramin Hasani",
+        "Daniela Rus",
+        "Radu Grosu"
+      ],
+      "published": "2026-02-02",
+      "updated": "2026-05-16",
+      "url": "https://arxiv.org/abs/2602.02236",
+      "pdf": "https://arxiv.org/pdf/2602.02236",
+      "journalRef": "",
+      "doi": "",
+      "comments": ""
+    }
+  },
+  {
+    "id": "cloud-based-digital-twins-for-vehicle-dynamics-control-with-application-to-lateral-stability-enhancement-2026",
+    "title": "Cloud-Based Digital Twins for Vehicle Dynamics Control With Application to Lateral Stability Enhancement",
+    "year": 2026,
+    "type": "Journal",
+    "authors": [
+      "Philipp Mandl",
+      "Johannes Edelmann",
+      "Manfred Plöchl",
+      "Florian Klinger"
+    ],
+    "venue": "IEEE Access",
+    "doi": "10.1109/ACCESS.2025.3650253",
+    "source": "https://orcid.org/0000-0001-8771-3174",
+    "url": "https://doi.org/10.1109/ACCESS.2025.3650253",
+    "citation": "Philipp Mandl, Johannes Edelmann, Manfred Plöchl, Florian Klinger (2026). Cloud-Based Digital Twins for Vehicle Dynamics Control With Application to Lateral Stability Enhancement. IEEE Access.",
+    "scholar": "https://scholar.google.com/scholar?q=%22Cloud-Based%20Digital%20Twins%20for%20Vehicle%20Dynamics%20Control%20With%20Application%20to%20Lateral%20Stability%20Enhancement%22",
+    "thumbnail": "media/publications/cloud-based-digital-twins-for-vehicle-dynamics-control-with-application-to-lateral-stability-enhancement-2026.webp",
+    "thumbnailAlt": "First-page preview from Cloud-Based Digital Twins for Vehicle Dynamics Control With Application to Lateral Stability Enhancement",
+    "thumbnailKind": "First-page preview",
+    "thumbnailPage": 1,
+    "thumbnailSource": "https://repositum.tuwien.at/bitstream/20.500.12708/227511/1/Mandl-2026-IEEE%20Access-vor.pdf",
+    "pdf": "https://repositum.tuwien.at/bitstream/20.500.12708/227511/1/Mandl-2026-IEEE%20Access-vor.pdf",
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "no_matching_arxiv_record_in_checked_sources",
+        "checkedAt": "2026-11-02"
+      }
+    }
+  },
+  {
+    "id": "enhancing-vehicle-handling-behaviour-through-overactuation-2026",
+    "title": "Enhancing vehicle handling behaviour through overactuation",
+    "year": 2026,
+    "type": "Thesis",
+    "authors": [
+      "Philipp Mandl"
+    ],
+    "venue": "TU Wien",
+    "doi": "10.34726/hss.2026.110737",
+    "source": "https://orcid.org/0000-0001-8771-3174",
+    "url": "https://doi.org/10.34726/HSS.2026.110737",
+    "citation": "@phdthesis{https://doi.org/10.34726/hss.2026.110737,  doi = {10.34726/HSS.2026.110737},  url = {https://repositum.tuwien.at/handle/20.500.12708/227064},  author = {Mandl, Philipp},  keywords = {Hinterradlenkung (RWS), Torque Vectoring (TV), Rear-Wheel Steering (RWS), Torque Vectoring (TV)},  language = {en},  title = {Enhancing Vehicle Handling Behaviour through Overactuation},  publisher = {TU Wien},  year = {2026}}",
+    "scholar": "https://scholar.google.com/scholar?q=%22Enhancing%20vehicle%20handling%20behaviour%20through%20overactuation%22",
+    "pdf": "https://repositum.tuwien.at/bitstream/20.500.12708/227064/1/Mandl%20Philipp%20-%202026%20-%20Enhancing%20Vehicle%20Handling%20Behaviour%20through...pdf",
+    "thumbnail": "media/publications/enhancing-vehicle-handling-behaviour-through-overactuation-2026.webp",
+    "thumbnailAlt": "Figure 1 from Enhancing vehicle handling behaviour through overactuation",
+    "thumbnailKind": "Figure 1",
+    "thumbnailPage": 13,
+    "thumbnailSource": "https://repositum.tuwien.at/bitstream/20.500.12708/227064/1/Mandl%20Philipp%20-%202026%20-%20Enhancing%20Vehicle%20Handling%20Behaviour%20through...pdf",
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "no_matching_arxiv_record_in_checked_sources",
+        "checkedAt": "2026-11-02"
+      }
+    }
+  },
+  {
+    "id": "evaluating-domain-shift-generalization-of-liquid-neural-networks-in-autonomous-driving",
+    "title": "Evaluating Domain-Shift Generalization of Liquid Neural Networks in Autonomous Driving",
+    "citation": "Clement, M.-L., Farsang, M., Stanusoiu, M.-T., Rus, D., Hasani, R., Grosu, R., & Bartocci, E. (2026). Evaluating Domain-Shift Generalization of Liquid Neural Networks in Autonomous Driving. In Catch, Adapt, and Operate: Monitoring ML Models Under Drift Workshop . Catch, Adapt, and Operate: Monitoring ML Models Under Drift Workshop, Rio de Janeiro, Brazil. Project: DK - AR (2025–2029)",
+    "url": "https://repositum.tuwien.at/handle/20.500.12708/227937",
+    "year": 2026,
+    "type": "Workshop",
+    "source": "https://informatics.tuwien.ac.at/people/mihaela-larisa-clement",
+    "authors": [
+      "Mihaela-Larisa Clement",
+      "Monika Farsang",
+      "Mihai-Teodor Stanusoiu",
+      "Daniela Rus",
+      "Ramin Hasani",
+      "Radu Grosu",
+      "Ezio Bartocci"
+    ],
+    "scholar": "https://scholar.google.com/scholar?q=%22Evaluating%20Domain-Shift%20Generalization%20of%20Liquid%20Neural%20Networks%20in%20Autonomous%20Driving%22",
+    "venue": "Workshop",
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "no_matching_arxiv_record_in_checked_sources",
+        "checkedAt": "2026-11-02"
+      }
+    }
+  },
+  {
+    "id": "liquid-resistance-liquid-capacitance-networks-2026",
+    "title": "Liquid Resistance Liquid Capacitance Networks",
+    "year": 2026,
+    "type": "Book chapter",
+    "authors": [
+      "Mónika Farsang",
+      "Sophie A. Neubauer",
+      "Radu Grosu"
+    ],
+    "venue": "Lecture Notes in Computer Science",
+    "doi": "10.1007/978-3-032-16855-9_11",
+    "source": "https://orcid.org/0009-0002-9305-6507",
+    "url": "https://doi.org/10.1007/978-3-032-16855-9_11",
+    "citation": "Mónika Farsang, Sophie A. Neubauer, Radu Grosu (2026). Liquid Resistance Liquid Capacitance Networks. Lecture Notes in Computer Science.",
+    "scholar": "https://scholar.google.com/scholar?q=%22Liquid%20Resistance%20Liquid%20Capacitance%20Networks%22",
+    "thumbnail": "media/publications/liquid-resistance-liquid-capacitance-networks-2026.webp",
+    "thumbnailAlt": "Figure 1 from Liquid Resistance Liquid Capacitance Networks",
+    "thumbnailKind": "Figure 1",
+    "thumbnailPage": 4,
+    "thumbnailSource": "https://arxiv.org/pdf/2403.08791",
+    "pdf": "https://arxiv.org/pdf/2403.08791",
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "matched",
+        "checkedAt": "2026-11-02",
+        "source": "https://arxiv.org/abs/2403.08791",
+        "version": "v4"
+      }
+    },
+    "arxiv": {
+      "id": "2403.08791",
+      "version": "v4",
+      "title": "Liquid Resistance Liquid Capacitance Networks",
+      "authors": [
+        "Mónika Farsang",
+        "Sophie A. Neubauer",
+        "Radu Grosu"
+      ],
+      "published": "2024-01-30",
+      "updated": "2025-08-11",
+      "url": "https://arxiv.org/abs/2403.08791",
+      "pdf": "https://arxiv.org/pdf/2403.08791",
+      "journalRef": "",
+      "doi": "",
+      "comments": ""
+    }
+  },
+  {
+    "id": "online-fine-tuning-of-pretrained-controllers-for-autonomous-driving-via-real-time-recurrent-rl",
+    "title": "Online Fine-Tuning of Pretrained Controllers for Autonomous Driving via Real-Time Recurrent RL",
+    "citation": "Lemmel, J., Resch, F., Farsang, M., Hasani, R., Rus, D., & Grosu, R. (2026). Online Fine-Tuning of Pretrained Controllers for Autonomous Driving via Real-Time Recurrent RL. In Catch, Adapt, and Operate: Monitoring ML Models Under Drift Workshop . Catch, Adapt, and Operate: Monitoring ML Models Under Drift Workshop, Rio de Janeiro, Brazil.",
+    "url": "https://repositum.tuwien.at/handle/20.500.12708/227938",
+    "year": 2026,
+    "type": "Workshop",
+    "source": "https://informatics.tuwien.ac.at/people/felix-resch",
+    "authors": [
+      "Julian Lemmel",
+      "Felix Resch",
+      "Monika Farsang",
+      "Ramin Hasani",
+      "Daniela Rus",
+      "Radu Grosu"
+    ],
+    "scholar": "https://scholar.google.com/scholar?q=%22Online%20Fine-Tuning%20of%20Pretrained%20Controllers%20for%20Autonomous%20Driving%20via%20Real-Time%20Recurrent%20RL%22",
+    "venue": "Workshop",
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "no_matching_arxiv_record_in_checked_sources",
+        "checkedAt": "2026-11-02"
+      }
+    }
+  },
+  {
+    "id": "power-optimal-torque-distribution-for-overactuated-electric-vehicles-analysis-and-experimental-validation-2026",
+    "title": "Power optimal torque distribution for overactuated electric vehicles: analysis and experimental validation",
+    "year": 2026,
+    "type": "Journal",
+    "authors": [
+      "Daniel Klein",
+      "Philipp Mandl",
+      "Manfred Plöchl",
+      "Florian Klinger",
+      "Johannes Edelmann"
+    ],
+    "venue": "Automotive and Engine Technology",
+    "doi": "10.1007/s41104-025-00164-8",
+    "source": "https://orcid.org/0000-0001-8771-3174",
+    "url": "https://doi.org/10.1007/s41104-025-00164-8",
+    "citation": "Daniel Klein, Philipp Mandl, Manfred Plöchl, Florian Klinger, Johannes Edelmann (2026). Power optimal torque distribution for overactuated electric vehicles: analysis and experimental validation. Automotive and Engine Technology.",
+    "scholar": "https://scholar.google.com/scholar?q=%22Power%20optimal%20torque%20distribution%20for%20overactuated%20electric%20vehicles%3A%20analysis%20and%20experimental%20validation%22",
+    "thumbnail": "media/publications/power-optimal-torque-distribution-for-overactuated-electric-vehicles-analysis-and-experimental-validation-2026.webp",
+    "thumbnailAlt": "First-page preview from Power optimal torque distribution for overactuated electric vehicles: analysis and experimental validation",
+    "thumbnailKind": "First-page preview",
+    "thumbnailPage": 1,
+    "thumbnailSource": "https://repositum.tuwien.at/bitstream/20.500.12708/224160/1/Klein-2026-Automotive%20and%20Engine%20Technology-vor.pdf",
+    "pdf": "https://repositum.tuwien.at/bitstream/20.500.12708/224160/1/Klein-2026-Automotive%20and%20Engine%20Technology-vor.pdf",
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "no_matching_arxiv_record_in_checked_sources",
+        "checkedAt": "2026-11-02"
+      }
+    }
+  },
+  {
+    "id": "reshape-and-recur-improving-ssms-with-input-reshaping-and-depth-recurrence",
+    "title": "Reshape and Recur: Improving SSMs with Input Reshaping and Depth Recurrence",
+    "citation": "Mónika Farsang, Ramin Hasani, Daniela Rus, Radu Grosu (2026). Reshape and Recur: Improving SSMs with Input Reshaping and Depth Recurrence. arXiv:2605.16048 (v2).",
+    "url": "https://arxiv.org/abs/2605.16048",
+    "source": "https://monifarsang.github.io/publications/",
+    "year": 2026,
+    "type": "Preprint",
+    "doi": "10.48550/arXiv.2605.16048",
+    "authors": [
+      "Mónika Farsang",
+      "Ramin Hasani",
+      "Daniela Rus",
+      "Radu Grosu"
+    ],
+    "pdf": "https://arxiv.org/pdf/2605.16048",
+    "scholar": "https://scholar.google.com/scholar?q=%22Reshape%20and%20Recur%3A%20Improving%20SSMs%20with%20Input%20Reshaping%20and%20Depth%20Recurrence%22",
+    "venue": "arXiv",
+    "thumbnail": "media/publications/reshape-and-recur-improving-ssms-with-input-reshaping-and-depth-recurrence.webp",
+    "thumbnailAlt": "Figure 1 from Reshape and Recur: Improving SSMs with Input Reshaping and Depth Recurrence",
+    "thumbnailKind": "Figure 1",
+    "thumbnailPage": 3,
+    "thumbnailSource": "https://arxiv.org/pdf/2605.16048",
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "matched",
+        "checkedAt": "2026-11-02",
+        "source": "https://arxiv.org/abs/2605.16048",
+        "version": "v2"
+      }
+    },
+    "arxiv": {
+      "id": "2605.16048",
+      "version": "v2",
+      "title": "Reshape and Recur: Improving SSMs with Input Reshaping and Depth Recurrence",
+      "authors": [
+        "Mónika Farsang",
+        "Ramin Hasani",
+        "Daniela Rus",
+        "Radu Grosu"
+      ],
+      "published": "2026-05-15",
+      "updated": "2026-10-01",
+      "url": "https://arxiv.org/abs/2605.16048",
+      "pdf": "https://arxiv.org/pdf/2605.16048",
+      "journalRef": "",
+      "doi": "",
+      "comments": ""
+    }
+  },
+  {
+    "id": "riccati-state-space-models-non-iterative-parallelization-for-nonlinear-sequence-modeling",
+    "title": "Riccati State Space Models: Non-iterative Parallelization for Nonlinear Sequence Modeling",
+    "citation": "Mónika Farsang, Ramin Hasani, Daniela Rus, Radu Grosu (2026). Riccati State Space Models: Non-iterative Parallelization for Nonlinear Sequence Modeling. arXiv:2609.35441 (v1).",
+    "url": "https://arxiv.org/abs/2609.35441",
+    "source": "https://monifarsang.github.io/publications/",
+    "year": 2026,
+    "type": "Preprint",
+    "doi": "10.48550/arXiv.2609.35441",
+    "authors": [
+      "Mónika Farsang",
+      "Ramin Hasani",
+      "Daniela Rus",
+      "Radu Grosu"
+    ],
+    "pdf": "https://arxiv.org/pdf/2609.35441",
+    "scholar": "https://scholar.google.com/scholar?q=%22Riccati%20State%20Space%20Models%3A%20Non-iterative%20Parallelization%20for%20Nonlinear%20Sequence%20Modeling%22",
+    "venue": "arXiv",
+    "thumbnail": "media/publications/riccati-state-space-models-non-iterative-parallelization-for-nonlinear-sequence-modeling.webp",
+    "thumbnailAlt": "Figure 1 from Riccati State Space Models: Non-iterative Parallelization for Nonlinear Sequence Modeling",
+    "thumbnailKind": "Figure 1",
+    "thumbnailPage": 4,
+    "thumbnailSource": "https://arxiv.org/pdf/2609.35441",
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "matched",
+        "checkedAt": "2026-11-02",
+        "source": "https://arxiv.org/abs/2609.35441",
+        "version": "v1"
+      }
+    },
+    "arxiv": {
+      "id": "2609.35441",
+      "version": "v1",
+      "title": "Riccati State Space Models: Non-iterative Parallelization for Nonlinear Sequence Modeling",
+      "authors": [
+        "Mónika Farsang",
+        "Ramin Hasani",
+        "Daniela Rus",
+        "Radu Grosu"
+      ],
+      "published": "2026-09-28",
+      "updated": "2026-09-28",
+      "url": "https://arxiv.org/abs/2609.35441",
+      "pdf": "https://arxiv.org/pdf/2609.35441",
+      "journalRef": "",
+      "doi": "",
+      "comments": ""
+    }
+  },
+  {
+    "id": "roboracer-arena",
+    "title": "RoboRacer Arena: Specification-Driven Track Construction for Autonomous Racing",
+    "year": 2026,
+    "type": "Preprint",
+    "authors": [
+      "Mihaela-Larisa Clement",
+      "Agnes Poks",
+      "Ezio Bartocci"
+    ],
+    "venue": "arXiv",
+    "doi": "10.48550/arXiv.2608.23040",
+    "url": "https://arxiv.org/abs/2608.23040",
+    "source": "https://arxiv.org/abs/2608.23040",
+    "citation": "Mihaela-Larisa Clement, Agnes Poks, Ezio Bartocci (2026). RoboRacer Arena: Specification-Driven Track Construction for Autonomous Racing. arXiv:2608.23040 (v2).",
+    "pdf": "https://arxiv.org/pdf/2608.23040",
+    "scholar": "https://scholar.google.com/scholar?q=%22RoboRacer%20Arena%3A%20Specification-Driven%20Track%20Construction%20for%20Autonomous%20Racing%22",
+    "thumbnail": "media/publications/roboracer-arena.webp",
+    "thumbnailAlt": "Figure 1 from RoboRacer Arena: Specification-Driven Track Construction for Autonomous Racing",
+    "thumbnailKind": "Figure 1",
+    "thumbnailPage": 2,
+    "thumbnailSource": "https://arxiv.org/pdf/2608.23040",
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "matched",
+        "checkedAt": "2026-11-02",
+        "source": "https://arxiv.org/abs/2608.23040",
+        "version": "v2"
+      }
+    },
+    "arxiv": {
+      "id": "2608.23040",
+      "version": "v2",
+      "title": "RoboRacer Arena: Specification-Driven Track Construction for Autonomous Racing",
+      "authors": [
+        "Mihaela-Larisa Clement",
+        "Agnes Poks",
+        "Ezio Bartocci"
+      ],
+      "published": "2026-08-24",
+      "updated": "2026-10-08",
+      "url": "https://arxiv.org/abs/2608.23040",
+      "pdf": "https://arxiv.org/pdf/2608.23040",
+      "journalRef": "",
+      "doi": "",
+      "comments": "Submitted to ICRA 2027"
+    }
+  },
+  {
+    "id": "towards-safe-learning-based-non-linear-model-predictive-control-through-recurrent-neural-network-modeling",
+    "title": "Towards Safe Learning-Based Non-Linear Model Predictive Control through Recurrent Neural Network Modeling",
+    "citation": "Mihaela-Larisa Clement, Mónika Farsang, Agnes Poks, Johannes Edelmann, Manfred Plöchl, Radu Grosu, Ezio Bartocci (2026). Towards Safe Learning-Based Non-Linear Model Predictive Control through Recurrent Neural Network Modeling. arXiv:2603.24503 (v1).",
+    "url": "https://arxiv.org/abs/2603.24503",
+    "source": "https://monifarsang.github.io/publications/",
+    "year": 2026,
+    "type": "Preprint",
+    "doi": "10.48550/arXiv.2603.24503",
+    "authors": [
+      "Mihaela-Larisa Clement",
+      "Mónika Farsang",
+      "Agnes Poks",
+      "Johannes Edelmann",
+      "Manfred Plöchl",
+      "Radu Grosu",
+      "Ezio Bartocci"
+    ],
+    "pdf": "https://arxiv.org/pdf/2603.24503",
+    "scholar": "https://scholar.google.com/scholar?q=%22Towards%20Safe%20Learning-Based%20Non-Linear%20Model%20Predictive%20Control%20through%20Recurrent%20Neural%20Network%20Modeling%22",
+    "venue": "arXiv",
+    "thumbnail": "media/publications/towards-safe-learning-based-non-linear-model-predictive-control-through-recurrent-neural-network-modeling.webp",
+    "thumbnailAlt": "Figure 1 from Towards Safe Learning-Based Non-Linear Model Predictive Control through Recurrent Neural Network Modeling",
+    "thumbnailKind": "Figure 1",
+    "thumbnailPage": 1,
+    "thumbnailSource": "https://arxiv.org/pdf/2603.24503",
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "matched",
+        "checkedAt": "2026-11-02",
+        "source": "https://arxiv.org/abs/2603.24503",
+        "version": "v1"
+      }
+    },
+    "arxiv": {
+      "id": "2603.24503",
+      "version": "v1",
+      "title": "Towards Safe Learning-Based Non-Linear Model Predictive Control through Recurrent Neural Network Modeling",
+      "authors": [
+        "Mihaela-Larisa Clement",
+        "Mónika Farsang",
+        "Agnes Poks",
+        "Johannes Edelmann",
+        "Manfred Plöchl",
+        "Radu Grosu",
+        "Ezio Bartocci"
+      ],
+      "published": "2026-03-25",
+      "updated": "2026-03-25",
+      "url": "https://arxiv.org/abs/2603.24503",
+      "pdf": "https://arxiv.org/pdf/2603.24503",
+      "journalRef": "",
+      "doi": "",
+      "comments": ""
+    }
+  },
+  {
+    "id": "two-degree-of-freedom-compound-split-transmission-control-for-a-helicopter-powertrain-2026",
+    "title": "Two-Degree-of-Freedom Compound Split Transmission Control for a Helicopter Powertrain",
+    "year": 2026,
+    "type": "Journal",
+    "authors": [
+      "Agnes Poks",
+      "Alexander Schirrer",
+      "Alexander L. Gratzer",
+      "Robert Derboghossian",
+      "Thomas Scheu",
+      "Martin Kozek",
+      "Stefan Jakubek"
+    ],
+    "venue": "IEEE Transactions on Aerospace and Electronic Systems",
+    "doi": "10.1109/TAES.2026.3666443",
+    "source": "https://orcid.org/0000-0002-0276-4552",
+    "url": "https://doi.org/10.1109/TAES.2026.3666443",
+    "citation": "Agnes Poks, Alexander Schirrer, Alexander L. Gratzer, Robert Derboghossian, Thomas Scheu, Martin Kozek, Stefan Jakubek (2026). Two-Degree-of-Freedom Compound Split Transmission Control for a Helicopter Powertrain. IEEE Transactions on Aerospace and Electronic Systems.",
+    "scholar": "https://scholar.google.com/scholar?q=%22Two-Degree-of-Freedom%20Compound%20Split%20Transmission%20Control%20for%20a%20Helicopter%20Powertrain%22",
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "no_matching_arxiv_record_in_checked_sources",
+        "checkedAt": "2026-11-02"
+      }
+    }
+  },
+  {
+    "id": "coordination-and-control-of-robotic-multi-agent-systems-in-confined-environments",
+    "title": "Coordination and control of robotic multi-agent systems in confined environments",
+    "citation": "Brandstätter, A. (2025). Coordination and control of robotic multi-agent systems in confined environments [Dissertation, Technische Universität Wien]. reposiTUm. https://doi.org/10.34726/hss.2025.128748 Download: PDF (6.06 MB)",
+    "url": "https://repositum.tuwien.at/handle/20.500.12708/218024",
+    "year": 2025,
+    "type": "Thesis",
+    "source": "https://informatics.tuwien.ac.at/people/andreas-brandstaetter",
+    "doi": "10.34726/hss.2025.128748",
+    "authors": [
+      "Andreas Brandstätter"
+    ],
+    "scholar": "https://scholar.google.com/scholar?q=%22Coordination%20and%20control%20of%20robotic%20multi-agent%20systems%20in%20confined%20environments%22",
+    "pdf": "https://repositum.tuwien.at/bitstream/20.500.12708/218024/1/Brandstaetter%20Andreas%20-%202025%20-%20Coordination%20and%20Control%20of%20Robotic%20Multi-agent...pdf",
+    "venue": "TU Wien",
+    "thumbnail": "media/publications/coordination-and-control-of-robotic-multi-agent-systems-in-confined-environments.webp",
+    "thumbnailAlt": "Figure 1 from Coordination and control of robotic multi-agent systems in confined environments",
+    "thumbnailKind": "Figure 1",
+    "thumbnailPage": 19,
+    "thumbnailSource": "https://repositum.tuwien.at/bitstream/20.500.12708/218024/1/Brandstaetter%20Andreas%20-%202025%20-%20Coordination%20and%20Control%20of%20Robotic%20Multi-agent...pdf",
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "no_matching_arxiv_record_in_checked_sources",
+        "checkedAt": "2026-11-02"
+      }
+    }
+  },
+  {
+    "id": "deploying-rgb-d-multimodal-controllers-on-resource-constrained-platforms",
+    "title": "Deploying RGB-D Multimodal Controllers on Resource-Constrained Platforms",
+    "citation": "Mihaela-Larisa Clement*, Mónika Farsang*, Felix Resch and Radu Grosu. Deploying RGB-D Multimodal Controllers on Resource-Constrained Platforms. Robot Software Architectures (RSA25) co-located with IEEE ICRA 2025.",
+    "url": "https://drive.google.com/file/d/14eiJA8KLLCWsB9R2HD7-KxxrOqyn6zAl/view",
+    "source": "https://monifarsang.github.io/publications/",
+    "year": 2025,
+    "type": "Workshop",
+    "scholar": "https://scholar.google.com/scholar?q=%22Deploying%20RGB-D%20Multimodal%20Controllers%20on%20Resource-Constrained%20Platforms%22",
+    "authorsText": "Mihaela-Larisa Clement*, Mónika Farsang*, Felix Resch and Radu Grosu",
+    "venue": "ICRA",
+    "authors": [],
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "no_matching_arxiv_record_in_checked_sources",
+        "checkedAt": "2026-11-02"
+      }
+    }
+  },
+  {
+    "id": "depth-matters-multimodal-rgb-d-perception-for-robust-autonomous-agents",
+    "title": "Depth Matters: Multimodal RGB-D Perception for Robust Autonomous Agents",
+    "citation": "Mihaela-Larisa Clement, Mónika Farsang, Felix Resch, Mihai-Teodor Stanusoiu, Radu Grosu (2025). Depth Matters: Multimodal RGB-D Perception for Robust Autonomous Agents. arXiv:2503.16711 (v3).",
+    "url": "https://arxiv.org/abs/2503.16711",
+    "source": "https://monifarsang.github.io/publications/",
+    "year": 2025,
+    "type": "Preprint",
+    "authors": [
+      "Mihaela-Larisa Clement",
+      "Mónika Farsang",
+      "Felix Resch",
+      "Mihai-Teodor Stanusoiu",
+      "Radu Grosu"
+    ],
+    "doi": "10.48550/arXiv.2503.16711",
+    "pdf": "https://arxiv.org/pdf/2503.16711",
+    "scholar": "https://scholar.google.com/scholar?q=%22Depth%20Matters%3A%20Multimodal%20RGB-D%20Perception%20for%20Robust%20Autonomous%20Agents%22",
+    "venue": "arXiv",
+    "thumbnail": "media/publications/depth-matters-multimodal-rgb-d-perception-for-robust-autonomous-agents.webp",
+    "thumbnailAlt": "Figure 1 from Depth Matters: Multimodal RGB-D Perception for Robust Autonomous Agents",
+    "thumbnailKind": "Figure 1",
+    "thumbnailPage": 1,
+    "thumbnailSource": "https://arxiv.org/pdf/2503.16711",
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "matched",
+        "checkedAt": "2026-11-02",
+        "source": "https://arxiv.org/abs/2503.16711",
+        "version": "v3"
+      }
+    },
+    "arxiv": {
+      "id": "2503.16711",
+      "version": "v3",
+      "title": "Depth Matters: Multimodal RGB-D Perception for Robust Autonomous Agents",
+      "authors": [
+        "Mihaela-Larisa Clement",
+        "Mónika Farsang",
+        "Felix Resch",
+        "Mihai-Teodor Stanusoiu",
+        "Radu Grosu"
+      ],
+      "published": "2025-03-20",
+      "updated": "2025-11-13",
+      "url": "https://arxiv.org/abs/2503.16711",
+      "pdf": "https://arxiv.org/pdf/2503.16711",
+      "journalRef": "",
+      "doi": "",
+      "comments": ""
+    }
+  },
+  {
+    "id": "differential-gated-self-attention",
+    "title": "Differential Gated Self-Attention",
+    "citation": "Elpiniki Maria Lygizou, Mónika Farsang, Radu Grosu (2025). Differential Gated Self-Attention. arXiv:2505.24054 (v2).",
+    "url": "https://arxiv.org/abs/2505.24054",
+    "source": "https://monifarsang.github.io/publications/",
+    "year": 2025,
+    "type": "Preprint",
+    "doi": "10.48550/arXiv.2505.24054",
+    "authors": [
+      "Elpiniki Maria Lygizou",
+      "Mónika Farsang",
+      "Radu Grosu"
+    ],
+    "pdf": "https://arxiv.org/pdf/2505.24054",
+    "scholar": "https://scholar.google.com/scholar?q=%22Differential%20Gated%20Self-Attention%22",
+    "venue": "arXiv",
+    "thumbnail": "media/publications/differential-gated-self-attention.webp",
+    "thumbnailAlt": "Figure 1 from Differential Gated Self-Attention",
+    "thumbnailKind": "Figure 1",
+    "thumbnailPage": 4,
+    "thumbnailSource": "https://arxiv.org/pdf/2505.24054",
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "matched",
+        "checkedAt": "2026-11-02",
+        "source": "https://arxiv.org/abs/2505.24054",
+        "version": "v2"
+      }
+    },
+    "arxiv": {
+      "id": "2505.24054",
+      "version": "v2",
+      "title": "Differential Gated Self-Attention",
+      "authors": [
+        "Elpiniki Maria Lygizou",
+        "Mónika Farsang",
+        "Radu Grosu"
+      ],
+      "published": "2025-05-29",
+      "updated": "2025-09-25",
+      "url": "https://arxiv.org/abs/2505.24054",
+      "pdf": "https://arxiv.org/pdf/2505.24054",
+      "journalRef": "",
+      "doi": "",
+      "comments": ""
+    }
+  },
+  {
+    "id": "hprs-hierarchical-potential-based-reward-shaping-from-task-specifications",
+    "title": "HPRS: hierarchical potential-based reward shaping from task specifications",
+    "citation": "HPRS: Hierarchical Potential-based Reward Shaping from Task Specifications Edgar A. Aguilar, Luigi Berducci, Axel Brunnbauer, Radu Grosu, Dejan Ničković. Journal Frontiers in Robotics and AI, 2025.",
+    "url": "https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2024.1444188/abstract",
+    "source": "https://luigiberducci.github.io/publications/",
+    "year": 2025,
+    "type": "Journal",
+    "authors": [
+      "Luigi  Berducci",
+      "Edgar A.  Aguilar",
+      "Dejan  Ničković",
+      "Radu  Grosu"
+    ],
+    "doi": "10.3389/frobt.2024.1444188",
+    "venue": "Frontiers in Robotics and AI",
+    "scholar": "https://scholar.google.com/scholar?q=%22HPRS%3A%20hierarchical%20potential-based%20reward%20shaping%20from%20task%20specifications%22",
+    "pdf": "https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2024.1444188/pdf",
+    "thumbnail": "media/publications/hprs-hierarchical-potential-based-reward-shaping-from-task-specifications.webp",
+    "thumbnailAlt": "Figure 1 from HPRS: hierarchical potential-based reward shaping from task specifications",
+    "thumbnailKind": "Figure 1",
+    "thumbnailPage": 3,
+    "thumbnailSource": "https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2024.1444188/pdf",
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "no_matching_arxiv_record_in_checked_sources",
+        "checkedAt": "2026-11-02"
+      }
+    }
+  },
+  {
+    "id": "innovative-control-solutions-for-hardware-in-the-loop-engine-and-powertrain-test-beds",
+    "title": "Innovative control solutions for hardware-in-the-loop engine and powertrain test beds",
+    "year": 2025,
+    "type": "Thesis",
+    "authors": [
+      "Dennis Erdogan"
+    ],
+    "venue": "TU Wien · thesis",
+    "url": "https://repositum.tuwien.at/handle/20.500.12708/219946",
+    "source": "https://repositum.tuwien.at/handle/20.500.12708/219946",
+    "citation": "Dennis Erdogan (2025). Innovative control solutions for hardware-in-the-loop engine and powertrain test beds. TU Wien.",
+    "doi": "10.34726/hss.2025.133123",
+    "scholar": "https://scholar.google.com/scholar?q=%22Innovative%20control%20solutions%20for%20hardware-in-the-loop%20engine%20and%20powertrain%20test%20beds%22",
+    "pdf": "https://repositum.tuwien.at/bitstream/20.500.12708/219946/1/Erdogan%20Dennis%20-%202025%20-%20Innovative%20Control%20Solutions%20for%20Hardware-in-the-Loop...pdf",
+    "thumbnail": "media/publications/innovative-control-solutions-for-hardware-in-the-loop-engine-and-powertrain-test-beds.webp",
+    "thumbnailAlt": "Figure 1 from Innovative control solutions for hardware-in-the-loop engine and powertrain test beds",
+    "thumbnailKind": "Figure 1",
+    "thumbnailPage": 10,
+    "thumbnailSource": "https://repositum.tuwien.at/bitstream/20.500.12708/219946/1/Erdogan%20Dennis%20-%202025%20-%20Innovative%20Control%20Solutions%20for%20Hardware-in-the-Loop...pdf",
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "no_matching_arxiv_record_in_checked_sources",
+        "checkedAt": "2026-11-02"
+      }
+    }
+  },
+  {
+    "id": "liquid-capacitance-extended-neural-circuits-synaptic-activation-and-dual-liquid-dynamics-for-interpretable-bio-inspired-models",
+    "title": "Liquid Capacitance-Extended Neural Circuits: Synaptic Activation and Dual Liquid Dynamics for Interpretable Bio-Inspired Models",
+    "citation": "Farsang, M., & Grosu, R. (2025). Liquid Capacitance-Extended Neural Circuits: Synaptic Activation and Dual Liquid Dynamics for Interpretable Bio-Inspired Models. In International Conference on Engineering for Life Sciences : ENROL 2025 : Book of Abstracts (pp. 15–15). http://hdl.handle.net/20.500.12708/222456",
+    "url": "https://repositum.tuwien.at/handle/20.500.12708/222456",
+    "year": 2025,
+    "type": "Conference",
+    "source": "https://informatics.tuwien.ac.at/people/radu-grosu",
+    "authors": [
+      "Monika Farsang",
+      "Radu Grosu"
+    ],
+    "scholar": "https://scholar.google.com/scholar?q=%22Liquid%20Capacitance-Extended%20Neural%20Circuits%3A%20Synaptic%20Activation%20and%20Dual%20Liquid%20Dynamics%20for%20Interpretable%20Bio-Inspired%20Models%22",
+    "venue": "Paper",
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "matched",
+        "checkedAt": "2026-11-02",
+        "source": "https://arxiv.org/abs/2602.13017",
+        "version": "v1"
+      }
+    },
+    "arxiv": {
+      "id": "2602.13017",
+      "version": "v1",
+      "title": "Synaptic Activation and Dual Liquid Dynamics for Interpretable Bio-Inspired Models",
+      "authors": [
+        "Mónika Farsang",
+        "Radu Grosu"
+      ],
+      "published": "2026-02-13",
+      "updated": "2026-02-13",
+      "url": "https://arxiv.org/abs/2602.13017",
+      "pdf": "https://arxiv.org/pdf/2602.13017",
+      "journalRef": "",
+      "doi": "",
+      "comments": ""
+    }
+  },
+  {
+    "id": "modeling-system-dynamics-in-partially-observable-environments-using-biologically-inspired-recurrent-neural-networks",
+    "title": "Modeling system dynamics In partially-observable environments using biologically-inspired recurrent neural networks",
+    "citation": "Stanusoiu, Mihai-Teodor (2025). Master’s thesis, TU Wien.",
+    "url": "https://repositum.tuwien.at/handle/20.500.12708/216265",
+    "year": 2025,
+    "type": "Thesis",
+    "source": "https://repositum.tuwien.at/handle/20.500.12708/216265",
+    "authors": [
+      "Mihai-Teodor Stănușoiu"
+    ],
+    "doi": "10.34726/hss.2025.129105",
+    "scholar": "https://scholar.google.com/scholar?q=%22Modeling%20system%20dynamics%20In%20partially-observable%20environments%20using%20biologically-inspired%20recurrent%20neural%20networks%22",
+    "pdf": "https://repositum.tuwien.at/bitstream/20.500.12708/216265/1/Stanusoiu%20Mihai-Teodor%20-%202025%20-%20Modeling%20System%20Dynamics%20In%20Partially-Observable...pdf",
+    "venue": "TU Wien",
+    "thumbnail": "media/publications/modeling-system-dynamics-in-partially-observable-environments-using-biologically-inspired-recurrent-neural-networks.webp",
+    "thumbnailAlt": "First-page preview from Modeling system dynamics In partially-observable environments using biologically-inspired recurrent neural networks",
+    "thumbnailKind": "First-page preview",
+    "thumbnailPage": 1,
+    "thumbnailSource": "https://repositum.tuwien.at/bitstream/20.500.12708/216265/1/Stanusoiu%20Mihai-Teodor%20-%202025%20-%20Modeling%20System%20Dynamics%20In%20Partially-Observable...pdf",
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "no_matching_arxiv_record_in_checked_sources",
+        "checkedAt": "2026-11-02"
+      }
+    }
+  },
+  {
+    "id": "parallelization-of-non-linear-state-space-models-scaling-up-liquid-resistance-liquid-capacitance-networks-for-efficient-sequence-modeling",
+    "title": "Parallelization of Non-linear State-Space Models: Scaling Up Liquid-Resistance Liquid-Capacitance Networks for Efficient Sequence Modeling",
+    "citation": "Mónika Farsang and Radu Grosu. Parallelization of Non-linear State-Space Models: Scaling Up Liquid-Resistance Liquid-Capacitance Networks for Efficient Sequence Modeling. NeurIPS 2025.",
+    "url": "https://openreview.net/forum?id=ENYvdnyhLl",
+    "source": "https://monifarsang.github.io/publications/",
+    "year": 2025,
+    "type": "Conference",
+    "scholar": "https://scholar.google.com/scholar?q=%22Parallelization%20of%20Non-linear%20State-Space%20Models%3A%20Scaling%20Up%20Liquid-Resistance%20Liquid-Capacitance%20Networks%20for%20Efficient%20Sequence%20Modeling%22",
+    "authorsText": "Mónika Farsang and Radu Grosu",
+    "venue": "NeurIPS",
+    "authors": [],
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "matched",
+        "checkedAt": "2026-11-02",
+        "source": "https://arxiv.org/abs/2505.21717",
+        "version": "v6"
+      }
+    },
+    "arxiv": {
+      "id": "2505.21717",
+      "version": "v6",
+      "title": "Parallelization of Non-linear State-Space Models: Scaling Up Liquid-Resistance Liquid-Capacitance Networks for Efficient Sequence Modeling",
+      "authors": [
+        "Mónika Farsang",
+        "Ramin Hasani",
+        "Daniela Rus",
+        "Radu Grosu"
+      ],
+      "published": "2025-05-27",
+      "updated": "2025-12-14",
+      "url": "https://arxiv.org/abs/2505.21717",
+      "pdf": "https://arxiv.org/pdf/2505.21717",
+      "journalRef": "",
+      "doi": "",
+      "comments": "NeurIPS 2025"
+    },
+    "aliases": [
+      "scaling-up-liquid-resistance-liquid-capacitance-networks-for-efficient-sequence-modeling"
+    ],
+    "alternateSources": [
+      "https://repositum.tuwien.at/handle/20.500.12708/223745"
+    ]
+  },
+  {
+    "id": "predictive-control-concepts-for-electric-refrigeration-vehicles",
+    "title": "Predictive control concepts for electric refrigeration vehicles",
+    "year": 2025,
+    "type": "Thesis",
+    "authors": [
+      "Agnes Poks"
+    ],
+    "venue": "TU Wien · thesis",
+    "url": "https://repositum.tuwien.at/handle/20.500.12708/214062",
+    "source": "https://repositum.tuwien.at/handle/20.500.12708/214062",
+    "citation": "Agnes Poks (2025). Predictive control concepts for electric refrigeration vehicles. TU Wien.",
+    "doi": "10.34726/hss.2025.82040",
+    "scholar": "https://scholar.google.com/scholar?q=%22Predictive%20control%20concepts%20for%20electric%20refrigeration%20vehicles%22",
+    "pdf": "https://repositum.tuwien.at/bitstream/20.500.12708/214062/1/Poks%20Agnes%20-%202025%20-%20Energy%20management%20and%20cooling%20control%20for%20an%20electric...pdf",
+    "thumbnail": "media/publications/predictive-control-concepts-for-electric-refrigeration-vehicles.webp",
+    "thumbnailAlt": "Figure 1 from Predictive control concepts for electric refrigeration vehicles",
+    "thumbnailKind": "Figure 1",
+    "thumbnailPage": 13,
+    "thumbnailSource": "https://repositum.tuwien.at/bitstream/20.500.12708/214062/1/Poks%20Agnes%20-%202025%20-%20Energy%20management%20and%20cooling%20control%20for%20an%20electric...pdf",
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "no_matching_arxiv_record_in_checked_sources",
+        "checkedAt": "2026-11-02"
+      }
+    }
+  },
+  {
+    "id": "real-time-recurrent-reinforcement-learning",
+    "title": "Real-Time Recurrent Reinforcement Learning",
+    "citation": "Lemmel, J., & Grosu, R. (2025). Real-Time Recurrent Reinforcement Learning. In Proceedings of the 39th Annual AAAI Conference on Artificial Intelligence (pp. 18189–18197). AAAI Press. https://doi.org/10.1609/aaai.v39i17.34001",
+    "url": "https://repositum.tuwien.at/handle/20.500.12708/214290",
+    "year": 2025,
+    "type": "Conference",
+    "source": "https://informatics.tuwien.ac.at/people/radu-grosu",
+    "doi": "10.1609/aaai.v39i17.34001",
+    "authors": [
+      "Julian Lemmel",
+      "Radu Grosu"
+    ],
+    "venue": "Proceedings of the AAAI Conference on Artificial Intelligence",
+    "scholar": "https://scholar.google.com/scholar?q=%22Real-Time%20Recurrent%20Reinforcement%20Learning%22",
+    "thumbnail": "media/publications/real-time-recurrent-reinforcement-learning.webp",
+    "thumbnailAlt": "Figure 1 from Real-Time Recurrent Reinforcement Learning",
+    "thumbnailKind": "Figure 1",
+    "thumbnailPage": 1,
+    "thumbnailSource": "https://arxiv.org/pdf/2311.04830",
+    "pdf": "https://arxiv.org/pdf/2311.04830",
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "matched",
+        "checkedAt": "2026-11-02",
+        "source": "https://arxiv.org/abs/2311.04830",
+        "version": "v3"
+      }
+    },
+    "arxiv": {
+      "id": "2311.04830",
+      "version": "v3",
+      "title": "Real-Time Recurrent Reinforcement Learning",
+      "authors": [
+        "Julian Lemmel",
+        "Radu Grosu"
+      ],
+      "published": "2023-11-08",
+      "updated": "2025-03-13",
+      "url": "https://arxiv.org/abs/2311.04830",
+      "pdf": "https://arxiv.org/pdf/2311.04830",
+      "journalRef": "",
+      "doi": "10.1609/aaai.v39i17.34001",
+      "comments": "14 pages, 9 figures, includes Appendix"
+    }
+  },
+  {
+    "id": "regions-of-feasible-handling-in-overactuated-vehicles-considering-actuator-sets-and-limits-2025",
+    "title": "Regions of feasible handling in overactuated vehicles considering actuator sets and limits",
+    "year": 2025,
+    "type": "Journal",
+    "authors": [
+      "Philipp Mandl",
+      "Daniel Klein",
+      "Johannes Edelmann",
+      "Manfred Plöchl",
+      "Florian Klinger"
+    ],
+    "venue": "Vehicle System Dynamics",
+    "doi": "10.1080/00423114.2025.2579863",
+    "source": "https://orcid.org/0000-0001-8771-3174",
+    "url": "https://doi.org/10.1080/00423114.2025.2579863",
+    "citation": "Philipp Mandl, Daniel Klein, Johannes Edelmann, Manfred Plöchl, Florian Klinger (2025). Regions of feasible handling in overactuated vehicles considering actuator sets and limits. Vehicle System Dynamics.",
+    "scholar": "https://scholar.google.com/scholar?q=%22Regions%20of%20feasible%20handling%20in%20overactuated%20vehicles%20considering%20actuator%20sets%20and%20limits%22",
+    "thumbnail": "media/publications/regions-of-feasible-handling-in-overactuated-vehicles-considering-actuator-sets-and-limits-2025.webp",
+    "thumbnailAlt": "Figure 1 from Regions of feasible handling in overactuated vehicles considering actuator sets and limits",
+    "thumbnailKind": "Figure 1",
+    "thumbnailPage": 4,
+    "thumbnailSource": "https://repositum.tuwien.at/bitstream/20.500.12708/221446/1/Mandl-2025-Vehicle%20System%20Dynamics-vor.pdf",
+    "pdf": "https://repositum.tuwien.at/bitstream/20.500.12708/221446/1/Mandl-2025-Vehicle%20System%20Dynamics-vor.pdf",
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "no_matching_arxiv_record_in_checked_sources",
+        "checkedAt": "2026-11-02"
+      }
+    }
+  },
+  {
+    "id": "scalable-offline-reinforcement-learning-for-mean-field-games",
+    "title": "Scalable Offline Reinforcement Learning for Mean Field Games",
+    "citation": "Brunnbauer, A., Lemmel, J., Babaiee, Z., Neubauer, S., & Grosu, R. (2025). Scalable Offline Reinforcement Learning for Mean Field Games. In S. Das, A. Nowé, & Y. Vorobeychik (Eds.), Proceedings of the 24th International Conference on Autonomous Agents and Multiagent Systems, {AAMAS} 2025, Detroit, MI, USA, May 19-23, 2025 (pp. 408–417). International Foundation for Autonomous Agents and Multiagent Systems. https://doi.org/10.5555/3709347.3743555",
+    "url": "https://repositum.tuwien.at/handle/20.500.12708/218186",
+    "year": 2025,
+    "type": "Conference",
+    "source": "https://informatics.tuwien.ac.at/people/radu-grosu",
+    "doi": "10.5555/3709347.3743555",
+    "authors": [
+      "Axel Brunnbauer",
+      "Julian Lemmel",
+      "Zahra Babaiee",
+      "Sophie Neubauer",
+      "Radu Grosu"
+    ],
+    "scholar": "https://scholar.google.com/scholar?q=%22Scalable%20Offline%20Reinforcement%20Learning%20for%20Mean%20Field%20Games%22",
+    "venue": "Paper",
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "no_matching_arxiv_record_in_checked_sources",
+        "checkedAt": "2026-11-02"
+      }
+    }
+  },
+  {
+    "id": "scenario-based-curriculum-generation-for-multi-agent-driving",
+    "title": "Scenario-Based Curriculum Generation for Multi-Agent Driving",
+    "citation": "Brunnbauer, A., Berducci, L., Priller, P., Ničković, D., & Grosu, R. (2025). Scenario-Based Curriculum Generation for Multi-Agent Driving. In 2025 IEEE International Conference on Robotics and Automation (ICRA) (pp. 1824–1830). IEEE. https://doi.org/10.1109/ICRA55743.2025.11128162 Project: ADEX (2020–2024)",
+    "url": "https://repositum.tuwien.at/handle/20.500.12708/219597",
+    "year": 2025,
+    "type": "Conference",
+    "source": "https://informatics.tuwien.ac.at/people/radu-grosu",
+    "doi": "10.1109/ICRA55743.2025.11128162",
+    "authors": [
+      "Axel Brunnbauer",
+      "Luigi Berducci",
+      "Peter Priller",
+      "Dejan Nickovic",
+      "Radu Grosu"
+    ],
+    "venue": "2025 IEEE International Conference on Robotics and Automation (ICRA)",
+    "scholar": "https://scholar.google.com/scholar?q=%22Scenario-Based%20Curriculum%20Generation%20for%20Multi-Agent%20Driving%22",
+    "thumbnail": "media/publications/scenario-based-curriculum-generation-for-multi-agent-driving.webp",
+    "thumbnailAlt": "Figure 1 from Scenario-Based Curriculum Generation for Multi-Agent Driving",
+    "thumbnailKind": "Figure 1",
+    "thumbnailPage": 2,
+    "thumbnailSource": "https://arxiv.org/pdf/2403.17805",
+    "pdf": "https://arxiv.org/pdf/2403.17805",
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "matched",
+        "checkedAt": "2026-11-02",
+        "source": "https://arxiv.org/abs/2403.17805",
+        "version": "v2"
+      }
+    },
+    "arxiv": {
+      "id": "2403.17805",
+      "version": "v2",
+      "title": "Scenario-Based Curriculum Generation for Multi-Agent Autonomous Driving",
+      "authors": [
+        "Axel Brunnbauer",
+        "Luigi Berducci",
+        "Peter Priller",
+        "Dejan Nickovic",
+        "Radu Grosu"
+      ],
+      "published": "2024-03-26",
+      "updated": "2025-02-06",
+      "url": "https://arxiv.org/abs/2403.17805",
+      "pdf": "https://arxiv.org/pdf/2403.17805",
+      "journalRef": "",
+      "doi": "",
+      "comments": "Accepted for publication at the International Conference on Robotics and Automation (ICRA) 2025"
+    }
+  },
+  {
+    "id": "energy-management-in-refrigerated-electric-small-transport-a-hierarchical-approach-2024",
+    "title": "Energy Management in Refrigerated Electric Small Transport: A Hierarchical Approach",
+    "year": 2024,
+    "type": "Journal",
+    "authors": [
+      "Agnes Poks",
+      "Alexander Schirrer",
+      "Martin Kozek"
+    ],
+    "venue": "IEEE Access",
+    "doi": "10.1109/ACCESS.2024.3507673",
+    "source": "https://orcid.org/0000-0002-0276-4552",
+    "url": "https://doi.org/10.1109/ACCESS.2024.3507673",
+    "citation": "Agnes Poks, Alexander Schirrer, Martin Kozek (2024). Energy Management in Refrigerated Electric Small Transport: A Hierarchical Approach. IEEE Access.",
+    "scholar": "https://scholar.google.com/scholar?q=%22Energy%20Management%20in%20Refrigerated%20Electric%20Small%20Transport%3A%20A%20Hierarchical%20Approach%22",
+    "thumbnail": "media/publications/energy-management-in-refrigerated-electric-small-transport-a-hierarchical-approach-2024.webp",
+    "thumbnailAlt": "Figure 1 from Energy Management in Refrigerated Electric Small Transport: A Hierarchical Approach",
+    "thumbnailKind": "Figure 1",
+    "thumbnailPage": 4,
+    "thumbnailSource": "https://repositum.tuwien.at/bitstream/20.500.12708/210924/1/Poks-2024-IEEE%20Access-vor.pdf",
+    "pdf": "https://repositum.tuwien.at/bitstream/20.500.12708/210924/1/Poks-2024-IEEE%20Access-vor.pdf",
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "no_matching_arxiv_record_in_checked_sources",
+        "checkedAt": "2026-11-02"
+      }
+    }
+  },
+  {
+    "id": "enhancing-controllability-and-path-tracking-with-overactuated-autonomous-vehicles-2024",
+    "title": "Enhancing Controllability and Path Tracking with Overactuated Autonomous Vehicles",
+    "year": 2024,
+    "type": "Book chapter",
+    "authors": [
+      "Philipp Mandl",
+      "Johannes Edelmann",
+      "Manfred Plöchl"
+    ],
+    "venue": "Lecture Notes in Mechanical Engineering",
+    "doi": "10.1007/978-3-031-66968-2_92",
+    "source": "https://orcid.org/0000-0001-8771-3174",
+    "url": "https://doi.org/10.1007/978-3-031-66968-2_92",
+    "citation": "@article{Mandl2024,title = {Enhancing Controllability and Path Tracking with Overactuated Autonomous Vehicles},journal = {Lecture Notes in Mechanical Engineering},year = {2024},pages = {937-946},author = {Mandl, P. and Edelmann, J. and Pl{\\\"o}chl, M.}}",
+    "scholar": "https://scholar.google.com/scholar?q=%22Enhancing%20Controllability%20and%20Path%20Tracking%20with%20Overactuated%20Autonomous%20Vehicles%22",
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "no_matching_arxiv_record_in_checked_sources",
+        "checkedAt": "2026-11-02"
+      }
+    }
+  },
+  {
+    "id": "flock-formation-control-of-multi-agent-systems-using-imperfect-relative-distance-measurements",
+    "title": "Flock-Formation Control of Multi-Agent Systems using Imperfect Relative Distance Measurements",
+    "citation": "Brandstätter, A., Smolka, S. A., Stoller, S. D., Tiwari, A., & Grosu, R. (2024). Flock-Formation Control of Multi-Agent Systems using Imperfect Relative Distance Measurements. In Proceedings 2024 IEEE International Conference on Robotics and Automation (ICRA) (pp. 12193–12200). https://doi.org/10.1109/ICRA57147.2024.10610147",
+    "url": "https://repositum.tuwien.at/handle/20.500.12708/199924",
+    "year": 2024,
+    "type": "Conference",
+    "source": "https://informatics.tuwien.ac.at/people/andreas-brandstaetter",
+    "doi": "10.1109/ICRA57147.2024.10610147",
+    "authors": [
+      "Andreas Brandstätter",
+      "Scott A. Smolka",
+      "Scott D. Stoller",
+      "Ashish Tiwari",
+      "Radu Grosu"
+    ],
+    "scholar": "https://scholar.google.com/scholar?q=%22Flock-Formation%20Control%20of%20Multi-Agent%20Systems%20using%20Imperfect%20Relative%20Distance%20Measurements%22",
+    "venue": "ICRA",
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "no_matching_arxiv_record_in_checked_sources",
+        "checkedAt": "2026-11-02"
+      }
+    }
+  },
+  {
+    "id": "learning-adaptive-safety-for-multi-agent-systems",
+    "title": "Learning Adaptive Safety for Multi-Agent Systems",
+    "citation": "Berducci, L., Yang, S., Mangharam, R., & Grosu, R. (2024). Learning Adaptive Safety for Multi-Agent Systems. In 2024 IEEE International Conference on Robotics and Automation (ICRA) (pp. 2859–2865). IEEE. https://doi.org/10.1109/ICRA57147.2024.10611037",
+    "url": "https://repositum.tuwien.at/handle/20.500.12708/202364",
+    "year": 2024,
+    "type": "Conference",
+    "source": "https://informatics.tuwien.ac.at/people/radu-grosu",
+    "doi": "10.1109/ICRA57147.2024.10611037",
+    "authors": [
+      "Luigi Berducci",
+      "Shuo Yang",
+      "Rahul Mangharam",
+      "Radu Grosu"
+    ],
+    "venue": "2024 IEEE International Conference on Robotics and Automation (ICRA)",
+    "scholar": "https://scholar.google.com/scholar?q=%22Learning%20Adaptive%20Safety%20for%20Multi-Agent%20Systems%22",
+    "thumbnail": "media/publications/learning-adaptive-safety-for-multi-agent-systems.webp",
+    "thumbnailAlt": "Figure 1 from Learning Adaptive Safety for Multi-Agent Systems",
+    "thumbnailKind": "Figure 1",
+    "thumbnailPage": 1,
+    "thumbnailSource": "https://arxiv.org/pdf/2309.10657",
+    "pdf": "https://arxiv.org/pdf/2309.10657",
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "matched",
+        "checkedAt": "2026-11-02",
+        "source": "https://arxiv.org/abs/2309.10657",
+        "version": "v2"
+      }
+    },
+    "arxiv": {
+      "id": "2309.10657",
+      "version": "v2",
+      "title": "Learning Adaptive Safety for Multi-Agent Systems",
+      "authors": [
+        "Luigi Berducci",
+        "Shuo Yang",
+        "Rahul Mangharam",
+        "Radu Grosu"
+      ],
+      "published": "2023-09-19",
+      "updated": "2023-10-04",
+      "url": "https://arxiv.org/abs/2309.10657",
+      "pdf": "https://arxiv.org/pdf/2309.10657",
+      "journalRef": "",
+      "doi": "",
+      "comments": "Update with appendix"
+    }
+  },
+  {
+    "id": "learning-with-chemical-versus-electrical-synapses-does-it-make-a-difference",
+    "title": "Learning with Chemical versus Electrical Synapses - Does it Make a Difference?",
+    "citation": "Mónika Farsang, Mathias Lechner, David Lung, Ramin Hasani, Daniela Rus and Radu Grosu. Learning with Chemical versus Electrical Synapses - Does it Make a Difference? 2024 IEEE International Conference on Robotics and Automation (ICRA). 2024.",
+    "url": "https://doi.org/10.1109/ICRA57147.2024.10611016",
+    "source": "https://monifarsang.github.io/publications/",
+    "year": 2024,
+    "type": "Conference",
+    "authors": [
+      "Mónika Farsang",
+      "Mathias Lechner",
+      "David Lung",
+      "Ramin Hasani",
+      "Daniela Rus",
+      "Radu Grosu"
+    ],
+    "venue": "2024 IEEE International Conference on Robotics and Automation (ICRA)",
+    "doi": "10.1109/icra57147.2024.10611016",
+    "scholar": "https://scholar.google.com/scholar?q=%22Learning%20with%20Chemical%20versus%20Electrical%20Synapses%20-%20Does%20it%20Make%20a%20Difference%3F%22",
+    "thumbnailAlt": "Figure 1 from Learning with Chemical versus Electrical Synapses - Does it Make a Difference?",
+    "thumbnailKind": "Figure 1",
+    "thumbnailPage": 4,
+    "thumbnailSource": "https://arxiv.org/pdf/2401.08602",
+    "thumbnail": "media/publications/learning-with-chemical-versus-electrical-synapses-does-it-make-a-difference.webp",
+    "pdf": "https://arxiv.org/pdf/2401.08602",
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "matched",
+        "checkedAt": "2026-11-02",
+        "source": "https://arxiv.org/abs/2401.08602",
+        "version": "v1"
+      }
+    },
+    "arxiv": {
+      "id": "2401.08602",
+      "version": "v1",
+      "title": "Learning with Chemical versus Electrical Synapses -- Does it Make a Difference?",
+      "authors": [
+        "Mónika Farsang",
+        "Mathias Lechner",
+        "David Lung",
+        "Ramin Hasani",
+        "Daniela Rus",
+        "Radu Grosu"
+      ],
+      "published": "2023-11-21",
+      "updated": "2023-11-21",
+      "url": "https://arxiv.org/abs/2401.08602",
+      "pdf": "https://arxiv.org/pdf/2401.08602",
+      "journalRef": "",
+      "doi": "",
+      "comments": ""
+    }
+  },
+  {
+    "id": "liquid-resistance-liquid-capacitance-networks",
+    "title": "Liquid Resistance Liquid Capacitance Networks",
+    "citation": "Farsang, M., Neubauer, S., & Grosu, R. (2024, December 14). Liquid Resistance Liquid Capacitance Networks [Poster Presentation]. NeuroAI: Fusing Neuroscience and AI for Intelligent Solutions (NeuroAI @ NeurIPS2024), Canada. http://hdl.handle.net/20.500.12708/223289",
+    "url": "https://repositum.tuwien.at/handle/20.500.12708/223289",
+    "year": 2024,
+    "type": "Workshop",
+    "source": "https://informatics.tuwien.ac.at/people/radu-grosu",
+    "authors": [
+      "Mónika Farsang",
+      "Sophie A. Neubauer",
+      "Radu Grosu"
+    ],
+    "venue": "NeurIPS 2024 NeuroAI Workshop",
+    "doi": "10.48550/ARXIV.2403.08791",
+    "pdf": "https://arxiv.org/pdf/2403.08791",
+    "scholar": "https://scholar.google.com/scholar?q=%22Liquid%20Resistance%20Liquid%20Capacitance%20Networks%22",
+    "thumbnail": "media/publications/liquid-resistance-liquid-capacitance-networks.webp",
+    "thumbnailAlt": "Figure 1 from Liquid Resistance Liquid Capacitance Networks",
+    "thumbnailKind": "Figure 1",
+    "thumbnailPage": 4,
+    "thumbnailSource": "https://arxiv.org/pdf/2403.08791",
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "matched",
+        "checkedAt": "2026-11-02",
+        "source": "https://arxiv.org/abs/2403.08791",
+        "version": "v4"
+      }
+    },
+    "arxiv": {
+      "id": "2403.08791",
+      "version": "v4",
+      "title": "Liquid Resistance Liquid Capacitance Networks",
+      "authors": [
+        "Mónika Farsang",
+        "Sophie A. Neubauer",
+        "Radu Grosu"
+      ],
+      "published": "2024-01-30",
+      "updated": "2025-08-11",
+      "url": "https://arxiv.org/abs/2403.08791",
+      "pdf": "https://arxiv.org/pdf/2403.08791",
+      "journalRef": "",
+      "doi": "",
+      "comments": ""
+    }
+  },
+  {
+    "id": "mmdvs-lf-multi-modal-dynamic-vision-sensor-and-eye-tracking-dataset-for-line-following",
+    "title": "MMDVS-LF: Multi-Modal Dynamic Vision Sensor and Eye-Tracking Dataset for Line Following",
+    "citation": "Felix Resch, Mónika Farsang, Radu Grosu (2024). MMDVS-LF: Multi-Modal Dynamic Vision Sensor and Eye-Tracking Dataset for Line Following. arXiv:2409.18038 (v2).",
+    "url": "https://arxiv.org/abs/2409.18038",
+    "source": "https://monifarsang.github.io/publications/",
+    "year": 2024,
+    "type": "Preprint",
+    "authors": [
+      "Felix Resch",
+      "Mónika Farsang",
+      "Radu Grosu"
+    ],
+    "doi": "10.48550/arXiv.2409.18038",
+    "pdf": "https://arxiv.org/pdf/2409.18038",
+    "scholar": "https://scholar.google.com/scholar?q=%22MMDVS-LF%3A%20Multi-Modal%20Dynamic%20Vision%20Sensor%20and%20Eye-Tracking%20Dataset%20for%20Line%20Following%22",
+    "venue": "arXiv",
+    "thumbnail": "media/publications/mmdvs-lf-multi-modal-dynamic-vision-sensor-and-eye-tracking-dataset-for-line-following.webp",
+    "thumbnailAlt": "Figure 1 from MMDVS-LF: Multi-Modal Dynamic Vision Sensor and Eye-Tracking Dataset for Line Following",
+    "thumbnailKind": "Figure 1",
+    "thumbnailPage": 1,
+    "thumbnailSource": "https://arxiv.org/pdf/2409.18038",
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "matched",
+        "checkedAt": "2026-11-02",
+        "source": "https://arxiv.org/abs/2409.18038",
+        "version": "v2"
+      }
+    },
+    "arxiv": {
+      "id": "2409.18038",
+      "version": "v2",
+      "title": "MMDVS-LF: Multi-Modal Dynamic Vision Sensor and Eye-Tracking Dataset for Line Following",
+      "authors": [
+        "Felix Resch",
+        "Mónika Farsang",
+        "Radu Grosu"
+      ],
+      "published": "2024-09-26",
+      "updated": "2025-03-03",
+      "url": "https://arxiv.org/abs/2409.18038",
+      "pdf": "https://arxiv.org/pdf/2409.18038",
+      "journalRef": "",
+      "doi": "",
+      "comments": ""
+    }
+  },
+  {
+    "id": "speed-control-in-the-presence-of-road-obstacles-a-comparison-of-model-predictive-control-and-reinforcement-learning-2024",
+    "title": "Speed Control in the Presence of Road Obstacles: A Comparison of Model Predictive Control and Reinforcement Learning",
+    "year": 2024,
+    "type": "Book chapter",
+    "authors": [
+      "P. Mandl",
+      "F. Jaumann",
+      "M. Unterreiner",
+      "T. Gräber",
+      "F. Klinger",
+      "J. Edelmann",
+      "M. Plöchl"
+    ],
+    "venue": "Lecture Notes in Mechanical Engineering",
+    "doi": "10.1007/978-3-031-70392-8_14",
+    "source": "https://orcid.org/0000-0001-8771-3174",
+    "url": "https://doi.org/10.1007/978-3-031-70392-8_14",
+    "citation": "@article{Mandl2024,title = {Speed Control in the Presence of Road Obstacles: A Comparison of Model Predictive Control and Reinforcement Learning},journal = {Lecture Notes in Mechanical Engineering},year = {2024},pages = {91-97},author = {Mandl, P. and Jaumann, F. and Unterreiner, M. and Gr{\\\"a}ber, T. and Klinger, F. and Edelmann, J. and Pl{\\\"o}chl, M.}}",
+    "scholar": "https://scholar.google.com/scholar?q=%22Speed%20Control%20in%20the%20Presence%20of%20Road%20Obstacles%3A%20A%20Comparison%20of%20Model%20Predictive%20Control%20and%20Reinforcement%20Learning%22",
+    "thumbnail": "media/publications/speed-control-in-the-presence-of-road-obstacles-a-comparison-of-model-predictive-control-and-reinforcement-learning-2024.webp",
+    "thumbnailAlt": "Figure 1 from Speed Control in the Presence of Road Obstacles: A Comparison of Model Predictive Control and Reinforcement Learning",
+    "thumbnailKind": "Figure 1",
+    "thumbnailPage": 2,
+    "thumbnailSource": "https://repositum.tuwien.at/bitstream/20.500.12708/205585/1/Mandl-2024-Speed%20Control%20in%20the%20Presence%20of%20Road%20Obstacles%20A%20Comparison%20o...-vor.pdf",
+    "pdf": "https://repositum.tuwien.at/bitstream/20.500.12708/205585/1/Mandl-2024-Speed%20Control%20in%20the%20Presence%20of%20Road%20Obstacles%20A%20Comparison%20o...-vor.pdf",
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "no_matching_arxiv_record_in_checked_sources",
+        "checkedAt": "2026-11-02"
+      }
+    }
+  },
+  {
+    "id": "vehicle-motion-control-for-overactuated-vehicles-to-enhance-controllability-and-path-tracking-2024",
+    "title": "Vehicle Motion Control for Overactuated Vehicles to Enhance Controllability and Path Tracking",
+    "year": 2024,
+    "type": "Journal",
+    "authors": [
+      "Philipp Mandl",
+      "Johannes Edelmann",
+      "Manfred Plöchl"
+    ],
+    "venue": "Applied Sciences",
+    "doi": "10.3390/app142210718",
+    "source": "https://orcid.org/0000-0001-8771-3174",
+    "url": "https://doi.org/10.3390/app142210718",
+    "citation": "Philipp Mandl, Johannes Edelmann, Manfred Plöchl (2024). Vehicle Motion Control for Overactuated Vehicles to Enhance Controllability and Path Tracking. Applied Sciences.",
+    "scholar": "https://scholar.google.com/scholar?q=%22Vehicle%20Motion%20Control%20for%20Overactuated%20Vehicles%20to%20Enhance%20Controllability%20and%20Path%20Tracking%22",
+    "thumbnail": "media/publications/vehicle-motion-control-for-overactuated-vehicles-to-enhance-controllability-and-path-tracking-2024.webp",
+    "thumbnailAlt": "Figure 1 from Vehicle Motion Control for Overactuated Vehicles to Enhance Controllability and Path Tracking",
+    "thumbnailKind": "Figure 1",
+    "thumbnailPage": 2,
+    "thumbnailSource": "https://repositum.tuwien.at/bitstream/20.500.12708/206064/1/Mandl-2024-APPLIED%20SCIENCES-BASEL-vor.pdf",
+    "pdf": "https://repositum.tuwien.at/bitstream/20.500.12708/206064/1/Mandl-2024-APPLIED%20SCIENCES-BASEL-vor.pdf",
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "no_matching_arxiv_record_in_checked_sources",
+        "checkedAt": "2026-11-02"
+      }
+    }
+  },
+  {
+    "id": "attention-based-neural-network-for-autonomous-driving-agents",
+    "title": "Attention based neural network for autonomous driving agents",
+    "citation": "Ulmer, S. (2023). Attention Based Neural Network for Autonomous Driving Agents [Diploma Thesis, Technische Universität Wien]. reposiTUm. https://doi.org/10.34726/hss.2023.101600",
+    "url": "https://repositum.tuwien.at/handle/20.500.12708/188073",
+    "year": 2023,
+    "type": "Thesis",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/research/",
+    "doi": "10.34726/hss.2023.101600",
+    "authors": [
+      "Stefan Ulmer"
+    ],
+    "scholar": "https://scholar.google.com/scholar?q=%22Attention%20based%20neural%20network%20for%20autonomous%20driving%20agents%22",
+    "pdf": "https://repositum.tuwien.at/bitstream/20.500.12708/188073/1/Ulmer%20Stefan%20-%202023%20-%20Attention%20Based%20Neural%20Network%20for%20Autonomous%20Driving...pdf",
+    "venue": "TU Wien",
+    "thumbnail": "media/publications/attention-based-neural-network-for-autonomous-driving-agents.webp",
+    "thumbnailAlt": "Figure 1 from Attention based neural network for autonomous driving agents",
+    "thumbnailKind": "Figure 1",
+    "thumbnailPage": 22,
+    "thumbnailSource": "https://repositum.tuwien.at/bitstream/20.500.12708/188073/1/Ulmer%20Stefan%20-%202023%20-%20Attention%20Based%20Neural%20Network%20for%20Autonomous%20Driving...pdf",
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "no_matching_arxiv_record_in_checked_sources",
+        "checkedAt": "2026-11-02"
+      }
+    }
+  },
+  {
+    "id": "attentional-neural-network-based-dynamic-object-detection-for-autonomous-multi-agent-systems",
+    "title": "Attentional neural network based dynamic object detection for autonomous multi-agent systems",
+    "citation": "Scheuchenstuhl, D. (2023). Attentional Neural Network based Dynamic Object Detection for Autonomous Multi-Agent Systems [Diploma Thesis, Technische Universität Wien]. reposiTUm. https://doi.org/10.34726/hss.2023.101601",
+    "url": "https://repositum.tuwien.at/handle/20.500.12708/188072",
+    "year": 2023,
+    "type": "Thesis",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/research/",
+    "doi": "10.34726/hss.2023.101601",
+    "authors": [
+      "Daniel Scheuchenstuhl"
+    ],
+    "scholar": "https://scholar.google.com/scholar?q=%22Attentional%20neural%20network%20based%20dynamic%20object%20detection%20for%20autonomous%20multi-agent%20systems%22",
+    "pdf": "https://repositum.tuwien.at/bitstream/20.500.12708/188072/1/Scheuchenstuhl%20Daniel%20-%202023%20-%20Attentional%20Neural%20Network%20based%20Dynamic%20Object...pdf",
+    "venue": "TU Wien",
+    "thumbnail": "media/publications/attentional-neural-network-based-dynamic-object-detection-for-autonomous-multi-agent-systems.webp",
+    "thumbnailAlt": "First-page preview from Attentional neural network based dynamic object detection for autonomous multi-agent systems",
+    "thumbnailKind": "First-page preview",
+    "thumbnailPage": 1,
+    "thumbnailSource": "https://repositum.tuwien.at/bitstream/20.500.12708/188072/1/Scheuchenstuhl%20Daniel%20-%202023%20-%20Attentional%20Neural%20Network%20based%20Dynamic%20Object...pdf",
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "no_matching_arxiv_record_in_checked_sources",
+        "checkedAt": "2026-11-02"
+      }
+    }
+  },
+  {
+    "id": "autonomous-racing-with-attention-based-neural-networks",
+    "title": "Autonomous racing with attention-based neural networks",
+    "citation": "Resch, F. (2023). Autonomous racing with attention-based neural networks [Diploma Thesis, Technische Universität Wien]. reposiTUm. https://doi.org/10.34726/hss.2023.101602 Download: PDF (2.86 MB)",
+    "url": "https://repositum.tuwien.at/handle/20.500.12708/190336",
+    "year": 2023,
+    "type": "Thesis",
+    "source": "https://informatics.tuwien.ac.at/people/felix-resch",
+    "doi": "10.34726/hss.2023.101602",
+    "authors": [
+      "Felix Resch"
+    ],
+    "scholar": "https://scholar.google.com/scholar?q=%22Autonomous%20racing%20with%20attention-based%20neural%20networks%22",
+    "pdf": "https://repositum.tuwien.at/bitstream/20.500.12708/190336/1/Resch%20Felix%20-%202023%20-%20Autonomous%20racing%20with%20attention-based%20neural%20networks.pdf",
+    "venue": "TU Wien",
+    "thumbnail": "media/publications/autonomous-racing-with-attention-based-neural-networks.webp",
+    "thumbnailAlt": "First-page preview from Autonomous racing with attention-based neural networks",
+    "thumbnailKind": "First-page preview",
+    "thumbnailPage": 1,
+    "thumbnailSource": "https://repositum.tuwien.at/bitstream/20.500.12708/190336/1/Resch%20Felix%20-%202023%20-%20Autonomous%20racing%20with%20attention-based%20neural%20networks.pdf",
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "no_matching_arxiv_record_in_checked_sources",
+        "checkedAt": "2026-11-02"
+      }
+    }
+  },
+  {
+    "id": "control-oriented-hybrid-model-of-a-small-scale-refrigerated-truck-chamber-2023",
+    "title": "Control-oriented hybrid model of a small-scale refrigerated truck chamber",
+    "year": 2023,
+    "type": "Journal",
+    "authors": [
+      "Markus Fallmann",
+      "Agnes Poks",
+      "Martin Kozek"
+    ],
+    "venue": "Applied Thermal Engineering",
+    "doi": "10.1016/j.applthermaleng.2022.119719",
+    "source": "https://orcid.org/0000-0002-0276-4552",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2022.119719",
+    "citation": "Markus Fallmann, Agnes Poks, Martin Kozek (2023). Control-oriented hybrid model of a small-scale refrigerated truck chamber. Applied Thermal Engineering.",
+    "scholar": "https://scholar.google.com/scholar?q=%22Control-oriented%20hybrid%20model%20of%20a%20small-scale%20refrigerated%20truck%20chamber%22",
+    "thumbnail": "media/publications/control-oriented-hybrid-model-of-a-small-scale-refrigerated-truck-chamber-2023.webp",
+    "thumbnailAlt": "Figure 1 from Control-oriented hybrid model of a small-scale refrigerated truck chamber",
+    "thumbnailKind": "Figure 1",
+    "thumbnailPage": 4,
+    "thumbnailSource": "https://repositum.tuwien.at/bitstream/20.500.12708/139410/1/Fallmann-2023-Applied%20Thermal%20Engineering-vor.pdf",
+    "pdf": "https://repositum.tuwien.at/bitstream/20.500.12708/139410/1/Fallmann-2023-Applied%20Thermal%20Engineering-vor.pdf",
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "no_matching_arxiv_record_in_checked_sources",
+        "checkedAt": "2026-11-02"
+      }
+    }
+  },
+  {
+    "id": "energy-efficient-hybrid-model-predictive-control-of-mobile-refrigeration-systems-2023",
+    "title": "Energy-efficient hybrid model predictive control of mobile refrigeration systems",
+    "year": 2023,
+    "type": "Journal",
+    "authors": [
+      "Markus Fallmann",
+      "Maximilian Lösch",
+      "Agnes Poks",
+      "Martin Kozek"
+    ],
+    "venue": "Applied Thermal Engineering",
+    "doi": "10.1016/j.applthermaleng.2023.121347",
+    "source": "https://orcid.org/0000-0002-0276-4552",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2023.121347",
+    "citation": "Markus Fallmann, Maximilian Lösch, Agnes Poks, Martin Kozek (2023). Energy-efficient hybrid model predictive control of mobile refrigeration systems. Applied Thermal Engineering.",
+    "scholar": "https://scholar.google.com/scholar?q=%22Energy-efficient%20hybrid%20model%20predictive%20control%20of%20mobile%20refrigeration%20systems%22",
+    "thumbnail": "media/publications/energy-efficient-hybrid-model-predictive-control-of-mobile-refrigeration-systems-2023.webp",
+    "thumbnailAlt": "Figure 1 from Energy-efficient hybrid model predictive control of mobile refrigeration systems",
+    "thumbnailKind": "Figure 1",
+    "thumbnailPage": 4,
+    "thumbnailSource": "https://repositum.tuwien.at/bitstream/20.500.12708/187954/4/Fallmann-2023-Applied%20Thermal%20Engineering-vor.pdf",
+    "pdf": "https://repositum.tuwien.at/bitstream/20.500.12708/187954/4/Fallmann-2023-Applied%20Thermal%20Engineering-vor.pdf",
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "no_matching_arxiv_record_in_checked_sources",
+        "checkedAt": "2026-11-02"
+      }
+    }
+  },
+  {
+    "id": "enhancing-robot-learning-through-learned-human-attention-feature-maps",
+    "title": "Enhancing Robot Learning through Learned Human-Attention Feature Maps",
+    "citation": "Daniel Scheuchenstuhl, Stefan Ulmer, Felix Resch, Luigi Berducci, Radu Grosu. (2023). Enhancing Robot Learning through Learned Human-Attention Feature Maps. In Workshop on effective Representations, Abstractions, and Priors for Robot Learning (RAP4Robots) at ICRA 2023 . https://arxiv.org/abs/2308.15327",
+    "url": "https://arxiv.org/abs/2308.15327",
+    "year": 2023,
+    "type": "Workshop",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/research/",
+    "authors": [
+      "Daniel Scheuchenstuhl",
+      "Stefan Ulmer",
+      "Felix Resch",
+      "Luigi Berducci",
+      "Radu Grosu"
+    ],
+    "pdf": "https://arxiv.org/pdf/2308.15327",
+    "scholar": "https://scholar.google.com/scholar?q=%22Enhancing%20Robot%20Learning%20through%20Learned%20Human-Attention%20Feature%20Maps%22",
+    "venue": "ICRA",
+    "thumbnail": "media/publications/enhancing-robot-learning-through-learned-human-attention-feature-maps.webp",
+    "thumbnailAlt": "Figure 1 from Enhancing Robot Learning through Learned Human-Attention Feature Maps",
+    "thumbnailKind": "Figure 1",
+    "thumbnailPage": 1,
+    "thumbnailSource": "https://arxiv.org/pdf/2308.15327",
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "matched",
+        "checkedAt": "2026-11-02",
+        "source": "https://arxiv.org/abs/2308.15327",
+        "version": "v1"
+      }
+    },
+    "arxiv": {
+      "id": "2308.15327",
+      "version": "v1",
+      "title": "Enhancing Robot Learning through Learned Human-Attention Feature Maps",
+      "authors": [
+        "Daniel Scheuchenstuhl",
+        "Stefan Ulmer",
+        "Felix Resch",
+        "Luigi Berducci",
+        "Radu Grosu"
+      ],
+      "published": "2023-08-29",
+      "updated": "2023-08-29",
+      "url": "https://arxiv.org/abs/2308.15327",
+      "pdf": "https://arxiv.org/pdf/2308.15327",
+      "journalRef": "",
+      "doi": "",
+      "comments": "This work has been accepted for the RAP4Robots workshop at ICRA 2023 in London"
+    }
+  },
+  {
+    "id": "fault-detection-and-isolation-for-a-secondary-loop-refrigeration-system-2023",
+    "title": "Fault detection and isolation for a secondary loop refrigeration system",
+    "year": 2023,
+    "type": "Journal",
+    "authors": [
+      "Agnes Poks",
+      "Markus Fallmann",
+      "Lorenz Fink",
+      "Lukas Rinnofner",
+      "Martin Kozek"
+    ],
+    "venue": "Applied Thermal Engineering",
+    "doi": "10.1016/j.applthermaleng.2023.120277",
+    "source": "https://orcid.org/0000-0002-0276-4552",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2023.120277",
+    "citation": "Agnes Poks, Markus Fallmann, Lorenz Fink, Lukas Rinnofner, Martin Kozek (2023). Fault detection and isolation for a secondary loop refrigeration system. Applied Thermal Engineering.",
+    "scholar": "https://scholar.google.com/scholar?q=%22Fault%20detection%20and%20isolation%20for%20a%20secondary%20loop%20refrigeration%20system%22",
+    "thumbnail": "media/publications/fault-detection-and-isolation-for-a-secondary-loop-refrigeration-system-2023.webp",
+    "thumbnailAlt": "Figure 1 from Fault detection and isolation for a secondary loop refrigeration system",
+    "thumbnailKind": "Figure 1",
+    "thumbnailPage": 3,
+    "thumbnailSource": "https://repositum.tuwien.at/bitstream/20.500.12708/175786/1/Poks-2023-Applied%20Thermal%20Engineering-vor.pdf",
+    "pdf": "https://repositum.tuwien.at/bitstream/20.500.12708/175786/1/Poks-2023-Applied%20Thermal%20Engineering-vor.pdf",
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "no_matching_arxiv_record_in_checked_sources",
+        "checkedAt": "2026-11-02"
+      }
+    }
+  },
+  {
+    "id": "mitigating-tail-catastrophe-in-steered-database-query-optimization-with-risk-averse-contextual-bandits",
+    "title": "Mitigating Tail Catastrophe in Steered Database Query Optimization with Risk-Averse Contextual Bandits",
+    "citation": "Mónika Farsang, Paul Mineiro and Wangda Zhang. Mitigating Tail Catastrophe in Steered Database Query Optimization with Risk-Averse Contextual Bandits. NeurIPS 2023 Workshop on Machine Learning for Systems.",
+    "url": "https://mlforsystems.org/assets/papers/neurips2023/paper8.pdf",
+    "source": "https://monifarsang.github.io/publications/",
+    "year": 2023,
+    "type": "Workshop",
+    "authors": [
+      "Mónika Farsang",
+      "Paul Mineiro",
+      "Wangda Zhang"
+    ],
+    "venue": "Machine Learning for Systems Workshop at 37th NeurIPS Conference",
+    "scholar": "https://scholar.google.com/scholar?q=%22Mitigating%20Tail%20Catastrophe%20in%20Steered%20Database%20Query%20Optimization%20with%20Risk-Averse%20Contextual%20Bandits%22",
+    "pdf": "https://mlforsystems.org/assets/papers/neurips2023/paper8.pdf",
+    "thumbnail": "media/publications/mitigating-tail-catastrophe-in-steered-database-query-optimization-with-risk-averse-contextual-bandits.webp",
+    "thumbnailAlt": "Figure 1 from Mitigating Tail Catastrophe in Steered Database Query Optimization with Risk-Averse Contextual Bandits",
+    "thumbnailKind": "Figure 1",
+    "thumbnailPage": 4,
+    "thumbnailSource": "https://mlforsystems.org/assets/papers/neurips2023/paper8.pdf",
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "no_matching_arxiv_record_in_checked_sources",
+        "checkedAt": "2026-11-02"
+      }
+    }
+  },
+  {
+    "id": "multi-agent-spatial-predictive-control-with-application-to-drone-flocking",
+    "title": "Multi-Agent Spatial Predictive Control with Application to Drone Flocking",
+    "citation": "Brandstatter, A., Smolka, S. A., Stoller, S. D., Tiwari, A., & Grosu, R. (2023). Multi-Agent Spatial Predictive Control with Application to Drone Flocking. In 2023 IEEE International Conference on Robotics and Automation (ICRA) (pp. 1221–1227). IEEE. https://doi.org/10.1109/ICRA48891.2023.10160617",
+    "url": "https://repositum.tuwien.at/handle/20.500.12708/188265",
+    "year": 2023,
+    "type": "Conference",
+    "source": "https://informatics.tuwien.ac.at/people/andreas-brandstaetter",
+    "doi": "10.1109/ICRA48891.2023.10160617",
+    "authors": [
+      "Andreas Brandstätter",
+      "Scott A. Smolka",
+      "Scott D. Stoller",
+      "Ashish Tiwari",
+      "Radu Grosu"
+    ],
+    "venue": "2023 IEEE International Conference on Robotics and Automation (ICRA)",
+    "scholar": "https://scholar.google.com/scholar?q=%22Multi-Agent%20Spatial%20Predictive%20Control%20with%20Application%20to%20Drone%20Flocking%22",
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "no_matching_arxiv_record_in_checked_sources",
+        "checkedAt": "2026-11-02"
+      }
+    }
+  },
+  {
+    "id": "nimbleai-towards-neuromorphic-sensing-processing-3d-integrated-chips",
+    "title": "NimbleAI: Towards Neuromorphic Sensing-Processing 3D-integrated Chips",
+    "citation": "NimbleAI: Towards Neuromorphic Sensing-Processing 3D-integrated Chips / \n  Iturbe, X., Abderrahmane, N., Abella, J., Alcaide Portet, S., Beyne, E., Charles, H.-P., Charpin-Nicolle, C., Chittka, L., Dávilaa, A., Erdmann, A., Estrada, C., Fernández, A., Fontanelli, A., Flich, J., Furano, G., Gloriani, A. H., Isusquiza, E., Grosu, R., Hernández, C., … Zaykov, P. (2023). NimbleAI: Towards Neuromorphic Sensing-Processing 3D-integrated Chips. In 2023 Design, Automation & Test in Europe Conference & Exhibition (DATE) (pp. 1–6). https://doi.org/10.23919/DATE56975.2023.10136952 Project: NimbleAI (2022–2026)",
+    "url": "https://repositum.tuwien.at/handle/20.500.12708/218187",
+    "year": 2023,
+    "type": "Conference",
+    "source": "https://informatics.tuwien.ac.at/people/radu-grosu",
+    "doi": "10.23919/DATE56975.2023.10136952",
+    "authors": [
+      "Xabier Iturbe",
+      "Nassim Abderrahmane",
+      "Jaume Abella",
+      "Sergi Alcaide",
+      "Eric Beyne",
+      "Henri-Pierre Charles",
+      "Christelle Charpin-Nicolle",
+      "Lars Chittka",
+      "Angélica Dávila",
+      "Arne Erdmann",
+      "Carles Estrada",
+      "Ander Fernández",
+      "Anna Fontanelli",
+      "José Flich",
+      "Gianluca Furano",
+      "Alejandro Hernán Gloriani",
+      "Erik Isusquiza",
+      "Radu Grosu",
+      "Carles Hernández",
+      "Daniele Ielmini",
+      "David Jackson",
+      "Maha Kooli",
+      "Nicola Lepri",
+      "Bernabé Linares-Barranco",
+      "Jean-Loup Lachese",
+      "Eric Laurent",
+      "Menno Lindwer",
+      "Frank Linsenmaier",
+      "Mikel Luján",
+      "Karel Masařík",
+      "Nele Mentens",
+      "Orlando Moreira",
+      "Chinmay Nawghane",
+      "Luca Peres",
+      "Jean-Philippe Noel",
+      "Arash Pourtaherian",
+      "Christoph Posch",
+      "Peter Priller",
+      "Zdenek Prikryl",
+      "Felix Resch",
+      "Oliver Rhodes",
+      "Todor Stefanov",
+      "Moritz Storring",
+      "Michele Taliercio",
+      "Rafael Tornero",
+      "Marcel van de Burgwal",
+      "Geert van der Plas",
+      "Elisa Vianello",
+      "Pavel Zaykov"
+    ],
+    "venue": "2023 Design, Automation &amp; Test in Europe Conference &amp; Exhibition (DATE)",
+    "scholar": "https://scholar.google.com/scholar?q=%22NimbleAI%3A%20Towards%20Neuromorphic%20Sensing-Processing%203D-integrated%20Chips%22",
+    "thumbnail": "media/publications/nimbleai-towards-neuromorphic-sensing-processing-3d-integrated-chips.webp",
+    "thumbnailAlt": "Figure 1 from NimbleAI: Towards Neuromorphic Sensing-Processing 3D-integrated Chips",
+    "thumbnailKind": "Figure 1",
+    "thumbnailPage": 4,
+    "thumbnailSource": "https://scholarlypublications.universiteitleiden.nl/download/1887/3718577/1?col=81522199340002711",
+    "pdf": "https://scholarlypublications.universiteitleiden.nl/download/1887/3718577/1?col=81522199340002711",
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "no_matching_arxiv_record_in_checked_sources",
+        "checkedAt": "2026-11-02"
+      }
+    }
+  },
+  {
+    "id": "simulation-based-sizing-of-a-secondary-loop-cooling-system-for-a-refrigerated-vehicle-2023",
+    "title": "Simulation-Based Sizing of a Secondary Loop Cooling System for a Refrigerated Vehicle",
+    "year": 2023,
+    "type": "Journal",
+    "authors": [
+      "Maximilian Lösch",
+      "Markus Fallmann",
+      "Agnes Poks",
+      "Martin Kozek"
+    ],
+    "venue": "Energies",
+    "doi": "10.3390/en16186459",
+    "source": "https://orcid.org/0000-0002-0276-4552",
+    "url": "https://doi.org/10.3390/en16186459",
+    "citation": "Maximilian Lösch, Markus Fallmann, Agnes Poks, Martin Kozek (2023). Simulation-Based Sizing of a Secondary Loop Cooling System for a Refrigerated Vehicle. Energies.",
+    "scholar": "https://scholar.google.com/scholar?q=%22Simulation-Based%20Sizing%20of%20a%20Secondary%20Loop%20Cooling%20System%20for%20a%20Refrigerated%20Vehicle%22",
+    "thumbnail": "media/publications/simulation-based-sizing-of-a-secondary-loop-cooling-system-for-a-refrigerated-vehicle-2023.webp",
+    "thumbnailAlt": "Figure 1 from Simulation-Based Sizing of a Secondary Loop Cooling System for a Refrigerated Vehicle",
+    "thumbnailKind": "Figure 1",
+    "thumbnailPage": 4,
+    "thumbnailSource": "https://repositum.tuwien.at/bitstream/20.500.12708/188604/1/Loesch-2023-Energies-vor.pdf",
+    "pdf": "https://repositum.tuwien.at/bitstream/20.500.12708/188604/1/Loesch-2023-Energies-vor.pdf",
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "no_matching_arxiv_record_in_checked_sources",
+        "checkedAt": "2026-11-02"
+      }
+    }
+  },
+  {
+    "id": "td-magic-from-pictures-of-timing-diagrams-to-formal-specifications",
+    "title": "TD-Magic: From Pictures of Timing Diagrams To Formal Specifications",
+    "citation": "TD-Magic: From Pictures of Timing Diagrams To Formal Specifications / \n  He, J., Nickovic, D., Bartocci, E., & Grosu, R. (2023). TD-Magic: From Pictures of Timing Diagrams To Formal Specifications. In 2023 60th ACM/IEEE Design Automation Conference (DAC) (pp. 1–6). IEEE. https://doi.org/10.1109/DAC56929.2023.10247685 Project: ADEX (2020–2024)",
+    "url": "https://repositum.tuwien.at/handle/20.500.12708/190645",
+    "year": 2023,
+    "type": "Conference",
+    "source": "https://informatics.tuwien.ac.at/people/radu-grosu",
+    "doi": "10.1109/DAC56929.2023.10247685",
+    "authors": [
+      "Jie He",
+      "Dejan Ničković",
+      "Ezio Bartocci",
+      "Radu Grosu"
+    ],
+    "venue": "2023 60th ACM/IEEE Design Automation Conference (DAC)",
+    "scholar": "https://scholar.google.com/scholar?q=%22TD-Magic%3A%20From%20Pictures%20of%20Timing%20Diagrams%20To%20Formal%20Specifications%22",
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "no_matching_arxiv_record_in_checked_sources",
+        "checkedAt": "2026-11-02"
+      }
+    }
+  },
+  {
+    "id": "a-distributed-simplex-architecture-for-multi-agent-systems",
+    "title": "A distributed simplex architecture for multi-agent systems",
+    "citation": "Mehmood, U., Roy, S., Damare, A., Grosu, R., Smolka, S. A., & Stoller, S. D. (2022). A distributed simplex architecture for multi-agent systems. Journal of Systems Architecture , 134 , 102784. https://doi.org/10.1016/j.sysarc.2022.102784",
+    "url": "https://repositum.tuwien.at/handle/20.500.12708/218643",
+    "year": 2022,
+    "type": "Journal",
+    "source": "https://informatics.tuwien.ac.at/people/radu-grosu",
+    "doi": "10.1016/j.sysarc.2022.102784",
+    "authors": [
+      "Usama Mehmood",
+      "Shouvik Roy",
+      "Amol Damare",
+      "Radu Grosu",
+      "Scott A. Smolka",
+      "Scott D. Stoller"
+    ],
+    "venue": "Journal of Systems Architecture",
+    "scholar": "https://scholar.google.com/scholar?q=%22A%20distributed%20simplex%20architecture%20for%20multi-agent%20systems%22",
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "no_matching_arxiv_record_in_checked_sources",
+        "checkedAt": "2026-11-02"
+      }
+    }
+  },
+  {
+    "id": "conditionally-risk-averse-contextual-bandits",
+    "title": "Conditionally Risk-Averse Contextual Bandits",
+    "citation": "Mónika Farsang, Paul Mineiro, Wangda Zhang (2022). Conditionally Risk-Averse Contextual Bandits. arXiv:2210.13573 (v2).",
+    "url": "https://arxiv.org/abs/2210.13573",
+    "source": "https://monifarsang.github.io/publications/",
+    "year": 2022,
+    "type": "Preprint",
+    "authors": [
+      "Mónika Farsang",
+      "Paul Mineiro",
+      "Wangda Zhang"
+    ],
+    "doi": "10.48550/arXiv.2210.13573",
+    "pdf": "https://arxiv.org/pdf/2210.13573",
+    "scholar": "https://scholar.google.com/scholar?q=%22Conditionally%20Risk-Averse%20Contextual%20Bandits%22",
+    "venue": "arXiv",
+    "thumbnail": "media/publications/conditionally-risk-averse-contextual-bandits.webp",
+    "thumbnailAlt": "First-page preview from Conditionally Risk-Averse Contextual Bandits",
+    "thumbnailKind": "First-page preview",
+    "thumbnailPage": 1,
+    "thumbnailSource": "https://arxiv.org/pdf/2210.13573",
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "matched",
+        "checkedAt": "2026-11-02",
+        "source": "https://arxiv.org/abs/2210.13573",
+        "version": "v2"
+      }
+    },
+    "arxiv": {
+      "id": "2210.13573",
+      "version": "v2",
+      "title": "Conditionally Risk-Averse Contextual Bandits",
+      "authors": [
+        "Mónika Farsang",
+        "Paul Mineiro",
+        "Wangda Zhang"
+      ],
+      "published": "2022-10-24",
+      "updated": "2023-07-08",
+      "url": "https://arxiv.org/abs/2210.13573",
+      "pdf": "https://arxiv.org/pdf/2210.13573",
+      "journalRef": "",
+      "doi": "",
+      "comments": ""
+    }
+  },
+  {
+    "id": "distributed-hierarchical-control-for-multiple-refrigeration-units-2022",
+    "title": "Distributed hierarchical control for multiple refrigeration units",
+    "year": 2022,
+    "type": "Journal",
+    "authors": [
+      "Agnes Poks",
+      "Elisabeth Luchini",
+      "Markus Fallmann",
+      "Camillo Signor",
+      "Andreas Wurzinger",
+      "Dominik Radler",
+      "Stefan Jakubek",
+      "Martin Kozek"
+    ],
+    "venue": "Thermal Science and Engineering Progress",
+    "doi": "10.1016/j.tsep.2022.101319",
+    "source": "https://orcid.org/0000-0002-0276-4552",
+    "url": "https://doi.org/10.1016/j.tsep.2022.101319",
+    "citation": "Agnes Poks, Elisabeth Luchini, Markus Fallmann, Camillo Signor, Andreas Wurzinger, Dominik Radler, Stefan Jakubek, Martin Kozek (2022). Distributed hierarchical control for multiple refrigeration units. Thermal Science and Engineering Progress.",
+    "scholar": "https://scholar.google.com/scholar?q=%22Distributed%20hierarchical%20control%20for%20multiple%20refrigeration%20units%22",
+    "thumbnail": "media/publications/distributed-hierarchical-control-for-multiple-refrigeration-units-2022.webp",
+    "thumbnailAlt": "Figure 1 from Distributed hierarchical control for multiple refrigeration units",
+    "thumbnailKind": "Figure 1",
+    "thumbnailPage": 2,
+    "thumbnailSource": "https://repositum.tuwien.at/bitstream/20.500.12708/158287/1/Poks-2022-Thermal%20Science%20and%20Engineering%20Progress-vor.pdf",
+    "pdf": "https://repositum.tuwien.at/bitstream/20.500.12708/158287/1/Poks-2022-Thermal%20Science%20and%20Engineering%20Progress-vor.pdf",
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "no_matching_arxiv_record_in_checked_sources",
+        "checkedAt": "2026-11-02"
+      }
+    }
+  },
+  {
+    "id": "dynamic-simulation-of-a-rotor-system-with-variable-speed-2022",
+    "title": "Dynamic Simulation of a Rotor System with Variable Speed",
+    "year": 2022,
+    "type": "Conference",
+    "authors": [
+      "M. Bischläger",
+      "C. Gross",
+      "J. Koch",
+      "A. Poks",
+      "M. Weigand"
+    ],
+    "venue": "78th Vertical Flight Society Annual Forum and Technology Display, FORUM 2022",
+    "doi": null,
+    "source": "https://orcid.org/0000-0002-0276-4552",
+    "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85135035786&partnerID=MN8TOARS",
+    "citation": "@article{Poks2022,title = {Dynamic Simulation of a Rotor System with Variable Speed},journal = {78th Vertical Flight Society Annual Forum and Technology Display, FORUM 2022},year = {2022},author = {Bischl{\\\"a}ger, M. and Gross, C. and Koch, J. and Poks, A. and Weigand, M.}}",
+    "scholar": "https://scholar.google.com/scholar?q=%22Dynamic%20Simulation%20of%20a%20Rotor%20System%20with%20Variable%20Speed%22",
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "no_matching_arxiv_record_in_checked_sources",
+        "checkedAt": "2026-11-02"
+      }
+    }
+  },
+  {
+    "id": "fault-detection-and-isolation-for-a-secondary-loop-refrigeration-system-2022",
+    "title": "Fault Detection and Isolation for a Secondary Loop Refrigeration System",
+    "year": 2022,
+    "type": "Other",
+    "authors": [
+      "A. Poks",
+      "M. Fallmann",
+      "L. Fink",
+      "L. Rinnofner",
+      "M. Kozek"
+    ],
+    "venue": "SSRN",
+    "doi": null,
+    "source": "https://orcid.org/0000-0002-0276-4552",
+    "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85138226414&partnerID=MN8TOARS",
+    "citation": "@article{Poks2022,title = {Fault Detection and Isolation for a Secondary Loop Refrigeration System},journal = {SSRN},year = {2022},author = {Poks, A. and Fallmann, M. and Fink, L. and Rinnofner, L. and Kozek, M.}}",
+    "scholar": "https://scholar.google.com/scholar?q=%22Fault%20Detection%20and%20Isolation%20for%20a%20Secondary%20Loop%20Refrigeration%20System%22",
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "no_matching_arxiv_record_in_checked_sources",
+        "checkedAt": "2026-11-02"
+      }
+    }
+  },
+  {
+    "id": "hybrid-model-based-online-estimation-of-air-temperature-in-mobile-small-scale-cooling-chambers-2022",
+    "title": "Hybrid model-based online estimation of air temperature in mobile small-scale cooling chambers",
+    "year": 2022,
+    "type": "Journal",
+    "authors": [
+      "Markus Fallmann",
+      "Agnes Poks",
+      "Martin Kozek"
+    ],
+    "venue": "Applied Thermal Engineering",
+    "doi": "10.1016/j.applthermaleng.2022.118147",
+    "source": "https://orcid.org/0000-0002-0276-4552",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2022.118147",
+    "citation": "@article{Fallmann_2022,\n\tdoi = {10.1016/j.applthermaleng.2022.118147},\n\turl = {https://doi.org/10.1016%2Fj.applthermaleng.2022.118147},\n\tyear = 2022,\n\tmonth = {may},\n\tpublisher = {Elsevier {BV}},\n\tvolume = {208},\n\tpages = {118147},\n\tauthor = {Markus Fallmann and Agnes Poks and Martin Kozek},\n\ttitle = {Hybrid model-based online estimation of air temperature in mobile small-scale cooling chambers},\n\tjournal = {Applied Thermal Engineering}\n}",
+    "scholar": "https://scholar.google.com/scholar?q=%22Hybrid%20model-based%20online%20estimation%20of%20air%20temperature%20in%20mobile%20small-scale%20cooling%20chambers%22",
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "no_matching_arxiv_record_in_checked_sources",
+        "checkedAt": "2026-11-02"
+      }
+    }
+  },
+  {
+    "id": "kombinierte-stabilitat-von-fahrzeug-und-fahrer-versuch-und-simulation",
+    "title": "Kombinierte Stabilität von Fahrzeug und Fahrer - Versuch und Simulation",
+    "year": 2022,
+    "type": "Thesis",
+    "authors": [
+      "Philipp Gratzer"
+    ],
+    "venue": "TU Wien · thesis",
+    "url": "https://repositum.tuwien.at/handle/20.500.12708/78129",
+    "source": "https://repositum.tuwien.at/handle/20.500.12708/78129",
+    "citation": "Philipp Gratzer (2022). Kombinierte Stabilität von Fahrzeug und Fahrer – Versuch und Simulation. TU Wien.",
+    "doi": "10.34726/hss.2022.94162",
+    "scholar": "https://scholar.google.com/scholar?q=%22Kombinierte%20Stabilit%C3%A4t%20von%20Fahrzeug%20und%20Fahrer%20-%20Versuch%20und%20Simulation%22",
+    "pdf": "https://repositum.tuwien.at/bitstream/20.500.12708/78129/1/Gratzer%20Philipp%20-%202022%20-%20Kombinierte%20Stabilitaet%20von%20Fahrzeug%20und%20Fahrer%20-...pdf",
+    "thumbnail": "media/publications/kombinierte-stabilitat-von-fahrzeug-und-fahrer-versuch-und-simulation.webp",
+    "thumbnailAlt": "First-page preview from Kombinierte Stabilität von Fahrzeug und Fahrer - Versuch und Simulation",
+    "thumbnailKind": "First-page preview",
+    "thumbnailPage": 1,
+    "thumbnailSource": "https://repositum.tuwien.at/bitstream/20.500.12708/78129/1/Gratzer%20Philipp%20-%202022%20-%20Kombinierte%20Stabilitaet%20von%20Fahrzeug%20und%20Fahrer%20-...pdf",
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "no_matching_arxiv_record_in_checked_sources",
+        "checkedAt": "2026-11-02"
+      }
+    }
+  },
+  {
+    "id": "latent-imagination-facilitates-zero-shot-transfer-in-autonomous-racing",
+    "title": "Latent Imagination Facilitates Zero-Shot Transfer in Autonomous Racing",
+    "citation": "Brunnbauer, A., Berducci, L., Brandstätter, A., Lechner, M., Hasani, R., Rus, D., & Grosu, R. (2022). Latent Imagination Facilitates Zero-Shot Transfer in Autonomous Racing. In 2022 IEEE International Conference on Robotics and Automation (ICRA) (pp. 7513–7520). https://doi.org/10.1109/ICRA46639.2022.9811650",
+    "url": "https://repositum.tuwien.at/handle/20.500.12708/154429",
+    "year": 2022,
+    "type": "Conference",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/research/",
+    "doi": "10.1109/ICRA46639.2022.9811650",
+    "authors": [
+      "Axel Brunnbauer",
+      "Luigi Berducci",
+      "Andreas Brandstatter",
+      "Mathias Lechner",
+      "Ramin Hasani",
+      "Daniela Rus",
+      "Radu Grosu"
+    ],
+    "venue": "2022 International Conference on Robotics and Automation (ICRA)",
+    "scholar": "https://scholar.google.com/scholar?q=%22Latent%20Imagination%20Facilitates%20Zero-Shot%20Transfer%20in%20Autonomous%20Racing%22",
+    "thumbnail": "media/publications/latent-imagination-facilitates-zero-shot-transfer-in-autonomous-racing.webp",
+    "thumbnailAlt": "Figure 1 from Latent Imagination Facilitates Zero-Shot Transfer in Autonomous Racing",
+    "thumbnailKind": "Figure 1",
+    "thumbnailPage": 1,
+    "thumbnailSource": "https://arxiv.org/pdf/2103.04909",
+    "pdf": "https://arxiv.org/pdf/2103.04909",
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "matched",
+        "checkedAt": "2026-11-02",
+        "source": "https://arxiv.org/abs/2103.04909",
+        "version": "v3"
+      }
+    },
+    "arxiv": {
+      "id": "2103.04909",
+      "version": "v3",
+      "title": "Latent Imagination Facilitates Zero-Shot Transfer in Autonomous Racing",
+      "authors": [
+        "Axel Brunnbauer",
+        "Luigi Berducci",
+        "Andreas Brandstätter",
+        "Mathias Lechner",
+        "Ramin Hasani",
+        "Daniela Rus",
+        "Radu Grosu"
+      ],
+      "published": "2021-03-08",
+      "updated": "2022-02-28",
+      "url": "https://arxiv.org/abs/2103.04909",
+      "pdf": "https://arxiv.org/pdf/2103.04909",
+      "journalRef": "",
+      "doi": "",
+      "comments": "This paper is accepted for presentation at the International Conference on Robotics and Automation (ICRA), 2022"
+    }
+  },
+  {
+    "id": "safe-policy-improvement-in-constrained-markov-decision-processes",
+    "title": "Safe Policy Improvement in Constrained Markov Decision Processes",
+    "citation": "Safe Policy Improvement in Constrained Markov Decision Processes Luigi Berducci, Radu Grosu. International Symposium On Leveraging Applications of Formal Methods, Verification and Validation (ISoLA), 2022.",
+    "url": "https://arxiv.org/abs/2210.11259",
+    "source": "https://luigiberducci.github.io/publications/",
+    "year": 2022,
+    "type": "Conference",
+    "authors": [
+      "Luigi Berducci",
+      "Radu Grosu"
+    ],
+    "doi": "10.1007/978-3-031-19849-6_21",
+    "pdf": "https://arxiv.org/pdf/2210.11259",
+    "scholar": "https://scholar.google.com/scholar?q=%22Safe%20Policy%20Improvement%20in%20Constrained%20Markov%20Decision%20Processes%22",
+    "venue": "Paper",
+    "thumbnail": "media/publications/safe-policy-improvement-in-constrained-markov-decision-processes.webp",
+    "thumbnailAlt": "Figure 1 from Safe Policy Improvement in Constrained Markov Decision Processes",
+    "thumbnailKind": "Figure 1",
+    "thumbnailPage": 2,
+    "thumbnailSource": "https://arxiv.org/pdf/2210.11259",
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "matched",
+        "checkedAt": "2026-11-02",
+        "source": "https://arxiv.org/abs/2210.11259",
+        "version": "v1"
+      }
+    },
+    "arxiv": {
+      "id": "2210.11259",
+      "version": "v1",
+      "title": "Safe Policy Improvement in Constrained Markov Decision Processes",
+      "authors": [
+        "Luigi Berducci",
+        "Radu Grosu"
+      ],
+      "published": "2022-10-20",
+      "updated": "2022-10-20",
+      "url": "https://arxiv.org/abs/2210.11259",
+      "pdf": "https://arxiv.org/pdf/2210.11259",
+      "journalRef": "LNCS 13701 (2022) 360-381;",
+      "doi": "10.1007/978-3-031-19849-6_21",
+      "comments": "Accepted for presentation at the International Symposium on Leveraging Applications of Formal Methods (ISoLA, 2022)"
+    }
+  },
+  {
+    "id": "controlling-agents-by-constrained-policy-updates",
+    "title": "Controlling Agents by Constrained Policy Updates",
+    "citation": "Mónika Farsang and Luca Szegletes. Controlling Agents by Constrained Policy Updates. System Theory, Control and Computing Journal. 2021.",
+    "url": "https://doi.org/10.52846/stccj.2021.1.2.24",
+    "source": "https://monifarsang.github.io/publications/",
+    "year": 2021,
+    "type": "Journal",
+    "authors": [
+      "Mónika Farsang",
+      "Luca Szegletes"
+    ],
+    "venue": "SYSTEM THEORY, CONTROL AND COMPUTING JOURNAL",
+    "doi": "10.52846/stccj.2021.1.2.24",
+    "scholar": "https://scholar.google.com/scholar?q=%22Controlling%20Agents%20by%20Constrained%20Policy%20Updates%22",
+    "pdf": "https://stccj.ucv.ro/index.php/stccj/article/download/24/16",
+    "thumbnail": "media/publications/controlling-agents-by-constrained-policy-updates.webp",
+    "thumbnailAlt": "Figure 1 from Controlling Agents by Constrained Policy Updates",
+    "thumbnailKind": "Figure 1",
+    "thumbnailPage": 2,
+    "thumbnailSource": "https://stccj.ucv.ro/index.php/stccj/article/download/24/16",
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "no_matching_arxiv_record_in_checked_sources",
+        "checkedAt": "2026-11-02"
+      }
+    }
+  },
+  {
+    "id": "decaying-clipping-range-in-proximal-policy-optimization",
+    "title": "Decaying Clipping Range in Proximal Policy Optimization",
+    "citation": "Mónika Farsang and Luca Szegletes. Decaying Clipping Range in Proximal Policy Optimization. 2021 IEEE 15th International Symposium on Applied Computational Intelligence and Informatics (SACI). 2021.",
+    "url": "https://doi.org/10.1109/SACI51354.2021.9465602",
+    "source": "https://monifarsang.github.io/publications/",
+    "year": 2021,
+    "type": "Conference",
+    "authors": [
+      "Monika Farsang",
+      "Luca Szegletes"
+    ],
+    "venue": "2021 IEEE 15th International Symposium on Applied Computational Intelligence and Informatics (SACI)",
+    "doi": "10.1109/saci51354.2021.9465602",
+    "scholar": "https://scholar.google.com/scholar?q=%22Decaying%20Clipping%20Range%20in%20Proximal%20Policy%20Optimization%22",
+    "thumbnail": "media/publications/decaying-clipping-range-in-proximal-policy-optimization.webp",
+    "thumbnailAlt": "Figure 1 from Decaying Clipping Range in Proximal Policy Optimization",
+    "thumbnailKind": "Figure 1",
+    "thumbnailPage": 2,
+    "thumbnailSource": "https://arxiv.org/pdf/2102.10456",
+    "pdf": "https://arxiv.org/pdf/2102.10456",
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "matched",
+        "checkedAt": "2026-11-02",
+        "source": "https://arxiv.org/abs/2102.10456",
+        "version": "v3"
+      }
+    },
+    "arxiv": {
+      "id": "2102.10456",
+      "version": "v3",
+      "title": "Decaying Clipping Range in Proximal Policy Optimization",
+      "authors": [
+        "Mónika Farsang",
+        "Luca Szegletes"
+      ],
+      "published": "2021-02-20",
+      "updated": "2021-07-01",
+      "url": "https://arxiv.org/abs/2102.10456",
+      "pdf": "https://arxiv.org/pdf/2102.10456",
+      "journalRef": "2021 IEEE 15th International Symposium on Applied Computational Intelligence and Informatics (SACI), 2021, pp. 000521-000526",
+      "doi": "10.1109/SACI51354.2021.9465602",
+      "comments": ""
+    }
+  },
+  {
+    "id": "flatness-based-control-of-dc-dc-converters-with-constant-power-loads-2021",
+    "title": "Flatness based control of dc-dc converters with constant power loads",
+    "year": 2021,
+    "type": "Conference",
+    "authors": [
+      "M. Zauner",
+      "P. Mandl",
+      "C. Hametner",
+      "O. König",
+      "S. Jakubek"
+    ],
+    "venue": "PCIM Europe Conference Proceedings",
+    "doi": null,
+    "source": "https://orcid.org/0000-0001-8771-3174",
+    "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85117726119&partnerID=MN8TOARS",
+    "citation": "@article{Mandl2021,title = {Flatness based control of dc-dc converters with constant power loads},journal = {PCIM Europe Conference Proceedings},year = {2021},volume = {2021-May},pages = {1784-1791},author = {Zauner, M. and Mandl, P. and Hametner, C. and K{\\\"o}nig, O. and Jakubek, S.}}",
+    "scholar": "https://scholar.google.com/scholar?q=%22Flatness%20based%20control%20of%20dc-dc%20converters%20with%20constant%20power%20loads%22",
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "no_matching_arxiv_record_in_checked_sources",
+        "checkedAt": "2026-11-02"
+      }
+    }
+  },
+  {
+    "id": "flatness-based-discrete-time-control-of-a-battery-emulator-driving-a-constant-power-load-2021",
+    "title": "Flatness-Based Discrete-Time Control of a Battery Emulator Driving a Constant Power Load",
+    "year": 2021,
+    "type": "Journal",
+    "authors": [
+      "Michael Zauner",
+      "Philipp Mandl",
+      "Christoph Hametner",
+      "Oliver Konig",
+      "Stefan Jakubek"
+    ],
+    "venue": "IEEE Journal of Emerging and Selected Topics in Power Electronics",
+    "doi": "10.1109/JESTPE.2021.3059917",
+    "source": "https://orcid.org/0000-0001-8771-3174",
+    "url": "https://doi.org/10.1109/JESTPE.2021.3059917",
+    "citation": "Michael Zauner, Philipp Mandl, Christoph Hametner, Oliver Konig, Stefan Jakubek (2021). Flatness-Based Discrete-Time Control of a Battery Emulator Driving a Constant Power Load. IEEE Journal of Emerging and Selected Topics in Power Electronics.",
+    "scholar": "https://scholar.google.com/scholar?q=%22Flatness-Based%20Discrete-Time%20Control%20of%20a%20Battery%20Emulator%20Driving%20a%20Constant%20Power%20Load%22",
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "no_matching_arxiv_record_in_checked_sources",
+        "checkedAt": "2026-11-02"
+      }
+    }
+  },
+  {
+    "id": "importance-of-environment-design-in-reinforcement-learning-a-study-of-a-robotic-environment",
+    "title": "Importance of Environment Design in Reinforcement Learning: A Study of a Robotic Environment",
+    "authors": [
+      "Mónika Farsang",
+      "Luca Szegletes"
+    ],
+    "year": 2021,
+    "type": "Preprint",
+    "venue": "arXiv",
+    "url": "https://arxiv.org/abs/2102.10447",
+    "source": "https://arxiv.org/abs/2102.10447",
+    "pdf": "https://arxiv.org/pdf/2102.10447",
+    "doi": "10.48550/arXiv.2102.10447",
+    "citation": "Mónika Farsang, Luca Szegletes (2021). Importance of Environment Design in Reinforcement Learning: A Study of a Robotic Environment. arXiv:2102.10447.",
+    "arxiv": {
+      "id": "2102.10447",
+      "version": "v2",
+      "title": "Importance of Environment Design in Reinforcement Learning: A Study of a Robotic Environment",
+      "authors": [
+        "Mónika Farsang",
+        "Luca Szegletes"
+      ],
+      "published": "2021-02-20",
+      "updated": "2021-06-28",
+      "url": "https://arxiv.org/abs/2102.10447",
+      "pdf": "https://arxiv.org/pdf/2102.10447",
+      "journalRef": "Proceedings of the Automation and Applied Computer Science Workshop 2021",
+      "doi": "",
+      "comments": ""
+    },
+    "verification": {
+      "arxiv": {
+        "status": "matched",
+        "checkedAt": "2026-11-02",
+        "source": "https://arxiv.org/abs/2102.10447",
+        "version": "v2"
+      },
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02"
+      }
+    }
+  },
+  {
+    "id": "liquid-time-constant-networks",
+    "title": "Liquid Time-Constant Networks",
+    "citation": "Hasani, R., Lechner, M., Amini, A., Rus, D., & Grosu, R. (2021). Liquid Time-Constant Networks. In Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI-21) (pp. 7657–7666). Proceedings of the AAAI Conference on Artificial Intelligence. http://hdl.handle.net/20.500.12708/55647",
+    "url": "https://repositum.tuwien.at/handle/20.500.12708/55647",
+    "year": 2021,
+    "type": "Conference",
+    "source": "https://informatics.tuwien.ac.at/people/radu-grosu",
+    "authors": [
+      "Ramin Hasani",
+      "Mathias Lechner",
+      "Alexander Amini",
+      "Daniela Rus",
+      "Radu Grosu"
+    ],
+    "scholar": "https://scholar.google.com/scholar?q=%22Liquid%20Time-Constant%20Networks%22",
+    "venue": "Paper",
+    "thumbnail": "media/publications/liquid-time-constant-networks.webp",
+    "thumbnailAlt": "Figure 1 from Liquid Time-Constant Networks",
+    "thumbnailKind": "Figure 1",
+    "thumbnailPage": 3,
+    "thumbnailSource": "https://arxiv.org/pdf/2006.04439",
+    "pdf": "https://arxiv.org/pdf/2006.04439",
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "matched",
+        "checkedAt": "2026-11-02",
+        "source": "https://arxiv.org/abs/2006.04439",
+        "version": "v4"
+      }
+    },
+    "arxiv": {
+      "id": "2006.04439",
+      "version": "v4",
+      "title": "Liquid Time-constant Networks",
+      "authors": [
+        "Ramin Hasani",
+        "Mathias Lechner",
+        "Alexander Amini",
+        "Daniela Rus",
+        "Radu Grosu"
+      ],
+      "published": "2020-06-08",
+      "updated": "2020-12-14",
+      "url": "https://arxiv.org/abs/2006.04439",
+      "pdf": "https://arxiv.org/pdf/2006.04439",
+      "journalRef": "",
+      "doi": "",
+      "comments": "Accepted to the Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI-21)"
+    }
+  },
+  {
+    "id": "model-based-deep-reinforcement-learning-for-autonomous-racing",
+    "title": "Model-based deep Reinforcement learning for autonomous racing",
+    "citation": "Brunnbauer, A. (2021). Model-based deep Reinforcement learning for autonomous racing [Diploma Thesis, Technische Universität Wien]. reposiTUm. https://doi.org/10.34726/hss.2021.86588",
+    "url": "https://repositum.tuwien.at/handle/20.500.12708/17644",
+    "year": 2021,
+    "type": "Thesis",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/research/",
+    "doi": "10.34726/hss.2021.86588",
+    "authors": [
+      "Axel Brunnbauer"
+    ],
+    "scholar": "https://scholar.google.com/scholar?q=%22Model-based%20deep%20Reinforcement%20learning%20for%20autonomous%20racing%22",
+    "pdf": "https://repositum.tuwien.at/bitstream/20.500.12708/17644/1/Brunnbauer%20Axel%20-%202021%20-%20Model-based%20deep%20Reinforcement%20learning%20for%20autonomous...pdf",
+    "venue": "TU Wien",
+    "thumbnail": "media/publications/model-based-deep-reinforcement-learning-for-autonomous-racing.webp",
+    "thumbnailAlt": "First-page preview from Model-based deep Reinforcement learning for autonomous racing",
+    "thumbnailKind": "First-page preview",
+    "thumbnailPage": 1,
+    "thumbnailSource": "https://repositum.tuwien.at/bitstream/20.500.12708/17644/1/Brunnbauer%20Axel%20-%202021%20-%20Model-based%20deep%20Reinforcement%20learning%20for%20autonomous...pdf",
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "no_matching_arxiv_record_in_checked_sources",
+        "checkedAt": "2026-11-02"
+      }
+    }
+  },
+  {
+    "id": "predictive-driver-model-for-speed-control-in-the-presence-of-road-obstacles-2021",
+    "title": "Predictive driver model for speed control in the presence of road obstacles",
+    "year": 2021,
+    "type": "Thesis",
+    "authors": [
+      "Philipp Mandl"
+    ],
+    "venue": "TU Wien",
+    "doi": "10.34726/hss.2021.79322",
+    "source": "https://orcid.org/0000-0001-8771-3174",
+    "url": "https://doi.org/10.34726/HSS.2021.79322",
+    "citation": "@article{https://doi.org/10.34726/hss.2021.79322,  doi = {10.34726/HSS.2021.79322},  url = {https://repositum.tuwien.at/handle/20.500.12708/18761},  author = {Mandl, Philipp},  keywords = {Fahrermodellierung, Model Predictive Control MPC, Automatisiertes Fahren, Vertikaldynamik, Longitudinaldynamik, Fahrkomfort, driver model, model predictive control MPC, autonomous driving, vertical dynamics, longitudinal dynamics, ride comfort},  language = {en},  title = {Predictive driver model for speed control in the presence of road obstacles},  publisher = {TU Wien},  year = {2021}}",
+    "scholar": "https://scholar.google.com/scholar?q=%22Predictive%20driver%20model%20for%20speed%20control%20in%20the%20presence%20of%20road%20obstacles%22",
+    "pdf": "https://repositum.tuwien.at/bitstream/20.500.12708/18761/1/Mandl%20Philipp%20-%202021%20-%20Predictive%20driver%20model%20for%20speed%20control%20in%20the%20presence...pdf",
+    "thumbnail": "media/publications/predictive-driver-model-for-speed-control-in-the-presence-of-road-obstacles-2021.webp",
+    "thumbnailAlt": "Figure 1 from Predictive driver model for speed control in the presence of road obstacles",
+    "thumbnailKind": "Figure 1",
+    "thumbnailPage": 10,
+    "thumbnailSource": "https://repositum.tuwien.at/bitstream/20.500.12708/18761/1/Mandl%20Philipp%20-%202021%20-%20Predictive%20driver%20model%20for%20speed%20control%20in%20the%20presence...pdf",
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "no_matching_arxiv_record_in_checked_sources",
+        "checkedAt": "2026-11-02"
+      }
+    }
+  },
+  {
+    "id": "stability-analysis-of-a-flatness-based-controller-driving-a-battery-emulator-with-constant-power-load-2021",
+    "title": "Stability analysis of a flatness-based controller driving a battery emulator with constant power load",
+    "year": 2021,
+    "type": "Journal",
+    "authors": [
+      "Michael Zauner",
+      "Philipp Mandl",
+      "Oliver König",
+      "Christoph Hametner",
+      "Stefan Jakubek"
+    ],
+    "venue": "at - Automatisierungstechnik",
+    "doi": "10.1515/auto-2020-0107",
+    "source": "https://orcid.org/0000-0001-8771-3174",
+    "url": "https://doi.org/10.1515/auto-2020-0107",
+    "citation": "Michael Zauner, Philipp Mandl, Oliver König, Christoph Hametner, Stefan Jakubek (2021). Stability analysis of a flatness-based controller driving a battery emulator with constant power load. at - Automatisierungstechnik.",
+    "scholar": "https://scholar.google.com/scholar?q=%22Stability%20analysis%20of%20a%20flatness-based%20controller%20driving%20a%20battery%20emulator%20with%20constant%20power%20load%22",
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "no_matching_arxiv_record_in_checked_sources",
+        "checkedAt": "2026-11-02"
+      }
+    }
+  },
+  {
+    "id": "a-natural-lottery-ticket-winner-reinforcement-learning-with-ordinary-neural-circuits",
+    "title": "A Natural Lottery Ticket Winner: Reinforcement Learning with Ordinary Neural Circuits",
+    "citation": "Hasani, R., Lechner, M., Amini, A., Rus, D., & Grosu, R. (2020). A Natural Lottery Ticket Winner: Reinforcement Learning with Ordinary Neural Circuits. In Proceedings of the 37th International Conference on Machine Learning (pp. 4082–4093). http://hdl.handle.net/20.500.12708/58294",
+    "url": "https://repositum.tuwien.at/handle/20.500.12708/58294",
+    "year": 2020,
+    "type": "Conference",
+    "source": "https://informatics.tuwien.ac.at/people/radu-grosu",
+    "authors": [
+      "Ramin Hasani",
+      "Mathias Lechner",
+      "Alexander Amini",
+      "Daniela Rus",
+      "Radu Grosu"
+    ],
+    "scholar": "https://scholar.google.com/scholar?q=%22A%20Natural%20Lottery%20Ticket%20Winner%3A%20Reinforcement%20Learning%20with%20Ordinary%20Neural%20Circuits%22",
+    "venue": "Paper",
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "no_matching_arxiv_record_in_checked_sources",
+        "checkedAt": "2026-11-02"
+      }
+    }
+  },
+  {
+    "id": "model-predictive-temperature-control-for-a-food-transporter-with-door-openings-2020",
+    "title": "Model predictive temperature control for a food transporter with door-openings",
+    "year": 2020,
+    "type": "Conference",
+    "authors": [
+      "Elisabeth Luchini",
+      "Agnes Poks",
+      "Dominik Radler",
+      "Martin Kozek"
+    ],
+    "venue": "2020 SICE International Symposium on Control Systems (SICE ISCS)",
+    "doi": "10.23919/SICEISCS48470.2020.9083491",
+    "source": "https://orcid.org/0000-0002-0276-4552",
+    "url": "https://doi.org/10.23919/SICEISCS48470.2020.9083491",
+    "citation": "@article{Poks2020,title = {Model predictive temperature control for a food transporter with door-openings},journal = {Proceedings of 2020 SICE International Symposium on Control Systems, SICE ISCS 2020},year = {2020},pages = {85-91},author = {Luchini, E. and Poks, A. and Radler, D. and Kozek, M.}}",
+    "scholar": "https://scholar.google.com/scholar?q=%22Model%20predictive%20temperature%20control%20for%20a%20food%20transporter%20with%20door-openings%22",
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "no_matching_arxiv_record_in_checked_sources",
+        "checkedAt": "2026-11-02"
+      }
+    }
+  },
+  {
+    "id": "neural-circuit-policies-enabling-auditable-autonomy",
+    "title": "Neural Circuit Policies Enabling Auditable Autonomy",
+    "citation": "Lechner, M., Hasani, R., Amini, A., Henzinger, T. A., Rus, D., & Grosu, R. (2020). Neural Circuit Policies Enabling Auditable Autonomy. Nature Machine Intelligence , 2 (10), 642–652. https://doi.org/10.1038/s42256-020-00237-3",
+    "url": "https://repositum.tuwien.at/handle/20.500.12708/141225",
+    "year": 2020,
+    "type": "Journal",
+    "source": "https://informatics.tuwien.ac.at/people/radu-grosu",
+    "doi": "10.1038/s42256-020-00237-3",
+    "authors": [
+      "Mathias Lechner",
+      "Ramin Hasani",
+      "Alexander Amini",
+      "Thomas A. Henzinger",
+      "Daniela Rus",
+      "Radu Grosu"
+    ],
+    "venue": "Nature Machine Intelligence",
+    "scholar": "https://scholar.google.com/scholar?q=%22Neural%20Circuit%20Policies%20Enabling%20Auditable%20Autonomy%22",
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "no_matching_arxiv_record_in_checked_sources",
+        "checkedAt": "2026-11-02"
+      }
+    }
+  },
+  {
+    "id": "wholistic-simulation-of-an-all-electric-refrigerated-delivery-vehicle-2020",
+    "title": "Wholistic simulation of an all-electric refrigerated delivery vehicle",
+    "year": 2020,
+    "type": "Conference",
+    "authors": [
+      "Agnes Poks",
+      "Elisabeth Luchini",
+      "Filip Kitanoski",
+      "Martin Kozek"
+    ],
+    "venue": "2020 SICE International Symposium on Control Systems (SICE ISCS)",
+    "doi": "10.23919/SICEISCS48470.2020.9083498",
+    "source": "https://orcid.org/0000-0002-0276-4552",
+    "url": "https://doi.org/10.23919/SICEISCS48470.2020.9083498",
+    "citation": "@article{Poks2020,title = {Wholistic simulation of an all-electric refrigerated delivery vehicle},journal = {Proceedings of 2020 SICE International Symposium on Control Systems, SICE ISCS 2020},year = {2020},pages = {1-6},author = {Poks, A. and Luchini, E. and Kitanoski, F. and Kozek, M.}}",
+    "scholar": "https://scholar.google.com/scholar?q=%22Wholistic%20simulation%20of%20an%20all-electric%20refrigerated%20delivery%20vehicle%22",
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "no_matching_arxiv_record_in_checked_sources",
+        "checkedAt": "2026-11-02"
+      }
+    }
+  },
+  {
+    "id": "argesim-benchmark-c11-scara-robot-comparison-of-basic-implementations-in-excel-and-matlab-2019",
+    "title": "ARGESIM Benchmark C11 ’SCARA Robot’: Comparison of Basic Implementations in EXCEL and MATLAB",
+    "year": 2019,
+    "type": "Journal",
+    "authors": [
+      "Olga Rekova",
+      "Nicole Pelzmann",
+      "Philipp Mandl",
+      "Maximilian Hoffmann",
+      "Horst Ecker",
+      "Andreas Körner",
+      "Martin Bicher",
+      "Felix Breitenecker"
+    ],
+    "venue": "SNE Simulation Notes Europe",
+    "doi": "10.11128/sne.29.bne11.10488",
+    "source": "https://orcid.org/0000-0001-8771-3174",
+    "url": "https://doi.org/10.11128/sne.29.bne11.10488",
+    "citation": "Olga Rekova, Nicole Pelzmann, Philipp Mandl, Maximilian Hoffmann, Horst Ecker, Andreas Körner, Martin Bicher, Felix Breitenecker (2019). ARGESIM Benchmark C11 ’SCARA Robot’: Comparison of Basic Implementations in EXCEL and MATLAB. SNE Simulation Notes Europe.",
+    "scholar": "https://scholar.google.com/scholar?q=%22ARGESIM%20Benchmark%20C11%20%E2%80%99SCARA%20Robot%E2%80%99%3A%20Comparison%20of%20Basic%20Implementations%20in%20EXCEL%20and%20MATLAB%22",
+    "thumbnail": "media/publications/argesim-benchmark-c11-scara-robot-comparison-of-basic-implementations-in-excel-and-matlab-2019.webp",
+    "thumbnailAlt": "Figure 1 from ARGESIM Benchmark C11 ’SCARA Robot’: Comparison of Basic Implementations in EXCEL and MATLAB",
+    "thumbnailKind": "Figure 1",
+    "thumbnailPage": 1,
+    "thumbnailSource": "https://www.sne-journal.org/fileadmin/user_upload_sne/SNE_Issues_OA/SNE_29_3/articles/sne.29.3.10488.bne11.OA.pdf",
+    "pdf": "https://www.sne-journal.org/fileadmin/user_upload_sne/SNE_Issues_OA/SNE_29_3/articles/sne.29.3.10488.bne11.OA.pdf",
+    "verification": {
+      "scholar": {
+        "status": "not_verified_access_restricted",
+        "checkedAt": "2026-11-02",
+        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
+      },
+      "arxiv": {
+        "status": "no_matching_arxiv_record_in_checked_sources",
+        "checkedAt": "2026-11-02"
+      }
+    }
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "id": "OEIcr31zzbw",
+    "title": "RoboRacer Obstacle Avoidance with Neural Hamilton-Jacobi Safety Certificates",
+    "source": "https://www.youtube.com/@cps-tuwien9092",
+    "url": "https://www.youtube.com/watch?v=OEIcr31zzbw",
+    "category": "Research"
+  },
+  {
+    "id": "MX27fhUuLJw",
+    "title": "Scuderia Segfault (TU Wien) Driving Demo 2024/02",
+    "source": "https://www.youtube.com/@cps-tuwien9092",
+    "url": "https://www.youtube.com/watch?v=MX27fhUuLJw",
+    "category": "Racing"
+  },
+  {
+    "id": "NDOsWzt1xWo",
+    "title": "Learning Adaptive Safety in Multi-Agent Systems",
+    "source": "https://www.youtube.com/@cps-tuwien9092",
+    "url": "https://www.youtube.com/watch?v=NDOsWzt1xWo",
+    "category": "Research"
+  },
+  {
+    "id": "e6Vv_NXbeWs",
+    "title": "Scuderia Segfault (TU Wien) Driving Demo 2023/05",
+    "source": "https://www.youtube.com/@cps-tuwien9092",
+    "url": "https://www.youtube.com/watch?v=e6Vv_NXbeWs",
+    "category": "Racing"
+  },
+  {
+    "id": "FbDVjWtRwrE",
+    "title": "Hierarchical Potential-based Reward Shaping from Task Specifications",
+    "source": "https://www.youtube.com/@cps-tuwien9092",
+    "url": "https://www.youtube.com/watch?v=FbDVjWtRwrE",
+    "category": "Research"
+  },
+  {
+    "id": "CZuUUiOwYsM",
+    "title": "Autonomous Racing Cars - Final Race - Summer 2022",
+    "source": "https://www.youtube.com/@cps-tuwien9092",
+    "url": "https://www.youtube.com/watch?v=CZuUUiOwYsM",
+    "category": "Racing"
+  },
+  {
+    "id": "IlN3vJxC30w",
+    "title": "Latent Imagination Facilitates Zero-Shot Transfer in Autonomous Racing",
+    "source": "https://www.youtube.com/@cps-tuwien9092",
+    "url": "https://www.youtube.com/watch?v=IlN3vJxC30w",
+    "category": "Research"
+  },
+  {
+    "id": "AKYUsuFpPto",
+    "title": "Latent Imagination — ICRA 2022 paper presentation",
+    "source": "https://axelbr.github.io/talks/",
+    "url": "https://www.youtube.com/watch?v=AKYUsuFpPto",
+    "category": "Research"
+  },
+  {
+    "id": "GiXn8uKrcSk",
+    "title": "Silver at 11th RoboRacer Autonomous Grand Prix — video",
+    "category": "Racing",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/news-detail/silver-at-11th-roboracer-autonomous-grand-prix/",
+    "url": "https://www.youtube.com/watch?v=GiXn8uKrcSk"
+  },
+  {
+    "id": "gk_lNKmZX4I",
+    "title": "3rd Place at the RoboRacer Autonomous Grand Prix — video",
+    "category": "Racing",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/news-detail/3rd-place-at-the-roboracer-autonomous-grand-prix/",
+    "url": "https://www.youtube.com/watch?v=gk_lNKmZX4I"
+  },
+  {
+    "id": "oI6xHDvLzOg",
+    "title": "TU Wien Team Wins International RoboRacer Grand Prix — video",
+    "category": "Racing",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/news-detail/win-roboracer-2021-prague/",
+    "url": "https://www.youtube.com/watch?v=oI6xHDvLzOg"
+  },
+  {
+    "id": "YMzm2oCc_4w",
+    "title": "Victory for the TU Wien in Virtual Car Racing Competition — video",
+    "category": "Racing",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/news-detail/victory-for-the-tu-wien-in-virtual-car-racing-competition/",
+    "url": "https://www.youtube.com/watch?v=YMzm2oCc_4w"
+  }
+]
