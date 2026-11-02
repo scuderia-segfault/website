@@ -1,6 +1,6 @@
 # Scuderia Segfault — lokales WebStorm-Projekt
 
-Die Website basiert auf dem bereitgestellten WebStorm/Vite-Template. Das Design wurde mit echten Bildern aus dem Scuderia-Drive und dem bestehenden Teamarchiv neu aufgebaut. Veröffentlichung/Hosting ist noch nicht aktiviert.
+Die Website basiert auf dem bereitgestellten WebStorm/Vite-Template. Das Design wurde mit echten Bildern aus dem Scuderia-Drive und dem bestehenden Teamarchiv neu aufgebaut. GitHub Pages ist eingerichtet: https://scuderia-segfault.github.io/website/
 
 ## Starten
 
@@ -103,6 +103,6 @@ Die Rennanimation liegt in `assets/racing-motion.js`, läuft nur bei sichtbarem 
 
 Die schrittweise Anleitung steht in `EDITORIAL_WORKFLOW.md`. `content/data/site.json` bündelt die Verknüpfungen zur bestätigten Organisation scuderia-segfault, LinkedIn und TU Wien. `content/data/opportunities.json` steuert die Mitmachbereiche der Join-Seite.
 
-Vorbereitet: GitHub-Buildworkflow, Issue-Formular für Inhaltsänderungen, Pull-Request-Vorlage, KI-Redaktionshinweise und ein optionales Pages-Deployment-Beispiel. Noch kein Website-Repository angelegt oder verbunden und keine Veröffentlichung aktiviert.
+Vorbereitet: GitHub-Buildworkflow, Issue-Formular für Inhaltsänderungen, Pull-Request-Vorlage, KI-Redaktionshinweise und ein optionales Pages-Deployment-Beispiel. Das Repository ist https://github.com/scuderia-segfault/website. Änderungen auf `main` lösen den geprüften Build und die Veröffentlichung über `.github/workflows/deploy-pages.yml` aus. Pull Requests werden separat geprüft.
 
 Der Abgleich der Publikationen mit arXiv ist in `PUBLICATION_AUDIT.md` dokumentiert. Google Scholar war beim direkten Prüfversuch zugriffsbeschränkt; die dortige Prüfung ist ausdrücklich nicht als abgeschlossen markiert. Für bestätigte arXiv-Treffer gibt es separate ARXIV-Verknüpfungen; Konferenz-/Journalfassungen behalten ihre eigenen Metadaten.
