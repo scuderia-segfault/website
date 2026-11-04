@@ -1310,75 +1310,6 @@
     }
   },
   {
-    "id": "control-oriented-hybrid-model-of-a-small-scale-refrigerated-truck-chamber-2023",
-    "title": "Control-oriented hybrid model of a small-scale refrigerated truck chamber",
-    "year": 2023,
-    "type": "Journal",
-    "authors": [
-      "Markus Fallmann",
-      "Agnes Poks",
-      "Martin Kozek"
-    ],
-    "venue": "Applied Thermal Engineering",
-    "doi": "10.1016/j.applthermaleng.2022.119719",
-    "source": "https://orcid.org/0000-0002-0276-4552",
-    "url": "https://doi.org/10.1016/j.applthermaleng.2022.119719",
-    "citation": "Markus Fallmann, Agnes Poks, Martin Kozek (2023). Control-oriented hybrid model of a small-scale refrigerated truck chamber. Applied Thermal Engineering.",
-    "scholar": "https://scholar.google.com/scholar?q=%22Control-oriented%20hybrid%20model%20of%20a%20small-scale%20refrigerated%20truck%20chamber%22",
-    "thumbnail": "media/publications/control-oriented-hybrid-model-of-a-small-scale-refrigerated-truck-chamber-2023.webp",
-    "thumbnailAlt": "Figure 1 from Control-oriented hybrid model of a small-scale refrigerated truck chamber",
-    "thumbnailKind": "Figure 1",
-    "thumbnailPage": 4,
-    "thumbnailSource": "https://repositum.tuwien.at/bitstream/20.500.12708/139410/1/Fallmann-2023-Applied%20Thermal%20Engineering-vor.pdf",
-    "pdf": "https://repositum.tuwien.at/bitstream/20.500.12708/139410/1/Fallmann-2023-Applied%20Thermal%20Engineering-vor.pdf",
-    "verification": {
-      "scholar": {
-        "status": "not_verified_access_restricted",
-        "checkedAt": "2026-11-02",
-        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
-      },
-      "arxiv": {
-        "status": "no_matching_arxiv_record_in_checked_sources",
-        "checkedAt": "2026-11-02"
-      }
-    }
-  },
-  {
-    "id": "energy-efficient-hybrid-model-predictive-control-of-mobile-refrigeration-systems-2023",
-    "title": "Energy-efficient hybrid model predictive control of mobile refrigeration systems",
-    "year": 2023,
-    "type": "Journal",
-    "authors": [
-      "Markus Fallmann",
-      "Maximilian Lösch",
-      "Agnes Poks",
-      "Martin Kozek"
-    ],
-    "venue": "Applied Thermal Engineering",
-    "doi": "10.1016/j.applthermaleng.2023.121347",
-    "source": "https://orcid.org/0000-0002-0276-4552",
-    "url": "https://doi.org/10.1016/j.applthermaleng.2023.121347",
-    "citation": "Markus Fallmann, Maximilian Lösch, Agnes Poks, Martin Kozek (2023). Energy-efficient hybrid model predictive control of mobile refrigeration systems. Applied Thermal Engineering.",
-    "scholar": "https://scholar.google.com/scholar?q=%22Energy-efficient%20hybrid%20model%20predictive%20control%20of%20mobile%20refrigeration%20systems%22",
-    "thumbnail": "media/publications/energy-efficient-hybrid-model-predictive-control-of-mobile-refrigeration-systems-2023.webp",
-    "thumbnailAlt": "Figure 1 from Energy-efficient hybrid model predictive control of mobile refrigeration systems",
-    "thumbnailKind": "Figure 1",
-    "thumbnailPage": 4,
-    "thumbnailSource": "https://repositum.tuwien.at/bitstream/20.500.12708/187954/4/Fallmann-2023-Applied%20Thermal%20Engineering-vor.pdf",
-    "pdf": "https://repositum.tuwien.at/bitstream/20.500.12708/187954/4/Fallmann-2023-Applied%20Thermal%20Engineering-vor.pdf",
-    "verification": {
-      "scholar": {
-        "status": "not_verified_access_restricted",
-        "checkedAt": "2026-11-02",
-        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
-      },
-      "arxiv": {
-        "status": "no_matching_arxiv_record_in_checked_sources",
-        "checkedAt": "2026-11-02"
-      }
-    }
-  },
-  {
     "id": "enhancing-robot-learning-through-learned-human-attention-feature-maps",
     "title": "Enhancing Robot Learning through Learned Human-Attention Feature Maps",
     "citation": "Daniel Scheuchenstuhl, Stefan Ulmer, Felix Resch, Luigi Berducci, Radu Grosu. (2023). Enhancing Robot Learning through Learned Human-Attention Feature Maps. In Workshop on effective Representations, Abstractions, and Priors for Robot Learning (RAP4Robots) at ICRA 2023 . https://arxiv.org/abs/2308.15327",
@@ -1434,42 +1365,6 @@
       "comments": "This work has been accepted for the RAP4Robots workshop at ICRA 2023 in London"
     },
     "code": "https://github.com/CPS-TUWien/learning_human_attention"
-  },
-  {
-    "id": "fault-detection-and-isolation-for-a-secondary-loop-refrigeration-system-2023",
-    "title": "Fault detection and isolation for a secondary loop refrigeration system",
-    "year": 2023,
-    "type": "Journal",
-    "authors": [
-      "Agnes Poks",
-      "Markus Fallmann",
-      "Lorenz Fink",
-      "Lukas Rinnofner",
-      "Martin Kozek"
-    ],
-    "venue": "Applied Thermal Engineering",
-    "doi": "10.1016/j.applthermaleng.2023.120277",
-    "source": "https://orcid.org/0000-0002-0276-4552",
-    "url": "https://doi.org/10.1016/j.applthermaleng.2023.120277",
-    "citation": "Agnes Poks, Markus Fallmann, Lorenz Fink, Lukas Rinnofner, Martin Kozek (2023). Fault detection and isolation for a secondary loop refrigeration system. Applied Thermal Engineering.",
-    "scholar": "https://scholar.google.com/scholar?q=%22Fault%20detection%20and%20isolation%20for%20a%20secondary%20loop%20refrigeration%20system%22",
-    "thumbnail": "media/publications/fault-detection-and-isolation-for-a-secondary-loop-refrigeration-system-2023.webp",
-    "thumbnailAlt": "Figure 1 from Fault detection and isolation for a secondary loop refrigeration system",
-    "thumbnailKind": "Figure 1",
-    "thumbnailPage": 3,
-    "thumbnailSource": "https://repositum.tuwien.at/bitstream/20.500.12708/175786/1/Poks-2023-Applied%20Thermal%20Engineering-vor.pdf",
-    "pdf": "https://repositum.tuwien.at/bitstream/20.500.12708/175786/1/Poks-2023-Applied%20Thermal%20Engineering-vor.pdf",
-    "verification": {
-      "scholar": {
-        "status": "not_verified_access_restricted",
-        "checkedAt": "2026-11-02",
-        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
-      },
-      "arxiv": {
-        "status": "no_matching_arxiv_record_in_checked_sources",
-        "checkedAt": "2026-11-02"
-      }
-    }
   },
   {
     "id": "mitigating-tail-catastrophe-in-steered-database-query-optimization-with-risk-averse-contextual-bandits",

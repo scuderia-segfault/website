@@ -692,50 +692,6 @@
     }
   },
   {
-    "id": "control-oriented-hybrid-model-of-a-small-scale-refrigerated-truck-chamber-2023",
-    "title": "Control-oriented hybrid model of a small-scale refrigerated truck chamber",
-    "metadataSource": "https://orcid.org/0000-0002-0276-4552",
-    "doi": "10.1016/j.applthermaleng.2022.119719",
-    "preview": "media/publications/control-oriented-hybrid-model-of-a-small-scale-refrigerated-truck-chamber-2023.webp",
-    "previewSource": "https://repositum.tuwien.at/bitstream/20.500.12708/139410/1/Fallmann-2023-Applied%20Thermal%20Engineering-vor.pdf",
-    "previewPage": 4,
-    "previewKind": "Figure 1",
-    "arxiv": null,
-    "verification": {
-      "scholar": {
-        "status": "not_verified_access_restricted",
-        "checkedAt": "2026-11-02",
-        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
-      },
-      "arxiv": {
-        "status": "no_matching_arxiv_record_in_checked_sources",
-        "checkedAt": "2026-11-02"
-      }
-    }
-  },
-  {
-    "id": "energy-efficient-hybrid-model-predictive-control-of-mobile-refrigeration-systems-2023",
-    "title": "Energy-efficient hybrid model predictive control of mobile refrigeration systems",
-    "metadataSource": "https://orcid.org/0000-0002-0276-4552",
-    "doi": "10.1016/j.applthermaleng.2023.121347",
-    "preview": "media/publications/energy-efficient-hybrid-model-predictive-control-of-mobile-refrigeration-systems-2023.webp",
-    "previewSource": "https://repositum.tuwien.at/bitstream/20.500.12708/187954/4/Fallmann-2023-Applied%20Thermal%20Engineering-vor.pdf",
-    "previewPage": 4,
-    "previewKind": "Figure 1",
-    "arxiv": null,
-    "verification": {
-      "scholar": {
-        "status": "not_verified_access_restricted",
-        "checkedAt": "2026-11-02",
-        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
-      },
-      "arxiv": {
-        "status": "no_matching_arxiv_record_in_checked_sources",
-        "checkedAt": "2026-11-02"
-      }
-    }
-  },
-  {
     "id": "enhancing-robot-learning-through-learned-human-attention-feature-maps",
     "title": "Enhancing Robot Learning through Learned Human-Attention Feature Maps",
     "metadataSource": "https://www.tuwien.at/inf/scuderia-segfault/research/",
@@ -756,28 +712,6 @@
         "checkedAt": "2026-11-02",
         "source": "https://arxiv.org/abs/2308.15327",
         "version": "v1"
-      }
-    }
-  },
-  {
-    "id": "fault-detection-and-isolation-for-a-secondary-loop-refrigeration-system-2023",
-    "title": "Fault detection and isolation for a secondary loop refrigeration system",
-    "metadataSource": "https://orcid.org/0000-0002-0276-4552",
-    "doi": "10.1016/j.applthermaleng.2023.120277",
-    "preview": "media/publications/fault-detection-and-isolation-for-a-secondary-loop-refrigeration-system-2023.webp",
-    "previewSource": "https://repositum.tuwien.at/bitstream/20.500.12708/175786/1/Poks-2023-Applied%20Thermal%20Engineering-vor.pdf",
-    "previewPage": 3,
-    "previewKind": "Figure 1",
-    "arxiv": null,
-    "verification": {
-      "scholar": {
-        "status": "not_verified_access_restricted",
-        "checkedAt": "2026-11-02",
-        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
-      },
-      "arxiv": {
-        "status": "no_matching_arxiv_record_in_checked_sources",
-        "checkedAt": "2026-11-02"
       }
     }
   },
