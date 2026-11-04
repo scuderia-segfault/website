@@ -78,6 +78,38 @@
     "imageSource": "https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2024.1444188/pdf"
   },
   {
+    "id": "unit-xiii",
+    "title": "Unit XIII",
+    "subtitle": "Our next generation of autonomous race cars",
+    "period": "Vehicle development",
+    "category": "Vehicle engineering",
+    "status": "Team project",
+    "image": "media/car21-drive.webp",
+    "imageCaption": "Scuderia Segfault RoboRacer platform in the lab",
+    "imageCredit": "Scuderia Segfault / team archive",
+    "summary": "Developing our new 1:10 autonomous race cars and connecting vehicle development with simulation in RoboRacer Arena.",
+    "body": [
+      "Unit XIII brings together work on the new Scuderia Segfault cars, from vehicle hardware and onboard computing to sensing, localization and control.",
+      "TU Wien’s documented fourth-generation RoboRacer provides a hardware reference for this work. It pairs an ASUS NUC 14 Pro (Intel Core Ultra 5, 32 GB DDR5, 1 TB SSD) with a PhidgetSpatial Precision 3/3/3 IMU for state estimation and a BlinkStick Square for visual status feedback.",
+      "RoboRacer Arena is the simulation theme within Unit XIII. It turns validated track maps into Isaac Sim environments and connects experiments in simulation with tests on the physical racing platform."
+    ],
+    "people": [
+      "Samuel Lechner",
+      "Piet Kaul",
+      "Philipp Gratzer"
+    ],
+    "keywords": [
+      "RoboRacer Arena"
+    ],
+    "videos": [],
+    "sources": [
+      {
+        "label": "TU Wien vehicle generations and hardware",
+        "url": "https://www.tuwien.at/inf/scuderia-segfault/racing/model-race-car/"
+      }
+    ]
+  },
+  {
     "id": "roboracer-arena",
     "title": "RoboRacer Arena",
     "subtitle": "Specification-driven track construction for autonomous racing",
@@ -108,7 +140,8 @@
         "label": "Current paper and abstract",
         "url": "https://arxiv.org/abs/2608.23040"
       }
-    ]
+    ],
+    "parentId": "unit-xiii"
   },
   {
     "id": "latent-imagination",
