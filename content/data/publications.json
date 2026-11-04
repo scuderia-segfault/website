@@ -59,73 +59,6 @@
     }
   },
   {
-    "id": "cloud-based-digital-twins-for-vehicle-dynamics-control-with-application-to-lateral-stability-enhancement-2026",
-    "title": "Cloud-Based Digital Twins for Vehicle Dynamics Control With Application to Lateral Stability Enhancement",
-    "year": 2026,
-    "type": "Journal",
-    "authors": [
-      "Philipp Mandl",
-      "Johannes Edelmann",
-      "Manfred Plöchl",
-      "Florian Klinger"
-    ],
-    "venue": "IEEE Access",
-    "doi": "10.1109/ACCESS.2025.3650253",
-    "source": "https://orcid.org/0000-0001-8771-3174",
-    "url": "https://doi.org/10.1109/ACCESS.2025.3650253",
-    "citation": "Philipp Mandl, Johannes Edelmann, Manfred Plöchl, Florian Klinger (2026). Cloud-Based Digital Twins for Vehicle Dynamics Control With Application to Lateral Stability Enhancement. IEEE Access.",
-    "scholar": "https://scholar.google.com/scholar?q=%22Cloud-Based%20Digital%20Twins%20for%20Vehicle%20Dynamics%20Control%20With%20Application%20to%20Lateral%20Stability%20Enhancement%22",
-    "thumbnail": "media/publications/cloud-based-digital-twins-for-vehicle-dynamics-control-with-application-to-lateral-stability-enhancement-2026.webp",
-    "thumbnailAlt": "First-page preview from Cloud-Based Digital Twins for Vehicle Dynamics Control With Application to Lateral Stability Enhancement",
-    "thumbnailKind": "First-page preview",
-    "thumbnailPage": 1,
-    "thumbnailSource": "https://repositum.tuwien.at/bitstream/20.500.12708/227511/1/Mandl-2026-IEEE%20Access-vor.pdf",
-    "pdf": "https://repositum.tuwien.at/bitstream/20.500.12708/227511/1/Mandl-2026-IEEE%20Access-vor.pdf",
-    "verification": {
-      "scholar": {
-        "status": "not_verified_access_restricted",
-        "checkedAt": "2026-11-02",
-        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
-      },
-      "arxiv": {
-        "status": "no_matching_arxiv_record_in_checked_sources",
-        "checkedAt": "2026-11-02"
-      }
-    }
-  },
-  {
-    "id": "enhancing-vehicle-handling-behaviour-through-overactuation-2026",
-    "title": "Enhancing vehicle handling behaviour through overactuation",
-    "year": 2026,
-    "type": "Thesis",
-    "authors": [
-      "Philipp Mandl"
-    ],
-    "venue": "TU Wien",
-    "doi": "10.34726/hss.2026.110737",
-    "source": "https://orcid.org/0000-0001-8771-3174",
-    "url": "https://doi.org/10.34726/HSS.2026.110737",
-    "citation": "@phdthesis{https://doi.org/10.34726/hss.2026.110737,  doi = {10.34726/HSS.2026.110737},  url = {https://repositum.tuwien.at/handle/20.500.12708/227064},  author = {Mandl, Philipp},  keywords = {Hinterradlenkung (RWS), Torque Vectoring (TV), Rear-Wheel Steering (RWS), Torque Vectoring (TV)},  language = {en},  title = {Enhancing Vehicle Handling Behaviour through Overactuation},  publisher = {TU Wien},  year = {2026}}",
-    "scholar": "https://scholar.google.com/scholar?q=%22Enhancing%20vehicle%20handling%20behaviour%20through%20overactuation%22",
-    "pdf": "https://repositum.tuwien.at/bitstream/20.500.12708/227064/1/Mandl%20Philipp%20-%202026%20-%20Enhancing%20Vehicle%20Handling%20Behaviour%20through...pdf",
-    "thumbnail": "media/publications/enhancing-vehicle-handling-behaviour-through-overactuation-2026.webp",
-    "thumbnailAlt": "Figure 1 from Enhancing vehicle handling behaviour through overactuation",
-    "thumbnailKind": "Figure 1",
-    "thumbnailPage": 13,
-    "thumbnailSource": "https://repositum.tuwien.at/bitstream/20.500.12708/227064/1/Mandl%20Philipp%20-%202026%20-%20Enhancing%20Vehicle%20Handling%20Behaviour%20through...pdf",
-    "verification": {
-      "scholar": {
-        "status": "not_verified_access_restricted",
-        "checkedAt": "2026-11-02",
-        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
-      },
-      "arxiv": {
-        "status": "no_matching_arxiv_record_in_checked_sources",
-        "checkedAt": "2026-11-02"
-      }
-    }
-  },
-  {
     "id": "evaluating-domain-shift-generalization-of-liquid-neural-networks-in-autonomous-driving",
     "title": "Evaluating Domain-Shift Generalization of Liquid Neural Networks in Autonomous Driving",
     "citation": "Clement, M.-L., Farsang, M., Stanusoiu, M.-T., Rus, D., Hasani, R., Grosu, R., & Bartocci, E. (2026). Evaluating Domain-Shift Generalization of Liquid Neural Networks in Autonomous Driving. In Catch, Adapt, and Operate: Monitoring ML Models Under Drift Workshop . Catch, Adapt, and Operate: Monitoring ML Models Under Drift Workshop, Rio de Janeiro, Brazil. Project: DK - AR (2025–2029)",
@@ -227,42 +160,6 @@
     ],
     "scholar": "https://scholar.google.com/scholar?q=%22Online%20Fine-Tuning%20of%20Pretrained%20Controllers%20for%20Autonomous%20Driving%20via%20Real-Time%20Recurrent%20RL%22",
     "venue": "Workshop",
-    "verification": {
-      "scholar": {
-        "status": "not_verified_access_restricted",
-        "checkedAt": "2026-11-02",
-        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
-      },
-      "arxiv": {
-        "status": "no_matching_arxiv_record_in_checked_sources",
-        "checkedAt": "2026-11-02"
-      }
-    }
-  },
-  {
-    "id": "power-optimal-torque-distribution-for-overactuated-electric-vehicles-analysis-and-experimental-validation-2026",
-    "title": "Power optimal torque distribution for overactuated electric vehicles: analysis and experimental validation",
-    "year": 2026,
-    "type": "Journal",
-    "authors": [
-      "Daniel Klein",
-      "Philipp Mandl",
-      "Manfred Plöchl",
-      "Florian Klinger",
-      "Johannes Edelmann"
-    ],
-    "venue": "Automotive and Engine Technology",
-    "doi": "10.1007/s41104-025-00164-8",
-    "source": "https://orcid.org/0000-0001-8771-3174",
-    "url": "https://doi.org/10.1007/s41104-025-00164-8",
-    "citation": "Daniel Klein, Philipp Mandl, Manfred Plöchl, Florian Klinger, Johannes Edelmann (2026). Power optimal torque distribution for overactuated electric vehicles: analysis and experimental validation. Automotive and Engine Technology.",
-    "scholar": "https://scholar.google.com/scholar?q=%22Power%20optimal%20torque%20distribution%20for%20overactuated%20electric%20vehicles%3A%20analysis%20and%20experimental%20validation%22",
-    "thumbnail": "media/publications/power-optimal-torque-distribution-for-overactuated-electric-vehicles-analysis-and-experimental-validation-2026.webp",
-    "thumbnailAlt": "First-page preview from Power optimal torque distribution for overactuated electric vehicles: analysis and experimental validation",
-    "thumbnailKind": "First-page preview",
-    "thumbnailPage": 1,
-    "thumbnailSource": "https://repositum.tuwien.at/bitstream/20.500.12708/224160/1/Klein-2026-Automotive%20and%20Engine%20Technology-vor.pdf",
-    "pdf": "https://repositum.tuwien.at/bitstream/20.500.12708/224160/1/Klein-2026-Automotive%20and%20Engine%20Technology-vor.pdf",
     "verification": {
       "scholar": {
         "status": "not_verified_access_restricted",
@@ -977,42 +874,6 @@
     }
   },
   {
-    "id": "regions-of-feasible-handling-in-overactuated-vehicles-considering-actuator-sets-and-limits-2025",
-    "title": "Regions of feasible handling in overactuated vehicles considering actuator sets and limits",
-    "year": 2025,
-    "type": "Journal",
-    "authors": [
-      "Philipp Mandl",
-      "Daniel Klein",
-      "Johannes Edelmann",
-      "Manfred Plöchl",
-      "Florian Klinger"
-    ],
-    "venue": "Vehicle System Dynamics",
-    "doi": "10.1080/00423114.2025.2579863",
-    "source": "https://orcid.org/0000-0001-8771-3174",
-    "url": "https://doi.org/10.1080/00423114.2025.2579863",
-    "citation": "Philipp Mandl, Daniel Klein, Johannes Edelmann, Manfred Plöchl, Florian Klinger (2025). Regions of feasible handling in overactuated vehicles considering actuator sets and limits. Vehicle System Dynamics.",
-    "scholar": "https://scholar.google.com/scholar?q=%22Regions%20of%20feasible%20handling%20in%20overactuated%20vehicles%20considering%20actuator%20sets%20and%20limits%22",
-    "thumbnail": "media/publications/regions-of-feasible-handling-in-overactuated-vehicles-considering-actuator-sets-and-limits-2025.webp",
-    "thumbnailAlt": "Figure 1 from Regions of feasible handling in overactuated vehicles considering actuator sets and limits",
-    "thumbnailKind": "Figure 1",
-    "thumbnailPage": 4,
-    "thumbnailSource": "https://repositum.tuwien.at/bitstream/20.500.12708/221446/1/Mandl-2025-Vehicle%20System%20Dynamics-vor.pdf",
-    "pdf": "https://repositum.tuwien.at/bitstream/20.500.12708/221446/1/Mandl-2025-Vehicle%20System%20Dynamics-vor.pdf",
-    "verification": {
-      "scholar": {
-        "status": "not_verified_access_restricted",
-        "checkedAt": "2026-11-02",
-        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
-      },
-      "arxiv": {
-        "status": "no_matching_arxiv_record_in_checked_sources",
-        "checkedAt": "2026-11-02"
-      }
-    }
-  },
-  {
     "id": "scalable-offline-reinforcement-learning-for-mean-field-games",
     "title": "Scalable Offline Reinforcement Learning for Mean Field Games",
     "citation": "Brunnbauer, A., Lemmel, J., Babaiee, Z., Neubauer, S., & Grosu, R. (2025). Scalable Offline Reinforcement Learning for Mean Field Games. In S. Das, A. Nowé, & Y. Vorobeychik (Eds.), Proceedings of the 24th International Conference on Autonomous Agents and Multiagent Systems, {AAMAS} 2025, Detroit, MI, USA, May 19-23, 2025 (pp. 408–417). International Foundation for Autonomous Agents and Multiagent Systems. https://doi.org/10.5555/3709347.3743555",
@@ -1121,34 +982,6 @@
     "thumbnailPage": 4,
     "thumbnailSource": "https://repositum.tuwien.at/bitstream/20.500.12708/210924/1/Poks-2024-IEEE%20Access-vor.pdf",
     "pdf": "https://repositum.tuwien.at/bitstream/20.500.12708/210924/1/Poks-2024-IEEE%20Access-vor.pdf",
-    "verification": {
-      "scholar": {
-        "status": "not_verified_access_restricted",
-        "checkedAt": "2026-11-02",
-        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
-      },
-      "arxiv": {
-        "status": "no_matching_arxiv_record_in_checked_sources",
-        "checkedAt": "2026-11-02"
-      }
-    }
-  },
-  {
-    "id": "enhancing-controllability-and-path-tracking-with-overactuated-autonomous-vehicles-2024",
-    "title": "Enhancing Controllability and Path Tracking with Overactuated Autonomous Vehicles",
-    "year": 2024,
-    "type": "Book chapter",
-    "authors": [
-      "Philipp Mandl",
-      "Johannes Edelmann",
-      "Manfred Plöchl"
-    ],
-    "venue": "Lecture Notes in Mechanical Engineering",
-    "doi": "10.1007/978-3-031-66968-2_92",
-    "source": "https://orcid.org/0000-0001-8771-3174",
-    "url": "https://doi.org/10.1007/978-3-031-66968-2_92",
-    "citation": "@article{Mandl2024,title = {Enhancing Controllability and Path Tracking with Overactuated Autonomous Vehicles},journal = {Lecture Notes in Mechanical Engineering},year = {2024},pages = {937-946},author = {Mandl, P. and Edelmann, J. and Pl{\\\"o}chl, M.}}",
-    "scholar": "https://scholar.google.com/scholar?q=%22Enhancing%20Controllability%20and%20Path%20Tracking%20with%20Overactuated%20Autonomous%20Vehicles%22",
     "verification": {
       "scholar": {
         "status": "not_verified_access_restricted",
@@ -1411,78 +1244,6 @@
       "comments": ""
     },
     "code": "https://github.com/CPS-TUWien/mmdvs"
-  },
-  {
-    "id": "speed-control-in-the-presence-of-road-obstacles-a-comparison-of-model-predictive-control-and-reinforcement-learning-2024",
-    "title": "Speed Control in the Presence of Road Obstacles: A Comparison of Model Predictive Control and Reinforcement Learning",
-    "year": 2024,
-    "type": "Book chapter",
-    "authors": [
-      "P. Mandl",
-      "F. Jaumann",
-      "M. Unterreiner",
-      "T. Gräber",
-      "F. Klinger",
-      "J. Edelmann",
-      "M. Plöchl"
-    ],
-    "venue": "Lecture Notes in Mechanical Engineering",
-    "doi": "10.1007/978-3-031-70392-8_14",
-    "source": "https://orcid.org/0000-0001-8771-3174",
-    "url": "https://doi.org/10.1007/978-3-031-70392-8_14",
-    "citation": "@article{Mandl2024,title = {Speed Control in the Presence of Road Obstacles: A Comparison of Model Predictive Control and Reinforcement Learning},journal = {Lecture Notes in Mechanical Engineering},year = {2024},pages = {91-97},author = {Mandl, P. and Jaumann, F. and Unterreiner, M. and Gr{\\\"a}ber, T. and Klinger, F. and Edelmann, J. and Pl{\\\"o}chl, M.}}",
-    "scholar": "https://scholar.google.com/scholar?q=%22Speed%20Control%20in%20the%20Presence%20of%20Road%20Obstacles%3A%20A%20Comparison%20of%20Model%20Predictive%20Control%20and%20Reinforcement%20Learning%22",
-    "thumbnail": "media/publications/speed-control-in-the-presence-of-road-obstacles-a-comparison-of-model-predictive-control-and-reinforcement-learning-2024.webp",
-    "thumbnailAlt": "Figure 1 from Speed Control in the Presence of Road Obstacles: A Comparison of Model Predictive Control and Reinforcement Learning",
-    "thumbnailKind": "Figure 1",
-    "thumbnailPage": 2,
-    "thumbnailSource": "https://repositum.tuwien.at/bitstream/20.500.12708/205585/1/Mandl-2024-Speed%20Control%20in%20the%20Presence%20of%20Road%20Obstacles%20A%20Comparison%20o...-vor.pdf",
-    "pdf": "https://repositum.tuwien.at/bitstream/20.500.12708/205585/1/Mandl-2024-Speed%20Control%20in%20the%20Presence%20of%20Road%20Obstacles%20A%20Comparison%20o...-vor.pdf",
-    "verification": {
-      "scholar": {
-        "status": "not_verified_access_restricted",
-        "checkedAt": "2026-11-02",
-        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
-      },
-      "arxiv": {
-        "status": "no_matching_arxiv_record_in_checked_sources",
-        "checkedAt": "2026-11-02"
-      }
-    }
-  },
-  {
-    "id": "vehicle-motion-control-for-overactuated-vehicles-to-enhance-controllability-and-path-tracking-2024",
-    "title": "Vehicle Motion Control for Overactuated Vehicles to Enhance Controllability and Path Tracking",
-    "year": 2024,
-    "type": "Journal",
-    "authors": [
-      "Philipp Mandl",
-      "Johannes Edelmann",
-      "Manfred Plöchl"
-    ],
-    "venue": "Applied Sciences",
-    "doi": "10.3390/app142210718",
-    "source": "https://orcid.org/0000-0001-8771-3174",
-    "url": "https://doi.org/10.3390/app142210718",
-    "citation": "Philipp Mandl, Johannes Edelmann, Manfred Plöchl (2024). Vehicle Motion Control for Overactuated Vehicles to Enhance Controllability and Path Tracking. Applied Sciences.",
-    "scholar": "https://scholar.google.com/scholar?q=%22Vehicle%20Motion%20Control%20for%20Overactuated%20Vehicles%20to%20Enhance%20Controllability%20and%20Path%20Tracking%22",
-    "thumbnail": "media/publications/vehicle-motion-control-for-overactuated-vehicles-to-enhance-controllability-and-path-tracking-2024.webp",
-    "thumbnailAlt": "Figure 1 from Vehicle Motion Control for Overactuated Vehicles to Enhance Controllability and Path Tracking",
-    "thumbnailKind": "Figure 1",
-    "thumbnailPage": 2,
-    "thumbnailSource": "https://repositum.tuwien.at/bitstream/20.500.12708/206064/1/Mandl-2024-APPLIED%20SCIENCES-BASEL-vor.pdf",
-    "pdf": "https://repositum.tuwien.at/bitstream/20.500.12708/206064/1/Mandl-2024-APPLIED%20SCIENCES-BASEL-vor.pdf",
-    "verification": {
-      "scholar": {
-        "status": "not_verified_access_restricted",
-        "checkedAt": "2026-11-02",
-        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
-      },
-      "arxiv": {
-        "status": "no_matching_arxiv_record_in_checked_sources",
-        "checkedAt": "2026-11-02"
-      }
-    }
   },
   {
     "id": "attention-based-neural-network-for-autonomous-driving-agents",
@@ -2390,66 +2151,6 @@
     }
   },
   {
-    "id": "flatness-based-control-of-dc-dc-converters-with-constant-power-loads-2021",
-    "title": "Flatness based control of dc-dc converters with constant power loads",
-    "year": 2021,
-    "type": "Conference",
-    "authors": [
-      "M. Zauner",
-      "P. Mandl",
-      "C. Hametner",
-      "O. König",
-      "S. Jakubek"
-    ],
-    "venue": "PCIM Europe Conference Proceedings",
-    "doi": null,
-    "source": "https://orcid.org/0000-0001-8771-3174",
-    "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85117726119&partnerID=MN8TOARS",
-    "citation": "@article{Mandl2021,title = {Flatness based control of dc-dc converters with constant power loads},journal = {PCIM Europe Conference Proceedings},year = {2021},volume = {2021-May},pages = {1784-1791},author = {Zauner, M. and Mandl, P. and Hametner, C. and K{\\\"o}nig, O. and Jakubek, S.}}",
-    "scholar": "https://scholar.google.com/scholar?q=%22Flatness%20based%20control%20of%20dc-dc%20converters%20with%20constant%20power%20loads%22",
-    "verification": {
-      "scholar": {
-        "status": "not_verified_access_restricted",
-        "checkedAt": "2026-11-02",
-        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
-      },
-      "arxiv": {
-        "status": "no_matching_arxiv_record_in_checked_sources",
-        "checkedAt": "2026-11-02"
-      }
-    }
-  },
-  {
-    "id": "flatness-based-discrete-time-control-of-a-battery-emulator-driving-a-constant-power-load-2021",
-    "title": "Flatness-Based Discrete-Time Control of a Battery Emulator Driving a Constant Power Load",
-    "year": 2021,
-    "type": "Journal",
-    "authors": [
-      "Michael Zauner",
-      "Philipp Mandl",
-      "Christoph Hametner",
-      "Oliver Konig",
-      "Stefan Jakubek"
-    ],
-    "venue": "IEEE Journal of Emerging and Selected Topics in Power Electronics",
-    "doi": "10.1109/JESTPE.2021.3059917",
-    "source": "https://orcid.org/0000-0001-8771-3174",
-    "url": "https://doi.org/10.1109/JESTPE.2021.3059917",
-    "citation": "Michael Zauner, Philipp Mandl, Christoph Hametner, Oliver Konig, Stefan Jakubek (2021). Flatness-Based Discrete-Time Control of a Battery Emulator Driving a Constant Power Load. IEEE Journal of Emerging and Selected Topics in Power Electronics.",
-    "scholar": "https://scholar.google.com/scholar?q=%22Flatness-Based%20Discrete-Time%20Control%20of%20a%20Battery%20Emulator%20Driving%20a%20Constant%20Power%20Load%22",
-    "verification": {
-      "scholar": {
-        "status": "not_verified_access_restricted",
-        "checkedAt": "2026-11-02",
-        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
-      },
-      "arxiv": {
-        "status": "no_matching_arxiv_record_in_checked_sources",
-        "checkedAt": "2026-11-02"
-      }
-    }
-  },
-  {
     "id": "importance-of-environment-design-in-reinforcement-learning-a-study-of-a-robotic-environment",
     "title": "Importance of Environment Design in Reinforcement Learning: A Study of a Robotic Environment",
     "authors": [
@@ -2582,68 +2283,6 @@
     }
   },
   {
-    "id": "predictive-driver-model-for-speed-control-in-the-presence-of-road-obstacles-2021",
-    "title": "Predictive driver model for speed control in the presence of road obstacles",
-    "year": 2021,
-    "type": "Thesis",
-    "authors": [
-      "Philipp Mandl"
-    ],
-    "venue": "TU Wien",
-    "doi": "10.34726/hss.2021.79322",
-    "source": "https://orcid.org/0000-0001-8771-3174",
-    "url": "https://doi.org/10.34726/HSS.2021.79322",
-    "citation": "@article{https://doi.org/10.34726/hss.2021.79322,  doi = {10.34726/HSS.2021.79322},  url = {https://repositum.tuwien.at/handle/20.500.12708/18761},  author = {Mandl, Philipp},  keywords = {Fahrermodellierung, Model Predictive Control MPC, Automatisiertes Fahren, Vertikaldynamik, Longitudinaldynamik, Fahrkomfort, driver model, model predictive control MPC, autonomous driving, vertical dynamics, longitudinal dynamics, ride comfort},  language = {en},  title = {Predictive driver model for speed control in the presence of road obstacles},  publisher = {TU Wien},  year = {2021}}",
-    "scholar": "https://scholar.google.com/scholar?q=%22Predictive%20driver%20model%20for%20speed%20control%20in%20the%20presence%20of%20road%20obstacles%22",
-    "pdf": "https://repositum.tuwien.at/bitstream/20.500.12708/18761/1/Mandl%20Philipp%20-%202021%20-%20Predictive%20driver%20model%20for%20speed%20control%20in%20the%20presence...pdf",
-    "thumbnail": "media/publications/predictive-driver-model-for-speed-control-in-the-presence-of-road-obstacles-2021.webp",
-    "thumbnailAlt": "Figure 1 from Predictive driver model for speed control in the presence of road obstacles",
-    "thumbnailKind": "Figure 1",
-    "thumbnailPage": 10,
-    "thumbnailSource": "https://repositum.tuwien.at/bitstream/20.500.12708/18761/1/Mandl%20Philipp%20-%202021%20-%20Predictive%20driver%20model%20for%20speed%20control%20in%20the%20presence...pdf",
-    "verification": {
-      "scholar": {
-        "status": "not_verified_access_restricted",
-        "checkedAt": "2026-11-02",
-        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
-      },
-      "arxiv": {
-        "status": "no_matching_arxiv_record_in_checked_sources",
-        "checkedAt": "2026-11-02"
-      }
-    }
-  },
-  {
-    "id": "stability-analysis-of-a-flatness-based-controller-driving-a-battery-emulator-with-constant-power-load-2021",
-    "title": "Stability analysis of a flatness-based controller driving a battery emulator with constant power load",
-    "year": 2021,
-    "type": "Journal",
-    "authors": [
-      "Michael Zauner",
-      "Philipp Mandl",
-      "Oliver König",
-      "Christoph Hametner",
-      "Stefan Jakubek"
-    ],
-    "venue": "at - Automatisierungstechnik",
-    "doi": "10.1515/auto-2020-0107",
-    "source": "https://orcid.org/0000-0001-8771-3174",
-    "url": "https://doi.org/10.1515/auto-2020-0107",
-    "citation": "Michael Zauner, Philipp Mandl, Oliver König, Christoph Hametner, Stefan Jakubek (2021). Stability analysis of a flatness-based controller driving a battery emulator with constant power load. at - Automatisierungstechnik.",
-    "scholar": "https://scholar.google.com/scholar?q=%22Stability%20analysis%20of%20a%20flatness-based%20controller%20driving%20a%20battery%20emulator%20with%20constant%20power%20load%22",
-    "verification": {
-      "scholar": {
-        "status": "not_verified_access_restricted",
-        "checkedAt": "2026-11-02",
-        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
-      },
-      "arxiv": {
-        "status": "no_matching_arxiv_record_in_checked_sources",
-        "checkedAt": "2026-11-02"
-      }
-    }
-  },
-  {
     "id": "a-natural-lottery-ticket-winner-reinforcement-learning-with-ordinary-neural-circuits",
     "title": "A Natural Lottery Ticket Winner: Reinforcement Learning with Ordinary Neural Circuits",
     "citation": "Hasani, R., Lechner, M., Amini, A., Rus, D., & Grosu, R. (2020). A Natural Lottery Ticket Winner: Reinforcement Learning with Ordinary Neural Circuits. In Proceedings of the 37th International Conference on Machine Learning (pp. 4082–4093). http://hdl.handle.net/20.500.12708/58294",
@@ -2749,45 +2388,6 @@
     "url": "https://doi.org/10.23919/SICEISCS48470.2020.9083498",
     "citation": "@article{Poks2020,title = {Wholistic simulation of an all-electric refrigerated delivery vehicle},journal = {Proceedings of 2020 SICE International Symposium on Control Systems, SICE ISCS 2020},year = {2020},pages = {1-6},author = {Poks, A. and Luchini, E. and Kitanoski, F. and Kozek, M.}}",
     "scholar": "https://scholar.google.com/scholar?q=%22Wholistic%20simulation%20of%20an%20all-electric%20refrigerated%20delivery%20vehicle%22",
-    "verification": {
-      "scholar": {
-        "status": "not_verified_access_restricted",
-        "checkedAt": "2026-11-02",
-        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
-      },
-      "arxiv": {
-        "status": "no_matching_arxiv_record_in_checked_sources",
-        "checkedAt": "2026-11-02"
-      }
-    }
-  },
-  {
-    "id": "argesim-benchmark-c11-scara-robot-comparison-of-basic-implementations-in-excel-and-matlab-2019",
-    "title": "ARGESIM Benchmark C11 ’SCARA Robot’: Comparison of Basic Implementations in EXCEL and MATLAB",
-    "year": 2019,
-    "type": "Journal",
-    "authors": [
-      "Olga Rekova",
-      "Nicole Pelzmann",
-      "Philipp Mandl",
-      "Maximilian Hoffmann",
-      "Horst Ecker",
-      "Andreas Körner",
-      "Martin Bicher",
-      "Felix Breitenecker"
-    ],
-    "venue": "SNE Simulation Notes Europe",
-    "doi": "10.11128/sne.29.bne11.10488",
-    "source": "https://orcid.org/0000-0001-8771-3174",
-    "url": "https://doi.org/10.11128/sne.29.bne11.10488",
-    "citation": "Olga Rekova, Nicole Pelzmann, Philipp Mandl, Maximilian Hoffmann, Horst Ecker, Andreas Körner, Martin Bicher, Felix Breitenecker (2019). ARGESIM Benchmark C11 ’SCARA Robot’: Comparison of Basic Implementations in EXCEL and MATLAB. SNE Simulation Notes Europe.",
-    "scholar": "https://scholar.google.com/scholar?q=%22ARGESIM%20Benchmark%20C11%20%E2%80%99SCARA%20Robot%E2%80%99%3A%20Comparison%20of%20Basic%20Implementations%20in%20EXCEL%20and%20MATLAB%22",
-    "thumbnail": "media/publications/argesim-benchmark-c11-scara-robot-comparison-of-basic-implementations-in-excel-and-matlab-2019.webp",
-    "thumbnailAlt": "Figure 1 from ARGESIM Benchmark C11 ’SCARA Robot’: Comparison of Basic Implementations in EXCEL and MATLAB",
-    "thumbnailKind": "Figure 1",
-    "thumbnailPage": 1,
-    "thumbnailSource": "https://www.sne-journal.org/fileadmin/user_upload_sne/SNE_Issues_OA/SNE_29_3/articles/sne.29.3.10488.bne11.OA.pdf",
-    "pdf": "https://www.sne-journal.org/fileadmin/user_upload_sne/SNE_Issues_OA/SNE_29_3/articles/sne.29.3.10488.bne11.OA.pdf",
     "verification": {
       "scholar": {
         "status": "not_verified_access_restricted",

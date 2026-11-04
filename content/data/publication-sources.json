@@ -24,50 +24,6 @@
     }
   },
   {
-    "id": "cloud-based-digital-twins-for-vehicle-dynamics-control-with-application-to-lateral-stability-enhancement-2026",
-    "title": "Cloud-Based Digital Twins for Vehicle Dynamics Control With Application to Lateral Stability Enhancement",
-    "metadataSource": "https://orcid.org/0000-0001-8771-3174",
-    "doi": "10.1109/ACCESS.2025.3650253",
-    "preview": "media/publications/cloud-based-digital-twins-for-vehicle-dynamics-control-with-application-to-lateral-stability-enhancement-2026.webp",
-    "previewSource": "https://repositum.tuwien.at/bitstream/20.500.12708/227511/1/Mandl-2026-IEEE%20Access-vor.pdf",
-    "previewPage": 1,
-    "previewKind": "First-page preview",
-    "arxiv": null,
-    "verification": {
-      "scholar": {
-        "status": "not_verified_access_restricted",
-        "checkedAt": "2026-11-02",
-        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
-      },
-      "arxiv": {
-        "status": "no_matching_arxiv_record_in_checked_sources",
-        "checkedAt": "2026-11-02"
-      }
-    }
-  },
-  {
-    "id": "enhancing-vehicle-handling-behaviour-through-overactuation-2026",
-    "title": "Enhancing vehicle handling behaviour through overactuation",
-    "metadataSource": "https://orcid.org/0000-0001-8771-3174",
-    "doi": "10.34726/hss.2026.110737",
-    "preview": "media/publications/enhancing-vehicle-handling-behaviour-through-overactuation-2026.webp",
-    "previewSource": "https://repositum.tuwien.at/bitstream/20.500.12708/227064/1/Mandl%20Philipp%20-%202026%20-%20Enhancing%20Vehicle%20Handling%20Behaviour%20through...pdf",
-    "previewPage": 13,
-    "previewKind": "Figure 1",
-    "arxiv": null,
-    "verification": {
-      "scholar": {
-        "status": "not_verified_access_restricted",
-        "checkedAt": "2026-11-02",
-        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
-      },
-      "arxiv": {
-        "status": "no_matching_arxiv_record_in_checked_sources",
-        "checkedAt": "2026-11-02"
-      }
-    }
-  },
-  {
     "id": "evaluating-domain-shift-generalization-of-liquid-neural-networks-in-autonomous-driving",
     "title": "Evaluating Domain-Shift Generalization of Liquid Neural Networks in Autonomous Driving",
     "metadataSource": "https://informatics.tuwien.ac.at/people/mihaela-larisa-clement",
@@ -122,28 +78,6 @@
     "previewSource": null,
     "previewPage": null,
     "previewKind": null,
-    "arxiv": null,
-    "verification": {
-      "scholar": {
-        "status": "not_verified_access_restricted",
-        "checkedAt": "2026-11-02",
-        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
-      },
-      "arxiv": {
-        "status": "no_matching_arxiv_record_in_checked_sources",
-        "checkedAt": "2026-11-02"
-      }
-    }
-  },
-  {
-    "id": "power-optimal-torque-distribution-for-overactuated-electric-vehicles-analysis-and-experimental-validation-2026",
-    "title": "Power optimal torque distribution for overactuated electric vehicles: analysis and experimental validation",
-    "metadataSource": "https://orcid.org/0000-0001-8771-3174",
-    "doi": "10.1007/s41104-025-00164-8",
-    "preview": "media/publications/power-optimal-torque-distribution-for-overactuated-electric-vehicles-analysis-and-experimental-validation-2026.webp",
-    "previewSource": "https://repositum.tuwien.at/bitstream/20.500.12708/224160/1/Klein-2026-Automotive%20and%20Engine%20Technology-vor.pdf",
-    "previewPage": 1,
-    "previewKind": "First-page preview",
     "arxiv": null,
     "verification": {
       "scholar": {
@@ -528,28 +462,6 @@
     }
   },
   {
-    "id": "regions-of-feasible-handling-in-overactuated-vehicles-considering-actuator-sets-and-limits-2025",
-    "title": "Regions of feasible handling in overactuated vehicles considering actuator sets and limits",
-    "metadataSource": "https://orcid.org/0000-0001-8771-3174",
-    "doi": "10.1080/00423114.2025.2579863",
-    "preview": "media/publications/regions-of-feasible-handling-in-overactuated-vehicles-considering-actuator-sets-and-limits-2025.webp",
-    "previewSource": "https://repositum.tuwien.at/bitstream/20.500.12708/221446/1/Mandl-2025-Vehicle%20System%20Dynamics-vor.pdf",
-    "previewPage": 4,
-    "previewKind": "Figure 1",
-    "arxiv": null,
-    "verification": {
-      "scholar": {
-        "status": "not_verified_access_restricted",
-        "checkedAt": "2026-11-02",
-        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
-      },
-      "arxiv": {
-        "status": "no_matching_arxiv_record_in_checked_sources",
-        "checkedAt": "2026-11-02"
-      }
-    }
-  },
-  {
     "id": "scalable-offline-reinforcement-learning-for-mean-field-games",
     "title": "Scalable Offline Reinforcement Learning for Mean Field Games",
     "metadataSource": "https://informatics.tuwien.ac.at/people/radu-grosu",
@@ -604,28 +516,6 @@
     "previewSource": "https://repositum.tuwien.at/bitstream/20.500.12708/210924/1/Poks-2024-IEEE%20Access-vor.pdf",
     "previewPage": 4,
     "previewKind": "Figure 1",
-    "arxiv": null,
-    "verification": {
-      "scholar": {
-        "status": "not_verified_access_restricted",
-        "checkedAt": "2026-11-02",
-        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
-      },
-      "arxiv": {
-        "status": "no_matching_arxiv_record_in_checked_sources",
-        "checkedAt": "2026-11-02"
-      }
-    }
-  },
-  {
-    "id": "enhancing-controllability-and-path-tracking-with-overactuated-autonomous-vehicles-2024",
-    "title": "Enhancing Controllability and Path Tracking with Overactuated Autonomous Vehicles",
-    "metadataSource": "https://orcid.org/0000-0001-8771-3174",
-    "doi": "10.1007/978-3-031-66968-2_92",
-    "preview": null,
-    "previewSource": null,
-    "previewPage": null,
-    "previewKind": null,
     "arxiv": null,
     "verification": {
       "scholar": {
@@ -754,50 +644,6 @@
         "checkedAt": "2026-11-02",
         "source": "https://arxiv.org/abs/2409.18038",
         "version": "v2"
-      }
-    }
-  },
-  {
-    "id": "speed-control-in-the-presence-of-road-obstacles-a-comparison-of-model-predictive-control-and-reinforcement-learning-2024",
-    "title": "Speed Control in the Presence of Road Obstacles: A Comparison of Model Predictive Control and Reinforcement Learning",
-    "metadataSource": "https://orcid.org/0000-0001-8771-3174",
-    "doi": "10.1007/978-3-031-70392-8_14",
-    "preview": "media/publications/speed-control-in-the-presence-of-road-obstacles-a-comparison-of-model-predictive-control-and-reinforcement-learning-2024.webp",
-    "previewSource": "https://repositum.tuwien.at/bitstream/20.500.12708/205585/1/Mandl-2024-Speed%20Control%20in%20the%20Presence%20of%20Road%20Obstacles%20A%20Comparison%20o...-vor.pdf",
-    "previewPage": 2,
-    "previewKind": "Figure 1",
-    "arxiv": null,
-    "verification": {
-      "scholar": {
-        "status": "not_verified_access_restricted",
-        "checkedAt": "2026-11-02",
-        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
-      },
-      "arxiv": {
-        "status": "no_matching_arxiv_record_in_checked_sources",
-        "checkedAt": "2026-11-02"
-      }
-    }
-  },
-  {
-    "id": "vehicle-motion-control-for-overactuated-vehicles-to-enhance-controllability-and-path-tracking-2024",
-    "title": "Vehicle Motion Control for Overactuated Vehicles to Enhance Controllability and Path Tracking",
-    "metadataSource": "https://orcid.org/0000-0001-8771-3174",
-    "doi": "10.3390/app142210718",
-    "preview": "media/publications/vehicle-motion-control-for-overactuated-vehicles-to-enhance-controllability-and-path-tracking-2024.webp",
-    "previewSource": "https://repositum.tuwien.at/bitstream/20.500.12708/206064/1/Mandl-2024-APPLIED%20SCIENCES-BASEL-vor.pdf",
-    "previewPage": 2,
-    "previewKind": "Figure 1",
-    "arxiv": null,
-    "verification": {
-      "scholar": {
-        "status": "not_verified_access_restricted",
-        "checkedAt": "2026-11-02",
-        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
-      },
-      "arxiv": {
-        "status": "no_matching_arxiv_record_in_checked_sources",
-        "checkedAt": "2026-11-02"
       }
     }
   },
@@ -1318,50 +1164,6 @@
     }
   },
   {
-    "id": "flatness-based-control-of-dc-dc-converters-with-constant-power-loads-2021",
-    "title": "Flatness based control of dc-dc converters with constant power loads",
-    "metadataSource": "https://orcid.org/0000-0001-8771-3174",
-    "doi": null,
-    "preview": null,
-    "previewSource": null,
-    "previewPage": null,
-    "previewKind": null,
-    "arxiv": null,
-    "verification": {
-      "scholar": {
-        "status": "not_verified_access_restricted",
-        "checkedAt": "2026-11-02",
-        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
-      },
-      "arxiv": {
-        "status": "no_matching_arxiv_record_in_checked_sources",
-        "checkedAt": "2026-11-02"
-      }
-    }
-  },
-  {
-    "id": "flatness-based-discrete-time-control-of-a-battery-emulator-driving-a-constant-power-load-2021",
-    "title": "Flatness-Based Discrete-Time Control of a Battery Emulator Driving a Constant Power Load",
-    "metadataSource": "https://orcid.org/0000-0001-8771-3174",
-    "doi": "10.1109/JESTPE.2021.3059917",
-    "preview": null,
-    "previewSource": null,
-    "previewPage": null,
-    "previewKind": null,
-    "arxiv": null,
-    "verification": {
-      "scholar": {
-        "status": "not_verified_access_restricted",
-        "checkedAt": "2026-11-02",
-        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
-      },
-      "arxiv": {
-        "status": "no_matching_arxiv_record_in_checked_sources",
-        "checkedAt": "2026-11-02"
-      }
-    }
-  },
-  {
     "id": "importance-of-environment-design-in-reinforcement-learning-a-study-of-a-robotic-environment",
     "title": "Importance of Environment Design in Reinforcement Learning: A Study of a Robotic Environment",
     "metadataSource": "https://arxiv.org/abs/2102.10447",
@@ -1417,50 +1219,6 @@
     "previewSource": "https://repositum.tuwien.at/bitstream/20.500.12708/17644/1/Brunnbauer%20Axel%20-%202021%20-%20Model-based%20deep%20Reinforcement%20learning%20for%20autonomous...pdf",
     "previewPage": 1,
     "previewKind": "First-page preview",
-    "arxiv": null,
-    "verification": {
-      "scholar": {
-        "status": "not_verified_access_restricted",
-        "checkedAt": "2026-11-02",
-        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
-      },
-      "arxiv": {
-        "status": "no_matching_arxiv_record_in_checked_sources",
-        "checkedAt": "2026-11-02"
-      }
-    }
-  },
-  {
-    "id": "predictive-driver-model-for-speed-control-in-the-presence-of-road-obstacles-2021",
-    "title": "Predictive driver model for speed control in the presence of road obstacles",
-    "metadataSource": "https://orcid.org/0000-0001-8771-3174",
-    "doi": "10.34726/hss.2021.79322",
-    "preview": "media/publications/predictive-driver-model-for-speed-control-in-the-presence-of-road-obstacles-2021.webp",
-    "previewSource": "https://repositum.tuwien.at/bitstream/20.500.12708/18761/1/Mandl%20Philipp%20-%202021%20-%20Predictive%20driver%20model%20for%20speed%20control%20in%20the%20presence...pdf",
-    "previewPage": 10,
-    "previewKind": "Figure 1",
-    "arxiv": null,
-    "verification": {
-      "scholar": {
-        "status": "not_verified_access_restricted",
-        "checkedAt": "2026-11-02",
-        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
-      },
-      "arxiv": {
-        "status": "no_matching_arxiv_record_in_checked_sources",
-        "checkedAt": "2026-11-02"
-      }
-    }
-  },
-  {
-    "id": "stability-analysis-of-a-flatness-based-controller-driving-a-battery-emulator-with-constant-power-load-2021",
-    "title": "Stability analysis of a flatness-based controller driving a battery emulator with constant power load",
-    "metadataSource": "https://orcid.org/0000-0001-8771-3174",
-    "doi": "10.1515/auto-2020-0107",
-    "preview": null,
-    "previewSource": null,
-    "previewPage": null,
-    "previewKind": null,
     "arxiv": null,
     "verification": {
       "scholar": {
@@ -1549,28 +1307,6 @@
     "previewSource": null,
     "previewPage": null,
     "previewKind": null,
-    "arxiv": null,
-    "verification": {
-      "scholar": {
-        "status": "not_verified_access_restricted",
-        "checkedAt": "2026-11-02",
-        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
-      },
-      "arxiv": {
-        "status": "no_matching_arxiv_record_in_checked_sources",
-        "checkedAt": "2026-11-02"
-      }
-    }
-  },
-  {
-    "id": "argesim-benchmark-c11-scara-robot-comparison-of-basic-implementations-in-excel-and-matlab-2019",
-    "title": "ARGESIM Benchmark C11 ’SCARA Robot’: Comparison of Basic Implementations in EXCEL and MATLAB",
-    "metadataSource": "https://orcid.org/0000-0001-8771-3174",
-    "doi": "10.11128/sne.29.bne11.10488",
-    "preview": "media/publications/argesim-benchmark-c11-scara-robot-comparison-of-basic-implementations-in-excel-and-matlab-2019.webp",
-    "previewSource": "https://www.sne-journal.org/fileadmin/user_upload_sne/SNE_Issues_OA/SNE_29_3/articles/sne.29.3.10488.bne11.OA.pdf",
-    "previewPage": 1,
-    "previewKind": "Figure 1",
     "arxiv": null,
     "verification": {
       "scholar": {
