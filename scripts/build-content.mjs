@@ -2,7 +2,7 @@ import { readFile, readdir, mkdir, writeFile, rm } from 'node:fs/promises';
 import { resolve, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { marked } from 'marked';
-import { layout, image } from './layout.mjs';
+import { layout, image, repositoryList } from './layout.mjs';
 const root = resolve(dirname(fileURLToPath(import.meta.url)), '..');
 const escape = value => String(value).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 function page(title, body, depth) { return layout(title, body, {prefix:'../'.repeat(depth), active:title === 'News' ? 'news' : title === 'Blog' ? 'blog' : ''}); }
@@ -45,7 +45,7 @@ for (const {kind, posts} of collections) {
   for (const post of posts) {
     await mkdir(resolve(out, post.slug), {recursive:true});
     // Render the shared shell first, so article-relative links and image URLs stay intact.
-    const article = `<section class="section container"><p><a href="../index.html">← ${title}</a></p><article class="post"><p>${escape(post.date)}</p><h1>${escape(post.title)}</h1>${post.author ? `<p>By ${escape(post.author)}</p>` : ''}${post.body}</article></section>`;
+    const article = `<section class="section container"><p><a href="../index.html">← ${title}</a></p><article class="post"><p>${escape(post.date)}</p><h1>${escape(post.title)}</h1>${post.author ? `<p>By ${escape(post.author)}</p>` : ''}${post.body}${repositoryList(post.repositories)}</article></section>`;
     await writeFile(resolve(out, post.slug, 'index.html'), page(post.title, 'CONTENT_PLACEHOLDER', 2).replace('CONTENT_PLACEHOLDER', article));
   }
   console.log(`${kind}: ${posts.length} published posts`);

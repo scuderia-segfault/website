@@ -6,7 +6,7 @@
     "period": "2026–2029 · FWF PAT3743226",
     "category": "Distributed autonomy",
     "status": "Funded project",
-    "image": "media/car21-drive.webp",
+    "image": "uploads/aida_logo.jpg",
     "summary": "Connecting vehicle dynamics, learning and distributed decision-making across autonomous vehicles.",
     "body": [
       "AIDA investigates distributed learning and coordination for connected autonomous vehicles. The project brings together recurrent neural networks and state-space models, model predictive control, reinforcement learning and language-assisted planning.",
@@ -17,7 +17,8 @@
       "Agnes Poks",
       "Felix Resch",
       "Monika Farsang",
-      "Radu Grosu"
+      "Radu Grosu",
+      "Ezio Bartocci"
     ],
     "keywords": [
       "Towards Safe Learning-Based",
@@ -31,8 +32,35 @@
         "url": "https://www.fwf.ac.at/en/research-radar/10.55776/PAT3743226"
       }
     ],
-    "imageCredit": "Scuderia Segfault / team archive",
-    "imageCaption": "RoboRacer platform in the lab"
+    "imageCredit": "Scuderia Segfault",
+    "imageCaption": "AIDA project logo",
+    "associates": [
+      {
+        "name": "Christos Mavridis",
+        "url": "https://mavridischristos.github.io/"
+      },
+      {
+        "name": "Daniela Rus",
+        "url": "https://www.csail.mit.edu/person/daniela-rus"
+      }
+    ],
+    "repositories": [
+      {
+        "label": "larisaclement/roboracer-arena-v1",
+        "url": "https://github.com/larisaclement/roboracer-arena-v1",
+        "description": "Track generation and Isaac Sim environments for RoboRacer Arena."
+      },
+      {
+        "label": "ScuderiaSegfault/t2v_mod",
+        "url": "https://github.com/ScuderiaSegfault/t2v_mod",
+        "description": "Related Track-to-Vehicle communication module."
+      },
+      {
+        "label": "agpoks/mpcc-online-tuning",
+        "url": "https://github.com/agpoks/mpcc-online-tuning",
+        "description": "Related research prototype for online MPCC weight tuning."
+      }
+    ]
   },
   {
     "id": "adex",
@@ -84,9 +112,9 @@
     "period": "Vehicle development",
     "category": "Vehicle engineering",
     "status": "Team project",
-    "image": "media/car21-drive.webp",
-    "imageCaption": "Scuderia Segfault RoboRacer platform in the lab",
-    "imageCredit": "Scuderia Segfault / team archive",
+    "image": "uploads/uni13_logo.jpg",
+    "imageCaption": "Unit XIII autonomous racing project logo",
+    "imageCredit": "Scuderia Segfault / TrustCPS",
     "summary": "Building an autonomous race car on the 1:8 Serpent SRX8GTE R platform, alongside simulation work in RoboRacer Arena.",
     "body": [
       "Unit XIII is our new autonomous race car build based on the Serpent SRX8GTE R (SER600074), a 1:8 electric GT chassis with four-wheel drive.",
@@ -111,7 +139,39 @@
         "url": "https://serpent.com/products/ser600074"
       }
     ],
-    "labNotes": "unit-xiii"
+    "labNotes": "unit-xiii",
+    "repositories": [
+      {
+        "label": "larisaclement/roboracer-arena-v1",
+        "url": "https://github.com/larisaclement/roboracer-arena-v1",
+        "description": "Track generation and Isaac Sim environments for RoboRacer Arena."
+      },
+      {
+        "label": "CPS-TUWien/f1tenth_system",
+        "url": "https://github.com/CPS-TUWien/f1tenth_system",
+        "description": "Related F1TENTH vehicle software from CPS-TUWien."
+      },
+      {
+        "label": "scuderia-segfault/scuderia_gymnasium",
+        "url": "https://github.com/scuderia-segfault/scuderia_gymnasium",
+        "description": "Scuderia racing simulation repository."
+      },
+      {
+        "label": "agpoks/mpcc-online-tuning",
+        "url": "https://github.com/agpoks/mpcc-online-tuning",
+        "description": "Related research prototype for online MPCC weight tuning."
+      }
+    ],
+    "photos": [
+      {
+        "file": "uni13_build_chassis.jpg",
+        "caption": "Serpent chassis during assembly"
+      },
+      {
+        "file": "uni13_sensores.jpg",
+        "caption": "Sensor and motor-controller hardware overview"
+      }
+    ]
   },
   {
     "id": "roboracer-arena",
@@ -145,7 +205,20 @@
         "url": "https://arxiv.org/abs/2608.23040"
       }
     ],
-    "parentId": "unit-xiii"
+    "parentId": "unit-xiii",
+    "repositories": [
+      {
+        "label": "larisaclement/roboracer-arena-v1",
+        "url": "https://github.com/larisaclement/roboracer-arena-v1",
+        "description": "Track generation and Isaac Sim environments for RoboRacer Arena."
+      }
+    ],
+    "clips": [
+      {
+        "file": "roboracer_arena.mp4",
+        "title": "RoboRacer Arena demonstration"
+      }
+    ]
   },
   {
     "id": "latent-imagination",
@@ -182,15 +255,18 @@
       {
         "label": "Paper and DOI",
         "url": "https://doi.org/10.1109/ICRA46639.2022.9811650"
-      },
-      {
-        "label": "Open-source implementation",
-        "url": "https://github.com/CPS-TUWien/latent-imagination"
       }
     ],
     "imageCredit": "From the linked publication · 2022",
     "imageCaption": "Figure 1 · Latent Imagination Facilitates Zero-Shot Transfer in Autonomous Racing",
-    "imageSource": "https://arxiv.org/pdf/2103.04909"
+    "imageSource": "https://arxiv.org/pdf/2103.04909",
+    "repositories": [
+      {
+        "label": "CPS-TUWien/racing_dreamer",
+        "url": "https://github.com/CPS-TUWien/racing_dreamer",
+        "description": "Implementation and experiments for Latent Imagination."
+      }
+    ]
   },
   {
     "id": "human-attention",
@@ -228,7 +304,14 @@
     ],
     "imageCredit": "From the linked publication · 2023",
     "imageCaption": "Figure 1 · Attention based neural network for autonomous driving agents",
-    "imageSource": "https://repositum.tuwien.at/bitstream/20.500.12708/188073/1/Ulmer%20Stefan%20-%202023%20-%20Attention%20Based%20Neural%20Network%20for%20Autonomous%20Driving...pdf"
+    "imageSource": "https://repositum.tuwien.at/bitstream/20.500.12708/188073/1/Ulmer%20Stefan%20-%202023%20-%20Attention%20Based%20Neural%20Network%20for%20Autonomous%20Driving...pdf",
+    "repositories": [
+      {
+        "label": "CPS-TUWien/learning_human_attention",
+        "url": "https://github.com/CPS-TUWien/learning_human_attention",
+        "description": "Dataset and preprocessing for human-attention experiments."
+      }
+    ]
   },
   {
     "id": "rgb-d",
@@ -266,7 +349,14 @@
     ],
     "imageCredit": "From the linked publication · 2025",
     "imageCaption": "Figure 1 · Depth Matters: Multimodal RGB-D Perception for Robust Autonomous Agents",
-    "imageSource": "https://arxiv.org/pdf/2503.16711"
+    "imageSource": "https://arxiv.org/pdf/2503.16711",
+    "repositories": [
+      {
+        "label": "larisaclement/multimodal-rgbd-agents",
+        "url": "https://github.com/larisaclement/multimodal-rgbd-agents",
+        "description": "Related RGB-D research implementation."
+      }
+    ]
   },
   {
     "id": "learning-based-mpc",
@@ -304,7 +394,24 @@
     ],
     "imageCredit": "From the linked publication · 2026",
     "imageCaption": "Figure 1 · Towards Safe Learning-Based Non-Linear Model Predictive Control through Recurrent Neural Network Modeling",
-    "imageSource": "https://arxiv.org/pdf/2603.24503"
+    "imageSource": "https://arxiv.org/pdf/2603.24503",
+    "repositories": [
+      {
+        "label": "agpoks/mpcc-online-tuning",
+        "url": "https://github.com/agpoks/mpcc-online-tuning",
+        "description": "Related research prototype for online MPCC weight tuning."
+      }
+    ],
+    "clips": [
+      {
+        "file": "close_loop.mp4",
+        "title": "Closed-loop control demonstration"
+      },
+      {
+        "file": "ampere_mpcc.mp4",
+        "title": "Ampere MPCC demonstration"
+      }
+    ]
   },
   {
     "id": "adaptive-control",
@@ -484,7 +591,14 @@
     ],
     "imageCredit": "From the linked publication · 2025",
     "imageCaption": "Figure 1 · MMDVS-LF: Multi-Modal Dynamic Vision Sensor and Eye-Tracking Dataset for Line Following",
-    "imageSource": "https://arxiv.org/pdf/2409.18038"
+    "imageSource": "https://arxiv.org/pdf/2409.18038",
+    "repositories": [
+      {
+        "label": "CPS-TUWien/mmdvs",
+        "url": "https://github.com/CPS-TUWien/mmdvs",
+        "description": "Repository for the multimodal vision dataset."
+      }
+    ]
   },
   {
     "id": "liquid-neural-networks",

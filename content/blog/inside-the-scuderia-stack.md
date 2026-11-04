@@ -9,6 +9,18 @@
   "tags": [
     "Engineering note",
     "Control"
+  ],
+  "repositories": [
+    {
+      "label": "CPS-TUWien/f1tenth_system",
+      "url": "https://github.com/CPS-TUWien/f1tenth_system",
+      "description": "Related F1TENTH vehicle software from CPS-TUWien."
+    },
+    {
+      "label": "ScuderiaSegfault/t2v_mod",
+      "url": "https://github.com/ScuderiaSegfault/t2v_mod",
+      "description": "Related Track-to-Vehicle communication module."
+    }
   ]
 }
 ---
@@ -28,3 +40,9 @@ Local planning combines the raceline with obstacle information. The control side
 The useful part of a system diagram is the interfaces: which estimates, targets and commands each component needs from the others. It gives us a common language for discussing the whole vehicle.
 
 [Explore the research behind the car](../../research.html)
+
+## From the lab track
+
+![Indoor track with obstacles for mapping and localization](../../uploads/blog_slam_team.jpg)
+
+![Workbench with cars and equipment beside the indoor track](../../uploads/blog_work_1.jpg)

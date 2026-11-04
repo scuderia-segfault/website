@@ -9,6 +9,13 @@
   "tags": [
     "Research note",
     "Simulation"
+  ],
+  "repositories": [
+    {
+      "label": "larisaclement/roboracer-arena-v1",
+      "url": "https://github.com/larisaclement/roboracer-arena-v1",
+      "description": "Track generation and Isaac Sim environments for RoboRacer Arena."
+    }
   ]
 }
 ---
@@ -24,3 +31,7 @@ RoboRacer Arena connects track requirements to validated occupancy maps and simu
 For the team, this is a useful connection between simulation tools and the questions we ask of the real car.
 
 [Read the project page](../../projects/roboracer-arena.html) · [Read the arXiv preprint](https://arxiv.org/abs/2608.23040)
+
+## Vehicle model
+
+![Rendered RoboRacer vehicle model](../../uploads/blog_roboracer_arena_sim.jpg)

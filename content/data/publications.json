@@ -436,7 +436,8 @@
       "journalRef": "",
       "doi": "",
       "comments": "Submitted to ICRA 2027"
-    }
+    },
+    "code": "https://github.com/larisaclement/roboracer-arena-v1"
   },
   {
     "id": "towards-safe-learning-based-non-linear-model-predictive-control-through-recurrent-neural-network-modeling",
@@ -642,7 +643,8 @@
       "journalRef": "",
       "doi": "",
       "comments": ""
-    }
+    },
+    "code": "https://github.com/larisaclement/multimodal-rgbd-agents"
   },
   {
     "id": "differential-gated-self-attention",
@@ -888,7 +890,8 @@
     ],
     "alternateSources": [
       "https://repositum.tuwien.at/handle/20.500.12708/223745"
-    ]
+    ],
+    "code": "https://github.com/MoniFarsang/LrcSSM"
   },
   {
     "id": "predictive-control-concepts-for-electric-refrigeration-vehicles",
@@ -1406,7 +1409,8 @@
       "journalRef": "",
       "doi": "",
       "comments": ""
-    }
+    },
+    "code": "https://github.com/CPS-TUWien/mmdvs"
   },
   {
     "id": "speed-control-in-the-presence-of-road-obstacles-a-comparison-of-model-predictive-control-and-reinforcement-learning-2024",
@@ -1699,7 +1703,8 @@
       "journalRef": "",
       "doi": "",
       "comments": "This work has been accepted for the RAP4Robots workshop at ICRA 2023 in London"
-    }
+    },
+    "code": "https://github.com/CPS-TUWien/learning_human_attention"
   },
   {
     "id": "fault-detection-and-isolation-for-a-secondary-loop-refrigeration-system-2023",
@@ -2246,7 +2251,8 @@
       "journalRef": "",
       "doi": "",
       "comments": "This paper is accepted for presentation at the International Conference on Robotics and Automation (ICRA), 2022"
-    }
+    },
+    "code": "https://github.com/CPS-TUWien/racing_dreamer"
   },
   {
     "id": "safe-policy-improvement-in-constrained-markov-decision-processes",
