@@ -17,7 +17,6 @@
       "Agnes Poks",
       "Felix Resch",
       "Monika Farsang",
-      "Radu Grosu",
       "Ezio Bartocci"
     ],
     "keywords": [
@@ -42,6 +41,14 @@
       {
         "name": "Daniela Rus",
         "url": "https://www.csail.mit.edu/person/daniela-rus"
+      },
+      {
+        "name": "Radu Grosu",
+        "url": "https://ti.tuwien.ac.at/cps/people/radu-grosu/"
+      },
+      {
+        "name": "Mihaela-Larisa Clement",
+        "url": "../members.html#mihaela-larisa-clement"
       }
     ],
     "repositories": [
