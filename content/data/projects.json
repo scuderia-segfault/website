@@ -87,16 +87,19 @@
     "image": "media/car21-drive.webp",
     "imageCaption": "Scuderia Segfault RoboRacer platform in the lab",
     "imageCredit": "Scuderia Segfault / team archive",
-    "summary": "Developing our new 1:10 autonomous race cars and connecting vehicle development with simulation in RoboRacer Arena.",
+    "summary": "Building an autonomous race car on the 1:8 Serpent SRX8GTE R platform, alongside simulation work in RoboRacer Arena.",
     "body": [
-      "Unit XIII brings together work on the new Scuderia Segfault cars, from vehicle hardware and onboard computing to sensing, localization and control.",
-      "TU Wien’s documented fourth-generation RoboRacer provides a hardware reference for this work. It pairs an ASUS NUC 14 Pro (Intel Core Ultra 5, 32 GB DDR5, 1 TB SSD) with a PhidgetSpatial Precision 3/3/3 IMU for state estimation and a BlinkStick Square for visual status feedback.",
+      "Unit XIII is our new autonomous race car build based on the Serpent SRX8GTE R (SER600074), a 1:8 electric GT chassis with four-wheel drive.",
+      "The current build plan pairs a Hobbywing Xerun 4268SD G3 2400 KV motor with a VESC 6 Mk6 HP controller. The planned sensor package includes a RoboSense Airy LiDAR, a MicroStrain IMU and a ground-facing Holybro H-Flow. Onboard compute is still being evaluated between an ASUS NUC 15 Pro and an NVIDIA Jetson.",
       "RoboRacer Arena is the simulation theme within Unit XIII. It turns validated track maps into Isaac Sim environments and connects experiments in simulation with tests on the physical racing platform."
     ],
     "people": [
       "Samuel Lechner",
       "Piet Kaul",
-      "Philipp Gratzer"
+      "Philipp Gratzer",
+      "Mihaela-Larisa Clement",
+      "Agnes Poks",
+      "Luca (CPS)"
     ],
     "keywords": [
       "RoboRacer Arena"
@@ -104,10 +107,11 @@
     "videos": [],
     "sources": [
       {
-        "label": "TU Wien vehicle generations and hardware",
-        "url": "https://www.tuwien.at/inf/scuderia-segfault/racing/model-race-car/"
+        "label": "Serpent chassis reference",
+        "url": "https://serpent.com/products/ser600074"
       }
-    ]
+    ],
+    "labNotes": "unit-xiii"
   },
   {
     "id": "roboracer-arena",
