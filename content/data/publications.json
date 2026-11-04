@@ -1510,41 +1510,6 @@
     }
   },
   {
-    "id": "simulation-based-sizing-of-a-secondary-loop-cooling-system-for-a-refrigerated-vehicle-2023",
-    "title": "Simulation-Based Sizing of a Secondary Loop Cooling System for a Refrigerated Vehicle",
-    "year": 2023,
-    "type": "Journal",
-    "authors": [
-      "Maximilian Lösch",
-      "Markus Fallmann",
-      "Agnes Poks",
-      "Martin Kozek"
-    ],
-    "venue": "Energies",
-    "doi": "10.3390/en16186459",
-    "source": "https://orcid.org/0000-0002-0276-4552",
-    "url": "https://doi.org/10.3390/en16186459",
-    "citation": "Maximilian Lösch, Markus Fallmann, Agnes Poks, Martin Kozek (2023). Simulation-Based Sizing of a Secondary Loop Cooling System for a Refrigerated Vehicle. Energies.",
-    "scholar": "https://scholar.google.com/scholar?q=%22Simulation-Based%20Sizing%20of%20a%20Secondary%20Loop%20Cooling%20System%20for%20a%20Refrigerated%20Vehicle%22",
-    "thumbnail": "media/publications/simulation-based-sizing-of-a-secondary-loop-cooling-system-for-a-refrigerated-vehicle-2023.webp",
-    "thumbnailAlt": "Figure 1 from Simulation-Based Sizing of a Secondary Loop Cooling System for a Refrigerated Vehicle",
-    "thumbnailKind": "Figure 1",
-    "thumbnailPage": 4,
-    "thumbnailSource": "https://repositum.tuwien.at/bitstream/20.500.12708/188604/1/Loesch-2023-Energies-vor.pdf",
-    "pdf": "https://repositum.tuwien.at/bitstream/20.500.12708/188604/1/Loesch-2023-Energies-vor.pdf",
-    "verification": {
-      "scholar": {
-        "status": "not_verified_access_restricted",
-        "checkedAt": "2026-11-02",
-        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
-      },
-      "arxiv": {
-        "status": "no_matching_arxiv_record_in_checked_sources",
-        "checkedAt": "2026-11-02"
-      }
-    }
-  },
-  {
     "id": "td-magic-from-pictures-of-timing-diagrams-to-formal-specifications",
     "title": "TD-Magic: From Pictures of Timing Diagrams To Formal Specifications",
     "citation": "TD-Magic: From Pictures of Timing Diagrams To Formal Specifications / \n  He, J., Nickovic, D., Bartocci, E., & Grosu, R. (2023). TD-Magic: From Pictures of Timing Diagrams To Formal Specifications. In 2023 60th ACM/IEEE Design Automation Conference (DAC) (pp. 1–6). IEEE. https://doi.org/10.1109/DAC56929.2023.10247685 Project: ADEX (2020–2024)",

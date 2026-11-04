@@ -782,28 +782,6 @@
     }
   },
   {
-    "id": "simulation-based-sizing-of-a-secondary-loop-cooling-system-for-a-refrigerated-vehicle-2023",
-    "title": "Simulation-Based Sizing of a Secondary Loop Cooling System for a Refrigerated Vehicle",
-    "metadataSource": "https://orcid.org/0000-0002-0276-4552",
-    "doi": "10.3390/en16186459",
-    "preview": "media/publications/simulation-based-sizing-of-a-secondary-loop-cooling-system-for-a-refrigerated-vehicle-2023.webp",
-    "previewSource": "https://repositum.tuwien.at/bitstream/20.500.12708/188604/1/Loesch-2023-Energies-vor.pdf",
-    "previewPage": 4,
-    "previewKind": "Figure 1",
-    "arxiv": null,
-    "verification": {
-      "scholar": {
-        "status": "not_verified_access_restricted",
-        "checkedAt": "2026-11-02",
-        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
-      },
-      "arxiv": {
-        "status": "no_matching_arxiv_record_in_checked_sources",
-        "checkedAt": "2026-11-02"
-      }
-    }
-  },
-  {
     "id": "td-magic-from-pictures-of-timing-diagrams-to-formal-specifications",
     "title": "TD-Magic: From Pictures of Timing Diagrams To Formal Specifications",
     "metadataSource": "https://informatics.tuwien.ac.at/people/radu-grosu",
