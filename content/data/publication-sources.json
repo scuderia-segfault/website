@@ -188,28 +188,6 @@
     }
   },
   {
-    "id": "two-degree-of-freedom-compound-split-transmission-control-for-a-helicopter-powertrain-2026",
-    "title": "Two-Degree-of-Freedom Compound Split Transmission Control for a Helicopter Powertrain",
-    "metadataSource": "https://orcid.org/0000-0002-0276-4552",
-    "doi": "10.1109/TAES.2026.3666443",
-    "preview": null,
-    "previewSource": null,
-    "previewPage": null,
-    "previewKind": null,
-    "arxiv": null,
-    "verification": {
-      "scholar": {
-        "status": "not_verified_access_restricted",
-        "checkedAt": "2026-11-02",
-        "note": "Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification."
-      },
-      "arxiv": {
-        "status": "no_matching_arxiv_record_in_checked_sources",
-        "checkedAt": "2026-11-02"
-      }
-    }
-  },
-  {
     "id": "coordination-and-control-of-robotic-multi-agent-systems-in-confined-environments",
     "title": "Coordination and control of robotic multi-agent systems in confined environments",
     "metadataSource": "https://informatics.tuwien.ac.at/people/andreas-brandstaetter",
