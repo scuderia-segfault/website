@@ -1,0 +1,152 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1510" viewBox="0 0 1400 1510" role="img" aria-labelledby="title desc">
+<title id="title">Unit XIII electrical architecture</title>
+<desc id="desc">Build sketch separating traction power, regulated supply, and sensor data. Dashed lines show connections still to verify.</desc>
+<rect width="1400" height="1510" fill="#141917"/>
+<defs>
+<marker id="red" markerWidth="9" markerHeight="9" refX="8" refY="4.5" orient="auto" markerUnits="userSpaceOnUse"><path d="M0 0L9 4.5L0 9Z" fill="#ff8a76"/></marker>
+<marker id="gold" markerWidth="9" markerHeight="9" refX="8" refY="4.5" orient="auto" markerUnits="userSpaceOnUse"><path d="M0 0L9 4.5L0 9Z" fill="#f4c46d"/></marker>
+<marker id="blue" markerWidth="9" markerHeight="9" refX="8" refY="4.5" orient="auto" markerUnits="userSpaceOnUse"><path d="M0 0L9 4.5L0 9Z" fill="#8bd3f1"/></marker>
+<marker id="muted" markerWidth="9" markerHeight="9" refX="8" refY="4.5" orient="auto" markerUnits="userSpaceOnUse"><path d="M0 0L9 4.5L0 9Z" fill="#bdc9c1"/></marker>
+</defs>
+<text x="40" y="55" fill="#ff8a76" font-family="Arial, sans-serif" font-size="16" font-weight="700">SCUDERIA SEGFAULT  /  UNIT XIII  /  BUILD LOG</text>
+<text x="40" y="109" fill="#f5f7f2" font-family="Arial, sans-serif" font-size="49" font-weight="700">Power &amp; signal schematic</text>
+<text x="42" y="143" fill="#bdc9c1" font-family="Arial, sans-serif" font-size="20" font-weight="400">Serpent SRX8GTE R  •  Harness overview  •  Connector notes from the annotated sketch</text>
+<rect x="40" y="169" width="1320" height="617" rx="12" fill="#1d2521" stroke="#38443d"/>
+<text x="64" y="203" fill="#f4c46d" font-family="Arial, sans-serif" font-size="22" font-weight="700">01  /  DRIVE, 12 V DISTRIBUTION &amp; STEERING</text>
+<rect x="64" y="231" width="300" height="73" rx="9" fill="#29332e" stroke="#435148"/>
+<text x="79" y="258" fill="#f5f7f2" font-family="Arial, sans-serif" font-size="21" font-weight="700">LiPo pack</text>
+<text x="79" y="280" fill="#bdc9c1" font-family="Arial, sans-serif" font-size="15" font-weight="400">4S drawing baseline: 14.8 V nominal</text>
+<rect x="64" y="359" width="300" height="73" rx="9" fill="#29332e" stroke="#435148"/>
+<text x="79" y="386" fill="#f5f7f2" font-family="Arial, sans-serif" font-size="21" font-weight="700">Lab DC supply</text>
+<text x="79" y="408" fill="#bdc9c1" font-family="Arial, sans-serif" font-size="15" font-weight="400">Alternative source; disconnect LiPo</text>
+<rect x="479" y="248" width="244" height="88" rx="9" fill="#29332e" stroke="#435148"/>
+<text x="494" y="275" fill="#f5f7f2" font-family="Arial, sans-serif" font-size="21" font-weight="700">Main DC junction</text>
+<text x="494" y="297" fill="#bdc9c1" font-family="Arial, sans-serif" font-size="15" font-weight="400">LiPo OR lab supply</text>
+<text x="494" y="316" fill="#bdc9c1" font-family="Arial, sans-serif" font-size="15" font-weight="400">Splits to VESC and TRACO</text>
+<rect x="833" y="232" width="207" height="91" rx="9" fill="#29332e" stroke="#435148"/>
+<text x="848" y="259" fill="#f5f7f2" font-family="Arial, sans-serif" font-size="21" font-weight="700">VESC 6 MkVI HP</text>
+<text x="848" y="281" fill="#bdc9c1" font-family="Arial, sans-serif" font-size="15" font-weight="400">DC+ / DC− from source</text>
+<text x="848" y="300" fill="#bdc9c1" font-family="Arial, sans-serif" font-size="15" font-weight="400">U / V / W to motor</text>
+<rect x="1174" y="232" width="163" height="91" rx="9" fill="#29332e" stroke="#435148"/>
+<text x="1189" y="259" fill="#f5f7f2" font-family="Arial, sans-serif" font-size="21" font-weight="700">BLDC motor</text>
+<text x="1189" y="281" fill="#bdc9c1" font-family="Arial, sans-serif" font-size="15" font-weight="400">XeRun 4268SD</text>
+<text x="1189" y="300" fill="#bdc9c1" font-family="Arial, sans-serif" font-size="15" font-weight="400">G3 2400 KV</text>
+<path d="M364 262H479" fill="none" stroke="#ff8a76" stroke-width="2.6" stroke-linejoin="round"/>
+<path d="M364 283H479" fill="none" stroke="#b2bdb6" stroke-width="2.6" stroke-linejoin="round"/>
+<path d="M364 389H407V309H479" fill="none" stroke="#ff8a76" stroke-width="2.6" stroke-linejoin="round" stroke-dasharray="7 6"/>
+<path d="M364 411H429V322H479" fill="none" stroke="#b2bdb6" stroke-width="2.6" stroke-linejoin="round" stroke-dasharray="7 6"/>
+<text x="368" y="250" fill="#ff8a76" font-family="Arial, sans-serif" font-size="14" font-weight="400">XT90 · 2 wires</text>
+<path d="M723 269H833" fill="none" stroke="#ff8a76" stroke-width="2.6" stroke-linejoin="round"/>
+<path d="M723 290H833" fill="none" stroke="#b2bdb6" stroke-width="2.6" stroke-linejoin="round"/>
+<text x="729" y="257" fill="#ff8a76" font-family="Arial, sans-serif" font-size="14" font-weight="400">2 wires DC</text>
+<path d="M1040 267H1174" fill="none" stroke="#ff8a76" stroke-width="2.6" stroke-linejoin="round"/>
+<path d="M1040 281H1174" fill="none" stroke="#ff8a76" stroke-width="2.6" stroke-linejoin="round"/>
+<path d="M1040 295H1174" fill="none" stroke="#ff8a76" stroke-width="2.6" stroke-linejoin="round"/>
+<text x="1052" y="251" fill="#ff8a76" font-family="Arial, sans-serif" font-size="14" font-weight="400">3 × 5 mm bullet</text>
+<path d="M1254 232V216H937V232" fill="none" stroke="#8bd3f1" stroke-width="2.6" stroke-linejoin="round" stroke-dasharray="7 6"/>
+<text x="1002" y="210" fill="#8bd3f1" font-family="Arial, sans-serif" font-size="14" font-weight="400">Hall / speed · 6 leads noted</text>
+<path d="M773 269V427H833" fill="none" stroke="#ff8a76" stroke-width="2.6" stroke-linejoin="round"/>
+<path d="M797 290V453H833" fill="none" stroke="#b2bdb6" stroke-width="2.6" stroke-linejoin="round"/>
+<circle cx="773" cy="269" r="4.7" fill="#ff8a76"/>
+<circle cx="797" cy="290" r="4.7" fill="#b2bdb6"/>
+<rect x="833" y="401" width="207" height="80" rx="9" fill="#29332e" stroke="#435148"/>
+<text x="848" y="428" fill="#f5f7f2" font-family="Arial, sans-serif" font-size="21" font-weight="700">TRACO DC/DC</text>
+<text x="848" y="450" fill="#bdc9c1" font-family="Arial, sans-serif" font-size="15" font-weight="400">TEP 200-2412WIR</text>
+<text x="848" y="469" fill="#bdc9c1" font-family="Arial, sans-serif" font-size="15" font-weight="400">9–36 V in / 12 V, 15 A out</text>
+<path d="M1040 426H1174" fill="none" stroke="#f4c46d" stroke-width="2.6" stroke-linejoin="round"/>
+<path d="M1040 452H1174" fill="none" stroke="#b2bdb6" stroke-width="2.6" stroke-linejoin="round"/>
+<rect x="1174" y="401" width="163" height="80" rx="9" fill="#29332e" stroke="#435148"/>
+<text x="1189" y="428" fill="#f5f7f2" font-family="Arial, sans-serif" font-size="21" font-weight="700">12 V loads</text>
+<text x="1189" y="450" fill="#bdc9c1" font-family="Arial, sans-serif" font-size="15" font-weight="400">LiDAR branch</text>
+<text x="1189" y="469" fill="#bdc9c1" font-family="Arial, sans-serif" font-size="15" font-weight="400">Airy / Hokuyo</text>
+<text x="1053" y="414" fill="#f4c46d" font-family="Arial, sans-serif" font-size="14" font-weight="400">XT30 · 2 wires</text>
+<text x="778" y="416" fill="#ff8a76" font-family="Arial, sans-serif" font-size="13" font-weight="400">4 (+)</text>
+<text x="801" y="474" fill="#b2bdb6" font-family="Arial, sans-serif" font-size="13" font-weight="400">1 (−)</text>
+<text x="1048" y="445" fill="#f4c46d" font-family="Arial, sans-serif" font-size="13" font-weight="400">9 (+)</text>
+<text x="1048" y="472" fill="#b2bdb6" font-family="Arial, sans-serif" font-size="13" font-weight="400">5 (−)</text>
+<path d="M1080 426V535H833" fill="none" stroke="#f4c46d" stroke-width="2.6" stroke-linejoin="round"/>
+<path d="M1104 452V558H833" fill="none" stroke="#b2bdb6" stroke-width="2.6" stroke-linejoin="round"/>
+<circle cx="1080" cy="426" r="4.7" fill="#f4c46d"/>
+<circle cx="1104" cy="452" r="4.7" fill="#b2bdb6"/>
+<rect x="627" y="510" width="206" height="82" rx="9" fill="#29332e" stroke="#435148"/>
+<text x="642" y="537" fill="#f5f7f2" font-family="Arial, sans-serif" font-size="21" font-weight="700">Adjustable BEC</text>
+<text x="642" y="559" fill="#bdc9c1" font-family="Arial, sans-serif" font-size="15" font-weight="400">IN: 12 V / GND</text>
+<text x="642" y="578" fill="#bdc9c1" font-family="Arial, sans-serif" font-size="15" font-weight="400">OUT: 7–8 V / GND</text>
+<rect x="1174" y="558" width="163" height="92" rx="9" fill="#29332e" stroke="#435148"/>
+<text x="1189" y="585" fill="#f5f7f2" font-family="Arial, sans-serif" font-size="21" font-weight="700">DHS60 servo</text>
+<text x="1189" y="607" fill="#bdc9c1" font-family="Arial, sans-serif" font-size="15" font-weight="400">V+ / GND / PWM</text>
+<text x="1189" y="626" fill="#bdc9c1" font-family="Arial, sans-serif" font-size="15" font-weight="400">3-wire servo plug</text>
+<path d="M712 592V606H1174" fill="none" stroke="#f4c46d" stroke-width="2.6" stroke-linejoin="round"/>
+<path d="M755 592V627H1174" fill="none" stroke="#b2bdb6" stroke-width="2.6" stroke-linejoin="round"/>
+<text x="882" y="597" fill="#f4c46d" font-family="Arial, sans-serif" font-size="15" font-weight="400">7–8 V servo supply</text>
+<path d="M1020 323V352H1142V581H1174" fill="none" stroke="#8bd3f1" stroke-width="2.6" stroke-linejoin="round"/>
+<text x="1161" y="537" fill="#8bd3f1" font-family="Arial, sans-serif" font-size="15" font-weight="400">VESC PWM</text>
+<path d="M1133 627V663H1037" fill="none" stroke="#b2bdb6" stroke-width="2.6" stroke-linejoin="round"/>
+<circle cx="1133" cy="627" r="4.7" fill="#b2bdb6"/>
+<text x="835" y="668" fill="#b2bdb6" font-family="Arial, sans-serif" font-size="15" font-weight="400">DC− / signal GND</text>
+<text x="723" y="315" fill="#b2bdb6" font-family="Arial, sans-serif" font-size="13" font-weight="400">DC− / signal GND</text>
+<text x="64" y="472" fill="#f5f7f2" font-family="Arial, sans-serif" font-size="19" font-weight="700">Source / connector notes</text>
+<text x="64" y="499" fill="#bdc9c1" font-family="Arial, sans-serif" font-size="15" font-weight="400">Battery-side “5 mm” and VESC-side “6 mm” are noted.</text>
+<text x="64" y="522" fill="#bdc9c1" font-family="Arial, sans-serif" font-size="15" font-weight="400">Verify the exact terminals, cable size and current rating.</text>
+<text x="64" y="546" fill="#bdc9c1" font-family="Arial, sans-serif" font-size="15" font-weight="400">4S is 16.8 V full. Pack annotations conflict; verify the pack.</text>
+<text x="64" y="570" fill="#bdc9c1" font-family="Arial, sans-serif" font-size="15" font-weight="400">The scan crosses out the 80 A fuse; protection sizing is open.</text>
+<text x="64" y="693" fill="#bdc9c1" font-family="Arial, sans-serif" font-size="16" font-weight="400">TRACO local sense: link 8 (+Sense) to 9 (+VOUT) and 6 (−Sense) to 5 (−VOUT). Input and output are isolated at the module.</text>
+<text x="64" y="718" fill="#bdc9c1" font-family="Arial, sans-serif" font-size="16" font-weight="400">TRACO rating: 12 V × 15 A = 180 W, subject to thermal derating. At 14.8 V in and 89% efficiency, 180 W out implies ~13.7 A in.</text>
+<text x="64" y="743" fill="#bdc9c1" font-family="Arial, sans-serif" font-size="16" font-weight="400">At 12 V in and 90% efficiency, a 7.4 V / 4 A servo load would draw about 2.7 A at the regulator input (example).</text>
+<text x="64" y="768" fill="#bdc9c1" font-family="Arial, sans-serif" font-size="16" font-weight="400">Use a regen-capable supply or a validated braking-energy solution for powered motor tests.</text>
+<rect x="40" y="809" width="1320" height="466" rx="12" fill="#1d2521" stroke="#38443d"/>
+<text x="64" y="843" fill="#8bd3f1" font-family="Arial, sans-serif" font-size="22" font-weight="700">02  /  COMPUTE, USB POWER &amp; SENSOR SIGNALS</text>
+<rect x="64" y="881" width="289" height="94" rx="9" fill="#29332e" stroke="#435148"/>
+<text x="79" y="908" fill="#f5f7f2" font-family="Arial, sans-serif" font-size="21" font-weight="700">NUC / Jetson</text>
+<text x="79" y="930" fill="#bdc9c1" font-family="Arial, sans-serif" font-size="15" font-weight="400">Separate model-specific DC input</text>
+<text x="79" y="949" fill="#bdc9c1" font-family="Arial, sans-serif" font-size="15" font-weight="400">NUC example: 19 V; barrel TBD</text>
+<rect x="508" y="881" width="233" height="94" rx="9" fill="#29332e" stroke="#435148"/>
+<text x="523" y="908" fill="#f5f7f2" font-family="Arial, sans-serif" font-size="21" font-weight="700">USB hub / extender</text>
+<text x="523" y="930" fill="#bdc9c1" font-family="Arial, sans-serif" font-size="15" font-weight="400">5 V VBUS and GND</text>
+<text x="523" y="949" fill="#bdc9c1" font-family="Arial, sans-serif" font-size="15" font-weight="400">Verify per-port current budget</text>
+<rect x="1080" y="868" width="256" height="96" rx="9" fill="#29332e" stroke="#435148"/>
+<text x="1095" y="895" fill="#f5f7f2" font-family="Arial, sans-serif" font-size="21" font-weight="700">MicroStrain IMU</text>
+<text x="1095" y="917" fill="#bdc9c1" font-family="Arial, sans-serif" font-size="15" font-weight="400">3DM-GX5-25</text>
+<text x="1095" y="936" fill="#bdc9c1" font-family="Arial, sans-serif" font-size="15" font-weight="400">USB-A via matching cable</text>
+<rect x="1080" y="1061" width="256" height="96" rx="9" fill="#29332e" stroke="#435148"/>
+<text x="1095" y="1088" fill="#f5f7f2" font-family="Arial, sans-serif" font-size="21" font-weight="700">Holybro H-Flow</text>
+<text x="1095" y="1110" fill="#bdc9c1" font-family="Arial, sans-serif" font-size="15" font-weight="400">4-pin JST GH</text>
+<text x="1095" y="1129" fill="#bdc9c1" font-family="Arial, sans-serif" font-size="15" font-weight="400">5 V / GND / CAN-H / CAN-L</text>
+<rect x="508" y="1045" width="233" height="82" rx="9" fill="#29332e" stroke="#435148"/>
+<text x="523" y="1072" fill="#f5f7f2" font-family="Arial, sans-serif" font-size="21" font-weight="700">USB–CAN adapter</text>
+<text x="523" y="1094" fill="#bdc9c1" font-family="Arial, sans-serif" font-size="15" font-weight="400">Host USB ↔ DroneCAN</text>
+<text x="523" y="1113" fill="#bdc9c1" font-family="Arial, sans-serif" font-size="15" font-weight="400">Verify CAN termination</text>
+<path d="M353 914H508" fill="none" stroke="#f4c46d" stroke-width="2.6" stroke-linejoin="round"/>
+<path d="M353 932H508" fill="none" stroke="#b2bdb6" stroke-width="2.6" stroke-linejoin="round"/>
+<path d="M353 950H508" fill="none" stroke="#8bd3f1" stroke-width="2.6" stroke-linejoin="round"/>
+<text x="366" y="901" fill="#8bd3f1" font-family="Arial, sans-serif" font-size="15" font-weight="400">USB host link</text>
+<path d="M741 901H1080" fill="none" stroke="#f4c46d" stroke-width="2.6" stroke-linejoin="round"/>
+<path d="M741 920H1080" fill="none" stroke="#b2bdb6" stroke-width="2.6" stroke-linejoin="round"/>
+<path d="M741 939H1080" fill="none" stroke="#8bd3f1" stroke-width="2.6" stroke-linejoin="round"/>
+<text x="791" y="888" fill="#8bd3f1" font-family="Arial, sans-serif" font-size="15" font-weight="400">USB-A · 5 V, GND, USB data pair</text>
+<path d="M764 901V1087H1080" fill="none" stroke="#f4c46d" stroke-width="2.6" stroke-linejoin="round"/>
+<path d="M784 920V1106H1080" fill="none" stroke="#b2bdb6" stroke-width="2.6" stroke-linejoin="round"/>
+<circle cx="764" cy="901" r="4.7" fill="#f4c46d"/>
+<circle cx="784" cy="920" r="4.7" fill="#b2bdb6"/>
+<text x="805" y="1075" fill="#f4c46d" font-family="Arial, sans-serif" font-size="15" font-weight="400">5 V VBUS + GND from USB</text>
+<path d="M625 975V1045" fill="none" stroke="#8bd3f1" stroke-width="2.6" stroke-linejoin="round"/>
+<text x="637" y="1013" fill="#8bd3f1" font-family="Arial, sans-serif" font-size="15" font-weight="400">USB host link</text>
+<path d="M741 1123H1080" fill="none" stroke="#8bd3f1" stroke-width="2.6" stroke-linejoin="round"/>
+<path d="M741 1141H1080" fill="none" stroke="#8bd3f1" stroke-width="2.6" stroke-linejoin="round"/>
+<path d="M741 1106H784" fill="none" stroke="#b2bdb6" stroke-width="2.6" stroke-linejoin="round"/>
+<circle cx="784" cy="1106" r="4.7" fill="#b2bdb6"/>
+<text x="807" y="1165" fill="#8bd3f1" font-family="Arial, sans-serif" font-size="15" font-weight="400">CAN-H / CAN-L</text>
+<text x="64" y="1020" fill="#bdc9c1" font-family="Arial, sans-serif" font-size="16" font-weight="400">Compute power is separate from USB VBUS.</text>
+<text x="64" y="1044" fill="#bdc9c1" font-family="Arial, sans-serif" font-size="16" font-weight="400">Confirm the DC supply and barrel connector.</text>
+<text x="64" y="1189" fill="#bdc9c1" font-family="Arial, sans-serif" font-size="16" font-weight="400">H-Flow uses USB-derived 5 V for power. Its data travels over DroneCAN through an adapter.</text>
+<text x="64" y="1215" fill="#bdc9c1" font-family="Arial, sans-serif" font-size="16" font-weight="400">12 V and Ethernet are separate at the LiDAR. Sketch notes USB-C for front camera and USB-A for rear camera;</text>
+<text x="64" y="1240" fill="#bdc9c1" font-family="Arial, sans-serif" font-size="16" font-weight="400">if using ZED X Mini, use a compatible GMSL2 capture and power path.</text>
+<rect x="40" y="1296" width="1320" height="144" rx="12" fill="#1d2521" stroke="#38443d"/>
+<text x="64" y="1330" fill="#8bd3f1" font-family="Arial, sans-serif" font-size="22" font-weight="700">03  /  ADDITIONAL SIGNAL PATHS TO VERIFY</text>
+<text x="66" y="1361" fill="#bdc9c1" font-family="Arial, sans-serif" font-size="16" font-weight="400">Laptop / access point ↔ Compute Wi-Fi</text>
+<text x="66" y="1390" fill="#bdc9c1" font-family="Arial, sans-serif" font-size="16" font-weight="400">RC transmitter → receiver → VESC / control arbiter</text>
+<text x="690" y="1361" fill="#bdc9c1" font-family="Arial, sans-serif" font-size="16" font-weight="400">Wheel encoder pulses → ESP32 or compatible input</text>
+<text x="690" y="1390" fill="#bdc9c1" font-family="Arial, sans-serif" font-size="16" font-weight="400">Optional ESP32 ↔ Compute / VESC via UART or CAN transceiver</text>
+<text x="42" y="1470" fill="#bdc9c1" font-family="Arial, sans-serif" font-size="16" font-weight="700">RAW DC  •  red     REGULATED DC  •  gold     RETURN  •  grey     SIGNAL  •  blue     DASHED  •  verify</text>
+<text x="42" y="1496" fill="#bdc9c1" font-family="Arial, sans-serif" font-size="16" font-weight="400">Harness overview. Verify pin order, polarity, common ground and load limits against the installed hardware.</text>
+</svg>
