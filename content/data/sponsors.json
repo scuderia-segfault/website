@@ -4,27 +4,110 @@
     "name": "Liquid AI",
     "image": "media/sponsors/liquid-ai.webp",
     "url": "https://www.liquid.ai/",
-    "source": "https://www.tuwien.at/inf/scuderia-segfault/racing/supporting-partners/"
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/racing/supporting-partners/",
+    "group": "Team Partners"
   },
   {
     "id": "tttech-auto",
     "name": "TTTech Auto",
     "image": "media/sponsors/tttech-auto.webp",
     "url": "https://www.tttech-auto.com/",
-    "source": "https://www.tuwien.at/inf/scuderia-segfault/racing/supporting-partners/"
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/racing/supporting-partners/",
+    "group": "Team Partners"
   },
   {
     "id": "magna",
     "name": "Magna",
     "image": "media/sponsors/magna.webp",
     "url": "https://www.magna.com/",
-    "source": "https://www.tuwien.at/inf/scuderia-segfault/racing/supporting-partners/"
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/racing/supporting-partners/",
+    "group": "Team Partners"
   },
   {
     "id": "htu",
     "name": "HTU Wien",
     "image": "media/sponsors/htu.webp",
     "url": "https://htu.at/",
-    "source": "https://www.tuwien.at/inf/scuderia-segfault/racing/supporting-partners/"
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/racing/supporting-partners/",
+    "group": "Team Partners"
+  },
+  {
+    "id": "tuwien-informatics",
+    "name": "TU Wien Informatics",
+    "image": "media/logo2026-informatics-500x333.webp",
+    "url": "https://informatics.tuwien.ac.at/",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/news-detail/15th-grand-prix/",
+    "group": "Team Partners"
+  },
+  {
+    "id": "nimble-ai",
+    "name": "NimbleAI (EU project)",
+    "image": "media/logo-nimble-ai-2024-500x333.webp",
+    "url": "https://www.nimbleai.eu/",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/news-detail/victory-at-roboracer-autonomous-grand-prix-in-milano/",
+    "group": "Research Funding"
+  },
+  {
+    "id": "knapp",
+    "name": "KNAPP",
+    "image": "media/logo2026-knapp-500x333.webp",
+    "url": "https://www.knapp.com/",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/news-detail/27th-roboracer-autonomous-racing-competition/",
+    "group": "RoboRacer Vienna 2026 Event Partners"
+  },
+  {
+    "id": "tuwien",
+    "name": "TU Wien",
+    "image": "media/logo2026-tuwien-500x333.webp",
+    "url": "https://www.tuwien.at/",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/news-detail/27th-roboracer-autonomous-racing-competition/",
+    "group": "RoboRacer Vienna 2026 Event Partners"
+  },
+  {
+    "id": "tuwien-informatics-event",
+    "name": "TU Wien Informatics",
+    "image": "media/logo2026-informatics-500x333.webp",
+    "url": "https://informatics.tuwien.ac.at/",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/news-detail/27th-roboracer-autonomous-racing-competition/",
+    "group": "RoboRacer Vienna 2026 Event Partners"
+  },
+  {
+    "id": "htu-event",
+    "name": "HTU Wien",
+    "image": "media/logo2026-htu-500x333.webp",
+    "url": "https://htu.at/",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/news-detail/27th-roboracer-autonomous-racing-competition/",
+    "group": "RoboRacer Vienna 2026 Event Partners"
+  },
+  {
+    "id": "qualisys",
+    "name": "Qualisys",
+    "image": "media/logo2026-qualisys-500x333.webp",
+    "url": "https://www.qualisys.com/",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/news-detail/27th-roboracer-autonomous-racing-competition/",
+    "group": "RoboRacer Vienna 2026 Event Partners"
+  },
+  {
+    "id": "magna-event",
+    "name": "Magna International",
+    "image": "media/logo2026-magna-500x333.webp",
+    "url": "https://www.magna.com/",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/news-detail/27th-roboracer-autonomous-racing-competition/",
+    "group": "RoboRacer Vienna 2026 Event Partners"
+  },
+  {
+    "id": "ffg",
+    "name": "FFG",
+    "image": "media/logo2026-ffg-500x333.webp",
+    "url": "https://www.ffg.at/",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/news-detail/27th-roboracer-autonomous-racing-competition/",
+    "group": "RoboRacer Vienna 2026 Event Partners"
+  },
+  {
+    "id": "bmimi",
+    "name": "Bundesministerium für Innovation, Mobilität und Infrastruktur",
+    "url": "https://www.bmimi.gv.at/en.html",
+    "source": "https://www.tuwien.at/inf/scuderia-segfault/news-detail/27th-roboracer-autonomous-racing-competition/",
+    "group": "RoboRacer Vienna 2026 Event Partners"
   }
 ]

@@ -12,11 +12,6 @@
   ],
   "repositories": [
     {
-      "label": "CPS-TUWien/f1tenth_system",
-      "url": "https://github.com/CPS-TUWien/f1tenth_system",
-      "description": "Related F1TENTH vehicle software from CPS-TUWien."
-    },
-    {
       "label": "ScuderiaSegfault/t2v_mod",
       "url": "https://github.com/ScuderiaSegfault/t2v_mod",
       "description": "Related Track-to-Vehicle communication module."

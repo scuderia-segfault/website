@@ -9,17 +9,12 @@
     "Unit XIII",
     "Hardware"
   ],
-  "cover": "uploads/uni13_logo.jpg",
+  "cover": "uploads/uni13_wordmark.jpg",
   "repositories": [
     {
       "label": "larisaclement/roboracer-arena-v1",
       "url": "https://github.com/larisaclement/roboracer-arena-v1",
       "description": "Track generation and Isaac Sim environments for RoboRacer Arena."
-    },
-    {
-      "label": "CPS-TUWien/f1tenth_system",
-      "url": "https://github.com/CPS-TUWien/f1tenth_system",
-      "description": "Related F1TENTH vehicle software from CPS-TUWien."
     }
   ]
 }

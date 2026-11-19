@@ -27,3 +27,5 @@ dialog?.addEventListener('click',event=>{if(event.target===dialog){const r=dialo
 
 import './racing-motion.js';
 import './partnership.js';
+
+for(const group of document.querySelectorAll('.nav-group')){const t=group.querySelector('.nav-group-toggle');t?.addEventListener('click',e=>{e.stopPropagation();const open=t.getAttribute('aria-expanded')!=='true';t.setAttribute('aria-expanded',String(open));group.classList.toggle('open',open)});document.addEventListener('click',e=>{if(!group.contains(e.target)){t?.setAttribute('aria-expanded','false');group.classList.remove('open')}});document.addEventListener('keydown',e=>{if(e.key==='Escape'){t?.setAttribute('aria-expanded','false');group.classList.remove('open')}})}

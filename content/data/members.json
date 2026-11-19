@@ -70,7 +70,7 @@
     "id": "agnes-poks",
     "name": "Agnes Poks",
     "status": "Active Team",
-    "bio": "Postdoctoral researcher in Technical Dynamics and Vehicle System Dynamics at TU Wien · hybrid AI, predictive control and vehicle dynamics.",
+    "bio": "Postdoctoral researcher in Technical Dynamics and Vehicle System Dynamics at TU Wien",
     "topics": [
       "Friction observer",
       "Model Predictive Control (MPC)",
@@ -140,9 +140,12 @@
   },
   {
     "id": "mihaela-larisa-clement",
-    "name": "Mihaela-Larisa Clement",
+    "name": "Larisa Clement",
+    "aliases": [
+      "Mihaela-Larisa Clement"
+    ],
     "status": "Active Team",
-    "bio": "PreDoc researcher in Cyber-Physical Systems at TU Wien · multimodal perception, machine learning and autonomous driving.",
+    "bio": "PhD student in Cyber-Physical Systems at TU Wien and AIT Austrian Institute of Technology",
     "topics": [
       "Cognitive robotics",
       "Machine learning",
@@ -154,16 +157,19 @@
     "linkedin": null,
     "contributions": [
       "Master’s thesis on multimodal RGB-D autonomous agents (2025).",
-      "Co-author of work on RGB-D controllers, domain-shift generalization and RNN-based MPC."
+      "Co-author of work on RGB-D controllers, domain-shift generalization, RNN-based MPC, RoboRacer Arena track construction and neural safety certificates."
     ],
     "contributionSources": [
       "https://informatics.tuwien.ac.at/people/mihaela-larisa-clement"
     ],
-    "membershipSource": "Confirmed by Agnes Poks, 2026-11-02"
+    "membershipSource": "Confirmed by Agnes Poks, 2026-11-02; PhD with TU Wien and AIT confirmed by Larisa Clement, 2026-11-19"
   },
   {
     "id": "mihai-teodor-stanusoiu",
-    "name": "Mihai-Teodor Stanusoiu",
+    "name": "Mihai Stanusoiu",
+    "aliases": [
+      "Mihai-Teodor Stanusoiu"
+    ],
     "status": "Associated Members",
     "bio": "Master student Computer Engineering",
     "topics": [
@@ -250,6 +256,22 @@
     "membershipSource": "Confirmed by Agnes Poks, 2026-11-02"
   },
   {
+    "id": "matthias-woeckinger",
+    "name": "Matthias Wöckinger",
+    "status": "Active Team",
+    "bio": "",
+    "topics": [],
+    "image": "media/member-placeholder.svg",
+    "credit": "Placeholder image",
+    "source": null,
+    "linkedin": null,
+    "scholar": false,
+    "thesis": "neuro-symbolic-behaviour-learning-for-safe-overtaking-in-1-10-autonomous-racing",
+    "contributions": [],
+    "contributionSources": [],
+    "membershipSource": "Added at the request of Larisa Clement, 2026-11-19"
+  },
+  {
     "id": "nino-wegleitner",
     "name": "Nino Wegleitner",
     "status": "Associated Members",
@@ -277,6 +299,7 @@
     "credit": "© Dennis Erdogan",
     "source": "https://www.tuwien.at/inf/scuderia-segfault/racing/team-alumni/",
     "linkedin": "https://uk.linkedin.com/in/denniserdogan",
+    "scholar": "https://scholar.google.com/citations?user=TKWOFL8AAAAJ&hl=en",
     "contributions": [
       "Member of the Scuderia Segfault team at ICRA 2022 in Philadelphia, which achieved third place."
     ],
@@ -295,6 +318,7 @@
     "credit": "© Mathias Lechner",
     "source": "https://www.tuwien.at/inf/scuderia-segfault/racing/team-alumni/",
     "linkedin": "https://www.linkedin.com/in/mlech26l",
+    "scholar": "https://scholar.google.com/citations?user=fIupeSAAAAAJ&hl=en",
     "contributions": [
       "Co-author of Latent Imagination Facilitates Zero-Shot Transfer in Autonomous Racing (ICRA 2022).",
       "Co-led the team that won the IFAC 2020 virtual autonomous racing Grand Prix."

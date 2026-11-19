@@ -1,0 +1,61 @@
+{
+  "generations": [
+    {
+      "id": "gen-3",
+      "name": "Generation 3",
+      "status": "In development",
+      "teaser": true,
+      "image": "media/car-gen3-teaser.webp",
+      "imageAlt": "Close-up of the new low chassis during assembly",
+      "summary": "A new low chassis, built from the ground up in our own lab. More soon.",
+      "specs": [
+        ["Chassis", "Low chassis"],
+        ["Status", "In development"]
+      ],
+      "link": {"href": "blog/topics/unit-xiii.html", "label": "Follow the build log"},
+      "source": "Confirmed by Larisa Clement, 2026-11-19"
+    },
+    {
+      "id": "gen-2",
+      "name": "Generation 2",
+      "status": "Racing since 2024",
+      "image": "media/car-gen2.webp",
+      "imageAlt": "Generation 2 race car with Intel NUC on the Traxxas chassis, on track at a RoboRacer Grand Prix",
+      "summary": "Same proven Traxxas chassis, with the onboard computer moved from a Jetson to an Intel NUC for more processing power.",
+      "specs": [
+        ["Chassis", "Traxxas"],
+        ["Compute", "Intel NUC"],
+        ["Scale", "1:8"],
+        ["In service", "2024 – today"]
+      ],
+      "races": ["2024-yokohama", "2024-abu-dhabi", "2024-milano", "2025-atlanta"],
+      "source": "Confirmed by Larisa Clement, 2026-11-19"
+    },
+    {
+      "id": "gen-1",
+      "name": "Generation 1",
+      "status": "Raced 2021 – 2023",
+      "image": "media/car-gen1.webp",
+      "imageAlt": "Generation 1 race car with NVIDIA Jetson on the Traxxas chassis",
+      "summary": "Our first physical race car: a Traxxas chassis with an NVIDIA Jetson, raced up to and including London 2023.",
+      "specs": [
+        ["Chassis", "Traxxas"],
+        ["Compute", "NVIDIA Jetson"],
+        ["Scale", "1:8"],
+        ["In service", "2021 – 2023"]
+      ],
+      "races": ["2021-prague", "2022-philadelphia", "2023-london"],
+      "source": "Confirmed by Larisa Clement, 2026-11-19"
+    }
+  ],
+  "timeline": [
+    {"date": "2020", "title": "Virtual Grand Prix win", "text": "First place at the IFAC Virtual Autonomous Grand Prix, raced entirely in simulation.", "result": "2020-virtual"},
+    {"date": "2021", "title": "Generation 1 debut", "text": "Our first physical car, with a Traxxas chassis and NVIDIA Jetson, wins the 9th Grand Prix in Prague.", "result": "2021-prague"},
+    {"date": "2022", "title": "Podium in Philadelphia", "text": "Third place out of 38 teams at ICRA 2022.", "result": "2022-philadelphia"},
+    {"date": "2023", "title": "Last race for Generation 1", "text": "Second place out of 41 teams at ICRA 2023 in London.", "result": "2023-london"},
+    {"date": "2024", "title": "Generation 2 with Intel NUC", "text": "Same chassis, new onboard computer. Fourth in Yokohama, second in Abu Dhabi and first place in Milano.", "result": "2024-milano"},
+    {"date": "May 2025", "title": "Our own lab", "text": "Scuderia Segfault moves into the Autonomous Robots Lab of the Research Unit of Cyber-Physical Systems at TU Wien (Room PCEG13).", "image": "media/lab-sign-2025.webp", "imageAlt": "Sign of the Scuderia Segfault Autonomous Robots Lab, Room PCEG13, TU Wien"},
+    {"date": "2026", "title": "Hosting RoboRacer Vienna", "text": "We host the 27th RoboRacer Autonomous Racing Competition at TU Wien.", "result": "2026-vienna"},
+    {"date": "Next", "title": "Generation 3", "text": "A new low chassis is in development in our lab."}
+  ]
+}

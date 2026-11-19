@@ -47,7 +47,7 @@
         "url": "https://ti.tuwien.ac.at/cps/people/radu-grosu/"
       },
       {
-        "name": "Mihaela-Larisa Clement",
+        "name": "Larisa Clement",
         "url": "../members.html#mihaela-larisa-clement"
       }
     ],
@@ -119,7 +119,7 @@
     "period": "Vehicle development",
     "category": "Vehicle engineering",
     "status": "Team project",
-    "image": "uploads/uni13_logo.jpg",
+    "image": "uploads/uni13_wordmark.jpg",
     "imageCaption": "Unit XIII autonomous racing project logo",
     "imageCredit": "Scuderia Segfault / TrustCPS",
     "summary": "Building an autonomous race car on the 1:8 Serpent SRX8GTE R platform, alongside simulation work in RoboRacer Arena.",
@@ -129,7 +129,7 @@
       "RoboRacer Arena is the simulation theme within Unit XIII. It turns validated track maps into Isaac Sim environments and connects experiments in simulation with tests on the physical racing platform."
     ],
     "people": [
-      "Mihaela-Larisa Clement",
+      "Larisa Clement",
       "Samuel Lechner",
       "Piet Kaul",
       "Philipp Gratzer",
@@ -152,11 +152,6 @@
         "label": "larisaclement/roboracer-arena-v1",
         "url": "https://github.com/larisaclement/roboracer-arena-v1",
         "description": "Track generation and Isaac Sim environments for RoboRacer Arena."
-      },
-      {
-        "label": "CPS-TUWien/f1tenth_system",
-        "url": "https://github.com/CPS-TUWien/f1tenth_system",
-        "description": "Related F1TENTH vehicle software from CPS-TUWien."
       },
       {
         "label": "scuderia-segfault/scuderia_gymnasium",
@@ -195,10 +190,10 @@
     "body": [
       "RoboRacer Arena treats track geometry as an experimental variable. The pipeline turns requirements into closed-loop layouts, validates occupancy maps and generates simulation assets.",
       "The research connects a reference collection of 130 tracks with Isaac Sim environments and a reconstructed vehicle asset. It supports policy training and evaluation across different track geometries.",
-      "The 2026 preprint by Mihaela-Larisa Clement, Agnes Poks and Ezio Bartocci reports both simulation and physical-vehicle experiments. It was submitted to ICRA 2027; this page does not present it as an accepted conference paper."
+      "The 2026 preprint by Larisa Clement, Agnes Poks and Ezio Bartocci reports both simulation and physical-vehicle experiments. It was submitted to ICRA 2027; this page does not present it as an accepted conference paper."
     ],
     "people": [
-      "Mihaela-Larisa Clement",
+      "Larisa Clement",
       "Agnes Poks",
       "Ezio Bartocci"
     ],
@@ -331,14 +326,14 @@
     "summary": "Combining color and depth for robust autonomous driving, with deployment on resource-constrained platforms.",
     "body": [
       "Depth Matters studies multimodal RGB-D perception for autonomous agents. The work combines visual appearance and depth information and investigates robustness in learned controllers.",
-      "A companion workshop paper addresses deployment of RGB-D multimodal controllers on resource-constrained platforms. Mihaela-Larisa Clement’s 2025 master’s thesis documents the development of multimodal RGB-D driving agents.",
+      "A companion workshop paper addresses deployment of RGB-D multimodal controllers on resource-constrained platforms. Larisa Clement’s 2025 master’s thesis documents the development of multimodal RGB-D driving agents.",
       "Subsequent research investigates how liquid neural networks generalize when the driving environment changes. Papers, thesis and workshop records are linked below."
     ],
     "people": [
-      "Mihaela-Larisa Clement",
+      "Larisa Clement",
       "Monika Farsang",
       "Felix Resch",
-      "Mihai-Teodor Stanusoiu",
+      "Mihai Stanusoiu",
       "Radu Grosu",
       "Ezio Bartocci"
     ],
@@ -380,7 +375,7 @@
       "The Scuderia MPC and vehicle-dynamics activities connect learning-based models with physical vehicles and track experiments."
     ],
     "people": [
-      "Mihaela-Larisa Clement",
+      "Larisa Clement",
       "Monika Farsang",
       "Agnes Poks",
       "Johannes Edelmann",

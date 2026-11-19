@@ -6,7 +6,7 @@
   "title": "Unit XIII: Power and Signal Schematic",
   "summary": "How the Serpent's VESC, 12 V converter, steering servo and USB-powered sensors are connected.",
   "tags": ["Unit XIII", "Hardware", "Wiring"],
-  "cover": "uploads/uni13_logo.jpg"
+  "cover": "uploads/uni13_wordmark.jpg"
 }
 ---
 

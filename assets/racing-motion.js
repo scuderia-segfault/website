@@ -24,8 +24,12 @@ for(const canvas of document.querySelectorAll('[data-racing-canvas]')){
    const world=(x,z,y=0)=>project(c[0]+x*Math.cos(rot)-z*Math.sin(rot),c[1]+x*Math.sin(rot)+z*Math.cos(rot),y);
    const face=(vertices,fill,stroke='#141a18')=>{ctx.beginPath();vertices.forEach((v,i)=>{const q=world(...v);i?ctx.lineTo(...q):ctx.moveTo(...q)});ctx.closePath();ctx.fillStyle=fill;ctx.fill();ctx.strokeStyle=stroke;ctx.lineWidth=.6;ctx.stroke();};
    const box=(x,z,y,l,w,h,top,side)=>{const x0=x-l/2,x1=x+l/2,z0=z-w/2,z1=z+w/2;face([[x0,z0,y],[x1,z0,y],[x1,z0,y+h],[x0,z0,y+h]],side);face([[x1,z0,y],[x1,z1,y],[x1,z1,y+h],[x1,z0,y+h]],side);face([[x0,z1,y],[x1,z1,y],[x1,z1,y+h],[x0,z1,y+h]],side);face([[x0,z0,y+h],[x1,z0,y+h],[x1,z1,y+h],[x0,z1,y+h]],top);};
-   const wheel=(x,z)=>{box(x,z,.035,.19,.11,.17,'#242a28','#080d0b');const side=z<0?z-.058:z+.058;
-    const circle=(r,color)=>{face(Array.from({length:18},(_,i)=>[x+Math.cos(i/18*Math.PI*2)*r,side,.12+Math.sin(i/18*Math.PI*2)*r]),color,'#151b18')};circle(.087,'#0d120f');circle(.043,'#c9d0c9');circle(.017,'#414d43');};
+   // Round wheels: tread drawn as a ring of quads between the inner and outer rims, then the outer face and hub.
+   const wheel=(x,z)=>{const r=.087,cy=.12,hw=.055,n=24,out=z<0?-1:1,zi=z-out*hw,zo=z+out*hw;
+    const rim=(zz,k)=>[x+Math.cos(k/n*Math.PI*2)*r,zz,cy+Math.sin(k/n*Math.PI*2)*r];
+    for(let k=0;k<n;k++)face([rim(zi,k),rim(zi,k+1),rim(zo,k+1),rim(zo,k)],k%2?'#1b211e':'#222927','#0b100e');
+    const disc=(rr,color,zz)=>{face(Array.from({length:n},(_,k)=>[x+Math.cos(k/n*Math.PI*2)*rr,zz,cy+Math.sin(k/n*Math.PI*2)*rr]),color,'#151b18')};
+    disc(r,'#0d120f',zo+out*.003);disc(.046,'#c9d0c9',zo+out*.004);disc(.018,'#414d43',zo+out*.005);};
    wheel(-.23,-.235);wheel(.23,-.235);wheel(-.23,.235);wheel(.23,.235);
    box(0,0,.10,.68,.33,.055,'#323d36','#111813');
    box(-.13,0,.16,.25,.25,.09,'#171f1b','#080e0b');
@@ -39,7 +43,7 @@ for(const canvas of document.querySelectorAll('[data-racing-canvas]')){
    box(-.18,0,.24,.035,.23,.34,'#f0f2e9','#d4dbd1');
    box(-.18,0,.37,.042,.235,.035,car===0?'#e83e2f':'#6f8270',car===0?'#bb3026':'#566b58');
    box(-.18,0,.50,.042,.235,.028,'#e83e2f','#b82f27');
-   const label=world(-.20,0,.47);ctx.save();ctx.translate(...label);ctx.fillStyle='#252d28';ctx.font=`700 ${Math.max(5,scale*.065)}px Arial`;ctx.textAlign='center';ctx.fillText('SS',0,0);ctx.restore();
+   const label=world(-.20,0,.47);ctx.save();ctx.translate(...label);ctx.fillStyle='#252d28';ctx.font=`700 ${Math.max(4,scale*.036)}px Arial`;ctx.textAlign='center';ctx.fillText('SEGFAULT',0,0);ctx.restore();
 
   }
  }

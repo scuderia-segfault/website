@@ -1016,7 +1016,7 @@
     "type": "Master Thesis",
     "title": "Neuro-Symbolic Behaviour Learning for Safe Overtaking in 1:10 Autonomous Racing",
     "summary": "Learning interpretable tactical rules for opponent-aware control",
-    "status": "Open",
+    "status": "In progress",
     "project": "learning-based-mpc",
     "topics": [
       "Autonomous racing",

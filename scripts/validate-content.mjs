@@ -17,4 +17,4 @@ const site=JSON.parse(await readFile(resolve(root,'content/data/site.json'),'utf
 for(const key of ['linkedin','github','university'])assert(new URL(site[key]).protocol==='https:',`Invalid ${key} URL`);
 console.log(`Validated ${count} content records and official network links.`);
 
-for(const w of JSON.parse(await readFile(resolve(root,'content/data/work-items.json'),'utf8')))assert(w.title&&w.type&&['Open','Topic proposal','Closed'].includes(w.status)&&Array.isArray(w.tasks)&&Array.isArray(w.background)&&w.source,`Incomplete work topic: ${w.id}`);
+for(const w of JSON.parse(await readFile(resolve(root,'content/data/work-items.json'),'utf8')))assert(w.title&&w.type&&['Open','In progress','Topic proposal','Closed'].includes(w.status)&&Array.isArray(w.tasks)&&Array.isArray(w.background)&&w.source,`Incomplete work topic: ${w.id}`);
