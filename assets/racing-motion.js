@@ -39,11 +39,7 @@ for(const canvas of document.querySelectorAll('[data-racing-canvas]')){
    box(.24,0,.25,.10,.12,.035,'#58727a','#132c32');
    box(.03,0,.215,.10,.17,.025,'#c2cac1','#869180');
    const led=world(-.02,-.05,.25);ctx.fillStyle='#7cf38a';ctx.beginPath();ctx.arc(...led,1.7,0,Math.PI*2);ctx.fill();
-   // The tall white Scuderia fin is a distinctive part of the physical team car.
-   box(-.18,0,.24,.035,.23,.34,'#f0f2e9','#d4dbd1');
-   box(-.18,0,.37,.042,.235,.035,car===0?'#e83e2f':'#6f8270',car===0?'#bb3026':'#566b58');
-   box(-.18,0,.50,.042,.235,.028,'#e83e2f','#b82f27');
-   const label=world(-.20,0,.47);ctx.save();ctx.translate(...label);ctx.fillStyle='#252d28';ctx.font=`700 ${Math.max(4,scale*.036)}px Arial`;ctx.textAlign='center';ctx.fillText('SEGFAULT',0,0);ctx.restore();
+
 
   }
  }
