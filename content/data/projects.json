@@ -61,11 +61,6 @@
         "label": "ScuderiaSegfault/t2v_mod",
         "url": "https://github.com/ScuderiaSegfault/t2v_mod",
         "description": "Related Track-to-Vehicle communication module."
-      },
-      {
-        "label": "agpoks/mpcc-online-tuning",
-        "url": "https://github.com/agpoks/mpcc-online-tuning",
-        "description": "Related research prototype for online MPCC weight tuning."
       }
     ]
   },
@@ -156,11 +151,6 @@
         "label": "scuderia-segfault/scuderia_gymnasium",
         "url": "https://github.com/scuderia-segfault/scuderia_gymnasium",
         "description": "Scuderia racing simulation repository."
-      },
-      {
-        "label": "agpoks/mpcc-online-tuning",
-        "url": "https://github.com/agpoks/mpcc-online-tuning",
-        "description": "Related research prototype for online MPCC weight tuning."
       }
     ],
     "photos": [
@@ -366,11 +356,10 @@
     "category": "Control",
     "status": "Research collection",
     "image": "media/publications/towards-safe-learning-based-non-linear-model-predictive-control-through-recurrent-neural-network-modeling.webp",
-    "summary": "Neural approximations of nonlinear MPC trained without expert data, and online-tuned contouring control for our race cars.",
+    "summary": "Neural approximations of nonlinear MPC that are trained without expert data and checked by a safety filter.",
     "body": [
       "Nonlinear model predictive control (NMPC) solves an optimization problem at every step, which is costly in real time. Neural approximations are cheaper but usually need many expert NMPC solutions.",
-      "Seq-AMPC is a recurrent policy trained through the known dynamics without expert labels; a safety filter with a feasible backup plan checks each proposal. On four benchmarks, including a vehicle and a quadcopter, training took 0.2 to 1.7 GPU hours, 97.2 to 99.1% of proposals were applied, and closed-loop cost stayed within 0.3% of NMPC.",
-      "On our race cars, we prototype model predictive contouring control (MPCC) with online weight tuning. The videos show closed-loop runs and Ampere-MPCC, a current-based variant."
+      "Seq-AMPC is a recurrent policy trained through the known dynamics without expert labels; a safety filter with a feasible backup plan checks each proposal. On four benchmarks, including a vehicle and a quadcopter, training took 0.2 to 1.7 GPU hours, 97.2 to 99.1% of proposals were applied, and closed-loop cost stayed within 0.3% of NMPC."
     ],
     "people": [
       "Larisa Clement",
@@ -393,24 +382,7 @@
     ],
     "imageCredit": "From the linked publication · 2026",
     "imageCaption": "Closed-loop trajectories for four benchmarks: robot arm, vehicle, quadcopter and chain of masses",
-    "imageSource": "https://arxiv.org/pdf/2603.24503",
-    "repositories": [
-      {
-        "label": "agpoks/mpcc-online-tuning",
-        "url": "https://github.com/agpoks/mpcc-online-tuning",
-        "description": "Related research prototype for online MPCC weight tuning."
-      }
-    ],
-    "clips": [
-      {
-        "file": "close_loop.mp4",
-        "title": "Closed-loop control demonstration"
-      },
-      {
-        "file": "ampere_mpcc.mp4",
-        "title": "Ampere MPCC demonstration"
-      }
-    ]
+    "imageSource": "https://arxiv.org/pdf/2603.24503"
   },
   {
     "id": "adaptive-control",
