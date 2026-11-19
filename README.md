@@ -1,4 +1,4 @@
-# Scuderia Segfault — lokales WebStorm-Projekt
+# Scuderia Segfault: lokales WebStorm-Projekt
 
 Die Website basiert auf dem bereitgestellten WebStorm/Vite-Template. Das Design wurde mit echten Bildern aus dem Scuderia-Drive und dem bestehenden Teamarchiv neu aufgebaut. GitHub Pages ist eingerichtet: https://scuderia-segfault.github.io/website/
 

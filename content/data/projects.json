@@ -79,7 +79,7 @@
     "image": "media/publications/hprs-hierarchical-potential-based-reward-shaping-from-task-specifications.webp",
     "summary": "A historical autonomous-driving research project connecting scenario generation, formal task specifications and safe learning.",
     "body": [
-      "ADEX — Autonomous-Driving Examiner — ran from 2020 to 2024 with support from the Austrian Research Promotion Agency (FFG).",
+      "ADEX (Autonomous-Driving Examiner) ran from 2020 to 2024 with support from the Austrian Research Promotion Agency (FFG).",
       "The TU Wien research record connects ADEX to work on scenario-based curriculum generation for multi-agent driving, hierarchical potential-based reward shaping and safe policy improvement. Related racing research was also acknowledged in the report on the 2021 Grand Prix victory.",
       "The publications and demonstration below preserve these research outputs. The separate curriculum and reward-shaping pages provide a closer look at individual lines of work."
     ],

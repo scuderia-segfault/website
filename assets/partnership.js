@@ -1,5 +1,5 @@
 export function partnershipEmail(values){
- const subject=`Scuderia Segfault partnership — ${values.organization} — ${values.interest}`;
+ const subject=`Scuderia Segfault partnership: ${values.organization}, ${values.interest}`;
  const body=`Hello Scuderia Segfault,\n\n${values.message}\n\nName: ${values.name}\nOrganization: ${values.organization}\nEmail: ${values.email}\nInterested in: ${values.interest}\n`;
  return `mailto:scuderia-segfault@tuwien.ac.at?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
 }

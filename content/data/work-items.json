@@ -24,7 +24,7 @@
       "Master’s degree or equivalent in a relevant field.",
       "Strong background in control, machine learning, autonomous systems or related methods."
     ],
-    "subject": "PhD enquiry — LLM-Based Distributed Autonomy (AIDA)",
+    "subject": "PhD enquiry: LLM-Based Distributed Autonomy (AIDA)",
     "source": "https://www.trustcps.eu/join.html",
     "sourceLabel": "TrustCPS AIDA call",
     "contact": "joinus@trustcps.eu",
@@ -38,7 +38,7 @@
       {
         "heading": "Supervision",
         "paragraphs": [
-          "Supervisor: Ezio Bartocci. Co-supervisor: Agnes Poks — Project PI (TU Wien)."
+          "Supervisor: Ezio Bartocci. Co-supervisor: Agnes Poks (Project PI, TU Wien)."
         ]
       }
     ]
@@ -66,7 +66,7 @@
       "Vehicle dynamics, optimal control and numerical optimization.",
       "Python, MATLAB, CasADi or C++. Differential geometry helps but is not required."
     ],
-    "subject": "Project enquiry — 3D Raceline Optimization with Banking and Elevation",
+    "subject": "Project enquiry: 3D Raceline Optimization with Banking and Elevation",
     "source": "https://www.trustcps.eu/join.html",
     "sections": [
       {
@@ -108,7 +108,7 @@
       "3D geometry, coordinate transforms and probabilistic estimation.",
       "C++/ROS or Python. Experience with point clouds or LiDAR odometry is a plus."
     ],
-    "subject": "Project enquiry — 3D LiDAR–Inertial Mapping of Race Tracks",
+    "subject": "Project enquiry: 3D LiDAR–Inertial Mapping of Race Tracks",
     "source": "https://www.trustcps.eu/join.html",
     "sections": [
       {
@@ -150,7 +150,7 @@
       "Vehicle dynamics and state estimation.",
       "Python, MATLAB, embedded programming or ROS, and interest in hands-on sensor work."
     ],
-    "subject": "Project enquiry — Sideslip Estimation with Optical Flow Sensors",
+    "subject": "Project enquiry: Sideslip Estimation with Optical Flow Sensors",
     "source": "https://www.trustcps.eu/join.html",
     "sections": [
       {
@@ -192,7 +192,7 @@
       "Optimization and vehicle dynamics. Python, JAX, CUDA or C++ helps.",
       "Interest in numerical algorithms. GPU programming experience is a plus, not a must."
     ],
-    "subject": "Project enquiry — Nonlinear MPC on the GPU",
+    "subject": "Project enquiry: Nonlinear MPC on the GPU",
     "source": "https://www.trustcps.eu/join.html",
     "sections": [
       {
@@ -234,7 +234,7 @@
       "Camera geometry, image processing and machine learning.",
       "Python, C++/ROS or PyTorch. ONNX or TensorRT is a plus."
     ],
-    "subject": "Thesis enquiry — Real-Time RGB-D Obstacle Detection and Tracking",
+    "subject": "Thesis enquiry: Real-Time RGB-D Obstacle Detection and Tracking",
     "source": "https://www.trustcps.eu/join.html",
     "sections": [
       {
@@ -276,7 +276,7 @@
       "Probabilistic estimation, coordinate transforms and sensor fusion.",
       "Python or C++/ROS. Particle filters, Kalman filters or factor graphs are a plus."
     ],
-    "subject": "Thesis enquiry — Localization That Recovers from Failures",
+    "subject": "Thesis enquiry: Localization That Recovers from Failures",
     "source": "https://www.trustcps.eu/join.html",
     "sections": [
       {
@@ -318,7 +318,7 @@
       "Vehicle dynamics, parameter estimation and system identification.",
       "Python or MATLAB. Recursive estimation, optimization or MPC is a plus."
     ],
-    "subject": "Thesis enquiry — Online Vehicle Parameter Estimation While Racing",
+    "subject": "Thesis enquiry: Online Vehicle Parameter Estimation While Racing",
     "source": "https://www.trustcps.eu/join.html",
     "sections": [
       {
@@ -360,7 +360,7 @@
       "3D geometry, state estimation and point cloud registration.",
       "C++/ROS preferred. Factor graphs, LiDAR odometry or global registration are a plus."
     ],
-    "subject": "Thesis enquiry — 3D LiDAR Map Localization with Global Recovery",
+    "subject": "Thesis enquiry: 3D LiDAR Map Localization with Global Recovery",
     "source": "https://www.trustcps.eu/join.html",
     "sections": [
       {
@@ -402,7 +402,7 @@
       "Physical modeling and parameter estimation. Basic neural network fine-tuning helps; no Liquid network experience needed.",
       "Interest in hands-on experiments with our race cars."
     ],
-    "subject": "Thesis enquiry — Adapting Liquid Neural Network Vehicle Models to New Conditions",
+    "subject": "Thesis enquiry: Adapting Liquid Neural Network Vehicle Models to New Conditions",
     "source": "https://www.trustcps.eu/join.html",
     "sections": [
       {
@@ -444,7 +444,7 @@
       "Physical modeling and parameter estimation; Python or MATLAB.",
       "Basic neural network fine-tuning helps. No Liquid network experience needed."
     ],
-    "subject": "Thesis enquiry — Physics-Informed Liquid Neural Networks for Vehicle Dynamics",
+    "subject": "Thesis enquiry: Physics-Informed Liquid Neural Networks for Vehicle Dynamics",
     "source": "https://www.trustcps.eu/join.html",
     "sections": [
       {
@@ -485,7 +485,7 @@
       "Interest in generative models and model predictive control.",
       "Experience with machine learning or optimization-based control is a plus."
     ],
-    "subject": "Thesis enquiry — Diffusion Models as Overtaking Priors for MPCC",
+    "subject": "Thesis enquiry: Diffusion Models as Overtaking Priors for MPCC",
     "source": "https://www.trustcps.eu/join.html",
     "sections": [
       {
@@ -527,7 +527,7 @@
       "PyTorch, sequence models, reinforcement learning or MPC is a plus.",
       "Formal logic helps but is not required."
     ],
-    "subject": "Thesis enquiry — Learning Safe Overtaking Rules (Neuro-Symbolic)",
+    "subject": "Thesis enquiry: Learning Safe Overtaking Rules (Neuro-Symbolic)",
     "source": "https://www.trustcps.eu/join.html",
     "sections": [
       {
@@ -566,7 +566,7 @@
       "Programming experience and an interest in autonomous systems.",
       "Control, robotics, machine learning or distributed systems background appropriate to the chosen question."
     ],
-    "subject": "AIDA master thesis enquiry — AIDA: Selective Fleet Memory for Rare Driving Situations",
+    "subject": "AIDA master thesis enquiry: AIDA: Selective Fleet Memory for Rare Driving Situations",
     "source": "https://www.trustcps.eu/join.html",
     "sourceLabel": "AIDA research context"
   },
@@ -590,7 +590,7 @@
       "Programming experience and an interest in autonomous systems.",
       "Control, robotics, machine learning or distributed systems background appropriate to the chosen question."
     ],
-    "subject": "AIDA master thesis enquiry — AIDA: Coordination with Delayed or Missing Communication",
+    "subject": "AIDA master thesis enquiry: AIDA: Coordination with Delayed or Missing Communication",
     "source": "https://www.trustcps.eu/join.html",
     "sourceLabel": "AIDA research context"
   },
@@ -614,7 +614,7 @@
       "Programming experience and an interest in autonomous systems.",
       "Control, robotics, machine learning or distributed systems background appropriate to the chosen question."
     ],
-    "subject": "AIDA master thesis enquiry — AIDA: Runtime Monitoring for Language-Assisted Planning",
+    "subject": "AIDA master thesis enquiry: AIDA: Runtime Monitoring for Language-Assisted Planning",
     "source": "https://www.trustcps.eu/join.html",
     "sourceLabel": "AIDA research context"
   }
