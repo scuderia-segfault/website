@@ -1,0 +1,19 @@
+title: Deploying RGB-D Multimodal Controllers on Resource-Constrained Platforms
+draft: false
+citation: Mihaela-Larisa Clement*, Mónika Farsang*, Felix Resch and Radu Grosu. Deploying RGB-D Multimodal Controllers on Resource-Constrained Platforms. Robot Software Architectures (RSA25) co-located with IEEE ICRA 2025.
+url: https://drive.google.com/file/d/14eiJA8KLLCWsB9R2HD7-KxxrOqyn6zAl/view
+source: https://monifarsang.github.io/publications/
+year: 2025
+type: Workshop
+scholar: https://scholar.google.com/scholar?q=%22Deploying%20RGB-D%20Multimodal%20Controllers%20on%20Resource-Constrained%20Platforms%22
+authorsText: Mihaela-Larisa Clement*, Mónika Farsang*, Felix Resch and Radu Grosu
+venue: ICRA
+authors: []
+verification:
+  scholar:
+    status: not_verified_access_restricted
+    checkedAt: 2026-11-02
+    note: Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification.
+  arxiv:
+    status: no_matching_arxiv_record_in_checked_sources
+    checkedAt: 2026-11-02

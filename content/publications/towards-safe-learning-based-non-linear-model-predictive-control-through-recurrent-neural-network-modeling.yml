@@ -1,0 +1,56 @@
+title: Safe Approximate Nonlinear Model Predictive Control Without Expert Demonstrations
+draft: false
+citation: Mihaela-Larisa Clement, Mónika Farsang, Johannes Edelmann, Manfred Plöchl, Radu Grosu, Ezio Bartocci, Agnes Poks, Luca Marzari (2026). Safe Approximate Nonlinear Model Predictive Control Without Expert Demonstrations. arXiv:2603.24503 (v2).
+url: https://arxiv.org/abs/2603.24503
+source: https://monifarsang.github.io/publications/
+year: 2026
+type: Preprint
+doi: 10.48550/arXiv.2603.24503
+authors:
+  - Mihaela-Larisa Clement
+  - Mónika Farsang
+  - Johannes Edelmann
+  - Manfred Plöchl
+  - Radu Grosu
+  - Ezio Bartocci
+  - Agnes Poks
+  - Luca Marzari
+pdf: https://arxiv.org/pdf/2603.24503
+scholar: https://scholar.google.com/scholar?q=%22Towards%20Safe%20Learning-Based%20Non-Linear%20Model%20Predictive%20Control%20through%20Recurrent%20Neural%20Network%20Modeling%22
+venue: arXiv
+thumbnail: media/publications/towards-safe-learning-based-non-linear-model-predictive-control-through-recurrent-neural-network-modeling.webp
+thumbnailAlt: "Benchmark scenes with Safe Seq-AMPC trajectories: robot arm reaching into a shelf, vehicle avoiding obstacles, quadcopter near a wall, chain of masses"
+thumbnailKind: Figure 2
+thumbnailPage: 6
+thumbnailSource: https://arxiv.org/pdf/2603.24503
+verification:
+  scholar:
+    status: not_verified_access_restricted
+    checkedAt: 2026-11-02
+    note: Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification.
+  arxiv:
+    status: matched
+    checkedAt: 2026-11-19
+    source: https://arxiv.org/abs/2603.24503
+    version: v2
+    note: v2 (2026-11-10) retitled from Towards Safe Learning-Based Non-Linear Model Predictive Control through Recurrent Neural Network Modeling (v1) and changed the author list (Luca Marzari added, Agnes Poks moved). No journal-ref or DOI on arXiv.
+arxiv:
+  id: "2603.24503"
+  version: v2
+  title: Safe Approximate Nonlinear Model Predictive Control Without Expert Demonstrations
+  authors:
+    - Mihaela-Larisa Clement
+    - Mónika Farsang
+    - Johannes Edelmann
+    - Manfred Plöchl
+    - Radu Grosu
+    - Ezio Bartocci
+    - Agnes Poks
+    - Luca Marzari
+  published: 2026-03-25
+  updated: 2026-11-10
+  url: https://arxiv.org/abs/2603.24503
+  pdf: https://arxiv.org/pdf/2603.24503
+  journalRef: ""
+  doi: ""
+  comments: ""

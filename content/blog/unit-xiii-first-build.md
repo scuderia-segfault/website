@@ -1,16 +1,13 @@
 ---
-{
-  "date": "2026-11-04",
-  "author": "Scuderia Segfault",
-  "draft": false,
-  "title": "Unit XIII: Chassis Building",
-  "summary": "Assembling the 1:8 Serpent chassis and checking the drivetrain layout.",
-  "tags": [
-    "Unit XIII",
-    "Chassis"
-  ],
-  "cover": "uploads/uni13_build_chassis.jpg"
-}
+title: "Unit XIII: Chassis Building"
+date: 2026-11-04
+draft: false
+author: Scuderia Segfault
+summary: Assembling the 1:8 Serpent chassis and checking the drivetrain layout.
+tags:
+  - Unit XIII
+  - Chassis
+cover: uploads/uni13_build_chassis.jpg
 ---
 
 Unit XIII starts with a Serpent SRX8GTE R, a 1:8 electric GT chassis with four-wheel drive.

@@ -1,0 +1,46 @@
+title: "Liquid Capacitance-Extended Neural Circuits: Synaptic Activation and Dual Liquid Dynamics for Interpretable Bio-Inspired Models"
+draft: false
+citation: "Farsang, M., & Grosu, R. (2025). Liquid Capacitance-Extended Neural Circuits: Synaptic Activation and Dual Liquid Dynamics for Interpretable Bio-Inspired Models. In International Conference on Engineering for Life Sciences : ENROL 2025 : Book of Abstracts (pp. 15–15). http://hdl.handle.net/20.500.12708/222456"
+url: https://repositum.tuwien.at/handle/20.500.12708/222456
+year: 2025
+type: Conference
+source: https://informatics.tuwien.ac.at/people/radu-grosu
+authors:
+  - Monika Farsang
+  - Radu Grosu
+scholar: https://scholar.google.com/scholar?q=%22Liquid%20Capacitance-Extended%20Neural%20Circuits%3A%20Synaptic%20Activation%20and%20Dual%20Liquid%20Dynamics%20for%20Interpretable%20Bio-Inspired%20Models%22
+venue: "International Conference on Engineering for Life Sciences (ENROL 2025): Book of Abstracts"
+thumbnail: media/publications/liquid-capacitance-extended-neural-circuits-synaptic-activation-and-dual-liquid-dynamics-for-interpretable-bio-inspired-models.webp
+thumbnailAlt: Driving-simulation frames in summer and winter next to the CNN-head and gated-RNN steering pipeline
+thumbnailKind: Figure 3
+thumbnailPage: 4
+thumbnailSource: https://arxiv.org/pdf/2602.13017
+verification:
+  scholar:
+    status: not_verified_access_restricted
+    checkedAt: 2026-11-02
+    note: Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification.
+  arxiv:
+    status: matched
+    checkedAt: 2026-11-02
+    source: https://arxiv.org/abs/2602.13017
+    version: v1
+  publisher:
+    status: matched
+    checkedAt: 2026-11-19
+    source: https://repositum.tuwien.at/handle/20.500.12708/222456
+    note: "TU Wien reposiTUm record: Inproceedings in International Conference on Engineering for Life Sciences : ENROL 2025 : Book of Abstracts, p. 15. No DOI found. The linked arXiv record 2602.13017 uses the shorter title Synaptic Activation and Dual Liquid Dynamics for Interpretable Bio-Inspired Models."
+arxiv:
+  id: "2602.13017"
+  version: v1
+  title: Synaptic Activation and Dual Liquid Dynamics for Interpretable Bio-Inspired Models
+  authors:
+    - Mónika Farsang
+    - Radu Grosu
+  published: 2026-02-13
+  updated: 2026-02-13
+  url: https://arxiv.org/abs/2602.13017
+  pdf: https://arxiv.org/pdf/2602.13017
+  journalRef: ""
+  doi: ""
+  comments: ""

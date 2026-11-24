@@ -1,0 +1,30 @@
+title: Online Fine-Tuning of Pretrained Controllers for Autonomous Driving via Real-Time Recurrent RL
+draft: false
+racing: true
+citation: "Lemmel, J., Resch, F., Farsang, M., Hasani, R., Rus, D., & Grosu, R. (2026). Online Fine-Tuning of Pretrained Controllers for Autonomous Driving via Real-Time Recurrent RL. In Catch, Adapt, and Operate: Monitoring ML Models Under Drift Workshop at ICLR 2026, Rio de Janeiro, Brazil."
+url: https://repositum.tuwien.at/handle/20.500.12708/227938
+year: 2026
+type: Workshop
+source: https://informatics.tuwien.ac.at/people/felix-resch
+authors:
+  - Julian Lemmel
+  - Felix Resch
+  - Monika Farsang
+  - Ramin Hasani
+  - Daniela Rus
+  - Radu Grosu
+scholar: https://scholar.google.com/scholar?q=%22Online%20Fine-Tuning%20of%20Pretrained%20Controllers%20for%20Autonomous%20Driving%20via%20Real-Time%20Recurrent%20RL%22
+venue: "ICLR 2026 Workshop on Catch, Adapt, and Operate: Monitoring ML Models Under Drift"
+verification:
+  scholar:
+    status: not_verified_access_restricted
+    checkedAt: 2026-11-02
+    note: Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification.
+  arxiv:
+    status: no_matching_arxiv_record_in_checked_sources
+    checkedAt: 2026-11-02
+  publisher:
+    status: matched
+    checkedAt: 2026-11-19
+    source: https://iclr.cc/virtual/2026/workshop/10000806
+    note: ICLR 2026 workshop schedule lists the paper with the same title and authors; reposiTUm https://repositum.tuwien.at/handle/20.500.12708/227938 links OpenReview forum 8wZLwpLErT. No DOI found. arXiv 2602.02236 v1-v2 carried this title; v4 is titled Adaptive Control in Autonomous Driving via Real-Time Recurrent RL and is kept as a separate preprint record.

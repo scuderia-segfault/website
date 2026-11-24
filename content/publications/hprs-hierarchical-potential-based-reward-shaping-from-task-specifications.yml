@@ -1,0 +1,30 @@
+title: "HPRS: hierarchical potential-based reward shaping from task specifications"
+draft: false
+racing: true
+citation: "HPRS: Hierarchical Potential-based Reward Shaping from Task Specifications Edgar A. Aguilar, Luigi Berducci, Axel Brunnbauer, Radu Grosu, Dejan Ničković. Journal Frontiers in Robotics and AI, 2025."
+url: https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2024.1444188/abstract
+source: https://luigiberducci.github.io/publications/
+year: 2025
+type: Journal
+authors:
+  - Luigi  Berducci
+  - Edgar A.  Aguilar
+  - Dejan  Ničković
+  - Radu  Grosu
+doi: 10.3389/frobt.2024.1444188
+venue: Frontiers in Robotics and AI
+scholar: https://scholar.google.com/scholar?q=%22HPRS%3A%20hierarchical%20potential-based%20reward%20shaping%20from%20task%20specifications%22
+pdf: https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2024.1444188/pdf
+thumbnail: media/publications/hprs-hierarchical-potential-based-reward-shaping-from-task-specifications.webp
+thumbnailAlt: Photo of an F1TENTH car driving on a real-world race track, with overlaid trajectory snapshots and a track-layout inset
+thumbnailKind: Figure 9
+thumbnailPage: 20
+thumbnailSource: https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2024.1444188/pdf
+verification:
+  scholar:
+    status: not_verified_access_restricted
+    checkedAt: 2026-11-02
+    note: Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification.
+  arxiv:
+    status: no_matching_arxiv_record_in_checked_sources
+    checkedAt: 2026-11-02

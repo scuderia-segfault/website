@@ -1,16 +1,13 @@
 ---
-{
-  "date": "2026-11-04",
-  "author": "Scuderia Segfault",
-  "draft": false,
-  "title": "Unit XIII: Hardware Components",
-  "summary": "The parts list for our new car.",
-  "tags": [
-    "Unit XIII",
-    "Hardware"
-  ],
-  "cover": "uploads/uni13_wordmark.jpg"
-}
+title: "Unit XIII: Hardware Components"
+date: 2026-11-04
+draft: false
+author: Scuderia Segfault
+summary: The parts list for our new car.
+tags:
+  - Unit XIII
+  - Hardware
+cover: uploads/uni13_wordmark.jpg
 ---
 
 Here is what goes into Unit XIII.

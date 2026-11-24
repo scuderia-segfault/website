@@ -1,0 +1,51 @@
+title: "Depth Matters: Multimodal RGB-D Perception for Robust Autonomous Agents"
+draft: false
+racing: true
+citation: "Mihaela-Larisa Clement, Mónika Farsang, Felix Resch, Mihai-Teodor Stanusoiu, Radu Grosu (2025). Depth Matters: Multimodal RGB-D Perception for Robust Autonomous Agents. arXiv:2503.16711 (v3)."
+url: https://arxiv.org/abs/2503.16711
+source: https://monifarsang.github.io/publications/
+year: 2025
+type: Preprint
+authors:
+  - Mihaela-Larisa Clement
+  - Mónika Farsang
+  - Felix Resch
+  - Mihai-Teodor Stanusoiu
+  - Radu Grosu
+doi: 10.48550/arXiv.2503.16711
+pdf: https://arxiv.org/pdf/2503.16711
+scholar: https://scholar.google.com/scholar?q=%22Depth%20Matters%3A%20Multimodal%20RGB-D%20Perception%20for%20Robust%20Autonomous%20Agents%22
+venue: arXiv
+thumbnail: media/publications/depth-matters-multimodal-rgb-d-perception-for-robust-autonomous-agents.webp
+thumbnailAlt: Overhead photo of the 1:10-scale test circuit bounded by orange tubes, with labeled sections such as intersection, light beam, roundabout and obstacles
+thumbnailKind: Figure 8
+thumbnailPage: 6
+thumbnailSource: https://arxiv.org/pdf/2503.16711
+verification:
+  scholar:
+    status: not_verified_access_restricted
+    checkedAt: 2026-11-02
+    note: Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification.
+  arxiv:
+    status: matched
+    checkedAt: 2026-11-02
+    source: https://arxiv.org/abs/2503.16711
+    version: v3
+arxiv:
+  id: "2503.16711"
+  version: v3
+  title: "Depth Matters: Multimodal RGB-D Perception for Robust Autonomous Agents"
+  authors:
+    - Mihaela-Larisa Clement
+    - Mónika Farsang
+    - Felix Resch
+    - Mihai-Teodor Stanusoiu
+    - Radu Grosu
+  published: 2025-03-20
+  updated: 2025-11-13
+  url: https://arxiv.org/abs/2503.16711
+  pdf: https://arxiv.org/pdf/2503.16711
+  journalRef: ""
+  doi: ""
+  comments: ""
+code: https://github.com/larisaclement/multimodal-rgbd-agents

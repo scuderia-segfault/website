@@ -1,0 +1,27 @@
+title: Attention based neural network for autonomous driving agents
+draft: false
+racing: true
+citation: Ulmer, S. (2023). Attention Based Neural Network for Autonomous Driving Agents [Diploma Thesis, Technische Universität Wien]. reposiTUm. https://doi.org/10.34726/hss.2023.101600
+url: https://repositum.tuwien.at/handle/20.500.12708/188073
+year: 2023
+type: Thesis
+source: https://www.tuwien.at/inf/scuderia-segfault/research/
+doi: 10.34726/hss.2023.101600
+authors:
+  - Stefan Ulmer
+scholar: https://scholar.google.com/scholar?q=%22Attention%20based%20neural%20network%20for%20autonomous%20driving%20agents%22
+pdf: https://repositum.tuwien.at/bitstream/20.500.12708/188073/1/Ulmer%20Stefan%20-%202023%20-%20Attention%20Based%20Neural%20Network%20for%20Autonomous%20Driving...pdf
+venue: TU Wien
+thumbnail: media/publications/attention-based-neural-network-for-autonomous-driving-agents.webp
+thumbnailAlt: Photo of the Scuderia Segfault F1/10 car with a mounted Logitech camera
+thumbnailKind: Figure 1.3
+thumbnailPage: 26
+thumbnailSource: https://repositum.tuwien.at/bitstream/20.500.12708/188073/1/Ulmer%20Stefan%20-%202023%20-%20Attention%20Based%20Neural%20Network%20for%20Autonomous%20Driving...pdf
+verification:
+  scholar:
+    status: not_verified_access_restricted
+    checkedAt: 2026-11-02
+    note: Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification.
+  arxiv:
+    status: no_matching_arxiv_record_in_checked_sources
+    checkedAt: 2026-11-02

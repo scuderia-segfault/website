@@ -1,0 +1,24 @@
+title: Dynamic Simulation of a Rotor System with Variable Speed
+draft: false
+year: 2022
+type: Conference
+authors:
+  - M. Bischläger
+  - C. Gross
+  - J. Koch
+  - A. Poks
+  - M. Weigand
+venue: 78th Vertical Flight Society Annual Forum and Technology Display, FORUM 2022
+doi: null
+source: https://orcid.org/0000-0002-0276-4552
+url: http://www.scopus.com/inward/record.url?eid=2-s2.0-85135035786&partnerID=MN8TOARS
+citation: '@article{Poks2022,title = {Dynamic Simulation of a Rotor System with Variable Speed},journal = {78th Vertical Flight Society Annual Forum and Technology Display, FORUM 2022},year = {2022},author = {Bischl{\"a}ger, M. and Gross, C. and Koch, J. and Poks, A. and Weigand, M.}}'
+scholar: https://scholar.google.com/scholar?q=%22Dynamic%20Simulation%20of%20a%20Rotor%20System%20with%20Variable%20Speed%22
+verification:
+  scholar:
+    status: not_verified_access_restricted
+    checkedAt: 2026-11-02
+    note: Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification.
+  arxiv:
+    status: no_matching_arxiv_record_in_checked_sources
+    checkedAt: 2026-11-02

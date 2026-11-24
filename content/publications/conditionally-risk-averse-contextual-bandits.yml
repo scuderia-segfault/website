@@ -1,0 +1,45 @@
+title: Conditionally Risk-Averse Contextual Bandits
+draft: false
+citation: Mónika Farsang, Paul Mineiro, Wangda Zhang (2022). Conditionally Risk-Averse Contextual Bandits. arXiv:2210.13573 (v2).
+url: https://arxiv.org/abs/2210.13573
+source: https://monifarsang.github.io/publications/
+year: 2022
+type: Preprint
+authors:
+  - Mónika Farsang
+  - Paul Mineiro
+  - Wangda Zhang
+doi: 10.48550/arXiv.2210.13573
+pdf: https://arxiv.org/pdf/2210.13573
+scholar: https://scholar.google.com/scholar?q=%22Conditionally%20Risk-Averse%20Contextual%20Bandits%22
+venue: arXiv
+thumbnail: media/publications/conditionally-risk-averse-contextual-bandits.webp
+thumbnailAlt: Plot of cumulative sold-out percentage over time for risk-neutral and risk-averse bandits on the DC bicycle dataset
+thumbnailKind: Figure 2
+thumbnailPage: 7
+thumbnailSource: "-"
+verification:
+  scholar:
+    status: not_verified_access_restricted
+    checkedAt: 2026-11-02
+    note: Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification.
+  arxiv:
+    status: matched
+    checkedAt: 2026-11-02
+    source: https://arxiv.org/abs/2210.13573
+    version: v2
+arxiv:
+  id: "2210.13573"
+  version: v2
+  title: Conditionally Risk-Averse Contextual Bandits
+  authors:
+    - Mónika Farsang
+    - Paul Mineiro
+    - Wangda Zhang
+  published: 2022-10-24
+  updated: 2023-07-08
+  url: https://arxiv.org/abs/2210.13573
+  pdf: https://arxiv.org/pdf/2210.13573
+  journalRef: ""
+  doi: ""
+  comments: ""

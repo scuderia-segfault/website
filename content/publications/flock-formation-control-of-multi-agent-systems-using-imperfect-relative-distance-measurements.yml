@@ -1,0 +1,29 @@
+title: Flock-Formation Control of Multi-Agent Systems using Imperfect Relative Distance Measurements
+draft: false
+citation: Brandstätter, A., Smolka, S. A., Stoller, S. D., Tiwari, A., & Grosu, R. (2024). Flock-Formation Control of Multi-Agent Systems using Imperfect Relative Distance Measurements. In Proceedings 2024 IEEE International Conference on Robotics and Automation (ICRA) (pp. 12193–12200). https://doi.org/10.1109/ICRA57147.2024.10610147
+url: https://repositum.tuwien.at/handle/20.500.12708/199924
+year: 2024
+type: Conference
+source: https://informatics.tuwien.ac.at/people/andreas-brandstaetter
+doi: 10.1109/ICRA57147.2024.10610147
+authors:
+  - Andreas Brandstätter
+  - Scott A. Smolka
+  - Scott D. Stoller
+  - Ashish Tiwari
+  - Radu Grosu
+scholar: https://scholar.google.com/scholar?q=%22Flock-Formation%20Control%20of%20Multi-Agent%20Systems%20using%20Imperfect%20Relative%20Distance%20Measurements%22
+venue: ICRA
+thumbnail: media/publications/flock-formation-control-of-multi-agent-systems-using-imperfect-relative-distance-measurements.webp
+thumbnailAlt: Photos of a Crazyflie 2.1 quadcopter held in a hand and of five drones flying in a hall during a hardware experiment
+thumbnailKind: Figure 6
+thumbnailPage: 6
+thumbnailSource: https://par.nsf.gov/servlets/purl/10541694
+verification:
+  scholar:
+    status: not_verified_access_restricted
+    checkedAt: 2026-11-02
+    note: Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification.
+  arxiv:
+    status: no_matching_arxiv_record_in_checked_sources
+    checkedAt: 2026-11-02

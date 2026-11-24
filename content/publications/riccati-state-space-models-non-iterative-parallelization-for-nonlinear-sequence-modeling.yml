@@ -1,0 +1,48 @@
+title: "Riccati State Space Models: Non-iterative Parallelization for Nonlinear Sequence Modeling"
+draft: false
+racing: true
+citation: "Mónika Farsang, Ramin Hasani, Daniela Rus, Radu Grosu (2026). Riccati State Space Models: Non-iterative Parallelization for Nonlinear Sequence Modeling. arXiv:2609.35441 (v1)."
+url: https://arxiv.org/abs/2609.35441
+source: https://monifarsang.github.io/publications/
+year: 2026
+type: Preprint
+doi: 10.48550/arXiv.2609.35441
+authors:
+  - Mónika Farsang
+  - Ramin Hasani
+  - Daniela Rus
+  - Radu Grosu
+pdf: https://arxiv.org/pdf/2609.35441
+scholar: https://scholar.google.com/scholar?q=%22Riccati%20State%20Space%20Models%3A%20Non-iterative%20Parallelization%20for%20Nonlinear%20Sequence%20Modeling%22
+venue: arXiv
+thumbnail: media/publications/riccati-state-space-models-non-iterative-parallelization-for-nonlinear-sequence-modeling.webp
+thumbnailAlt: Histograms and scatter plot comparing the reachable Riccati coefficient space of free and LRC-tied RiccatiSSM parameterizations
+thumbnailKind: Figure 4
+thumbnailPage: 17
+thumbnailSource: https://arxiv.org/pdf/2609.35441
+verification:
+  scholar:
+    status: not_verified_access_restricted
+    checkedAt: 2026-11-02
+    note: Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification.
+  arxiv:
+    status: matched
+    checkedAt: 2026-11-02
+    source: https://arxiv.org/abs/2609.35441
+    version: v1
+arxiv:
+  id: "2609.35441"
+  version: v1
+  title: "Riccati State Space Models: Non-iterative Parallelization for Nonlinear Sequence Modeling"
+  authors:
+    - Mónika Farsang
+    - Ramin Hasani
+    - Daniela Rus
+    - Radu Grosu
+  published: 2026-09-28
+  updated: 2026-09-28
+  url: https://arxiv.org/abs/2609.35441
+  pdf: https://arxiv.org/pdf/2609.35441
+  journalRef: ""
+  doi: ""
+  comments: ""

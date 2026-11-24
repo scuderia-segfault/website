@@ -16,51 +16,35 @@ Die geteilte WebStorm-Konfiguration **Website – Vite** startet denselben Befeh
 
 ## Struktur und Pflege
 
-- `content/data/projects.json`: Projektseiten, Texte, Beteiligte, Quellen und passende Publikationen.
-- `content/data/publications.json`: Bibliografie mit Jahr, Typ, Zitation und Originalnachweis.
-- `content/data/members.json`: Mitglieder/Alumni, Interessen, belegte Beiträge, LinkedIn und Bildnachweise.
-- `content/data/videos.json`: öffentliche Videoverweise und ihr ursprünglicher Kontext.
-- `content/data/archive.json`: 21 übernommene Teamberichte mit Texten, Galerien und Bildnachweisen.
-- `content/data/media-sources.json`: Herkunft der übernommenen Bilder.
-- `content/news/*.md` und `content/blog/*.md`: neue redaktionelle Beiträge.
-- `public/uploads/`: Bilder für neue Beiträge.
-- `public/media/`: lokal gespeicherte, für das Web optimierte Archivbilder.
-- `scripts/layout.mjs`: gemeinsame Navigation, Seitengerüst und Footer.
-- `scripts/build-site.mjs`: erzeugt Hauptseiten sowie Projekt- und Archivseiten.
-- `scripts/build-content.mjs`: erzeugt neue News- und Blogartikel aus Markdown.
+Jeder Eintrag ist eine eigene Datei; der Dateiname ist die ID und Teil der Adresse. Metadaten stehen als YAML im Kopf zwischen `---`.
+
+- `content/projects/<id>.md`: Projekte (YAML-Kopf + Beschreibung in Markdown) → `projects/<id>.html`.
+- `content/theses/<id>.md`: Abschlussarbeiten und Themen (YAML-Kopf + Abschnitte in Markdown) → `work/<id>.html`.
+- `content/blog/<id>.md`, `content/news/<id>.md`: Beiträge → `blog/<id>/index.html`, `news/<id>/index.html`.
+- `content/members/<id>.yml`: Mitglieder/Alumni (Anker `members.html#<id>`).
+- `content/publications/<id>.yml`: Publikationen (Anker `research.html#<id>`, BibTeX `citations/<id>.bib`).
+- `content/templates/`: kommentierte Vorlagen für alle sechs Inhaltstypen.
+- `content/data/*.json`: selten geänderte Listen (Autos, Ergebnisse, Sponsoren, Videos, Archiv, Links).
+- `public/uploads/`, `public/media/`: Bilder.
+- `scripts/build.mjs`: erzeugt alle Seiten; `scripts/pages/` enthält ein Modul pro Seite, `scripts/lib/` Layout, Bausteine, Inhaltslader und Prüfregeln.
 - `assets/style.css` und `assets/site.js`: Gestaltung, Suche, Filter und Videoansicht.
 
-HTML-Seiten werden generiert. Dauerhafte Änderungen an Daten, Generatoren und Assets durchführen.
-Nach Änderungen an JSON oder Markdown `npm run site:build` ausführen; der laufende Vite-Server lädt erzeugte Seiten neu. Alternativ Dev-Server neu starten.
+HTML-Seiten werden generiert und eingerückt formatiert (Prettier). Dauerhafte Änderungen an Inhalten, Generatoren und Assets durchführen. Nach Änderungen `npm run site:build` ausführen oder den Dev-Server neu starten. Code mit `npm run format` formatieren.
 
-## Neue News und Blogartikel
+## Neue Inhalte anlegen
 
-Eine `example-post.md` in `content/news/` oder `content/blog/` kopieren. Dateiname nur mit Kleinbuchstaben, Zahlen und Bindestrichen, etwa `first-race.md`.
-
-Der Kopf zwischen `---` ist **JSON**, kein YAML:
-
-```markdown
----
-{
-  "title": "Our next race",
-  "date": "2026-11-02",
-  "author": "Scuderia Segfault",
-  "summary": "A short introduction.",
-  "draft": false
-}
----
-
-## Heading
-
-Your **Markdown** text.
-
-![Descriptive image text](../../uploads/your-image.jpg)
+```sh
+npm run new -- project lidar-mapping "LiDAR Mapping"
+npm run new -- thesis lidar-localization "LiDAR Localization"
+npm run new -- blog first-race "Our first race"
+npm run new -- news race-update "Race update" --date 2026-12-01
+npm run new -- member jane-doe "Jane Doe"
+npm run new -- publication my-paper-title "My Paper Title"
 ```
 
-Pflichtfelder: `title`, `date` (YYYY-MM-DD), `draft` (true/false).
-Entwürfe und Beiträge mit zukünftigem UTC-Datum werden nicht veröffentlicht.
-Nur vertrauenswürdige Teamtexte verwenden: Markdown kann HTML enthalten.
-Bilder nach `public/uploads/` legen. Die Beispielentwürfe werden nicht veröffentlicht.
+Der Befehl kopiert die Vorlage aus `content/templates/`, setzt ID, Titel und Datum ein und überschreibt keine bestehende Datei. ID nur mit Kleinbuchstaben, Zahlen und Bindestrichen. Danach die kommentierten Felder ausfüllen.
+
+Neue Einträge haben `draft: true` und werden nicht veröffentlicht. Vorschau mit Entwürfen: `npm run dev:drafts`. Nach der Freigabe `draft: false` setzen. Beiträge mit zukünftigem UTC-Datum erscheinen erst an diesem Tag. Mit `npm run validate:content` prüfen: fehlende Pflichtfelder, ungültige Daten, fehlende Bilder und falsche Verweise werden mit Dateinamen gemeldet. Nur vertrauenswürdige Teamtexte verwenden: Markdown kann HTML enthalten. Die Reihenfolge von Projekten, Themen und Mitgliedern steuert `order` (kleiner zuerst); Publikationen werden nach Jahr und ID sortiert.
 
 ## Build und spätere Pipeline
 
@@ -90,9 +74,9 @@ Eine Sicherung des vorherigen Projektstands liegt im benachbarten Ordner `Quella
 
 Publikationen haben zusätzlich `authors`, `venue`, `type`, optional `doi`, `pdf`, `thumbnail`, `thumbnailSource` und `thumbnailPage`. Der Generator gruppiert die Datensätze nach Typ und Jahr und erstellt die BibTeX-Dateien automatisch in `public/citations/`. Ein Paperbild immer aus der konkreten Arbeit übernehmen und die Herkunft erfassen. Ohne Bild wird ein neutrales Dokument-Symbol gezeigt.
 
-Die Datei `scripts/publications.mjs` enthält die gemeinsame Darstellung und den BibTeX-Export. Verfügbare Typen: `Journal`, `Conference`, `Workshop`, `Preprint`, `Book chapter`, `Thesis`, `Other`. Neue bibliografische Einträge werden in `content/data/publications.json` ergänzt und mit `npm run site:build` übernommen.
+Die Datei `scripts/publications.mjs` enthält die gemeinsame Darstellung und den BibTeX-Export. Verfügbare Typen: `Journal`, `Conference`, `Workshop`, `Preprint`, `Book chapter`, `Thesis`, `Other`. Neue bibliografische Einträge mit `npm run new -- publication <id> "Titel"` anlegen.
 
-In `members.json` steuert `status` die Zuordnung: `Active Team`, `Associated Members` oder `Alumni`. Die aktuelle aktive Gruppe wurde von Agnes bestätigt. Neue Mitglieder mit einer eindeutigen `id`, Bild und verifizierten Angaben ergänzen. `scholar` nur bei eindeutigem Profil ausfüllen; andernfalls wird eine ausdrücklich als Suche beschriftete Scholar-Verknüpfung angeboten.
+In `content/members/*.yml` steuert `status` die Zuordnung: `Active Team`, `Associated Members` oder `Alumni`. Die aktuelle aktive Gruppe wurde von Agnes bestätigt. Neue Mitglieder mit einer eindeutigen `id`, Bild und verifizierten Angaben ergänzen. `scholar` nur bei eindeutigem Profil ausfüllen; andernfalls wird eine ausdrücklich als Suche beschriftete Scholar-Verknüpfung angeboten.
 
 `content/data/sponsors.json` enthält Namen, Logos, Websites und die Quelle der Unterstützerangaben. Die Kontaktanfrage auf `sponsors.html` öffnet eine vorbereitete E-Mail an die öffentliche Teamadresse. Sie braucht kein Backend und sendet nichts automatisch ab. Bankdaten, Zahlungsabwicklung und feste Sponsoringpakete sind nicht eingerichtet.
 
@@ -101,7 +85,7 @@ Die Rennanimation liegt in `assets/racing-motion.js`, läuft nur bei sichtbarem 
 
 ## Redaktion und GitHub-Pipeline
 
-Die schrittweise Anleitung steht in `EDITORIAL_WORKFLOW.md`. `content/data/site.json` bündelt die Verknüpfungen zur bestätigten Organisation scuderia-segfault, LinkedIn und TU Wien. `content/data/opportunities.json` steuert die Mitmachbereiche der Join-Seite.
+Die schrittweise Anleitung steht in `EDITORIAL_WORKFLOW.md`. `content/data/site.json` bündelt die Verknüpfungen zur bestätigten Organisation scuderia-segfault, LinkedIn und TU Wien.
 
 Vorbereitet: GitHub-Buildworkflow, Issue-Formular für Inhaltsänderungen, Pull-Request-Vorlage, KI-Redaktionshinweise und ein optionales Pages-Deployment-Beispiel. Das Repository ist https://github.com/scuderia-segfault/website. Änderungen auf `main` lösen den geprüften Build und die Veröffentlichung über `.github/workflows/deploy-pages.yml` aus. Pull Requests werden separat geprüft.
 

@@ -1,0 +1,27 @@
+title: Model-based deep Reinforcement learning for autonomous racing
+draft: false
+racing: true
+citation: Brunnbauer, A. (2021). Model-based deep Reinforcement learning for autonomous racing [Diploma Thesis, Technische Universität Wien]. reposiTUm. https://doi.org/10.34726/hss.2021.86588
+url: https://repositum.tuwien.at/handle/20.500.12708/17644
+year: 2021
+type: Thesis
+source: https://www.tuwien.at/inf/scuderia-segfault/research/
+doi: 10.34726/hss.2021.86588
+authors:
+  - Axel Brunnbauer
+scholar: https://scholar.google.com/scholar?q=%22Model-based%20deep%20Reinforcement%20learning%20for%20autonomous%20racing%22
+pdf: https://repositum.tuwien.at/bitstream/20.500.12708/17644/1/Brunnbauer%20Axel%20-%202021%20-%20Model-based%20deep%20Reinforcement%20learning%20for%20autonomous...pdf
+venue: TU Wien
+thumbnail: media/publications/model-based-deep-reinforcement-learning-for-autonomous-racing.webp
+thumbnailAlt: "Real-world test track in a lecture hall: two track-side webcam views, the car's LiDAR scan and its onboard camera view"
+thumbnailKind: Figure 6.7
+thumbnailPage: 66
+thumbnailSource: https://repositum.tuwien.at/bitstream/20.500.12708/17644/1/Brunnbauer%20Axel%20-%202021%20-%20Model-based%20deep%20Reinforcement%20learning%20for%20autonomous...pdf
+verification:
+  scholar:
+    status: not_verified_access_restricted
+    checkedAt: 2026-11-02
+    note: Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification.
+  arxiv:
+    status: no_matching_arxiv_record_in_checked_sources
+    checkedAt: 2026-11-02

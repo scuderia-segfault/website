@@ -33,9 +33,9 @@ Die Website bleibt eine statische Website. Es wird kein zusätzlicher Server und
 
 - `.github/copilot-instructions.md`: Regeln für quellenbasierte KI-Entwürfe.
 
-- `content/templates/`: Markdown-Vorlagen für News und Blog.
+- `content/templates/`: kommentierte Vorlagen für Projekte, Themen, Blog, News, Mitglieder und Publikationen.
 
-- `npm run new:post`: legt einen neuen Entwurf an und überschreibt keine existierende Datei.
+- `npm run new -- <typ> <id> "Titel"`: legt einen neuen Entwurf an und überschreibt keine existierende Datei.
 
 - `docs/pipeline/deploy-pages.yml.example`: optionaler, noch nicht aktiver Pages-Workflow.
 
@@ -65,9 +65,9 @@ Nach Einrichtung des Website-Repositories:
 
 
 
-1. In GitHub `content/news/` oder `content/blog/` öffnen.
+1. In GitHub den passenden Ordner öffnen, etwa `content/news/`, `content/blog/` oder `content/projects/`.
 
-2. Eine Vorlage aus `content/templates/` kopieren, Text ergänzen und `draft: true` beibehalten.
+2. Eine Vorlage aus `content/templates/` als `<id>.md` bzw. `<id>.yml` kopieren, die Platzhalter `{{title}}`, `{{date}}` und `{{year}}` ersetzen, Text ergänzen und `draft: true` beibehalten.
 
 3. Bilder über „Add file → Upload files“ nach `public/uploads/` hochladen. Dateinamen und Bildnachweise in den Beitrag eintragen.
 
@@ -91,7 +91,7 @@ Alternativ eine Idee mit Text, Links und Bildern über das Issue-Formular einrei
 
 ```sh
 
-npm run new:post -- --type news --slug race-update --title "Race update"
+npm run new -- news race-update "Race update"
 
 npm run validate:content
 
@@ -103,7 +103,7 @@ npm run check
 
 
 
-Für Blogartikel `--type blog` verwenden. Der neue Beitrag ist standardmäßig ein Entwurf.
+Weitere Typen: `project`, `thesis`, `blog`, `member`, `publication`. Der neue Eintrag ist standardmäßig ein Entwurf (`draft: true`); Vorschau mit `npm run dev:drafts`.
 
 
 
@@ -117,13 +117,13 @@ Für Blogartikel `--type blog` verwenden. Der neue Beitrag ist standardmäßig e
 
 | News / Blog | `content/news/*.md`, `content/blog/*.md` |
 
-| Mitmachen / Themen / spätere Ausschreibungen | `content/data/opportunities.json` |
+| Abschlussarbeiten / Themen | `content/theses/*.md` |
 
-| Projekte | `content/data/projects.json` |
+| Projekte | `content/projects/*.md` |
 
-| Publikationen | `content/data/publications.json` |
+| Publikationen | `content/publications/*.yml` |
 
-| Mitglieder / Status | `content/data/members.json` |
+| Mitglieder / Status | `content/members/*.yml` |
 
 | Sponsoren | `content/data/sponsors.json` |
 
@@ -175,7 +175,7 @@ Die Join-Seite orientiert sich im Aufbau an https://www.trustcps.eu/join.html, v
 
 ## Arbeiten und gemeinsamer Forschungsbereich
 
-`research.html` bündelt Projekte und Publikationen. Die bisherigen URLs bleiben erreichbar. `content/data/work-items.json` verwaltet Themen, Typ, Status, Aufgaben, Voraussetzungen und Projektbezug. `Topic proposal` bedeutet einen zu besprechenden Vorschlag. `Open` erst nach bestätigter Verfügbarkeit und Betreuung verwenden; `Closed` entfernt das Thema aus der Übersicht. Detailseiten werden automatisch gebaut. News und Blog liegen getrennt unter `content/news` und `content/blog`; neue Kurzbeiträge mit `npm run new:post` als Entwurf anlegen.
+`research.html` bündelt Projekte und Publikationen. Die bisherigen URLs bleiben erreichbar. `content/theses/*.md` verwaltet Themen, Typ, Status, Aufgaben, Voraussetzungen und Projektbezug. `Topic proposal` bedeutet einen zu besprechenden Vorschlag. `Open` erst nach bestätigter Verfügbarkeit und Betreuung verwenden; `Closed` entfernt das Thema aus der Übersicht. Detailseiten werden automatisch gebaut. News und Blog liegen getrennt unter `content/news` und `content/blog`; neue Kurzbeiträge mit `npm run new -- news <id> "Titel"` als Entwurf anlegen.
 
 
-Import 03.11.2026: 12 eindeutige Themen aus dem heruntergeladenen Katalog, eine öffentliche AIDA-PhD-Ausschreibung und drei markierte AIDA-Mastervorschläge. Doppelte LiDAR-Lokalisierung zusammengeführt. `sections` enthält heading/paragraphs; `contact` kann die Teamadresse überschreiben.
+Import 03.11.2026: 12 eindeutige Themen aus dem heruntergeladenen Katalog, eine öffentliche AIDA-PhD-Ausschreibung und drei markierte AIDA-Mastervorschläge. Doppelte LiDAR-Lokalisierung zusammengeführt. Abschnitte stehen als `## Überschrift` im Markdown-Teil; `contact` kann die Teamadresse überschreiben.

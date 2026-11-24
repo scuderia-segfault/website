@@ -1,0 +1,25 @@
+title: "TD-Magic: From Pictures of Timing Diagrams To Formal Specifications"
+draft: false
+citation: |-
+  TD-Magic: From Pictures of Timing Diagrams To Formal Specifications / 
+    He, J., Nickovic, D., Bartocci, E., & Grosu, R. (2023). TD-Magic: From Pictures of Timing Diagrams To Formal Specifications. In 2023 60th ACM/IEEE Design Automation Conference (DAC) (pp. 1–6). IEEE. https://doi.org/10.1109/DAC56929.2023.10247685 Project: ADEX (2020–2024)
+url: https://repositum.tuwien.at/handle/20.500.12708/190645
+year: 2023
+type: Conference
+source: https://informatics.tuwien.ac.at/people/radu-grosu
+doi: 10.1109/DAC56929.2023.10247685
+authors:
+  - Jie He
+  - Dejan Ničković
+  - Ezio Bartocci
+  - Radu Grosu
+venue: 2023 60th ACM/IEEE Design Automation Conference (DAC)
+scholar: https://scholar.google.com/scholar?q=%22TD-Magic%3A%20From%20Pictures%20of%20Timing%20Diagrams%20To%20Formal%20Specifications%22
+verification:
+  scholar:
+    status: not_verified_access_restricted
+    checkedAt: 2026-11-02
+    note: Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification.
+  arxiv:
+    status: no_matching_arxiv_record_in_checked_sources
+    checkedAt: 2026-11-02

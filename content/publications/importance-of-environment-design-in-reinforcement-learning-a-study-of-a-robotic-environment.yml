@@ -1,0 +1,41 @@
+title: "Importance of Environment Design in Reinforcement Learning: A Study of a Robotic Environment"
+draft: false
+authors:
+  - Mónika Farsang
+  - Luca Szegletes
+year: 2021
+type: Preprint
+venue: arXiv
+url: https://arxiv.org/abs/2102.10447
+source: https://arxiv.org/abs/2102.10447
+pdf: https://arxiv.org/pdf/2102.10447
+doi: 10.48550/arXiv.2102.10447
+citation: "Mónika Farsang, Luca Szegletes (2021). Importance of Environment Design in Reinforcement Learning: A Study of a Robotic Environment. arXiv:2102.10447."
+arxiv:
+  id: "2102.10447"
+  version: v2
+  title: "Importance of Environment Design in Reinforcement Learning: A Study of a Robotic Environment"
+  authors:
+    - Mónika Farsang
+    - Luca Szegletes
+  published: 2021-02-20
+  updated: 2021-06-28
+  url: https://arxiv.org/abs/2102.10447
+  pdf: https://arxiv.org/pdf/2102.10447
+  journalRef: Proceedings of the Automation and Applied Computer Science Workshop 2021
+  doi: ""
+  comments: ""
+thumbnail: media/publications/importance-of-environment-design-in-reinforcement-learning-a-study-of-a-robotic-environment.webp
+thumbnailAlt: 3D surface plots of optimal action values of the robotic assistant over search and wait rewards for high and low battery states
+thumbnailKind: Figure 2
+thumbnailPage: 7
+thumbnailSource: "-"
+verification:
+  arxiv:
+    status: matched
+    checkedAt: 2026-11-02
+    source: https://arxiv.org/abs/2102.10447
+    version: v2
+  scholar:
+    status: not_verified_access_restricted
+    checkedAt: 2026-11-02

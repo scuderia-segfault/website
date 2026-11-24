@@ -1,0 +1,47 @@
+title: "RoboRacer Arena: Specification-Driven Track Construction for Autonomous Racing"
+draft: false
+racing: true
+year: 2026
+type: Preprint
+authors:
+  - Mihaela-Larisa Clement
+  - Agnes Poks
+  - Ezio Bartocci
+venue: arXiv
+doi: 10.48550/arXiv.2608.23040
+url: https://arxiv.org/abs/2608.23040
+source: https://arxiv.org/abs/2608.23040
+citation: "Mihaela-Larisa Clement, Agnes Poks, Ezio Bartocci (2026). RoboRacer Arena: Specification-Driven Track Construction for Autonomous Racing. arXiv:2608.23040 (v2)."
+pdf: https://arxiv.org/pdf/2608.23040
+scholar: https://scholar.google.com/scholar?q=%22RoboRacer%20Arena%3A%20Specification-Driven%20Track%20Construction%20for%20Autonomous%20Racing%22
+thumbnail: media/publications/roboracer-arena.webp
+thumbnailAlt: "Overview of RoboRacer Arena: track specification, generated environments, Isaac Sim policy training and physical track tests, with the car as photo, CAD model and simulation asset"
+thumbnailKind: Figure 1
+thumbnailPage: 2
+thumbnailSource: https://arxiv.org/pdf/2608.23040
+verification:
+  scholar:
+    status: not_verified_access_restricted
+    checkedAt: 2026-11-02
+    note: Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification.
+  arxiv:
+    status: matched
+    checkedAt: 2026-11-02
+    source: https://arxiv.org/abs/2608.23040
+    version: v2
+arxiv:
+  id: "2608.23040"
+  version: v2
+  title: "RoboRacer Arena: Specification-Driven Track Construction for Autonomous Racing"
+  authors:
+    - Mihaela-Larisa Clement
+    - Agnes Poks
+    - Ezio Bartocci
+  published: 2026-08-24
+  updated: 2026-10-08
+  url: https://arxiv.org/abs/2608.23040
+  pdf: https://arxiv.org/pdf/2608.23040
+  journalRef: ""
+  doi: ""
+  comments: Submitted to ICRA 2027
+code: https://github.com/larisaclement/roboracer-arena-v1

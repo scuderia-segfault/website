@@ -1,0 +1,35 @@
+title: "A Natural Lottery Ticket Winner: Reinforcement Learning with Ordinary Neural Circuits"
+draft: false
+racing: true
+citation: "Hasani, R., Lechner, M., Amini, A., Rus, D., & Grosu, R. (2020). A Natural Lottery Ticket Winner: Reinforcement Learning with Ordinary Neural Circuits. In Proceedings of the 37th International Conference on Machine Learning (ICML 2020), PMLR 119 (pp. 4082–4093). PMLR. https://proceedings.mlr.press/v119/hasani20a.html"
+url: https://repositum.tuwien.at/handle/20.500.12708/58294
+year: 2020
+type: Conference
+source: https://informatics.tuwien.ac.at/people/radu-grosu
+authors:
+  - Ramin Hasani
+  - Mathias Lechner
+  - Alexander Amini
+  - Daniela Rus
+  - Radu Grosu
+scholar: https://scholar.google.com/scholar?q=%22A%20Natural%20Lottery%20Ticket%20Winner%3A%20Reinforcement%20Learning%20with%20Ordinary%20Neural%20Circuits%22
+venue: Proceedings of the 37th International Conference on Machine Learning (ICML 2020)
+thumbnail: media/publications/a-natural-lottery-ticket-winner-reinforcement-learning-with-ordinary-neural-circuits.webp
+thumbnailAlt: Photos of a Pioneer mobile robot performing a parking task and a simulated half-cheetah, each mapped to the tap-withdrawal neural circuit
+thumbnailKind: Figure 3
+thumbnailPage: 6
+thumbnailSource: https://proceedings.mlr.press/v119/hasani20a/hasani20a.pdf
+verification:
+  scholar:
+    status: not_verified_access_restricted
+    checkedAt: 2026-11-02
+    note: Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification.
+  arxiv:
+    status: no_matching_arxiv_record_in_checked_sources
+    checkedAt: 2026-11-02
+  publisher:
+    status: matched
+    checkedAt: 2026-11-19
+    source: https://proceedings.mlr.press/v119/hasani20a.html
+    note: PMLR volume 119 lists the title and all five authors, PMLR 119:4082-4093. PMLR assigns no DOI.
+pdf: https://proceedings.mlr.press/v119/hasani20a/hasani20a.pdf

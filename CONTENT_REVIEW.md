@@ -41,7 +41,7 @@ Die folgenden LinkedIn-Profile waren nicht eindeutig belegbar und bleiben leer (
 - Samuel Lechner
 - Nino Wegleitner
 
-Bei Personen ohne belegte individuelle Projektaufgaben werden nur die vorhandenen Forschungsinteressen gezeigt. Keine erfundenen Zuständigkeiten ergänzen. Neue bestätigte Beiträge in `members.json` mit passender Quelle eintragen.
+Bei Personen ohne belegte individuelle Projektaufgaben werden nur die vorhandenen Forschungsinteressen gezeigt. Keine erfundenen Zuständigkeiten ergänzen. Neue bestätigte Beiträge in `content/members/<id>.yml` mit passender Quelle eintragen.
 
 Das bestehende Teamprofil und einzelne neuere Hochschulprofile können bei Studienstand und Funktion voneinander abweichen. Mihaela-Larisa Clements Bio wurde anhand des neueren PreDoc-Profils aktualisiert. Die Teamzuordnung folgt grundsätzlich der bestehenden Teamseite.
 

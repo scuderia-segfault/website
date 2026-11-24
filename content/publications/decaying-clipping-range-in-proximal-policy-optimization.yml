@@ -1,0 +1,43 @@
+title: Decaying Clipping Range in Proximal Policy Optimization
+draft: false
+citation: Mónika Farsang and Luca Szegletes. Decaying Clipping Range in Proximal Policy Optimization. 2021 IEEE 15th International Symposium on Applied Computational Intelligence and Informatics (SACI). 2021.
+url: https://doi.org/10.1109/SACI51354.2021.9465602
+source: https://monifarsang.github.io/publications/
+year: 2021
+type: Conference
+authors:
+  - Monika Farsang
+  - Luca Szegletes
+venue: 2021 IEEE 15th International Symposium on Applied Computational Intelligence and Informatics (SACI)
+doi: 10.1109/saci51354.2021.9465602
+scholar: https://scholar.google.com/scholar?q=%22Decaying%20Clipping%20Range%20in%20Proximal%20Policy%20Optimization%22
+thumbnail: media/publications/decaying-clipping-range-in-proximal-policy-optimization.webp
+thumbnailAlt: "OpenAI Gym and PyBullet simulation environments: Cart-Pole, Pendulum, Acrobot, Hopper, Walker and Half-Cheetah"
+thumbnailKind: Figure 1
+thumbnailPage: 2
+thumbnailSource: "-"
+pdf: https://arxiv.org/pdf/2102.10456
+verification:
+  scholar:
+    status: not_verified_access_restricted
+    checkedAt: 2026-11-02
+    note: Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification.
+  arxiv:
+    status: matched
+    checkedAt: 2026-11-02
+    source: https://arxiv.org/abs/2102.10456
+    version: v3
+arxiv:
+  id: "2102.10456"
+  version: v3
+  title: Decaying Clipping Range in Proximal Policy Optimization
+  authors:
+    - Mónika Farsang
+    - Luca Szegletes
+  published: 2021-02-20
+  updated: 2021-07-01
+  url: https://arxiv.org/abs/2102.10456
+  pdf: https://arxiv.org/pdf/2102.10456
+  journalRef: 2021 IEEE 15th International Symposium on Applied Computational Intelligence and Informatics (SACI), 2021, pp. 000521-000526
+  doi: 10.1109/SACI51354.2021.9465602
+  comments: ""

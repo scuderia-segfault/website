@@ -1,0 +1,45 @@
+title: Liquid Resistance Liquid Capacitance Networks
+draft: false
+citation: "Farsang, M., Neubauer, S., & Grosu, R. (2024, December 14). Liquid Resistance Liquid Capacitance Networks [Poster Presentation]. NeuroAI: Fusing Neuroscience and AI for Intelligent Solutions (NeuroAI @ NeurIPS2024), Canada. http://hdl.handle.net/20.500.12708/223289"
+url: https://repositum.tuwien.at/handle/20.500.12708/223289
+year: 2024
+type: Workshop
+source: https://informatics.tuwien.ac.at/people/radu-grosu
+authors:
+  - Mónika Farsang
+  - Sophie A. Neubauer
+  - Radu Grosu
+venue: NeurIPS 2024 NeuroAI Workshop
+doi: 10.48550/ARXIV.2403.08791
+pdf: https://arxiv.org/pdf/2403.08791
+scholar: https://scholar.google.com/scholar?q=%22Liquid%20Resistance%20Liquid%20Capacitance%20Networks%22
+thumbnail: media/publications/liquid-resistance-liquid-capacitance-networks.webp
+thumbnailAlt: Neural activity of two command cells of LSTM, GRU, MGU and LRCU policies plotted along the 1 km driven road
+thumbnailKind: Figure 9
+thumbnailPage: 14
+thumbnailSource: https://arxiv.org/pdf/2403.08791
+verification:
+  scholar:
+    status: not_verified_access_restricted
+    checkedAt: 2026-11-02
+    note: Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification.
+  arxiv:
+    status: matched
+    checkedAt: 2026-11-02
+    source: https://arxiv.org/abs/2403.08791
+    version: v4
+arxiv:
+  id: "2403.08791"
+  version: v4
+  title: Liquid Resistance Liquid Capacitance Networks
+  authors:
+    - Mónika Farsang
+    - Sophie A. Neubauer
+    - Radu Grosu
+  published: 2024-01-30
+  updated: 2025-08-11
+  url: https://arxiv.org/abs/2403.08791
+  pdf: https://arxiv.org/pdf/2403.08791
+  journalRef: ""
+  doi: ""
+  comments: ""

@@ -1,0 +1,31 @@
+title: Evaluating Domain-Shift Generalization of Liquid Neural Networks in Autonomous Driving
+draft: false
+racing: true
+citation: "Clement, M.-L., Farsang, M., Stanusoiu, M.-T., Rus, D., Hasani, R., Grosu, R., & Bartocci, E. (2026). Evaluating Domain-Shift Generalization of Liquid Neural Networks in Autonomous Driving. In Catch, Adapt, and Operate: Monitoring ML Models Under Drift Workshop at ICLR 2026, Rio de Janeiro, Brazil. Project: DK - AR (2025–2029)"
+url: https://repositum.tuwien.at/handle/20.500.12708/227937
+year: 2026
+type: Workshop
+source: https://informatics.tuwien.ac.at/people/mihaela-larisa-clement
+authors:
+  - Mihaela-Larisa Clement
+  - Monika Farsang
+  - Mihai-Teodor Stanusoiu
+  - Daniela Rus
+  - Ramin Hasani
+  - Radu Grosu
+  - Ezio Bartocci
+scholar: https://scholar.google.com/scholar?q=%22Evaluating%20Domain-Shift%20Generalization%20of%20Liquid%20Neural%20Networks%20in%20Autonomous%20Driving%22
+venue: "ICLR 2026 Workshop on Catch, Adapt, and Operate: Monitoring ML Models Under Drift"
+verification:
+  scholar:
+    status: not_verified_access_restricted
+    checkedAt: 2026-11-02
+    note: Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification.
+  arxiv:
+    status: no_matching_arxiv_record_in_checked_sources
+    checkedAt: 2026-11-02
+  publisher:
+    status: matched
+    checkedAt: 2026-11-19
+    source: https://iclr.cc/virtual/2026/workshop/10000806
+    note: "ICLR 2026 workshop schedule lists the paper with the same title and authors (order there: Ramin Hasani before Daniela Rus; reposiTUm https://repositum.tuwien.at/handle/20.500.12708/227937 lists Rus before Hasani, author order left unchanged). reposiTUm links OpenReview forum 00k7BU3c6B. No DOI found."

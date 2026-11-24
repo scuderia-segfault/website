@@ -1,0 +1,48 @@
+title: Safe Policy Improvement in Constrained Markov Decision Processes
+draft: false
+citation: Berducci, L., & Grosu, R. (2022). Safe Policy Improvement in Constrained Markov Decision Processes. In Leveraging Applications of Formal Methods, Verification and Validation. Verification Principles (ISoLA 2022), Lecture Notes in Computer Science, vol. 13701 (pp. 360–381). Springer. https://doi.org/10.1007/978-3-031-19849-6_21
+url: https://arxiv.org/abs/2210.11259
+source: https://luigiberducci.github.io/publications/
+year: 2022
+type: Conference
+authors:
+  - Luigi Berducci
+  - Radu Grosu
+doi: 10.1007/978-3-031-19849-6_21
+pdf: https://arxiv.org/pdf/2210.11259
+scholar: https://scholar.google.com/scholar?q=%22Safe%20Policy%20Improvement%20in%20Constrained%20Markov%20Decision%20Processes%22
+venue: Leveraging Applications of Formal Methods, Verification and Validation. Verification Principles (ISoLA 2022), Lecture Notes in Computer Science, vol. 13701
+thumbnail: media/publications/safe-policy-improvement-in-constrained-markov-decision-processes.webp
+thumbnailAlt: Policy Assessment Metric over training steps for TLTL, BHNR and HPRS on Cartpole and Bipedal Walker
+thumbnailKind: Figure 3
+thumbnailPage: 16
+thumbnailSource: "-"
+verification:
+  scholar:
+    status: not_verified_access_restricted
+    checkedAt: 2026-11-02
+    note: Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification.
+  arxiv:
+    status: matched
+    checkedAt: 2026-11-02
+    source: https://arxiv.org/abs/2210.11259
+    version: v1
+  publisher:
+    status: matched
+    checkedAt: 2026-11-19
+    source: https://api.crossref.org/works/10.1007/978-3-031-19849-6_21
+    note: Springer Crossref record matches title and both authors, pp. 360-381; arXiv journal-ref LNCS 13701 (2022) 360-381.
+arxiv:
+  id: "2210.11259"
+  version: v1
+  title: Safe Policy Improvement in Constrained Markov Decision Processes
+  authors:
+    - Luigi Berducci
+    - Radu Grosu
+  published: 2022-10-20
+  updated: 2022-10-20
+  url: https://arxiv.org/abs/2210.11259
+  pdf: https://arxiv.org/pdf/2210.11259
+  journalRef: LNCS 13701 (2022) 360-381;
+  doi: 10.1007/978-3-031-19849-6_21
+  comments: Accepted for presentation at the International Symposium on Leveraging Applications of Formal Methods (ISoLA, 2022)

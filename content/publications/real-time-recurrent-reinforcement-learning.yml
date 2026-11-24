@@ -1,0 +1,43 @@
+title: Real-Time Recurrent Reinforcement Learning
+draft: false
+citation: Lemmel, J., & Grosu, R. (2025). Real-Time Recurrent Reinforcement Learning. In Proceedings of the 39th Annual AAAI Conference on Artificial Intelligence (pp. 18189–18197). AAAI Press. https://doi.org/10.1609/aaai.v39i17.34001
+url: https://repositum.tuwien.at/handle/20.500.12708/214290
+year: 2025
+type: Conference
+source: https://informatics.tuwien.ac.at/people/radu-grosu
+doi: 10.1609/aaai.v39i17.34001
+authors:
+  - Julian Lemmel
+  - Radu Grosu
+venue: Proceedings of the AAAI Conference on Artificial Intelligence
+scholar: https://scholar.google.com/scholar?q=%22Real-Time%20Recurrent%20Reinforcement%20Learning%22
+thumbnail: media/publications/real-time-recurrent-reinforcement-learning.webp
+thumbnailAlt: "RTRRL training step diagram: RNN step, environment action, TD error, eligibility-trace and parameter updates"
+thumbnailKind: Figure 7
+thumbnailPage: 11
+thumbnailSource: https://arxiv.org/pdf/2311.04830
+pdf: https://arxiv.org/pdf/2311.04830
+verification:
+  scholar:
+    status: not_verified_access_restricted
+    checkedAt: 2026-11-02
+    note: Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification.
+  arxiv:
+    status: matched
+    checkedAt: 2026-11-02
+    source: https://arxiv.org/abs/2311.04830
+    version: v3
+arxiv:
+  id: "2311.04830"
+  version: v3
+  title: Real-Time Recurrent Reinforcement Learning
+  authors:
+    - Julian Lemmel
+    - Radu Grosu
+  published: 2023-11-08
+  updated: 2025-03-13
+  url: https://arxiv.org/abs/2311.04830
+  pdf: https://arxiv.org/pdf/2311.04830
+  journalRef: ""
+  doi: 10.1609/aaai.v39i17.34001
+  comments: 14 pages, 9 figures, includes Appendix

@@ -1,0 +1,52 @@
+title: Learning with Chemical versus Electrical Synapses - Does it Make a Difference?
+draft: false
+racing: true
+citation: Mónika Farsang, Mathias Lechner, David Lung, Ramin Hasani, Daniela Rus and Radu Grosu. Learning with Chemical versus Electrical Synapses - Does it Make a Difference? 2024 IEEE International Conference on Robotics and Automation (ICRA). 2024.
+url: https://doi.org/10.1109/ICRA57147.2024.10611016
+source: https://monifarsang.github.io/publications/
+year: 2024
+type: Conference
+authors:
+  - Mónika Farsang
+  - Mathias Lechner
+  - David Lung
+  - Ramin Hasani
+  - Daniela Rus
+  - Radu Grosu
+venue: 2024 IEEE International Conference on Robotics and Automation (ICRA)
+doi: 10.1109/icra57147.2024.10611016
+scholar: https://scholar.google.com/scholar?q=%22Learning%20with%20Chemical%20versus%20Electrical%20Synapses%20-%20Does%20it%20Make%20a%20Difference%3F%22
+thumbnailAlt: Front-camera images of a forest road in summer and in winter from the lane-keeping driving dataset
+thumbnailKind: Figure 3
+thumbnailPage: 4
+thumbnailSource: https://arxiv.org/pdf/2401.08602
+thumbnail: media/publications/learning-with-chemical-versus-electrical-synapses-does-it-make-a-difference.webp
+pdf: https://arxiv.org/pdf/2401.08602
+verification:
+  scholar:
+    status: not_verified_access_restricted
+    checkedAt: 2026-11-02
+    note: Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification.
+  arxiv:
+    status: matched
+    checkedAt: 2026-11-02
+    source: https://arxiv.org/abs/2401.08602
+    version: v1
+arxiv:
+  id: "2401.08602"
+  version: v1
+  title: Learning with Chemical versus Electrical Synapses -- Does it Make a Difference?
+  authors:
+    - Mónika Farsang
+    - Mathias Lechner
+    - David Lung
+    - Ramin Hasani
+    - Daniela Rus
+    - Radu Grosu
+  published: 2023-11-21
+  updated: 2023-11-21
+  url: https://arxiv.org/abs/2401.08602
+  pdf: https://arxiv.org/pdf/2401.08602
+  journalRef: ""
+  doi: ""
+  comments: ""

@@ -1,0 +1,45 @@
+title: Liquid Resistance Liquid Capacitance Networks
+draft: false
+year: 2026
+type: Book chapter
+authors:
+  - Mónika Farsang
+  - Sophie A. Neubauer
+  - Radu Grosu
+venue: Lecture Notes in Computer Science
+doi: 10.1007/978-3-032-16855-9_11
+source: https://orcid.org/0009-0002-9305-6507
+url: https://doi.org/10.1007/978-3-032-16855-9_11
+citation: Mónika Farsang, Sophie A. Neubauer, Radu Grosu (2026). Liquid Resistance Liquid Capacitance Networks. Lecture Notes in Computer Science.
+scholar: https://scholar.google.com/scholar?q=%22Liquid%20Resistance%20Liquid%20Capacitance%20Networks%22
+thumbnail: media/publications/liquid-resistance-liquid-capacitance-networks-2026.webp
+thumbnailAlt: Front-camera road frames in summer and winter from the lane-keeping task, with the red input region and blue predicted steering line
+thumbnailKind: Figure 6
+thumbnailPage: 10
+thumbnailSource: https://arxiv.org/pdf/2403.08791
+pdf: https://arxiv.org/pdf/2403.08791
+verification:
+  scholar:
+    status: not_verified_access_restricted
+    checkedAt: 2026-11-02
+    note: Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification.
+  arxiv:
+    status: matched
+    checkedAt: 2026-11-02
+    source: https://arxiv.org/abs/2403.08791
+    version: v4
+arxiv:
+  id: "2403.08791"
+  version: v4
+  title: Liquid Resistance Liquid Capacitance Networks
+  authors:
+    - Mónika Farsang
+    - Sophie A. Neubauer
+    - Radu Grosu
+  published: 2024-01-30
+  updated: 2025-08-11
+  url: https://arxiv.org/abs/2403.08791
+  pdf: https://arxiv.org/pdf/2403.08791
+  journalRef: ""
+  doi: ""
+  comments: ""

@@ -1,0 +1,21 @@
+# New team member. Create a copy with:  npm run new -- member <id> "First Last"
+# Use the full name as id, e.g. jane-doe. It is the anchor on members.html (members.html#jane-doe).
+name: {{title}}
+# Keep `draft: true` until the person has agreed to be listed. Drafts are not published.
+draft: true
+# Tie-breaker for the order; the page sorts by role (postdoc, PhD, master, bachelor) and surname.
+order: 1000
+status: Active Team              # Active Team, Associated Members or Alumni
+bio: ""                          # e.g. "PhD student at TU Wien." Words like PhD/master set the order
+topics: []                       # research interests, e.g. [Model predictive control, LiDAR]
+image: media/member-placeholder.svg   # photo in public/media/, ideally square .webp
+credit: Placeholder image        # photo credit
+source: null                     # optional link to a team profile
+linkedin: null                   # optional LinkedIn URL
+# Google Scholar: a profile URL, or false to hide the link. Leave it out for a Scholar search link.
+scholar: false
+# thesis: id-of-a-file-in-content-theses   # optional link to the thesis topic
+contributions: []                # short sentences about what the person built
+contributionSources: []
+membershipSource: Who confirmed the membership, and when ({{date}})
+# aliases: [J. Doe]              # other spellings used in publication author lists

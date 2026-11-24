@@ -1,0 +1,55 @@
+title: "Parallelization of Non-linear State-Space Models: Scaling Up Liquid-Resistance Liquid-Capacitance Networks for Efficient Sequence Modeling"
+draft: false
+citation: "Farsang, M., & Grosu, R. (2025). Parallelization of Non-linear State-Space Models: Scaling Up Liquid-Resistance Liquid-Capacitance Networks for Efficient Sequence Modeling. In Advances in Neural Information Processing Systems 38 (NeurIPS 2025) (pp. 187337–187363). https://doi.org/10.52202/085713-5633"
+url: https://openreview.net/forum?id=ENYvdnyhLl
+source: https://monifarsang.github.io/publications/
+year: 2025
+type: Conference
+scholar: https://scholar.google.com/scholar?q=%22Parallelization%20of%20Non-linear%20State-Space%20Models%3A%20Scaling%20Up%20Liquid-Resistance%20Liquid-Capacitance%20Networks%20for%20Efficient%20Sequence%20Modeling%22
+authorsText: Mónika Farsang and Radu Grosu
+venue: Advances in Neural Information Processing Systems 38 (NeurIPS 2025)
+authors:
+  - Mónika Farsang
+  - Radu Grosu
+thumbnail: media/publications/parallelization-of-non-linear-state-space-models-scaling-up-liquid-resistance-liquid-capacitance-networks-for-efficient-sequence-modeling.webp
+thumbnailAlt: "LrcSSM architecture: input encoder, LrcSSM block with parallelizable state updates and MLP, decoder"
+thumbnailKind: Figure 1
+thumbnailPage: 2
+thumbnailSource: https://arxiv.org/pdf/2505.21717
+verification:
+  scholar:
+    status: not_verified_access_restricted
+    checkedAt: 2026-11-02
+    note: Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification.
+  arxiv:
+    status: matched
+    checkedAt: 2026-11-02
+    source: https://arxiv.org/abs/2505.21717
+    version: v6
+  publisher:
+    status: matched
+    checkedAt: 2026-11-19
+    source: https://api.crossref.org/works/10.52202/085713-5633
+    note: Crossref record (Neural Information Processing Systems Foundation) matches title and both authors, pp. 187337-187363; NeurIPS proceedings page https://papers.neurips.cc/paper_files/paper/2025/hash/f778e9efdb4392e56332d25647b87c09-Abstract-Conference.html lists it in the Main Conference Track with this DOI.
+arxiv:
+  id: "2505.21717"
+  version: v6
+  title: "Parallelization of Non-linear State-Space Models: Scaling Up Liquid-Resistance Liquid-Capacitance Networks for Efficient Sequence Modeling"
+  authors:
+    - Mónika Farsang
+    - Ramin Hasani
+    - Daniela Rus
+    - Radu Grosu
+  published: 2025-05-27
+  updated: 2025-12-14
+  url: https://arxiv.org/abs/2505.21717
+  pdf: https://arxiv.org/pdf/2505.21717
+  journalRef: ""
+  doi: ""
+  comments: NeurIPS 2025
+aliases:
+  - scaling-up-liquid-resistance-liquid-capacitance-networks-for-efficient-sequence-modeling
+alternateSources:
+  - https://repositum.tuwien.at/handle/20.500.12708/223745
+code: https://github.com/MoniFarsang/LrcSSM
+doi: 10.52202/085713-5633

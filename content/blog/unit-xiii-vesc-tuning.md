@@ -1,15 +1,12 @@
 ---
-{
-  "date": "2026-11-04",
-  "author": "Scuderia Segfault",
-  "draft": true,
-  "title": "Unit XIII: VESC Tuning",
-  "summary": "Bench setup, baseline configuration and tuning results.",
-  "tags": [
-    "Unit XIII",
-    "VESC"
-  ]
-}
+title: "Unit XIII: VESC Tuning"
+date: 2026-11-04
+draft: true
+author: Scuderia Segfault
+summary: Bench setup, baseline configuration and tuning results.
+tags:
+  - Unit XIII
+  - VESC
 ---
 
 ## Bringing up the motor and VESC

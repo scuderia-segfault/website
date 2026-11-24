@@ -1,0 +1,21 @@
+name: Larisa Clement
+draft: false
+order: 70
+aliases:
+  - Mihaela-Larisa Clement
+status: Active Team
+bio: PhD student in Cyber-Physical Systems at TU Wien and AIT Austrian Institute of Technology
+topics:
+  - Cognitive robotics
+  - Machine learning
+  - Security & Explainability in ML
+image: media/mihaela-larisa-clement-500x333.webp
+credit: © TU Wien, Andreas Brandstätter
+source: https://informatics.tuwien.ac.at/people/mihaela-larisa-clement
+linkedin: null
+contributions:
+  - Master’s thesis on multimodal RGB-D autonomous agents (2025).
+  - Co-author of work on RGB-D controllers, domain-shift generalization, RNN-based MPC, RoboRacer Arena track construction and neural safety certificates.
+contributionSources:
+  - https://informatics.tuwien.ac.at/people/mihaela-larisa-clement
+membershipSource: Confirmed by Agnes Poks, 2026-11-02; PhD with TU Wien and AIT confirmed by Larisa Clement, 2026-11-19

@@ -1,0 +1,26 @@
+title: Neural Circuit Policies Enabling Auditable Autonomy
+draft: false
+racing: true
+citation: Lechner, M., Hasani, R., Amini, A., Henzinger, T. A., Rus, D., & Grosu, R. (2020). Neural Circuit Policies Enabling Auditable Autonomy. Nature Machine Intelligence , 2 (10), 642–652. https://doi.org/10.1038/s42256-020-00237-3
+url: https://repositum.tuwien.at/handle/20.500.12708/141225
+year: 2020
+type: Journal
+source: https://informatics.tuwien.ac.at/people/radu-grosu
+doi: 10.1038/s42256-020-00237-3
+authors:
+  - Mathias Lechner
+  - Ramin Hasani
+  - Alexander Amini
+  - Thomas A. Henzinger
+  - Daniela Rus
+  - Radu Grosu
+venue: Nature Machine Intelligence
+scholar: https://scholar.google.com/scholar?q=%22Neural%20Circuit%20Policies%20Enabling%20Auditable%20Autonomy%22
+verification:
+  scholar:
+    status: not_verified_access_restricted
+    checkedAt: 2026-11-02
+    note: Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification.
+  arxiv:
+    status: no_matching_arxiv_record_in_checked_sources
+    checkedAt: 2026-11-02

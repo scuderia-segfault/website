@@ -1,0 +1,29 @@
+title: Multi-Agent Spatial Predictive Control with Application to Drone Flocking
+draft: false
+citation: Brandstatter, A., Smolka, S. A., Stoller, S. D., Tiwari, A., & Grosu, R. (2023). Multi-Agent Spatial Predictive Control with Application to Drone Flocking. In 2023 IEEE International Conference on Robotics and Automation (ICRA) (pp. 1221–1227). IEEE. https://doi.org/10.1109/ICRA48891.2023.10160617
+url: https://repositum.tuwien.at/handle/20.500.12708/188265
+year: 2023
+type: Conference
+source: https://informatics.tuwien.ac.at/people/andreas-brandstaetter
+doi: 10.1109/ICRA48891.2023.10160617
+authors:
+  - Andreas Brandstätter
+  - Scott A. Smolka
+  - Scott D. Stoller
+  - Ashish Tiwari
+  - Radu Grosu
+venue: 2023 IEEE International Conference on Robotics and Automation (ICRA)
+scholar: https://scholar.google.com/scholar?q=%22Multi-Agent%20Spatial%20Predictive%20Control%20with%20Application%20to%20Drone%20Flocking%22
+thumbnail: media/publications/multi-agent-spatial-predictive-control-with-application-to-drone-flocking.webp
+thumbnailAlt: Cost-function heatmap around four neighbouring drones with look-ahead paths of drone i from three positions
+thumbnailKind: Figure 1
+thumbnailPage: 1
+thumbnailSource: https://arxiv.org/pdf/2203.16960
+verification:
+  scholar:
+    status: not_verified_access_restricted
+    checkedAt: 2026-11-02
+    note: Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification.
+  arxiv:
+    status: no_matching_arxiv_record_in_checked_sources
+    checkedAt: 2026-11-02

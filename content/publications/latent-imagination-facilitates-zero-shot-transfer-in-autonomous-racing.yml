@@ -1,0 +1,55 @@
+title: Latent Imagination Facilitates Zero-Shot Transfer in Autonomous Racing
+draft: false
+racing: true
+citation: Brunnbauer, A., Berducci, L., Brandstätter, A., Lechner, M., Hasani, R., Rus, D., & Grosu, R. (2022). Latent Imagination Facilitates Zero-Shot Transfer in Autonomous Racing. In 2022 IEEE International Conference on Robotics and Automation (ICRA) (pp. 7513–7520). https://doi.org/10.1109/ICRA46639.2022.9811650
+url: https://repositum.tuwien.at/handle/20.500.12708/154429
+year: 2022
+type: Conference
+source: https://www.tuwien.at/inf/scuderia-segfault/research/
+doi: 10.1109/ICRA46639.2022.9811650
+authors:
+  - Axel Brunnbauer
+  - Luigi Berducci
+  - Andreas Brandstatter
+  - Mathias Lechner
+  - Ramin Hasani
+  - Daniela Rus
+  - Radu Grosu
+venue: 2022 International Conference on Robotics and Automation (ICRA)
+scholar: https://scholar.google.com/scholar?q=%22Latent%20Imagination%20Facilitates%20Zero-Shot%20Transfer%20in%20Autonomous%20Racing%22
+thumbnail: media/publications/latent-imagination-facilitates-zero-shot-transfer-in-autonomous-racing.webp
+thumbnailAlt: Photo of the F1TENTH racing car on an indoor track with its LiDAR observation, reward regions and motor/steering actions
+thumbnailKind: Figure 2
+thumbnailPage: 2
+thumbnailSource: https://arxiv.org/pdf/2103.04909
+pdf: https://arxiv.org/pdf/2103.04909
+verification:
+  scholar:
+    status: not_verified_access_restricted
+    checkedAt: 2026-11-02
+    note: Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification.
+  arxiv:
+    status: matched
+    checkedAt: 2026-11-02
+    source: https://arxiv.org/abs/2103.04909
+    version: v3
+arxiv:
+  id: "2103.04909"
+  version: v3
+  title: Latent Imagination Facilitates Zero-Shot Transfer in Autonomous Racing
+  authors:
+    - Axel Brunnbauer
+    - Luigi Berducci
+    - Andreas Brandstätter
+    - Mathias Lechner
+    - Ramin Hasani
+    - Daniela Rus
+    - Radu Grosu
+  published: 2021-03-08
+  updated: 2022-02-28
+  url: https://arxiv.org/abs/2103.04909
+  pdf: https://arxiv.org/pdf/2103.04909
+  journalRef: ""
+  doi: ""
+  comments: This paper is accepted for presentation at the International Conference on Robotics and Automation (ICRA), 2022
+code: https://github.com/CPS-TUWien/racing_dreamer

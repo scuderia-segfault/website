@@ -1,0 +1,48 @@
+title: Learning Adaptive Safety for Multi-Agent Systems
+draft: false
+racing: true
+citation: Berducci, L., Yang, S., Mangharam, R., & Grosu, R. (2024). Learning Adaptive Safety for Multi-Agent Systems. In 2024 IEEE International Conference on Robotics and Automation (ICRA) (pp. 2859–2865). IEEE. https://doi.org/10.1109/ICRA57147.2024.10611037
+url: https://repositum.tuwien.at/handle/20.500.12708/202364
+year: 2024
+type: Conference
+source: https://informatics.tuwien.ac.at/people/radu-grosu
+doi: 10.1109/ICRA57147.2024.10611037
+authors:
+  - Luigi Berducci
+  - Shuo Yang
+  - Rahul Mangharam
+  - Radu Grosu
+venue: 2024 IEEE International Conference on Robotics and Automation (ICRA)
+scholar: https://scholar.google.com/scholar?q=%22Learning%20Adaptive%20Safety%20for%20Multi-Agent%20Systems%22
+thumbnail: media/publications/learning-adaptive-safety-for-multi-agent-systems.webp
+thumbnailAlt: "Hierarchical adaptive safety framework: multi-agent driving environment with cars, observation encoder, policy and safety heads feeding CBF safety filters"
+thumbnailKind: Figure 1
+thumbnailPage: 1
+thumbnailSource: https://arxiv.org/pdf/2309.10657
+pdf: https://arxiv.org/pdf/2309.10657
+verification:
+  scholar:
+    status: not_verified_access_restricted
+    checkedAt: 2026-11-02
+    note: Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification.
+  arxiv:
+    status: matched
+    checkedAt: 2026-11-02
+    source: https://arxiv.org/abs/2309.10657
+    version: v2
+arxiv:
+  id: "2309.10657"
+  version: v2
+  title: Learning Adaptive Safety for Multi-Agent Systems
+  authors:
+    - Luigi Berducci
+    - Shuo Yang
+    - Rahul Mangharam
+    - Radu Grosu
+  published: 2023-09-19
+  updated: 2023-10-04
+  url: https://arxiv.org/abs/2309.10657
+  pdf: https://arxiv.org/pdf/2309.10657
+  journalRef: ""
+  doi: ""
+  comments: Update with appendix

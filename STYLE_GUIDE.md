@@ -44,7 +44,7 @@ Ours: "Scuderia Segfault: students and researchers at TU Wien who build, program
 
 AMZ shows stat counters near the top: *Founded in*, *Years of experience*, *World record holders since*;
 car pages use spec cards: *Output*, *Top Speed*, *Acceleration*, *Weight*.
-Ours (verified): **OUR RACE RECORD · 3 × 1ST PLACE · 2 × 2ND PLACE · 1 × 3RD PLACE · 2 × 4TH PLACE**. Counts come from the race table in `scripts/build-site.mjs`; update when results change.
+Ours (verified): **OUR RACE RECORD · 3 × 1ST PLACE · 2 × 2ND PLACE · 1 × 3RD PLACE · 2 × 4TH PLACE**. Counts come from the race strip in `scripts/pages/home.mjs`; update when results change.
 
 ## 6. One-line cards (gerund-led)
 

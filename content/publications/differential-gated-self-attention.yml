@@ -1,0 +1,45 @@
+title: Differential Gated Self-Attention
+draft: false
+citation: Elpiniki Maria Lygizou, Mónika Farsang, Radu Grosu (2025). Differential Gated Self-Attention. arXiv:2505.24054 (v2).
+url: https://arxiv.org/abs/2505.24054
+source: https://monifarsang.github.io/publications/
+year: 2025
+type: Preprint
+doi: 10.48550/arXiv.2505.24054
+authors:
+  - Elpiniki Maria Lygizou
+  - Mónika Farsang
+  - Radu Grosu
+pdf: https://arxiv.org/pdf/2505.24054
+scholar: https://scholar.google.com/scholar?q=%22Differential%20Gated%20Self-Attention%22
+venue: arXiv
+thumbnail: media/publications/differential-gated-self-attention.webp
+thumbnailAlt: Attention-rollout heatmaps of DGViT, DViT and ViT for two CIFAR-100 images
+thumbnailKind: Figure 2
+thumbnailPage: 8
+thumbnailSource: https://arxiv.org/pdf/2505.24054
+verification:
+  scholar:
+    status: not_verified_access_restricted
+    checkedAt: 2026-11-02
+    note: Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification.
+  arxiv:
+    status: matched
+    checkedAt: 2026-11-02
+    source: https://arxiv.org/abs/2505.24054
+    version: v2
+arxiv:
+  id: "2505.24054"
+  version: v2
+  title: Differential Gated Self-Attention
+  authors:
+    - Elpiniki Maria Lygizou
+    - Mónika Farsang
+    - Radu Grosu
+  published: 2025-05-29
+  updated: 2025-09-25
+  url: https://arxiv.org/abs/2505.24054
+  pdf: https://arxiv.org/pdf/2505.24054
+  journalRef: ""
+  doi: ""
+  comments: ""

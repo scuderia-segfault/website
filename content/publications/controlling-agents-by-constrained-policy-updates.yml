@@ -1,0 +1,27 @@
+title: Controlling Agents by Constrained Policy Updates
+draft: false
+citation: Mónika Farsang and Luca Szegletes. Controlling Agents by Constrained Policy Updates. System Theory, Control and Computing Journal. 2021.
+url: https://doi.org/10.52846/stccj.2021.1.2.24
+source: https://monifarsang.github.io/publications/
+year: 2021
+type: Journal
+authors:
+  - Mónika Farsang
+  - Luca Szegletes
+venue: SYSTEM THEORY, CONTROL AND COMPUTING JOURNAL
+doi: 10.52846/stccj.2021.1.2.24
+scholar: https://scholar.google.com/scholar?q=%22Controlling%20Agents%20by%20Constrained%20Policy%20Updates%22
+pdf: https://stccj.ucv.ro/index.php/stccj/article/download/24/16
+thumbnail: media/publications/controlling-agents-by-constrained-policy-updates.webp
+thumbnailAlt: Lunar Lander, Bipedal Walker and Car Racing simulation scenes with learning curves for different PPO clipping strategies
+thumbnailKind: Figure 4
+thumbnailPage: 4
+thumbnailSource: "-"
+verification:
+  scholar:
+    status: not_verified_access_restricted
+    checkedAt: 2026-11-02
+    note: Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification.
+  arxiv:
+    status: no_matching_arxiv_record_in_checked_sources
+    checkedAt: 2026-11-02

@@ -1,0 +1,23 @@
+title: Wholistic simulation of an all-electric refrigerated delivery vehicle
+draft: false
+year: 2020
+type: Conference
+authors:
+  - Agnes Poks
+  - Elisabeth Luchini
+  - Filip Kitanoski
+  - Martin Kozek
+venue: 2020 SICE International Symposium on Control Systems (SICE ISCS)
+doi: 10.23919/SICEISCS48470.2020.9083498
+source: https://orcid.org/0000-0002-0276-4552
+url: https://doi.org/10.23919/SICEISCS48470.2020.9083498
+citation: "@article{Poks2020,title = {Wholistic simulation of an all-electric refrigerated delivery vehicle},journal = {Proceedings of 2020 SICE International Symposium on Control Systems, SICE ISCS 2020},year = {2020},pages = {1-6},author = {Poks, A. and Luchini, E. and Kitanoski, F. and Kozek, M.}}"
+scholar: https://scholar.google.com/scholar?q=%22Wholistic%20simulation%20of%20an%20all-electric%20refrigerated%20delivery%20vehicle%22
+verification:
+  scholar:
+    status: not_verified_access_restricted
+    checkedAt: 2026-11-02
+    note: Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification.
+  arxiv:
+    status: no_matching_arxiv_record_in_checked_sources
+    checkedAt: 2026-11-02

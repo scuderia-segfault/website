@@ -1,0 +1,28 @@
+title: "Energy Management in Refrigerated Electric Small Transport: A Hierarchical Approach"
+draft: false
+year: 2024
+type: Journal
+authors:
+  - Agnes Poks
+  - Alexander Schirrer
+  - Martin Kozek
+venue: IEEE Access
+doi: 10.1109/ACCESS.2024.3507673
+source: https://orcid.org/0000-0002-0276-4552
+url: https://doi.org/10.1109/ACCESS.2024.3507673
+citation: "Agnes Poks, Alexander Schirrer, Martin Kozek (2024). Energy Management in Refrigerated Electric Small Transport: A Hierarchical Approach. IEEE Access."
+scholar: https://scholar.google.com/scholar?q=%22Energy%20Management%20in%20Refrigerated%20Electric%20Small%20Transport%3A%20A%20Hierarchical%20Approach%22
+thumbnail: media/publications/energy-management-in-refrigerated-electric-small-transport-a-hierarchical-approach-2024.webp
+thumbnailAlt: Photo of the electric refrigerated delivery van on the climate-controlled measurement testbed
+thumbnailKind: Figure 6
+thumbnailPage: 11
+thumbnailSource: https://repositum.tuwien.at/bitstream/20.500.12708/210924/1/Poks-2024-IEEE%20Access-vor.pdf
+pdf: https://repositum.tuwien.at/bitstream/20.500.12708/210924/1/Poks-2024-IEEE%20Access-vor.pdf
+verification:
+  scholar:
+    status: not_verified_access_restricted
+    checkedAt: 2026-11-02
+    note: Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification.
+  arxiv:
+    status: no_matching_arxiv_record_in_checked_sources
+    checkedAt: 2026-11-02

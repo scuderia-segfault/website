@@ -1,13 +1,14 @@
 ---
-{
-  "date": "2026-11-06",
-  "author": "Scuderia Segfault",
-  "draft": false,
-  "title": "Unit XIII: Power and Signal Schematic",
-  "summary": "How the Serpent's VESC, 12 V converter, steering servo and USB-powered sensors are connected.",
-  "tags": ["Unit XIII", "Hardware", "Wiring"],
-  "cover": "uploads/uni13_wordmark.jpg"
-}
+title: "Unit XIII: Power and Signal Schematic"
+date: 2026-11-06
+draft: false
+author: Scuderia Segfault
+summary: How the Serpent's VESC, 12 V converter, steering servo and USB-powered sensors are connected.
+tags:
+  - Unit XIII
+  - Hardware
+  - Wiring
+cover: uploads/uni13_wordmark.jpg
 ---
 
 This wiring overview maps the planned power and signal paths on our Serpent SRX8GTE R. Open the schematic to zoom in on the wire pairs, connector labels and converter pins.

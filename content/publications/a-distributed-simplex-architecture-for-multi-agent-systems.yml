@@ -1,0 +1,30 @@
+title: A distributed simplex architecture for multi-agent systems
+draft: false
+citation: Mehmood, U., Roy, S., Damare, A., Grosu, R., Smolka, S. A., & Stoller, S. D. (2022). A distributed simplex architecture for multi-agent systems. Journal of Systems Architecture , 134 , 102784. https://doi.org/10.1016/j.sysarc.2022.102784
+url: https://repositum.tuwien.at/handle/20.500.12708/218643
+year: 2022
+type: Journal
+source: https://informatics.tuwien.ac.at/people/radu-grosu
+doi: 10.1016/j.sysarc.2022.102784
+authors:
+  - Usama Mehmood
+  - Shouvik Roy
+  - Amol Damare
+  - Radu Grosu
+  - Scott A. Smolka
+  - Scott D. Stoller
+venue: Journal of Systems Architecture
+scholar: https://scholar.google.com/scholar?q=%22A%20distributed%20simplex%20architecture%20for%20multi-agent%20systems%22
+thumbnail: media/publications/a-distributed-simplex-architecture-for-multi-agent-systems.webp
+thumbnailAlt: "Block diagram of the distributed simplex architecture: advanced and baseline controllers, decision module and agents in a network"
+thumbnailKind: Figure 1
+thumbnailPage: 2
+thumbnailSource: https://arxiv.org/pdf/2012.10153
+verification:
+  scholar:
+    status: not_verified_access_restricted
+    checkedAt: 2026-11-02
+    note: Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification.
+  arxiv:
+    status: no_matching_arxiv_record_in_checked_sources
+    checkedAt: 2026-11-02

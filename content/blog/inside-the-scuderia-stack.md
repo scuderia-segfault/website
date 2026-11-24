@@ -1,23 +1,17 @@
 ---
-{
-  "date": "2026-11-02",
-  "author": "Scuderia Segfault",
-  "draft": false,
-  "title": "Inside the Scuderia stack",
-  "summary": "A short tour from sensor inputs to vehicle commands.",
-  "cover": "uploads/scuderia-system-architecture.png",
-  "tags": [
-    "Engineering note",
-    "Control"
-  ],
-  "repositories": [
-    {
-      "label": "ScuderiaSegfault/t2v_mod",
-      "url": "https://github.com/ScuderiaSegfault/t2v_mod",
-      "description": "Related Track-to-Vehicle communication module."
-    }
-  ]
-}
+title: Inside the Scuderia stack
+date: 2026-11-02
+draft: false
+author: Scuderia Segfault
+summary: A short tour from sensor inputs to vehicle commands.
+cover: uploads/scuderia-system-architecture.png
+tags:
+  - Engineering note
+  - Control
+repositories:
+  - label: ScuderiaSegfault/t2v_mod
+    url: https://github.com/ScuderiaSegfault/t2v_mod
+    description: Related Track-to-Vehicle communication module.
 ---
 
 An autonomous racing car is a chain of connected decisions. This architecture overview from our working materials shows how sensing, state estimation, planning and control fit together.

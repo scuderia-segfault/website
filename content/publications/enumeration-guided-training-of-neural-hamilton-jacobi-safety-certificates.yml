@@ -1,0 +1,57 @@
+title: Enumeration-Guided Training of Neural Hamilton-Jacobi Safety Certificates
+draft: false
+racing: true
+year: 2026
+type: Preprint
+authors:
+  - Mihaela-Larisa Clement
+  - Tosca Pierro
+  - Ezio Bartocci
+  - Luca Marzari
+venue: arXiv
+doi: 10.48550/arXiv.2610.27870
+url: https://arxiv.org/abs/2610.27870
+source: https://arxiv.org/abs/2610.27870
+citation: Mihaela-Larisa Clement, Tosca Pierro, Ezio Bartocci, Luca Marzari (2026). Enumeration-Guided Training of Neural Hamilton-Jacobi Safety Certificates. arXiv:2610.27870 (v1).
+pdf: https://arxiv.org/pdf/2610.27870
+scholar: https://scholar.google.com/scholar?q=%22Enumeration-Guided%20Training%20of%20Neural%20Hamilton-Jacobi%20Safety%20Certificates%22
+thumbnail: media/publications/enumeration-guided-training-of-neural-hamilton-jacobi-safety-certificates.webp
+thumbnailAlt: Overview of enumeration-guided training, fine-tuning with verification, and the online safety filter deployed on a RoboRacer car
+thumbnailKind: Figure 1
+thumbnailPage: 2
+thumbnailSource: https://arxiv.org/pdf/2610.27870
+verification:
+  scholar:
+    status: not_verified_access_restricted
+    checkedAt: 2026-11-19
+    note: Google Scholar redirected the automated request (302 to google.com/sgsync) instead of returning results; a Scholar search link is not proof of verification.
+  arxiv:
+    status: matched
+    checkedAt: 2026-11-19
+    source: https://arxiv.org/abs/2610.27870
+    version: v1
+  platform:
+    status: matched
+    checkedAt: 2026-11-19
+    source: https://arxiv.org/pdf/2610.27870v1
+    note: Full text lists TU Wien affiliations (Clement, Bartocci, Marzari) and reports a RoboRacer (formerly F1TENTH) obstacle-avoidance benchmark plus deployment on a physical RoboRacer car on a real racing circuit.
+  publishedVersion:
+    status: none_found
+    checkedAt: 2026-11-19
+    note: No journal_ref/DOI on arXiv and no Crossref match for the title; kept as a preprint.
+arxiv:
+  id: "2610.27870"
+  version: v1
+  title: Enumeration-Guided Training of Neural Hamilton-Jacobi Safety Certificates
+  authors:
+    - Mihaela-Larisa Clement
+    - Tosca Pierro
+    - Ezio Bartocci
+    - Luca Marzari
+  published: 2026-10-20
+  updated: 2026-10-20
+  url: https://arxiv.org/abs/2610.27870
+  pdf: https://arxiv.org/pdf/2610.27870
+  journalRef: ""
+  doi: ""
+  comments: ""

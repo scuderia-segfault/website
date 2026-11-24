@@ -1,0 +1,52 @@
+title: Adaptive Control in Autonomous Driving via Real-Time Recurrent RL
+draft: false
+racing: true
+citation: Julian Lemmel, Felix Resch, Mónika Farsang, Ramin Hasani, Daniela Rus, Radu Grosu (2026). Adaptive Control in Autonomous Driving via Real-Time Recurrent RL. arXiv:2602.02236 (v4).
+url: https://arxiv.org/abs/2602.02236
+source: https://monifarsang.github.io/publications/
+year: 2026
+type: Preprint
+doi: 10.48550/arXiv.2602.02236
+authors:
+  - Julian Lemmel
+  - Felix Resch
+  - Mónika Farsang
+  - Ramin Hasani
+  - Daniela Rus
+  - Radu Grosu
+pdf: https://arxiv.org/pdf/2602.02236
+scholar: https://scholar.google.com/scholar?q=%22Adaptive%20Control%20in%20Autonomous%20Driving%20via%20Real-Time%20Recurrent%20RL%22
+venue: arXiv
+thumbnail: media/publications/adaptive-control-in-autonomous-driving-via-real-time-recurrent-rl.webp
+thumbnailAlt: Overview of offline pre-training and real-time online fine-tuning pipeline next to a photo of the RoboRacer car with event camera
+thumbnailKind: Figure 1
+thumbnailPage: 2
+thumbnailSource: https://arxiv.org/pdf/2602.02236
+verification:
+  scholar:
+    status: not_verified_access_restricted
+    checkedAt: 2026-11-02
+    note: Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification.
+  arxiv:
+    status: matched
+    checkedAt: 2026-11-02
+    source: https://arxiv.org/abs/2602.02236
+    version: v4
+arxiv:
+  id: "2602.02236"
+  version: v4
+  title: Adaptive Control in Autonomous Driving via Real-Time Recurrent RL
+  authors:
+    - Julian Lemmel
+    - Felix Resch
+    - Mónika Farsang
+    - Ramin Hasani
+    - Daniela Rus
+    - Radu Grosu
+  published: 2026-02-02
+  updated: 2026-05-16
+  url: https://arxiv.org/abs/2602.02236
+  pdf: https://arxiv.org/pdf/2602.02236
+  journalRef: ""
+  doi: ""
+  comments: ""

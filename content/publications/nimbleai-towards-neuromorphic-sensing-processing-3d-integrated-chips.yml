@@ -1,0 +1,76 @@
+title: "NimbleAI: Towards Neuromorphic Sensing-Processing 3D-integrated Chips"
+draft: false
+citation: |-
+  NimbleAI: Towards Neuromorphic Sensing-Processing 3D-integrated Chips / 
+    Iturbe, X., Abderrahmane, N., Abella, J., Alcaide Portet, S., Beyne, E., Charles, H.-P., Charpin-Nicolle, C., Chittka, L., Dávilaa, A., Erdmann, A., Estrada, C., Fernández, A., Fontanelli, A., Flich, J., Furano, G., Gloriani, A. H., Isusquiza, E., Grosu, R., Hernández, C., … Zaykov, P. (2023). NimbleAI: Towards Neuromorphic Sensing-Processing 3D-integrated Chips. In 2023 Design, Automation & Test in Europe Conference & Exhibition (DATE) (pp. 1–6). https://doi.org/10.23919/DATE56975.2023.10136952 Project: NimbleAI (2022–2026)
+url: https://repositum.tuwien.at/handle/20.500.12708/218187
+year: 2023
+type: Conference
+source: https://informatics.tuwien.ac.at/people/radu-grosu
+doi: 10.23919/DATE56975.2023.10136952
+authors:
+  - Xabier Iturbe
+  - Nassim Abderrahmane
+  - Jaume Abella
+  - Sergi Alcaide
+  - Eric Beyne
+  - Henri-Pierre Charles
+  - Christelle Charpin-Nicolle
+  - Lars Chittka
+  - Angélica Dávila
+  - Arne Erdmann
+  - Carles Estrada
+  - Ander Fernández
+  - Anna Fontanelli
+  - José Flich
+  - Gianluca Furano
+  - Alejandro Hernán Gloriani
+  - Erik Isusquiza
+  - Radu Grosu
+  - Carles Hernández
+  - Daniele Ielmini
+  - David Jackson
+  - Maha Kooli
+  - Nicola Lepri
+  - Bernabé Linares-Barranco
+  - Jean-Loup Lachese
+  - Eric Laurent
+  - Menno Lindwer
+  - Frank Linsenmaier
+  - Mikel Luján
+  - Karel Masařík
+  - Nele Mentens
+  - Orlando Moreira
+  - Chinmay Nawghane
+  - Luca Peres
+  - Jean-Philippe Noel
+  - Arash Pourtaherian
+  - Christoph Posch
+  - Peter Priller
+  - Zdenek Prikryl
+  - Felix Resch
+  - Oliver Rhodes
+  - Todor Stefanov
+  - Moritz Storring
+  - Michele Taliercio
+  - Rafael Tornero
+  - Marcel van de Burgwal
+  - Geert van der Plas
+  - Elisa Vianello
+  - Pavel Zaykov
+venue: 2023 Design, Automation &amp; Test in Europe Conference &amp; Exhibition (DATE)
+scholar: https://scholar.google.com/scholar?q=%22NimbleAI%3A%20Towards%20Neuromorphic%20Sensing-Processing%203D-integrated%20Chips%22
+thumbnail: media/publications/nimbleai-towards-neuromorphic-sensing-processing-3d-integrated-chips.webp
+thumbnailAlt: NimbleAI conceptual functioning diagram and 3D-stacked chip architecture with sensing, processing and memory layers
+thumbnailKind: Figure 2
+thumbnailPage: 5
+thumbnailSource: "-"
+pdf: https://scholarlypublications.universiteitleiden.nl/download/1887/3718577/1?col=81522199340002711
+verification:
+  scholar:
+    status: not_verified_access_restricted
+    checkedAt: 2026-11-02
+    note: Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification.
+  arxiv:
+    status: no_matching_arxiv_record_in_checked_sources
+    checkedAt: 2026-11-02

@@ -1,0 +1,48 @@
+title: "Reshape and Recur: Improving SSMs with Input Reshaping and Depth Recurrence"
+draft: false
+racing: true
+citation: "Mónika Farsang, Ramin Hasani, Daniela Rus, Radu Grosu (2026). Reshape and Recur: Improving SSMs with Input Reshaping and Depth Recurrence. arXiv:2605.16048 (v2)."
+url: https://arxiv.org/abs/2605.16048
+source: https://monifarsang.github.io/publications/
+year: 2026
+type: Preprint
+doi: 10.48550/arXiv.2605.16048
+authors:
+  - Mónika Farsang
+  - Ramin Hasani
+  - Daniela Rus
+  - Radu Grosu
+pdf: https://arxiv.org/pdf/2605.16048
+scholar: https://scholar.google.com/scholar?q=%22Reshape%20and%20Recur%3A%20Improving%20SSMs%20with%20Input%20Reshaping%20and%20Depth%20Recurrence%22
+venue: arXiv
+thumbnail: media/publications/reshape-and-recur-improving-ssms-with-input-reshaping-and-depth-recurrence.webp
+thumbnailAlt: Colour-coded SSM blocks comparing an independent six-block baseline with depth-sharing strategies AAAAAA, ABABAB and ABCABC, plus the repeated-layer architecture
+thumbnailKind: Figure 1
+thumbnailPage: 3
+thumbnailSource: https://arxiv.org/pdf/2605.16048
+verification:
+  scholar:
+    status: not_verified_access_restricted
+    checkedAt: 2026-11-02
+    note: Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification.
+  arxiv:
+    status: matched
+    checkedAt: 2026-11-02
+    source: https://arxiv.org/abs/2605.16048
+    version: v2
+arxiv:
+  id: "2605.16048"
+  version: v2
+  title: "Reshape and Recur: Improving SSMs with Input Reshaping and Depth Recurrence"
+  authors:
+    - Mónika Farsang
+    - Ramin Hasani
+    - Daniela Rus
+    - Radu Grosu
+  published: 2026-05-15
+  updated: 2026-10-01
+  url: https://arxiv.org/abs/2605.16048
+  pdf: https://arxiv.org/pdf/2605.16048
+  journalRef: ""
+  doi: ""
+  comments: ""

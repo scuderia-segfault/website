@@ -1,0 +1,55 @@
+title: Liquid Time-Constant Networks
+draft: false
+racing: true
+citation: Hasani, R., Lechner, M., Amini, A., Rus, D., & Grosu, R. (2021). Liquid Time-Constant Networks. In Proceedings of the Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI-21) (Vol. 35, No. 9, pp. 7657–7666). AAAI Press. https://doi.org/10.1609/aaai.v35i9.16936
+url: https://repositum.tuwien.at/handle/20.500.12708/55647
+year: 2021
+type: Conference
+source: https://informatics.tuwien.ac.at/people/radu-grosu
+authors:
+  - Ramin Hasani
+  - Mathias Lechner
+  - Alexander Amini
+  - Daniela Rus
+  - Radu Grosu
+scholar: https://scholar.google.com/scholar?q=%22Liquid%20Time-Constant%20Networks%22
+venue: Proceedings of the AAAI Conference on Artificial Intelligence
+thumbnail: media/publications/liquid-time-constant-networks.webp
+thumbnailAlt: A circular input trajectory passed through a six-layer tanh network, with PCA projections of each layer's latent trajectory becoming increasingly complex
+thumbnailKind: Figure 1
+thumbnailPage: 3
+thumbnailSource: https://arxiv.org/pdf/2006.04439
+pdf: https://arxiv.org/pdf/2006.04439
+verification:
+  scholar:
+    status: not_verified_access_restricted
+    checkedAt: 2026-11-02
+    note: Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification.
+  arxiv:
+    status: matched
+    checkedAt: 2026-11-02
+    source: https://arxiv.org/abs/2006.04439
+    version: v4
+  publisher:
+    status: matched
+    checkedAt: 2026-11-19
+    source: https://api.crossref.org/works/10.1609/aaai.v35i9.16936
+    note: Crossref record (AAAI) matches title and all five authors; Proceedings of the AAAI Conference on Artificial Intelligence 35(9), pp. 7657-7666.
+arxiv:
+  id: "2006.04439"
+  version: v4
+  title: Liquid Time-constant Networks
+  authors:
+    - Ramin Hasani
+    - Mathias Lechner
+    - Alexander Amini
+    - Daniela Rus
+    - Radu Grosu
+  published: 2020-06-08
+  updated: 2020-12-14
+  url: https://arxiv.org/abs/2006.04439
+  pdf: https://arxiv.org/pdf/2006.04439
+  journalRef: ""
+  doi: ""
+  comments: Accepted to the Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI-21)
+doi: 10.1609/aaai.v35i9.16936

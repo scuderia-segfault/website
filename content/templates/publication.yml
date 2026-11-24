@@ -1,0 +1,25 @@
+# New publication. Create a copy with:  npm run new -- publication <id> "Title"
+# Use the title in lower case with hyphens as id. It is the anchor research.html#<id>
+# and the BibTeX file citations/<id>.bib. Never change the id of a published entry.
+title: {{title}}
+# Keep `draft: true` until the metadata is checked. Drafts are not published.
+draft: true
+racing: true                     # true: main list; false: "Further Research by Team Members"
+year: {{year}}
+type: Conference                 # Journal, Conference, Workshop, Preprint, Book chapter, Thesis, Other
+authors:                         # team members are linked automatically
+  - First Last
+venue: ICRA                      # journal or conference name
+citation: "First Last ({{year}}). Title. Venue."
+url: https://doi.org/10.0000/example
+source: https://doi.org/10.0000/example   # where the metadata was checked
+# Optional fields:
+# doi: 10.0000/example
+# pdf: https://arxiv.org/pdf/0000.00000
+# code: https://github.com/scuderia-segfault/example
+# scholar: https://scholar.google.com/scholar?q=...
+# thumbnail: media/publications/<id>.webp   # figure from the paper itself
+# thumbnailAlt: What the figure shows
+# thumbnailKind: Figure 1
+# thumbnailPage: 2                          # page of the figure in the PDF
+# thumbnailSource: https://arxiv.org/pdf/0000.00000

@@ -1,19 +1,28 @@
 ---
-{
-  "title": "Your title",
-  "date": "2026-11-02",
-  "author": "Scuderia Segfault",
-  "summary": "A short introduction.",
-  "draft": true
-}
+# New blog post. Create a copy with:  npm run new -- blog <id> "Title"
+# The file name is the address: content/blog/<id>.md -> blog/<id>/index.html
+title: {{title}}
+date: "{{date}}"                 # YYYY-MM-DD; posts with a future date wait until that day (UTC)
+# Keep `draft: true` until the post is approved. Drafts are not published.
+draft: true
+author: Scuderia Segfault
+summary: A short introduction for the overview page.
+# cover: uploads/your-image.jpg   # optional card image, relative to public/
+# tags: [Unit XIII]               # "Unit XIII" adds the post to the Unit XIII build log
+# repositories:                   # optional list below the article
+#   - label: scuderia-segfault/example
+#     url: https://github.com/scuderia-segfault/example
+#     description: What the repository contains.
 ---
 
 ## What happened?
 
-Add the content here.
+Add the content here in **Markdown**.
+
+![Describe the image](../../uploads/your-image.jpg)
 
 ## Sources
 
 - [Original source](https://www.tuwien.at/inf/scuderia-segfault/)
 
-<!-- Put images in public/uploads/ and use ../../uploads/filename.jpg. Include photo credit. -->
+<!-- Put images in public/uploads/ and use ../../uploads/filename.jpg. Include the photo credit. -->

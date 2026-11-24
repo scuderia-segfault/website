@@ -1,0 +1,26 @@
+title: Innovative control solutions for hardware-in-the-loop engine and powertrain test beds
+draft: false
+year: 2025
+type: Thesis
+authors:
+  - Dennis Erdogan
+venue: TU Wien · thesis
+url: https://repositum.tuwien.at/handle/20.500.12708/219946
+source: https://repositum.tuwien.at/handle/20.500.12708/219946
+citation: Dennis Erdogan (2025). Innovative control solutions for hardware-in-the-loop engine and powertrain test beds. TU Wien.
+doi: 10.34726/hss.2025.133123
+scholar: https://scholar.google.com/scholar?q=%22Innovative%20control%20solutions%20for%20hardware-in-the-loop%20engine%20and%20powertrain%20test%20beds%22
+pdf: https://repositum.tuwien.at/bitstream/20.500.12708/219946/1/Erdogan%20Dennis%20-%202025%20-%20Innovative%20Control%20Solutions%20for%20Hardware-in-the-Loop...pdf
+thumbnail: media/publications/innovative-control-solutions-for-hardware-in-the-loop-engine-and-powertrain-test-beds.webp
+thumbnailAlt: Simulated car on a race track coupled to a vehicle on a powertrain hardware-in-the-loop test bed
+thumbnailKind: Figure 1.1
+thumbnailPage: 10
+thumbnailSource: https://repositum.tuwien.at/bitstream/20.500.12708/219946/1/Erdogan%20Dennis%20-%202025%20-%20Innovative%20Control%20Solutions%20for%20Hardware-in-the-Loop...pdf
+verification:
+  scholar:
+    status: not_verified_access_restricted
+    checkedAt: 2026-11-02
+    note: Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification.
+  arxiv:
+    status: no_matching_arxiv_record_in_checked_sources
+    checkedAt: 2026-11-02

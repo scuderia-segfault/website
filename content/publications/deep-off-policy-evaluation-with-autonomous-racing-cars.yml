@@ -1,0 +1,32 @@
+title: Deep off-policy evaluation with autonomous racing cars
+draft: false
+racing: true
+citation: Kresse, F. G. (2024). Deep off-policy evaluation with autonomous racing cars [Diploma Thesis, Technische Universität Wien]. reposiTUm. https://doi.org/10.34726/hss.2024.117422
+url: https://repositum.tuwien.at/handle/20.500.12708/201148
+year: 2024
+type: Thesis
+source: https://repositum.tuwien.at/handle/20.500.12708/201148
+doi: 10.34726/hss.2024.117422
+authors:
+  - Fabian Georg Kresse
+scholar: https://scholar.google.com/scholar?q=%22Deep%20off-policy%20evaluation%20with%20autonomous%20racing%20cars%22
+pdf: https://repositum.tuwien.at/bitstream/20.500.12708/201148/1/Kresse%20Fabian%20Georg%20-%202024%20-%20Deep%20off-policy%20evaluation%20with%20autonomous%20racing...pdf
+venue: TU Wien
+thumbnail: media/publications/deep-off-policy-evaluation-with-autonomous-racing-cars.webp
+thumbnailAlt: "Photo of an F1TENTH racing car with labeled components: IMU, Jetson Xavier NX, adapter board, gamepad interface, LiDAR, speed controller, motor, battery and chassis"
+thumbnailKind: Figure 3.1
+thumbnailPage: 36
+thumbnailSource: https://repositum.tuwien.at/bitstream/20.500.12708/201148/1/Kresse%20Fabian%20Georg%20-%202024%20-%20Deep%20off-policy%20evaluation%20with%20autonomous%20racing...pdf
+verification:
+  scholar:
+    status: not_verified_access_restricted
+    checkedAt: 2026-11-19
+    note: Google Scholar redirected the automated request (302 to google.com/sgsync) instead of returning results; a Scholar search link is not proof of verification.
+  arxiv:
+    status: no_matching_arxiv_record_in_checked_sources
+    checkedAt: 2026-11-19
+  repositum:
+    status: matched
+    checkedAt: 2026-11-19
+    source: https://repositum.tuwien.at/handle/20.500.12708/201148?mode=full
+    note: Diploma thesis, TU Wien, submitted 2024-09; advisor Radu Grosu, assistant Luigi Berducci. Full text studies off-policy evaluation on the F1TENTH platform, including a real-world F1TENTH offline dataset.

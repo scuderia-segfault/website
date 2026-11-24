@@ -1,0 +1,49 @@
+title: Scenario-Based Curriculum Generation for Multi-Agent Driving
+draft: false
+citation: "Brunnbauer, A., Berducci, L., Priller, P., Ničković, D., & Grosu, R. (2025). Scenario-Based Curriculum Generation for Multi-Agent Driving. In 2025 IEEE International Conference on Robotics and Automation (ICRA) (pp. 1824–1830). IEEE. https://doi.org/10.1109/ICRA55743.2025.11128162 Project: ADEX (2020–2024)"
+url: https://repositum.tuwien.at/handle/20.500.12708/219597
+year: 2025
+type: Conference
+source: https://informatics.tuwien.ac.at/people/radu-grosu
+doi: 10.1109/ICRA55743.2025.11128162
+authors:
+  - Axel Brunnbauer
+  - Luigi Berducci
+  - Peter Priller
+  - Dejan Nickovic
+  - Radu Grosu
+venue: 2025 IEEE International Conference on Robotics and Automation (ICRA)
+scholar: https://scholar.google.com/scholar?q=%22Scenario-Based%20Curriculum%20Generation%20for%20Multi-Agent%20Driving%22
+thumbnail: media/publications/scenario-based-curriculum-generation-for-multi-agent-driving.webp
+thumbnailAlt: Simulated urban intersection with five vehicles following assigned routes and pedestrians on the sidewalk
+thumbnailKind: Figure 1
+thumbnailPage: 2
+thumbnailSource: https://arxiv.org/pdf/2403.17805
+pdf: https://arxiv.org/pdf/2403.17805
+verification:
+  scholar:
+    status: not_verified_access_restricted
+    checkedAt: 2026-11-02
+    note: Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification.
+  arxiv:
+    status: matched
+    checkedAt: 2026-11-02
+    source: https://arxiv.org/abs/2403.17805
+    version: v2
+arxiv:
+  id: "2403.17805"
+  version: v2
+  title: Scenario-Based Curriculum Generation for Multi-Agent Autonomous Driving
+  authors:
+    - Axel Brunnbauer
+    - Luigi Berducci
+    - Peter Priller
+    - Dejan Nickovic
+    - Radu Grosu
+  published: 2024-03-26
+  updated: 2025-02-06
+  url: https://arxiv.org/abs/2403.17805
+  pdf: https://arxiv.org/pdf/2403.17805
+  journalRef: ""
+  doi: ""
+  comments: Accepted for publication at the International Conference on Robotics and Automation (ICRA) 2025

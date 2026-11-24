@@ -1,0 +1,47 @@
+title: "MMDVS-LF: Multi-Modal Dynamic Vision Sensor and Eye-Tracking Dataset for Line Following"
+draft: false
+racing: true
+citation: "Felix Resch, Mónika Farsang, Radu Grosu (2024). MMDVS-LF: Multi-Modal Dynamic Vision Sensor and Eye-Tracking Dataset for Line Following. arXiv:2409.18038 (v2)."
+url: https://arxiv.org/abs/2409.18038
+source: https://monifarsang.github.io/publications/
+year: 2024
+type: Preprint
+authors:
+  - Felix Resch
+  - Mónika Farsang
+  - Radu Grosu
+doi: 10.48550/arXiv.2409.18038
+pdf: https://arxiv.org/pdf/2409.18038
+scholar: https://scholar.google.com/scholar?q=%22MMDVS-LF%3A%20Multi-Modal%20Dynamic%20Vision%20Sensor%20and%20Eye-Tracking%20Dataset%20for%20Line%20Following%22
+venue: arXiv
+thumbnail: media/publications/mmdvs-lf-multi-modal-dynamic-vision-sensor-and-eye-tracking-dataset-for-line-following.webp
+thumbnailAlt: "Recording setup: a driver wearing eye-tracking glasses steers a 1:10-scale autonomous car on a line-following track while RGB, event-camera and gaze streams are recorded"
+thumbnailKind: Figure 1
+thumbnailPage: 1
+thumbnailSource: https://arxiv.org/pdf/2409.18038
+verification:
+  scholar:
+    status: not_verified_access_restricted
+    checkedAt: 2026-11-02
+    note: Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification.
+  arxiv:
+    status: matched
+    checkedAt: 2026-11-02
+    source: https://arxiv.org/abs/2409.18038
+    version: v2
+arxiv:
+  id: "2409.18038"
+  version: v2
+  title: "MMDVS-LF: Multi-Modal Dynamic Vision Sensor and Eye-Tracking Dataset for Line Following"
+  authors:
+    - Felix Resch
+    - Mónika Farsang
+    - Radu Grosu
+  published: 2024-09-26
+  updated: 2025-03-03
+  url: https://arxiv.org/abs/2409.18038
+  pdf: https://arxiv.org/pdf/2409.18038
+  journalRef: ""
+  doi: ""
+  comments: ""
+code: https://github.com/CPS-TUWien/mmdvs

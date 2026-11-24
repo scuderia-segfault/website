@@ -1,0 +1,13 @@
+# Generated output: the build formats these itself.
+dist/
+node_modules/
+/*.html
+/news/
+/blog/
+/stories/
+/projects/
+/work/
+public/
+# Content is edited by hand; keep the authors' own formatting.
+content/
+package-lock.json

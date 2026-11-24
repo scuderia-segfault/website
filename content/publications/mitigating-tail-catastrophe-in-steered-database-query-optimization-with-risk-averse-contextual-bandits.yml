@@ -1,0 +1,27 @@
+title: Mitigating Tail Catastrophe in Steered Database Query Optimization with Risk-Averse Contextual Bandits
+draft: false
+citation: Mónika Farsang, Paul Mineiro and Wangda Zhang. Mitigating Tail Catastrophe in Steered Database Query Optimization with Risk-Averse Contextual Bandits. NeurIPS 2023 Workshop on Machine Learning for Systems.
+url: https://mlforsystems.org/assets/papers/neurips2023/paper8.pdf
+source: https://monifarsang.github.io/publications/
+year: 2023
+type: Workshop
+authors:
+  - Mónika Farsang
+  - Paul Mineiro
+  - Wangda Zhang
+venue: Machine Learning for Systems Workshop at 37th NeurIPS Conference
+scholar: https://scholar.google.com/scholar?q=%22Mitigating%20Tail%20Catastrophe%20in%20Steered%20Database%20Query%20Optimization%20with%20Risk-Averse%20Contextual%20Bandits%22
+pdf: https://mlforsystems.org/assets/papers/neurips2023/paper8.pdf
+thumbnail: media/publications/mitigating-tail-catastrophe-in-steered-database-query-optimization-with-risk-averse-contextual-bandits.webp
+thumbnailAlt: Plot of lift versus regressions in query optimization for different learning expectiles q
+thumbnailKind: Figure 1
+thumbnailPage: 4
+thumbnailSource: "-"
+verification:
+  scholar:
+    status: not_verified_access_restricted
+    checkedAt: 2026-11-02
+    note: Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification.
+  arxiv:
+    status: no_matching_arxiv_record_in_checked_sources
+    checkedAt: 2026-11-02

@@ -1,0 +1,32 @@
+title: Multimodal RGB-D autonomous agents steered by deep neural networks
+draft: false
+racing: true
+citation: Clement, M.-L. (2025). Multimodal RGB-D autonomous agents steered by deep neural networks [Diploma Thesis, Technische Universität Wien]. reposiTUm. https://doi.org/10.34726/hss.2025.129104
+url: https://repositum.tuwien.at/handle/20.500.12708/215660
+year: 2025
+type: Thesis
+source: https://repositum.tuwien.at/handle/20.500.12708/215660
+doi: 10.34726/hss.2025.129104
+authors:
+  - Mihaela-Larisa Clement
+scholar: https://scholar.google.com/scholar?q=%22Multimodal%20RGB-D%20autonomous%20agents%20steered%20by%20deep%20neural%20networks%22
+pdf: https://repositum.tuwien.at/bitstream/20.500.12708/215660/1/Clement%20Mihaela-Larisa%20-%202025%20-%20Multimodal%20RGB-D%20Autonomous%20Agents%20Steered%20by...pdf
+venue: TU Wien
+thumbnail: media/publications/multimodal-rgb-d-autonomous-agents-steered-by-deep-neural-networks.webp
+thumbnailAlt: "Photo of the RoboRacer vehicle with labeled components: RealSense depth camera, LiDAR, Intel NUC, IMU, motor, battery and chassis"
+thumbnailKind: Figure 4.1
+thumbnailPage: 40
+thumbnailSource: https://repositum.tuwien.at/bitstream/20.500.12708/215660/1/Clement%20Mihaela-Larisa%20-%202025%20-%20Multimodal%20RGB-D%20Autonomous%20Agents%20Steered%20by...pdf
+verification:
+  scholar:
+    status: not_verified_access_restricted
+    checkedAt: 2026-11-19
+    note: Google Scholar redirected the automated request (302 to google.com/sgsync) instead of returning results; a Scholar search link is not proof of verification.
+  arxiv:
+    status: no_matching_arxiv_record_in_checked_sources
+    checkedAt: 2026-11-19
+  repositum:
+    status: matched
+    checkedAt: 2026-11-19
+    source: https://repositum.tuwien.at/handle/20.500.12708/215660?mode=full
+    note: Diploma thesis, TU Wien, submitted 2025-03; advisor Radu Grosu, assistant Monika Farsang. Full text evaluates RGB-D steering models on the roboracer platform.

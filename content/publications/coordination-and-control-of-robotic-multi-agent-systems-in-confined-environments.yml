@@ -1,0 +1,27 @@
+title: Coordination and control of robotic multi-agent systems in confined environments
+draft: false
+racing: true
+citation: "Brandstätter, A. (2025). Coordination and control of robotic multi-agent systems in confined environments [Dissertation, Technische Universität Wien]. reposiTUm. https://doi.org/10.34726/hss.2025.128748 Download: PDF (6.06 MB)"
+url: https://repositum.tuwien.at/handle/20.500.12708/218024
+year: 2025
+type: Thesis
+source: https://informatics.tuwien.ac.at/people/andreas-brandstaetter
+doi: 10.34726/hss.2025.128748
+authors:
+  - Andreas Brandstätter
+scholar: https://scholar.google.com/scholar?q=%22Coordination%20and%20control%20of%20robotic%20multi-agent%20systems%20in%20confined%20environments%22
+pdf: https://repositum.tuwien.at/bitstream/20.500.12708/218024/1/Brandstaetter%20Andreas%20-%202025%20-%20Coordination%20and%20Control%20of%20Robotic%20Multi-agent...pdf
+venue: TU Wien
+thumbnail: media/publications/coordination-and-control-of-robotic-multi-agent-systems-in-confined-environments.webp
+thumbnailAlt: Photo of a Crazyflie 2.1 quadcopter held in the palm of a hand
+thumbnailKind: Figure 4.4
+thumbnailPage: 78
+thumbnailSource: https://repositum.tuwien.at/bitstream/20.500.12708/218024/1/Brandstaetter%20Andreas%20-%202025%20-%20Coordination%20and%20Control%20of%20Robotic%20Multi-agent...pdf
+verification:
+  scholar:
+    status: not_verified_access_restricted
+    checkedAt: 2026-11-02
+    note: Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification.
+  arxiv:
+    status: no_matching_arxiv_record_in_checked_sources
+    checkedAt: 2026-11-02

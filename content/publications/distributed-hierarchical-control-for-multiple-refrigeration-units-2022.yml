@@ -1,0 +1,33 @@
+title: Distributed hierarchical control for multiple refrigeration units
+draft: false
+year: 2022
+type: Journal
+authors:
+  - Agnes Poks
+  - Elisabeth Luchini
+  - Markus Fallmann
+  - Camillo Signor
+  - Andreas Wurzinger
+  - Dominik Radler
+  - Stefan Jakubek
+  - Martin Kozek
+venue: Thermal Science and Engineering Progress
+doi: 10.1016/j.tsep.2022.101319
+source: https://orcid.org/0000-0002-0276-4552
+url: https://doi.org/10.1016/j.tsep.2022.101319
+citation: Agnes Poks, Elisabeth Luchini, Markus Fallmann, Camillo Signor, Andreas Wurzinger, Dominik Radler, Stefan Jakubek, Martin Kozek (2022). Distributed hierarchical control for multiple refrigeration units. Thermal Science and Engineering Progress.
+scholar: https://scholar.google.com/scholar?q=%22Distributed%20hierarchical%20control%20for%20multiple%20refrigeration%20units%22
+thumbnail: media/publications/distributed-hierarchical-control-for-multiple-refrigeration-units-2022.webp
+thumbnailAlt: 3D surface plots of the refrigeration-unit look-up tables for cooling capacity and electrical power at 30 °C and 5 °C ambient temperature
+thumbnailKind: Figure 7
+thumbnailPage: 7
+thumbnailSource: "-"
+pdf: https://repositum.tuwien.at/bitstream/20.500.12708/158287/1/Poks-2022-Thermal%20Science%20and%20Engineering%20Progress-vor.pdf
+verification:
+  scholar:
+    status: not_verified_access_restricted
+    checkedAt: 2026-11-02
+    note: Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification.
+  arxiv:
+    status: no_matching_arxiv_record_in_checked_sources
+    checkedAt: 2026-11-02

@@ -5,18 +5,22 @@
   "type": "module",
   "scripts": {
     "dev": "vite --host 127.0.0.1",
-    "build": "vite build",
-    "preview": "vite preview --host 127.0.0.1",
-    "content:build": "node scripts/build-content.mjs",
     "predev": "npm run site:build",
+    "dev:drafts": "node scripts/build.mjs --drafts && vite --host 127.0.0.1",
+    "build": "vite build",
     "prebuild": "npm run site:build",
-    "site:build": "node scripts/build-site.mjs && node scripts/build-content.mjs",
+    "preview": "vite preview --host 127.0.0.1",
+    "site:build": "node scripts/build.mjs",
+    "new": "node scripts/new.mjs",
+    "validate:content": "node scripts/validate-content.mjs",
     "check": "node scripts/check-site.mjs",
-    "new:post": "node scripts/new-post.mjs",
-    "validate:content": "node scripts/validate-content.mjs"
+    "format": "prettier --write scripts assets vite.config.js",
+    "format:check": "prettier --check scripts assets vite.config.js"
   },
   "devDependencies": {
+    "marked": "^15.0.12",
+    "prettier": "3.10.1",
     "vite": "^6.3.6",
-    "marked": "^15.0.12"
+    "yaml": "2.9.1"
   }
 }

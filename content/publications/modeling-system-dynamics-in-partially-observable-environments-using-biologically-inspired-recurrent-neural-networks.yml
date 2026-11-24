@@ -1,0 +1,26 @@
+title: Modeling system dynamics In partially-observable environments using biologically-inspired recurrent neural networks
+draft: false
+citation: Stanusoiu, Mihai-Teodor (2025). Master’s thesis, TU Wien.
+url: https://repositum.tuwien.at/handle/20.500.12708/216265
+year: 2025
+type: Thesis
+source: https://repositum.tuwien.at/handle/20.500.12708/216265
+authors:
+  - Mihai-Teodor Stănușoiu
+doi: 10.34726/hss.2025.129105
+scholar: https://scholar.google.com/scholar?q=%22Modeling%20system%20dynamics%20In%20partially-observable%20environments%20using%20biologically-inspired%20recurrent%20neural%20networks%22
+pdf: https://repositum.tuwien.at/bitstream/20.500.12708/216265/1/Stanusoiu%20Mihai-Teodor%20-%202025%20-%20Modeling%20System%20Dynamics%20In%20Partially-Observable...pdf
+venue: TU Wien
+thumbnail: media/publications/modeling-system-dynamics-in-partially-observable-environments-using-biologically-inspired-recurrent-neural-networks.webp
+thumbnailAlt: Four simulation frames of the DeepMind Control walker running, solved with a CfC model
+thumbnailKind: Figure 6.2
+thumbnailPage: 124
+thumbnailSource: https://repositum.tuwien.at/bitstream/20.500.12708/216265/1/Stanusoiu%20Mihai-Teodor%20-%202025%20-%20Modeling%20System%20Dynamics%20In%20Partially-Observable...pdf
+verification:
+  scholar:
+    status: not_verified_access_restricted
+    checkedAt: 2026-11-02
+    note: Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification.
+  arxiv:
+    status: no_matching_arxiv_record_in_checked_sources
+    checkedAt: 2026-11-02

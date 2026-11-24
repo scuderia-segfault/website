@@ -1,0 +1,26 @@
+title: Predictive control concepts for electric refrigeration vehicles
+draft: false
+year: 2025
+type: Thesis
+authors:
+  - Agnes Poks
+venue: TU Wien · thesis
+url: https://repositum.tuwien.at/handle/20.500.12708/214062
+source: https://repositum.tuwien.at/handle/20.500.12708/214062
+citation: Agnes Poks (2025). Predictive control concepts for electric refrigeration vehicles. TU Wien.
+doi: 10.34726/hss.2025.82040
+scholar: https://scholar.google.com/scholar?q=%22Predictive%20control%20concepts%20for%20electric%20refrigeration%20vehicles%22
+pdf: https://repositum.tuwien.at/bitstream/20.500.12708/214062/1/Poks%20Agnes%20-%202025%20-%20Energy%20management%20and%20cooling%20control%20for%20an%20electric...pdf
+thumbnail: media/publications/predictive-control-concepts-for-electric-refrigeration-vehicles.webp
+thumbnailAlt: Photos of the electric refrigerated truck on a dynamometer test bench and its loading chamber
+thumbnailKind: Figure 1.4
+thumbnailPage: 22
+thumbnailSource: https://repositum.tuwien.at/bitstream/20.500.12708/214062/1/Poks%20Agnes%20-%202025%20-%20Energy%20management%20and%20cooling%20control%20for%20an%20electric...pdf
+verification:
+  scholar:
+    status: not_verified_access_restricted
+    checkedAt: 2026-11-02
+    note: Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification.
+  arxiv:
+    status: no_matching_arxiv_record_in_checked_sources
+    checkedAt: 2026-11-02

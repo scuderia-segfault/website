@@ -1,0 +1,34 @@
+title: Scalable Offline Reinforcement Learning for Mean Field Games
+draft: false
+citation: Brunnbauer, A., Lemmel, J., Babaiee, Z., Neubauer, S., & Grosu, R. (2025). Scalable Offline Reinforcement Learning for Mean Field Games. In S. Das, A. Nowé, & Y. Vorobeychik (Eds.), Proceedings of the 24th International Conference on Autonomous Agents and Multiagent Systems, {AAMAS} 2025, Detroit, MI, USA, May 19-23, 2025 (pp. 408–417). International Foundation for Autonomous Agents and Multiagent Systems. https://doi.org/10.65109/aeyg6154
+url: https://repositum.tuwien.at/handle/20.500.12708/218186
+year: 2025
+type: Conference
+source: https://informatics.tuwien.ac.at/people/radu-grosu
+doi: 10.65109/aeyg6154
+authors:
+  - Axel Brunnbauer
+  - Julian Lemmel
+  - Zahra Babaiee
+  - Sophie Neubauer
+  - Radu Grosu
+scholar: https://scholar.google.com/scholar?q=%22Scalable%20Offline%20Reinforcement%20Learning%20for%20Mean%20Field%20Games%22
+venue: Proceedings of the 24th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2025)
+thumbnail: media/publications/scalable-offline-reinforcement-learning-for-mean-field-games.webp
+thumbnailAlt: Scatter plot of exploitability against state-action coverage and trajectory quality of the training datasets
+thumbnailKind: Figure 3
+thumbnailPage: 7
+thumbnailSource: https://arxiv.org/pdf/2410.17898
+verification:
+  scholar:
+    status: not_verified_access_restricted
+    checkedAt: 2026-11-02
+    note: Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification.
+  arxiv:
+    status: no_matching_arxiv_record_in_checked_sources
+    checkedAt: 2026-11-02
+  publisher:
+    status: matched
+    checkedAt: 2026-11-19
+    source: https://api.crossref.org/works/10.65109/aeyg6154
+    note: "IFAAMAS (Crossref member, prefix 10.65109) DOI matches title, all five authors and pages 408-417; it resolves to https://dl.acm.org/doi/10.5555/3709347.3743555. The previous value 10.5555/3709347.3743555 is an ACM DL identifier that doi.org does not resolve (handle not found). IFAAMAS contents page lists the paper on page 408: https://www.ifaamas.org/Proceedings/aamas2025/forms/contents.htm. Crossref event metadata for this DOI is wrong (shows AAMAS 04) and was not used."

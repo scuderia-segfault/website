@@ -1,0 +1,27 @@
+title: Autonomous racing with attention-based neural networks
+draft: false
+racing: true
+citation: "Resch, F. (2023). Autonomous racing with attention-based neural networks [Diploma Thesis, Technische Universität Wien]. reposiTUm. https://doi.org/10.34726/hss.2023.101602 Download: PDF (2.86 MB)"
+url: https://repositum.tuwien.at/handle/20.500.12708/190336
+year: 2023
+type: Thesis
+source: https://informatics.tuwien.ac.at/people/felix-resch
+doi: 10.34726/hss.2023.101602
+authors:
+  - Felix Resch
+scholar: https://scholar.google.com/scholar?q=%22Autonomous%20racing%20with%20attention-based%20neural%20networks%22
+pdf: https://repositum.tuwien.at/bitstream/20.500.12708/190336/1/Resch%20Felix%20-%202023%20-%20Autonomous%20racing%20with%20attention-based%20neural%20networks.pdf
+venue: TU Wien
+thumbnail: media/publications/autonomous-racing-with-attention-based-neural-networks.webp
+thumbnailAlt: Photo of the TU Wien F1TENTH racing car with the second-place trophy and certificate from the 11th F1TENTH Grand Prix at ICRA 2023
+thumbnailKind: Figure 3.2
+thumbnailPage: 32
+thumbnailSource: https://repositum.tuwien.at/bitstream/20.500.12708/190336/1/Resch%20Felix%20-%202023%20-%20Autonomous%20racing%20with%20attention-based%20neural%20networks.pdf
+verification:
+  scholar:
+    status: not_verified_access_restricted
+    checkedAt: 2026-11-02
+    note: Google Scholar returned an access restriction (429); a Scholar search link is not proof of verification.
+  arxiv:
+    status: no_matching_arxiv_record_in_checked_sources
+    checkedAt: 2026-11-02
