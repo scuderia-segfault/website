@@ -192,18 +192,18 @@
       "result": "2024-milano"
     },
     {
+      "date": "June 2024",
+      "title": "Our own lab",
+      "text": "We got our own room before ICRA 2024 in Japan. After the renovation, we moved into the Autonomous Robots Lab of the Research Unit of Cyber-Physical Systems at TU Wien (Room PCEG13) in June 2024.",
+      "image": "media/lab-sign-2025.webp",
+      "imageAlt": "Sign of the Scuderia Segfault Autonomous Robots Lab, Room PCEG13, TU Wien"
+    },
+    {
       "date": "March 2025",
       "title": "Generation 4",
       "text": "Back on the Fiesta chassis with an ASUS NUC 14 Pro.",
       "image": "media/car-gen-4-fleet.webp",
       "imageAlt": "Five Generation 4 race cars lined up on the floor"
-    },
-    {
-      "date": "May 2025",
-      "title": "Our own lab",
-      "text": "Scuderia Segfault moves into the Autonomous Robots Lab of the Research Unit of Cyber-Physical Systems at TU Wien (Room PCEG13).",
-      "image": "media/lab-sign-2025.webp",
-      "imageAlt": "Sign of the Scuderia Segfault Autonomous Robots Lab, Room PCEG13, TU Wien"
     },
     {
       "date": "2025",
